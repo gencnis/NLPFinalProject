@@ -1,0 +1,393 @@
+
+
+
+
+
+Greenhouse - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Greenhouse
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Greenhouse
+
+
+
+
+
+A place to grow crops from any season, year round!
+
+
+Information
+
+
+Build cost:
+
+All Pantry Bundles completedor35,000g for Joja
+
+
+Build materials:
+
+None
+
+
+Size:
+
+7x6
+
+
+The Greenhouse is a building present on the farm from the outset. It is initially in a state of disrepair, making it unusable. It can be repaired by completing the Pantry Bundles for the Community Center or by purchasing "Greenhouse" from the Joja Community Development Form for 35,000g. Once repaired, it can be moved at the Carpenter's Shop.
+
+Contents
+
+1 Basics
+
+1.1 Advanced tips
+
+
+2 Arrangement
+
+2.1 Sprinklers and crops
+2.2 Fruit Trees
+
+
+3 Gallery
+4 History
+
+
+Basics
+The interior of the building features a 10-row-by-12-column plot of land. There, Crops can be planted, grown, and harvested at any time of year without reference to normal season restrictions. Scarecrows are not required in the greenhouse to prevent crows from eating crops. Crops do need to be watered, even on rainy days. There is a water trough along the north wall, where the Watering Can can be refilled. Crops that regrow will continuously regrow and not die at the end of any season.
+There is a wood border one tile thick surrounding the crop rectangle. It is possible to place sprinklers on this border to water any of the tiles of the crop land within its reach.
+Between the wood border and the greenhouse walls is a region two tiles thick that is unsuitable for crops, and populated along the walls with decorative items (plants, tools, barrels, water trough). It is possible to plant fruit trees at any spot in this region not occupied by decorations, so long as there are two tiles between fruit trees. Fruit trees cannot be planted in the corners of the Greenhouse.  Neither the greenhouse wall nor the wood border itself will impede the growth of the fruit trees, although a one-space separation must be maintained between the tree and any items (like sprinklers) that are placed on the wood border or exterior region during the time the tree is growing.
+
+Advanced tips
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+There are some additional special conditions about the greenhouse that bear mentioning: 
+
+As with scarecrows, because the field is indoors, crops and fruit trees in the greenhouse will never be hit by lightning.
+Bee houses placed inside of the greenhouse produce no honey.
+Giant Crops are unable to grow in the greenhouse.
+Multiple harvest crops and fertilizer will never disappear from the greenhouse unless removed by the player, or in the case of fertilized soil as long as the tile does not spend a night unplanted. This is also true on Ginger Island. A cheap seed such as wheat or parsnip can be used in such a case to keep the fertilizer intact.
+Because multiple harvest crops will never disappear at the end of season, this makes it especially profitable to plant Ancient Fruit, Strawberry, Blueberry, or Cranberry inside the greenhouse. Corn, Eggplants, and Hot Peppers are also affected by this, as well as trellis crops including Green Bean, Hops, and Grape. However, these are slightly less profitable and in the case of trellises, it is slightly harder to place them as they cannot be walked over.
+
+Arrangement
+Sprinklers and crops
+To use automated sprinklers to water crops, some soil tiles must be sacrificed to place the sprinklers. The growing area is too large for any sprinkler to water the center from any edge. In addition, the 12-by-10 shape of the farmable area cannot be covered only with the square shapes of sprinkler watering.
+The many possibilities yield various optimal sprinkler placements that cover the soil tiles while using the fewest possible sprinklers in plantable locations. Some sprinklers are inevitably placed on the wooden border. With iridium sprinklers, only 4 crop spaces (3.3%) must be taken, while with quality sprinklers, 12 crop spaces (10%) are occupied.
+
+
+
+
+
+16 Quality Sprinklers. 12 crop spaces are occupied by sprinklers (-10%), leaving room for 108 plants.
+
+
+
+
+
+
+6 Iridium Sprinklers. Only 4 crop spaces are taken by sprinklers (-3.3%), leaving room for 116 plants.
+
+
+
+
+
+
+4 Iridium Sprinklers with Pressure Nozzle upgrades. Only 2 crop spaces are taken by sprinklers, leaving room for 118 plants.
+
+
+
+
+
+
+5 Iridium Sprinklers with Pressure Nozzle upgrades. Only 1 crop space is taken by a sprinkler, leaving room for 119 plants.
+
+
+
+
+Fruit Trees
+Fruit trees can be grown on any tile in the exterior region of the greenhouse that is unoccupied by decorations, so long as other tiles adjacent to each tree are empty of items the player has placed there. Neither the greenhouse walls nor the wood border around the crop rectangle alone impede fruit tree growth. Fruit Trees cannot be planted in the corners of the Greenhouse. In the greenhouse, fruit trees will always show their summer sprite.
+It is possible to grow as many as 18 fruit trees inside the greenhouse. One possible optimal placement is shown below.
+
+
+
+
+
+6 Iridium Sprinklers and 18 Fruit Trees placed to maximize planting space and trees.
+
+
+
+
+Gallery
+
+
+
+
+Initially
+
+
+
+
+
+
+Repaired
+
+
+
+
+
+
+Inside
+
+
+
+
+
+
+18 Trees
+
+
+
+
+History
+1.0: Introduced.
+1.07: Trees can no longer be planted on perimeter tiles around the soil area.
+1.1: Trees can once again be planted on outside perimeter tiles.
+1.3.27: Trees can no longer be planted on top of decorations in the greenhouse border, or in the corners of the greenhouse.
+1.5: Once unlocked, the greenhouse can now be moved at Robin’s shop. Fertilizer in the greenhouse no longer disappears on season change in some cases.
+
+
+Buildings
+
+
+Merchants
+
+Abandoned House • Adventurer's Guild • Blacksmith • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower
+
+
+Houses
+
+1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse
+
+
+Farm Buildings
+
+Farming
+
+Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Shed  • Silo • Slime Hutch • Stable • Well
+
+
+Special
+
+Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk
+
+
+Other Buildings
+
+Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Greenhouse&oldid=140610"
+Category: Farm buildingsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 August 2022, at 02:04.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

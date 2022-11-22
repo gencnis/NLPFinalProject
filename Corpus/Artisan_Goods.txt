@@ -1,0 +1,1384 @@
+
+
+
+
+
+Artisan Goods - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artisan Goods
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+Artisan Goods are items that can be created using Artisan Equipment. They can take anywhere from a few hours to a few days (in-game time) to be processed. Most Artisan Goods do not have a star quality, so the star quality of the ingredients used is ignored. The only exception is the Ostrich Egg, the star quality of whose artisan product will match that of the ingredient.
+If the Artisan Profession is chosen after reaching level 10 Farming, Artisan Goods will be worth 40% more (with the exception of Oil and Coffee).  Tree Syrups (Maple Syrup, Oak Resin, and Pine Tar) do not benefit from the Artisan Profession, and are not included here. They are labeled as "Artisan Goods" in-game, however. (Their value is instead affected by the Tapper Profession.)
+One Artisan Good, the Piña Colada, can be obtained only from the Island Resort on Ginger Island on Sundays when Gus tends the bar there.
+
+Contents
+
+1 Processing Time
+2 Production Machines
+
+2.1 Bee House
+
+
+3 Processing Machines
+
+3.1 Cask
+3.2 Cheese Press
+3.3 Keg
+3.4 Loom
+3.5 Mayonnaise Machine
+3.6 Oil Maker
+3.7 Preserves Jar
+
+
+4 History
+
+
+Processing Time
+One hour = 60 minutes from 6am to 2am, but 1 hour = 100 minutes from 2am to 6am.
+
+Production Machines
+Production machines make products over time without any additional input.
+
+Bee House
+Main article: Bee House
+A Bee House produces Wild Honey every 4 days.
+The Bee House can produce unique types of honey when it is in range of a blooming flower (within 5 tiles in any cardinal direction). When there is more than one type of flower within range, the closest flower takes priority.
+Bee houses can be placed inside the Greenhouse, but will not produce honey. Flowers placed in garden pots will also not cause bee houses to produce flower honey.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Bee House
+
+Place outside and wait for delicious honey! (Except in Winter).
+
+ Wood (40) Coal (8) Iron Bar (1) Maple Syrup (1)
+
+ Farming Level 3
+
+
+
+Image
+
+Name
+
+Description
+
+Energy/Health
+
+Processing Time
+
+Availability
+
+Base Sell Price
+
+
+
+
+Honey
+
+It's a sweet syrup produced by bees.
+
+Inedible
+
+ 4 Nights
+
+All but Winter
+
+Wild
+
+100g
+
+
+ Spring
+
+ Tulip
+
+160g
+
+
+ Blue Jazz
+
+200g
+
+
+ Summer
+
+ Sunflower
+
+260g
+
+
+ Summer Spangle
+
+280g
+
+
+ Poppy
+
+380g
+
+
+ Fall
+
+ Sunflower
+
+260g
+
+
+ Fairy Rose
+
+680g
+
+Processing Machines
+Processing machines take one item and turn it into another item after some time, usually of greater value.  Unlike production machines, processing machines require the player to input an item.
+
+Cask
+Main article: Cask
+See also: Animal Products Profitability
+A Cask takes specific products and ages them to increase quality and value. The aging speed varies between products. Wine takes the longest: 2 seasons of aging to go from basic wine to iridium quality wine.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Cask
+
+Use in the cellar to age products like wine and cheese.
+
+ Wood (20) Hardwood (1)
+
+Farmhouse cellar upgrade
+
+
+
+Image
+
+Name
+
+Ingredient
+
+Base Quality
+
+Silver Star(× 1.25)
+
+Gold Star(× 1.5)
+
+Iridium Star(× 2)
+
+
+
+
+Wine
+
+Any fruit (1)
+
+
+
+
+
+
+3 × BaseFruit Price
+
+
+
+
+
+
+
+(3 × Base) × 1.25
+
+Aged: 14 Days
+
+
+
+
+
+
+
+(3 × Base) × 1.5
+
+Aged: 14 DaysTotal: 28 Days
+
+
+
+
+
+
+
+(3 × Base) × 2
+
+Aged: 28 DaysTotal: 56 Days
+
+
+
+
+
+Pale Ale
+
+ Hops (1)
+
+
+
+
+
+
+300g
+
+
+
+
+
+
+
+375g
+
+Aged: 9 Days
+
+
+
+
+
+
+
+450g
+
+Aged: 8 DaysTotal: 17 Days
+
+
+
+
+
+
+
+600g
+
+Aged: 17 DaysTotal: 34 Days
+
+
+
+
+
+Beer
+
+ Wheat (1)
+
+
+
+
+
+
+200g
+
+
+
+
+
+
+
+250g
+
+Aged: 7 Days
+
+
+
+
+
+
+
+300g
+
+Aged: 7 DaysTotal: 14 Days
+
+
+
+
+
+
+
+400g
+
+Aged: 14 DaysTotal: 28 Days
+
+
+
+
+
+Mead
+
+ Honey (1)
+
+
+
+
+
+
+200g
+
+
+
+
+
+
+
+250g
+
+Aged: 7 Days
+
+
+
+
+
+
+
+300g
+
+Aged: 7 DaysTotal: 14 Days
+
+
+
+
+
+
+
+400g
+
+Aged: 14 DaysTotal: 28 Days
+
+
+
+
+
+Cheese
+
+ Milk (1) or Large Milk (1)
+
+
+
+
+
+
+230g
+
+
+
+
+
+
+
+287g
+
+Aged: 3 Days
+
+
+
+
+
+
+
+345g
+
+Aged: 4 DaysTotal: 7 Days
+
+
+
+
+
+
+
+460g
+
+Aged: 7 DaysTotal: 14 Days
+
+
+
+
+
+Goat Cheese
+
+ Goat Milk (1) or Large Goat Milk (1)
+
+
+
+
+
+
+400g
+
+
+
+
+
+
+
+500g
+
+Aged: 3 Days
+
+
+
+
+
+
+
+600g
+
+Aged: 4 DaysTotal: 7 Days
+
+
+
+
+
+
+
+800g
+
+Aged: 7 DaysTotal: 14 Days
+
+
+Cheese Press
+Main article: Cheese Press
+See also: Animal Products Profitability
+Using a Large Milk or Large Goat Milk will always give gold star quality Cheese or Goat Cheese, respectively. Using Milk or Goat Milk will always produce regular quality cheeses.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Cheese Press
+
+Turns milk into cheese.
+
+ Wood (45) Stone (45) Hardwood (10) Copper Bar (1)
+
+ Farming Level 6
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Processing Time
+
+Sell Price
+
+Energy / Health
+
+
+
+
+Cheese
+
+It's your basic cheese.
+
+ Milk (1) or Large Milk (1)
+
+ 200m (≈3h)
+
+
+
+
+
+
+230g
+
+
+
+
+345g
+
+
+
+
+data-sort-value="0050"
+
+
+ 
+
+125
+
+56
+
+
+
+
+225
+
+101
+
+
+
+
+
+
+
+
+
+Goat Cheese
+
+Soft cheese made from goat's milk.
+
+ Goat Milk (1) or Large Goat Milk (1)
+
+ 200m (≈3h)
+
+
+
+
+
+
+400g
+
+
+
+
+600g
+
+
+
+
+data-sort-value="0050"
+
+
+ 
+
+125
+
+56
+
+
+
+
+225
+
+101
+
+
+
+
+
+
+Keg
+Main article: Keg
+See also: Keg Productivity
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Keg
+
+Place a fruit or vegetable in here. Eventually it will turn into a beverage.
+
+ Wood (30) Copper Bar (1) Iron Bar (1) Oak Resin (1)
+
+ Farming Level 8
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredient
+
+Processing Time
+
+Sell Price
+
+Energy / Health / Buffs
+
+
+
+
+Beer
+
+Drink in moderation.
+
+ Wheat (1)
+
+ 1750 mins (1 Day)
+
+200g
+
+5022 Speed (−1)
+
+
+
+
+Coffee
+
+It smells delicious. This is sure to give you a boost.
+
+ Coffee Bean (5)
+
+ 120 mins (2 Hours)
+
+150g
+
+31 Speed (+1)
+
+
+
+
+Green Tea
+
+A pleasant, energizing beverage made from lightly processed tea leaves.
+
+ Tea Leaves (1)
+
+ 180 mins (3 Hours)
+
+100g
+
+135 Max Energy (+30)
+
+
+
+
+Juice
+
+A sweet, nutritious beverage.
+
+Any Vegetable (1)
+
+ 6000 mins (4 Days)
+
+2.25 × Vegetable Base Price
+
+7533
+
+
+
+
+Mead
+
+A fermented beverage made from honey. Drink in moderation.
+
+ Honey (1)
+
+ 600 mins (10 hours)
+
+200g
+
+7533 Speed (−1)
+
+
+
+
+Pale Ale
+
+Drink in moderation.
+
+ Hops (1)
+
+ 2250 mins (1-2 Days)
+
+300g
+
+5022 Speed (−1)
+
+
+
+
+Wine
+
+Drink in moderation.
+
+Any Fruit (1)
+
+ 10000 mins (6.25 Days)
+
+3 × Fruit Base Price
+
+5022 Speed (−1)
+
+Loom
+Main article: Loom
+See also: Animal Products Profitability
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Loom
+
+Turns raw wool into fine cloth.
+
+ Wood (60) Fiber (30) Pine Tar (1)
+
+ Farming Level 7
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredient
+
+Processing Time
+
+Sell Price
+
+
+
+
+Cloth
+
+A bolt of fine wool cloth.
+
+ Wool (1)
+
+ 4 Hours
+
+470g
+
+Mayonnaise Machine
+Main article: Mayonnaise Machine
+See also: Animal Products Profitability
+All eggs can be made into mayonnaise. Using a normal chicken Egg will a produce normal quality Mayonnaise, while using a large chicken egg will produce a gold star quality Mayonnaise. Using a Golden Egg will produce three jars of gold star quality Mayonnaise.
+An Ostrich Egg produces ten (10) jars of Mayonnaise at once with the same star quality as the egg used. This is the only case where the star quality of the ingredient matters.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Mayonnaise Machine
+
+Turns eggs into mayonnaise.
+
+ Wood (15) Stone (15) Earth Crystal (1) Copper Bar (1)
+
+ Farming Level 2
+
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredient
+
+Processing Time
+
+Sell Price
+
+Energy
+
+
+
+
+Mayonnaise
+
+It looks spreadable.
+
+ Egg (1) or Large Egg (1) or  Ostrich Egg (1) or  Golden Egg (1)
+
+ 3 Hours
+
+
+
+
+
+
+190g
+
+
+
+
+237g
+
+
+
+
+285g
+
+
+
+
+380g
+
+
+Inedible
+
+
+
+
+Duck Mayonnaise
+
+It's a rich, yellow mayonnaise.
+
+ Duck Egg (1)
+
+ 3 Hours
+
+
+
+
+
+
+375g
+
+
+Inedible
+
+
+
+
+Void Mayonnaise
+
+A thick, black paste that smells like burnt hair.
+
+ Void Egg (1)
+
+ 3 Hours
+
+
+
+
+
+
+275g
+
+
+ −75
+
+
+
+
+Dinosaur Mayonnaise
+
+It's thick and creamy, with a vivid green hue. It smells like grass and leather.
+
+ Dinosaur Egg (1)
+
+ 3 Hours
+
+
+
+
+
+
+800g
+
+
+Inedible
+
+Oil Maker
+Main article: Oil Maker
+See also: Animal Products Profitability
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Oil Maker
+
+Makes gourmet truffle oil.
+
+ Slime (50) Hardwood (20) Gold Bar (1)
+
+ Farming Level 8
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredient
+
+Processing Time
+
+Sell Price
+
+Energy / Health
+
+
+
+
+Truffle Oil
+
+A gourmet cooking ingredient.
+
+ Truffle (1)
+
+ 360m (6 Hours)
+
+1,065g
+
+3817
+
+
+
+
+Oil
+
+All purpose cooking oil.
+
+ Corn (1)
+
+ 1000m (≈16 Hours)
+
+100g
+
+135
+
+
+ Sunflower Seeds (1)
+
+ 3200m (2 Days)
+
+
+ Sunflower (1)
+
+ 60m (1 Hour)
+
+Preserves Jar
+Main article: Preserves Jar
+See also: Preserves Jar Productivity
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Preserves Jar
+
+Turns vegetables into pickles and fruit into jam.
+
+ Wood (50) Stone (40) Coal (8)
+
+ Farming Level 4
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Processing Time
+
+Sell Price
+
+Energy / Health
+
+
+
+
+Pickles
+
+A jar of your home-made pickles.
+
+Any vegetable (1) or  Ginger (1)
+
+ 4000m (2-3 days)
+
+2 × Base Vegetable Price + 50
+
+Inedible
+
+
+
+
+Jelly
+
+Gooey.
+
+Any fruit (1)
+
+ 4000m (2-3 days)
+
+2 × Base Fruit Price + 50
+
+Inedible
+
+
+
+
+Caviar
+
+The cured roe of a sturgeon fish. Considered to be a luxurious delicacy!
+
+ Sturgeon Roe (1)
+
+ 6000m (4 days)
+
+500g
+
+17578
+
+
+
+
+Aged Roe
+
+Fish eggs aged in salt to bring out the flavor.
+
+ Roe (1)
+
+ 4000m (2-3 days)
+
+2 × base Roe sell price
+
+10045
+
+
+History
+1.4: Added Dinosaur Mayonnaise, Aged Roe, Caviar, and Sunflower Honey.  Fixed bee house range.  Increased price of Cheese and Goat Cheese.  Fixed bug with processing time, where machines would process 100 minutes while the player slept, even if it was outside of the 2am-6am range.
+
+
+Artisan Goods
+
+
+Bee House
+
+Honey
+
+
+Cask
+
+Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine
+
+
+Cheese Press
+
+Cheese • Goat Cheese
+
+
+Keg
+
+Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine
+
+
+Loom
+
+Cloth
+
+
+Mayonnaise Machine
+
+Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise
+
+
+Oil Maker
+
+Oil • Truffle Oil
+
+
+Preserves Jar
+
+Aged Roe • Caviar • Jellies and Pickles
+
+
+Misc
+
+Maple Syrup • Oak Resin • Pine Tar
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Artisan_Goods&oldid=138634"
+Category: Artisan GoodsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 12 June 2022, at 17:19.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

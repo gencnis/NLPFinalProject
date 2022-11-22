@@ -1,0 +1,3545 @@
+
+
+
+
+
+Foraging - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Foraging
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Contents
+
+1 Quality
+
+1.1 Quality Ratios
+
+
+2 Foraging Skill
+
+2.1 Tracker Profession
+
+
+3 Experience Points
+4 Food
+5 Spawning
+6 Foraged Items
+
+6.1 Basic
+6.2 Spring
+6.3 Summer
+6.4 Fall
+6.5 Winter
+6.6 The Beach
+6.7 The Mines
+6.8 The Desert
+6.9 Ginger Island
+
+
+7 Bugs
+8 External Links
+9 References
+10 History
+
+
+
+Foraging is the skill associated with gathering wild resources found on the ground throughout Stardew Valley, and with chopping down Trees.  Foraging skill also increases by harvesting crops grown from Wild Seeds.
+Most forageables can be found throughout their season.  One exception is Salmonberry, which can be found only during Salmonberry Season (Spring 15-18) on bushes around town.  Blackberries can be found on the ground during Fall, but during Blackberry Season (Fall 8-11) they can also be found on bushes throughout town.
+
+Quality
+The quality of foraged goods comes in four levels: regular, silver, gold, and iridium. However, only players who have chosen the Botanist Profession can find iridium quality foraged goods. Higher quality goods command higher prices when the goods are sold, and deliver greater energy and health benefits when they are consumed. If given as a gift to an NPC who likes or loves it, a quality gift also provides a higher number of friendship points.
+The  Botanist profession applies iridium quality to:
+
+All items labeled as "Forage" in-game (except Sap and Cave Carrot, and buried items)
+Fruits, vegetables, and flowers found as forage (including Salmonberries and Blackberries shaken from bushes during their respective seasons)
+Fruit left by fruit bats in the cave, provided the player chose that option when prompted by Demetrius (mushrooms are not affected)
+All items foraged from the beach
+Crops grown from Wild Seeds
+Truffles
+The Botanist profession does not apply iridium quality in these cases:
+
+Mushrooms that are not picked up from the ground. Notably, this includes mushrooms gained from tapping a Mushroom Tree or from the Farm Cave.
+Forage items that are dug up with a hoe, such as the Snow Yam and the Winter Root (in the wild).
+Seaweed foraged on levels 1-29 in the Dangerous Mines.
+Quality Ratios
+For players without the Botanist Profession, the game first tests for gold quality according to the following formula:  foraging level/30.  If the item fails this check, then the game tests for silver quality, according to the following formula:  foraging level/15 and not gold, or (1-foraging level/30)*foraging level/15.  If both checks fail, the foraged item will be normal quality.
+The table below shows the probabilities of obtaining each quality of foraged goods. The column for the average sell price represents how much more foraged goods would be worth, relative to their base price, if they were sold individually. However, some of the seasonal foraged goods can be crafted into Wild Seeds, and under certain circumstances, it is more profitable to sell crafted wild seeds than it is to sell the individual items (see Spring Seeds, Summer Seeds, Fall Seeds and Winter Seeds for details).
+
+
+
+Foraging level
+
+% Regular quality
+
+% Silver quality
+
+% Gold quality
+
+Average price
+
+
+0
+
+100%
+
+0%
+
+0%
+
+1.00
+
+
+1
+
+90%
+
+7%
+
+3%
+
+1.03
+
+
+2
+
+81%
+
+12%
+
+7%
+
+1.06
+
+
+3
+
+72%
+
+18%
+
+10%
+
+1.10
+
+
+4
+
+64%
+
+23%
+
+13%
+
+1.12
+
+
+5
+
+55%
+
+28%
+
+17%
+
+1.15
+
+
+6
+
+48%
+
+32%
+
+20%
+
+1.18
+
+
+7
+
+41%
+
+36%
+
+23%
+
+1.21
+
+
+8
+
+34%
+
+39%
+
+27%
+
+1.23
+
+
+9
+
+28%
+
+42%
+
+30%
+
+1.26
+
+
+10
+
+22%
+
+45%
+
+33%
+
+1.28
+
+
+11
+
+17%
+
+46%
+
+37%
+
+1.30
+
+
+12
+
+12%
+
+48%
+
+40%
+
+1.32
+
+
+13
+
+8%
+
+49%
+
+43%
+
+1.34
+
+
+14
+
+3%
+
+50%
+
+47%
+
+1.36
+
+
+15
+
+0%
+
+50%
+
+50%
+
+1.38
+
+ Foraging Skill
+Each skill level adds +1 Axe proficiency.  Although you will not receive a notification that you have leveled up in Foraging Skill until after you go to sleep for the day, your skills menu will immediately show the level up as a red bar in Foraging Skill. The effects of leveling up are immediate.
+
+
+
+Level 1
+
+Level 2
+
+Level 3
+
+Level 4
+
+Level 5
+
+
+Crafting Recipes:
+
+Cooking Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Choose a Profession:
+
+
+ Wild Seeds (Sp) Field Snack
+Trees sometimesdrop seeds.
+
+ Survival Burger
+
+ Tapper
+
+ Charcoal Kiln Wild Seeds (Su)
++1 Wild Berryharvesting
+
+ Forester
+Gain 25% more wood when chopping
+(Applies to Trees, Stumps & Logs)
+
+ Gatherer
+Chance for double harvest of foraged items.
+(20% chance of double harvest)
+
+
+
+
+
+Level 6
+
+Level 7
+
+Level 8
+
+Level 9
+
+Level 10
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Forester:
+
+Gatherer:
+
+
+ Lightning Rod Wild Seeds (Fa) Warp Totem:Beach
+
+ Wild Seeds (Wi) Warp Totem:Mountains Tree Fertilizer
+
+ Warp Totem: Farm+1 Wild Berryharvesting
+
+ Rain Totem Cookout Kit
+
+ Lumberjack
+All trees have a chance to drop hardwood.
+
+ Botanist
+Foraged items are always highest quality.
+
+
+ Tapper
+Syrups worth 25% more.
+
+ Tracker
+Location of forageable items revealed.
+
+ Tracking arrows (right side of screen)
+Tracker Profession
+The  Tracker Profession makes spawned forageables in the current area easier to find. Small yellow arrows are added at the edge or corner of the screen that point towards each off-screen forageable (including inaccessible ones) and artifact spot. A similar small green arrow points towards any off-screen shimmering lights for panning. The tracker does not indicate berry bush locations.
+
+Experience Points
+Experience points (XP) are granted as follows:
+
+12 XP for chopping down a tree with an axe (granted all at once for the last chop that causes the tree to fall).
+1 XP for removing the tree stump after chopping down a tree.
+25 XP for removing Large Stumps and Large Logs.
+7 XP for each foraged item picked up from the ground.
+If the Gatherer profession doubles the foraged item, another 7 XP is granted for the extra item.
+3 XP for each Spring Onion harvested from Cindersap Forest in Spring.
+The 7 XP for foraging items applies solely to those items visible sitting on the ground that are picked up only if the player clicks on them; it does not apply to items lying on the ground (e.g., dropped by shaking) that are automatically added to the player inventory by magnetism. Specific items that do grant 7 XP include:
+
+Standard randomly-spawned foraged items throughout Stardew Valley and Calico Desert.
+Items grown from Wild Seeds (except if in a Garden Pot, in which case 0 XP).
+All items foraged from the Beach and the west side of Ginger Island.
+All fruit collected from the Farm Cave, if the fruit bat option was selected.
+All mushrooms collected from the Ginger Island Mushroom Cave.
+Truffles.
+Forage items spawned on the ground in the Mines and Skull Cavern, namely Red Mushrooms, Purple Mushrooms, and Fiddlehead Ferns.
+
+The following Items do NOT grant any foraging experience:
+
+Trees felled by Bombs (however, weakening a tree with bombs before felling it with an axe will still give full XP).
+Blackberries and Salmonberries from bushes (whether picked by the player or shaken loose by animals).
+Grapes grown from Grape Starters (grants Farming XP instead).
+Items dug up from artifact spots, such as Snow Yams and Winter Roots.
+Items grown in Garden Pots.
+Mushrooms collected from the Farm Cave if the mushroom option was selected.
+Mushrooms obtained from chopping or tapping a Mushroom Tree.
+Non-forage items spawned on the ground in the Mines and Skull Cavern, namely Quartz, Earth Crystals, Frozen Tears, Fire Quartz, and Dinosaur Eggs -- except that a bug causes any duplicates created by the Gatherer profession to give 7 XP.
+Forageables obtained from killing Monsters.
+Gingers dug up from the ground.
+Food
+Certain cooked dishes will temporarily increase foraging level.  Qi Seasoning can be applied to further increase the stat buff.  This is useful for increasing Axe proficiency, or for harvesting more berries from each bush during Salmonberry or Blackberry season (up to a maximum of 4 berries can be harvested with Foraging level 12-13).  
+
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Pancakes
+
+A double stack of fluffy, soft pancakes.
+
+ Wheat Flour (1) Egg (1)
+
+ 90 40
+
+ Foraging (+2)
+
+ 11m 11s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Summer, Year 1
+
+ Stardrop Saloon for 100g
+
+80g
+
+
+
+
+Autumn's Bounty
+
+A taste of the season.
+
+ Yam (1) Pumpkin (1)
+
+ 220 99
+
+ Foraging (+2) Defense (+2)
+
+ 7m 41s
+
+ Demetrius (Mail - 7+ )
+
+350g
+
+
+
+
+Survival Burger
+
+A convenient snack for the explorer.
+
+ Bread (1) Cave Carrot (1) Eggplant (1)
+
+ 125 56
+
+ Foraging (+3)
+
+ 5m 35s
+
+ Foraging Level 2
+
+180g
+
+
+
+
+Tropical Curry
+
+An exotic, fragrant curry served in a pineapple bowl.
+
+ Coconut (1) Pineapple (1) Hot Pepper (1)
+
+ 150 67
+
+ Foraging (+4)
+
+ 5m 1s
+
+ Ginger Island Resort for 2,000g
+
+500g
+
+
+Spawning
+New forageable items can potentially spawn (appear) overnight in any exterior map.[1] This section describes the rules used to spawn all typical forageable items.  However, specialized items are handled differently and are described on their individual pages, namely Spring Onions in Cindersap Forest; Coral, Sea Urchins and Seaweed at the Beach; fruit in the Farm Cave; all forageables on the Forest Farm Map.  Also, Salmonberry bushes, Blackberry bushes, Winter Roots, and Snow Yams don't spawn individual items.
+There is a hard limit of six standard forageable items per map (i.e., areas bounded by screen transitions) per week, reset on Sundays.  Picking forageables does not reduce the weekly counter, so there is little-to-no advantage picking forageables before Saturday (the day before the reset).
+Only a subset of all the tiles on each map are valid spawning locations.  On most maps, forageable items can spawn only on the green (grassy-type) tiles, and in fact only on certain specific types of green tiles.  The Beach and the Desert are exceptions, where spawning is possible on most yellow (sandy-type) tiles.  Items never spawn in occupied locations (trees, chests, weeds, sticks, stones, etc.). They also never spawn in hidden tiles behind buildings, bushes, non-removable trees, or other permanent features. They can spawn behind removable trees (ones that can be chopped down; they also turn semi-transparent when the player walks behind them), but the spawn rate is 90% smaller in about half of the tiles behind a tree.
+Therefore, the fraction of valid tiles differs for every map, which directly affects the chance of items spawning on each map.  It is also affected by the player's actions.  Removing debris (weeds, etc.) and chopping down trees can increase the number of valid tiles, whereas placing equipment (chests, etc.) may decrease the number.  Planting trees can also have an effect: even though (on most maps) trees can be planted only in tiles where forage items can't spawn, they reduce the spawn chance in some tiles behind the tree (and also make it hard to find items that do spawn). However, these effects are generally small, unless a large fraction of the map tiles is occupied.  All spawn rates are calculated assuming the default trees are in place and fully grown, but that all other tiles are cleared.
+All uncollected forageable items are removed from the map overnight before Sunday morning and before the first day of a season.[2]  This cleanup applies both to standard forageable items and nearly all specialized items (fruit in the Farm Cave is the only known exception).  Even non-season-specific items are removed at the start of a new season. In order to help repopulate the map, the chances of new items spawning are slightly higher on these days.[3]
+Forageable items will be destroyed if they are in the path of a villager.
+
+Foraged Items
+Where percentages are provided for locations in the following tables, they represent the percentage of all foraged items spawned in that location that will (on average) be the specified item.[4]
+
+Basic
+
+
+Image
+
+Name
+
+Description
+
+Found
+
+Sell Price
+
+Restores
+
+Used In
+
+
+
+
+Sap
+
+A fluid obtained from trees.
+
+Wherever there are trees that can be chopped down
+
+2g
+
+ −2
+
+ Basic Fertilizer Quality Fertilizer Trap Bobber Torch
+
+Spring
+
+
+Image
+
+Name
+
+Description
+
+Found
+
+Sell Price
+
+Restores
+
+Used In
+
+
+
+
+Wild Horseradish
+
+A spicy root found in the spring.
+
+
+Secret Woods (52%)
+Cindersap Forest (50%)
+Backwoods (42%)
+Mountain (42%)
+Forest Farm (25%)
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+
+
+data-sort-value="0005"
+
+
+ 
+
+13
+
+5
+
+
+
+
+18
+
+8
+
+
+
+
+23
+
+10
+
+
+
+
+33
+
+14
+
+
+
+
+
+
+ Spring Foraging Bundle Spring Seeds Krobus (loved gift)
+
+
+
+
+Daffodil
+
+A traditional spring flower that makes a nice gift.
+
+
+Pelican Town (100%)
+Bus Stop (45%)
+Railroad (45%)
+
+
+
+
+
+
+30g
+
+
+
+
+37g
+
+
+
+
+45g
+
+
+
+
+60g
+
+
+
+
+data-sort-value="0000"
+
+
+ 
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+
+
+ Spring Foraging Bundle Spring Seeds Sandy (loved gift)
+
+
+
+
+Leek
+
+A tasty relative of the onion.
+
+
+Backwoods (58%)
+Mountain (58%)
+Forest Farm (25%)
+Bus Stop (20%)
+Railroad (20%)
+
+
+
+
+
+
+60g
+
+
+
+
+75g
+
+
+
+
+90g
+
+
+
+
+120g
+
+
+
+
+data-sort-value="0016"
+
+
+ 
+
+40
+
+18
+
+
+
+
+56
+
+25
+
+
+
+
+72
+
+32
+
+
+
+
+104
+
+46
+
+
+
+
+
+
+ Spring Foraging Bundle Spring Seeds Salad George (loved gift)
+
+
+
+
+Dandelion
+
+Not the prettiest flower, but the leaves make a good salad.
+
+
+Cindersap Forest (50%)
+Bus Stop (35%)
+Railroad (35%)
+Forest Farm (25%)
+
+
+
+
+
+
+40g
+
+
+
+
+50g
+
+
+
+
+60g
+
+
+
+
+80g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Spring Foraging Bundle Spring Seeds Salad
+
+
+
+
+Spring Onion
+
+These grow wild during the spring.
+
+
+Cindersap Forest
+
+
+
+
+
+
+8g
+
+
+
+
+10g
+
+
+
+
+12g
+
+
+
+
+16g
+
+
+
+
+data-sort-value="0005"
+
+
+ 
+
+13
+
+5
+
+
+
+
+18
+
+8
+
+
+
+
+23
+
+10
+
+
+
+
+33
+
+14
+
+
+
+
+
+
+
+
+
+
+
+Morel
+
+Sought after for its unique nutty flavor.
+
+
+Secret Woods (32%)
+Forest Farm (25%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+150g
+
+
+
+
+187g
+
+
+
+
+225g
+
+
+
+
+300g
+
+
+
+
+data-sort-value="0008"
+
+
+ 
+
+20
+
+9
+
+
+
+
+28
+
+12
+
+
+
+
+36
+
+16
+
+
+
+
+52
+
+23
+
+
+
+
+
+
+ Exotic Foraging Bundle Fried Mushroom Life Elixir
+
+
+
+
+Common Mushroom
+
+Slightly nutty, with good texture.
+
+
+Secret Woods (16%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+40g
+
+
+
+
+50g
+
+
+
+
+60g
+
+
+
+
+80g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Fall Foraging Bundle Fall Seeds Fried Mushroom Stir Fry Tom Kha Soup
+
+
+
+
+Salmonberry
+
+A spring-time berry with the flavor of the forest.
+
+
+On bushes during Salmonberry Season (Spring 15 - 18).
+Farm Cave (Fruit Bat option)
+
+
+
+
+
+
+5g
+
+
+
+
+6g
+
+
+
+
+7g
+
+
+
+
+10g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Jelly Wine
+
+Summer
+
+
+Image
+
+Name
+
+Description
+
+Found
+
+Sell Price
+
+Restores
+
+Used In
+
+
+
+
+Grape
+
+A sweet cluster of fruit.
+
+
+Backwoods (62%)
+Mountain (62%)
+Bus Stop (27%)
+Railroad (27%)
+Forest Farm (25%)
+
+
+
+
+
+
+80g
+
+
+
+
+100g
+
+
+
+
+120g
+
+
+
+
+160g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Summer Foraging Bundle Summer Seeds Jelly Wine Vincent (loved gift)
+
+
+
+
+Spice Berry
+
+It fills the air with a pungent aroma.
+
+
+Cindersap Forest (40%)
+Backwoods (38%)
+Mountain (38%)
+Bus Stop (27%)
+Railroad (27%)
+Forest Farm (25%)
+Farm Cave (Fruit Bat option)
+
+
+
+
+
+
+80g
+
+
+
+
+100g
+
+
+
+
+120g
+
+
+
+
+160g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Summer Foraging Bundle Summer Seeds Jelly Wine
+
+
+
+
+Sweet Pea
+
+A fragrant summer flower.
+
+
+Pelican Town (100%)
+Cindersap Forest (60%)
+Bus Stop (47%)
+Railroad (47%)
+Forest Farm (25%)
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+
+
+data-sort-value="0000"
+
+
+ 
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+
+
+ Summer Foraging Bundle Summer Seeds Sandy (loved gift)
+
+
+
+
+Red Mushroom
+
+A spotted mushroom sometimes found in caves.
+
+
+Secret Woods (22%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+data-sort-value="0-20"
+
+
+ 
+
+−50
+
+
+
+
+−70
+
+
+
+
+−90
+
+
+
+
+−130
+
+
+
+
+
+
+ Exotic Foraging Bundle Dye Bundle Life Elixir
+
+
+
+
+Fiddlehead Fern
+
+The young shoots are an edible specialty.
+
+Secret Woods (78%)
+
+
+
+
+
+
+90g
+
+
+
+
+112g
+
+
+
+
+135g
+
+
+
+
+180g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Chef's Bundle Fiddlehead Risotto Pickles Juice
+
+
+
+
+Common Mushroom
+
+Slightly nutty, with good texture.
+
+
+Forest Farm (25%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+40g
+
+
+
+
+50g
+
+
+
+
+60g
+
+
+
+
+80g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Fall Foraging Bundle Fall Seeds Fried Mushroom Stir Fry Tom Kha Soup
+
+Fall
+
+
+Image
+
+Name
+
+Description
+
+Found
+
+Sell Price
+
+Restores
+
+Used In
+
+
+
+
+Common Mushroom
+
+Slightly nutty, with good texture.
+
+
+Cindersap Forest (50%)
+Secret Woods (46%)
+Forest Farm (25%)
+Mountain (24%)
+Backwoods (24%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+40g
+
+
+
+
+50g
+
+
+
+
+60g
+
+
+
+
+80g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Fall Foraging Bundle Fall Seeds Fried Mushroom Tom Kha Soup Stir Fry
+
+
+
+
+Wild Plum
+
+Tart and juicy with a pungent aroma.
+
+
+Bus Stop (60%)
+Railroad (38%)
+Backwoods (24%)
+Mountain (24%)
+Farm Cave (Fruit Bat option)
+
+
+
+
+
+
+80g
+
+
+
+
+100g
+
+
+
+
+120g
+
+
+
+
+160g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Fall Foraging Bundle Fall Seeds Plum Pudding Jelly Wine
+
+
+
+
+Hazelnut
+
+That's one big hazelnut!
+
+
+Backwoods (53%)
+Mountain (53%)
+Bus Stop (40%)
+Railroad (25%)
+Shaking Maple Trees on or after Fall 14
+
+
+
+
+
+
+90g
+
+
+
+
+112g
+
+
+
+
+135g
+
+
+
+
+180g
+
+
+
+
+data-sort-value="0012"
+
+
+ 
+
+30
+
+13
+
+
+
+
+42
+
+18
+
+
+
+
+54
+
+24
+
+
+
+
+78
+
+35
+
+
+
+
+
+
+ Fall Foraging Bundle Fall Seeds Roasted Hazelnuts Stuffing
+
+
+
+
+Blackberry
+
+An early-fall treat.
+
+
+Pelican Town (100%)
+Cindersap Forest (50%)
+Railroad (38%)
+On bushes during Blackberry Season (Fall 8 - 11)
+Farm Cave (Fruit Bat option)
+
+
+
+
+
+
+20g
+
+
+
+
+25g
+
+
+
+
+30g
+
+
+
+
+40g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Fall Foraging Bundle Fall Seeds Blackberry Cobbler Jelly Wine
+
+
+
+
+Chanterelle
+
+A tasty mushroom with a fruity smell and slightly peppery flavor.
+
+
+Secret Woods (38%)
+Forest Farm (25%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+160g
+
+
+
+
+200g
+
+
+
+
+240g
+
+
+
+
+320g
+
+
+
+
+data-sort-value="0030"
+
+
+ 
+
+75
+
+33
+
+
+
+
+105
+
+47
+
+
+
+
+135
+
+60
+
+
+
+
+195
+
+87
+
+
+
+
+
+
+ Life Elixir
+
+
+
+
+Red Mushroom
+
+A spotted mushroom sometimes found in caves.
+
+
+Forest Farm (25%)
+Secret Woods (15%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+data-sort-value="0-20"
+
+
+ 
+
+−50
+
+
+
+
+−70
+
+
+
+
+−90
+
+
+
+
+−130
+
+
+
+
+
+
+ Exotic Foraging Bundle Dye Bundle Life Elixir
+
+
+
+
+Purple Mushroom
+
+A rare mushroom found deep in caves.
+
+
+Forest Farm (25%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+250g
+
+
+
+
+312g
+
+
+
+
+375g
+
+
+
+
+500g
+
+
+
+
+data-sort-value="0050"
+
+
+ 
+
+125
+
+56
+
+
+
+
+175
+
+78
+
+
+
+
+225
+
+101
+
+
+
+
+325
+
+146
+
+
+
+
+
+
+ Exotic Foraging Bundle Field Research Bundle Life Elixir Wizard (loved gift)
+
+Winter
+
+
+Image
+
+Name
+
+Description
+
+Found
+
+Sell Price
+
+Restores
+
+Used In
+
+
+
+
+Winter Root
+
+A starchy tuber.
+
+Tilling soil throughout Stardew Valley
+
+
+
+
+
+
+70g
+
+
+
+
+87g
+
+
+
+
+105g
+
+
+
+
+140g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Winter Foraging Bundle Winter Seeds Roots Platter
+
+
+
+
+Crystal Fruit
+
+A delicate fruit that pops up from the snow.
+
+
+Railroad (50%)
+Cindersap Forest (39%)
+Mountain (38%)
+Bus Stop (23%)
+Backwoods (22%)
+Pelican Town (8%)
+
+
+
+
+
+
+150g
+
+
+
+
+187g
+
+
+
+
+225g
+
+
+
+
+300g
+
+
+
+
+data-sort-value="0025"
+
+
+ 
+
+63
+
+28
+
+
+
+
+88
+
+39
+
+
+
+
+113
+
+50
+
+
+
+
+163
+
+73
+
+
+
+
+
+
+ Winter Foraging Bundle Winter Seeds Jelly Wine
+
+
+
+
+Snow Yam
+
+This little yam was hiding beneath the snow.
+
+Tilling soil throughout Stardew Valley
+
+
+
+
+
+
+100g
+
+
+
+
+125g
+
+
+
+
+150g
+
+
+
+
+200g
+
+
+
+
+data-sort-value="0012"
+
+
+ 
+
+30
+
+13
+
+
+
+
+42
+
+18
+
+
+
+
+54
+
+24
+
+
+
+
+78
+
+35
+
+
+
+
+
+
+ Winter Foraging Bundle Winter Seeds
+
+
+
+
+Crocus
+
+A flower that can bloom in the winter.
+
+
+Pelican Town (54%)
+Railroad (50%)
+Bus Stop (42%)
+Mountain (40%)
+Cindersap Forest (39%)
+Backwoods (35%)
+
+
+
+
+
+
+60g
+
+
+
+
+75g
+
+
+
+
+90g
+
+
+
+
+120g
+
+
+
+
+data-sort-value="0000"
+
+
+ 
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+
+
+ Winter Foraging Bundle Winter Seeds Sandy (loved gift)
+
+
+
+
+Holly
+
+The leaves and bright red berries make a popular winter decoration.
+
+
+Secret Woods (100%)
+Backwoods (43%)
+Pelican Town (38%)
+Bus Stop (35%)
+Cindersap Forest (22%)
+Mountain (22%)
+
+
+
+
+
+
+80g
+
+
+
+
+100g
+
+
+
+
+120g
+
+
+
+
+160g
+
+
+
+
+data-sort-value="0-15"
+
+
+ 
+
+−37
+
+
+
+
+−52
+
+
+
+
+−67
+
+
+
+
+−97
+
+
+
+
+
+
+
+
+The Beach
+
+
+Image
+
+Name
+
+Description
+
+Season Found
+
+Sell Price
+
+Used In
+
+
+
+
+Nautilus Shell
+
+An ancient shell.
+
+ Winter
+
+
+
+
+
+
+120g
+
+
+
+
+150g
+
+
+
+
+180g
+
+
+
+
+240g
+
+
+ Field Research Bundle
+
+
+
+
+Coral
+
+A colony of tiny creatures that clump together to form beautiful structures.Note: Can only be found on the right side of the beach, past the broken bridge.
+
+All
+
+
+
+
+
+
+80g
+
+
+
+
+100g
+
+
+
+
+120g
+
+
+
+
+160g
+
+
+ Deluxe Speed-Gro Warp Totem: Beach
+
+
+
+
+Sea Urchin
+
+A slow-moving, spiny creature that some consider a delicacy.Note: Can only be found on the right side of the beach, past the broken bridge.
+
+All
+
+
+
+
+
+
+160g
+
+
+
+
+200g
+
+
+
+
+240g
+
+
+
+
+320g
+
+
+ Dye Bundle
+
+
+
+
+Rainbow Shell
+
+It's a very beautiful shell.
+
+ Summer
+
+
+
+
+
+
+300g
+
+
+
+
+375g
+
+
+
+
+450g
+
+
+
+
+600g
+
+
+ "The Mysterious Qi" Quest
+
+
+
+
+Clam
+
+Someone lived here once.
+
+All
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+ Speed-Gro Chowder Crab Pot Bundle
+
+
+
+
+Cockle
+
+A common saltwater clam.
+
+All
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+ Crab Pot Bundle
+
+
+
+
+Mussel
+
+A common bivalve that often lives in clusters.
+
+All
+
+
+
+
+
+
+30g
+
+
+
+
+37g
+
+
+
+
+45g
+
+
+
+
+60g
+
+
+ Fish Stew Crab Pot Bundle
+
+
+
+
+Oyster
+
+Constantly filters water to find food. In the process, it removes dangerous toxins from the environment.
+
+All
+
+
+
+
+
+
+40g
+
+
+
+
+50g
+
+
+
+
+60g
+
+
+
+
+80g
+
+
+ Crab Pot Bundle
+
+
+
+
+Seaweed
+
+It can be used in cooking.
+
+All
+
+
+
+
+
+
+20g
+
+
+
+
+25g
+
+
+
+
+30g
+
+
+
+
+40g
+
+
+ Maki Roll Fish Pond
+
+
+The Mines
+See also: Foraged Minerals
+
+
+Image
+
+Name
+
+Description
+
+Sell Price
+
+Restores
+
+Used In
+
+
+
+
+Red Mushroom
+
+A spotted mushroom sometimes found in caves.
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+data-sort-value="0-20"
+
+
+ 
+
+−50
+
+
+
+
+−70
+
+
+
+
+−90
+
+
+
+
+−130
+
+
+
+
+
+
+ Exotic Foraging Bundle Dye Bundle Life Elixir
+
+
+
+
+Purple Mushroom
+
+A rare mushroom found deep in caves.
+
+
+
+
+
+
+250g
+
+
+
+
+312g
+
+
+
+
+375g
+
+
+
+
+500g
+
+
+
+
+data-sort-value="0050"
+
+
+ 
+
+125
+
+56
+
+
+
+
+175
+
+78
+
+
+
+
+225
+
+101
+
+
+
+
+325
+
+146
+
+
+
+
+
+
+ Exotic Foraging Bundle Field Research Bundle Life Elixir Wizard (loved gift)
+
+
+
+
+Cave Carrot
+
+A starchy snack found in caves. It helps miners work longer.
+
+
+
+
+
+
+25g
+
+
+
+
+data-sort-value="0012"
+
+
+ 
+
+30
+
+13
+
+
+
+
+
+
+ Exotic Foraging Bundle Survival Burger Miner's Treat Roots Platter Stir Fry
+
+The Desert
+
+
+Image
+
+Name
+
+Description
+
+Sell Price
+
+Restores
+
+Used In
+
+
+
+
+Cactus Fruit
+
+The sweet fruit of the prickly pear cactus.
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+data-sort-value="0030"
+
+
+ 
+
+75
+
+33
+
+
+
+
+105
+
+47
+
+
+
+
+135
+
+60
+
+
+
+
+195
+
+87
+
+
+
+
+
+
+ Exotic Foraging Bundle Jelly Wine Linus (loved gift) Pam (loved gift) Sam (loved gift)
+
+
+
+
+Coconut
+
+A seed of the coconut palm. It has many culinary uses.
+
+
+
+
+
+
+100g
+
+
+
+
+125g
+
+
+
+
+150g
+
+
+
+
+200g
+
+
+Inedible
+
+ Exotic Foraging Bundle Tom Kha Soup Jelly Wine Haley (loved gift) Linus (loved gift)
+
+Ginger Island
+Coral and Sea Urchin can be foraged from the beach on the southwest side of Island West. Fiddlehead Fern can be foraged in the Jungle. The following table lists forageables exclusive to Ginger Island.
+
+
+
+Image
+
+Name
+
+Description
+
+Found
+
+Sell Price
+
+Restores
+
+Used In
+
+
+
+
+Ginger
+
+This sharp, spicy root is said to increase vitality.
+
+Throughout Ginger Island, especially Island West and Island North
+
+
+
+
+
+
+60g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+
+
+ Pickles Ginger Ale  Cures theNauseated debuff
+
+
+
+
+Magma Cap
+
+A very rare mushroom that lives next to pools of lava.
+
+Throughout the Volcano Dungeon
+
+
+
+
+
+
+400g
+
+
+
+
+500g
+
+
+
+
+600g
+
+
+
+
+800g
+
+
+
+
+data-sort-value="0070"
+
+
+ 
+
+175
+
+78
+
+
+
+
+245
+
+110
+
+
+
+
+315
+
+141
+
+
+
+
+455
+
+204
+
+
+
+
+
+
+
+
+
+Bugs
+The Gatherer profession can cause some non-forage items to be doubled. When this happens, the player gains 7 XP for the duplicate item, even though the original item granted no experience.  The items affected by this bug are items sitting on the ground in the Mines, namely Quartz, Earth Crystal, Fire Quartz, Frozen Tear, and Dinosaur Egg.
+Other items found on the ground in the Mines, namely Red Mushroom, Purple Mushroom, and Fiddlehead Fern, are considered by the game to be forage items, so they always grant foraging experience, and any Gatherer duplication is not a bug.
+On mobile, it is possible to gather more than four berries per bush during Salmonberry or Blackberry Season using the Mobile Save buff glitch. When using, the player will receive an extra berry for every four foraging levels.[5]
+External Links
+Users with access to their saved game files may find the "Forage Finder" utility helpful for showing the location of all forageable items for the next game day.  The utility is located at:  https://stardew.selbysaurus.me/
+References
+
+↑ Spawning of standard forage items is done in GameLocation::spawnObjects, which is triggered by GameLocation::dayUpdate. The six item per map limit is controlled by numberOfSpawnedObjectsOnMap.  The number of attempts to add an item is a random number ranging from 1 to min(4, 6-numberOfSpawnedObjectsOnMap). For each attempt, the code checks up to 11 locations that are randomly located anywhere on the map.  An item is only placed if one of those 11 locations is a valid spawning location, and if a randomly-selected forage item also passes its probability test.
+
+↑ End-of-week removal of forageables is part of GameLocation::dayUpdate.  End-of-season removal is part of gameLocation::seasonUpdate.  All items with the IsSpawnedObject flag are removed, and numberOfSpawnedObjectsOnMap is set to zero.
+
+↑ Extra calls are made to GameLocation::spawnObjects after clearing existing items (one extra call on the first of a season; two extra on Sunday morning). However, these extra calls frequently generate no extra items, because the same random-number seed (based on game ID and days played) is used every time. So the second and third calls retest the same list of locations and items as the first call.
+
+↑ The foraged items that can spawn in a given location each season are determined by GameLocation::spawnObjects in the game code, using input from the data file Content\Locations.xnb.  The percentages provided here have been normalized to ensure that the percentages sum to 100% for each season in each location. The data was normalized by:
+Calculating the sum of all percentages listed in Locations.xnb for a season
+Dividing each percentage by the sum
+
+↑ See Bush::shake in game code, near variable player.ForagingLevel.
+
+
+History
+1.3.27: Breaking a regular tree stump now gives +1 Foraging experience.
+1.4: Fixed bug where Foraging skill level up would cause trees to stop dropping seeds and seeds on the ground to disappear instead of being harvested until the player slept and saved the game.  Changed sound when picking up forageables to a higher-pitched sound. Forester profession changed from "Wood worth 25% more" to "Gain 25% more wood when chopping."
+
+
+Skills & Stats
+
+
+Skills
+
+Farming • Mining • Foraging • Fishing • Combat
+
+
+Stats
+
+Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight
+
+
+
+
+Foraging
+
+
+Basic
+
+Sap
+
+
+Spring
+
+Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish
+
+
+Summer
+
+Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea
+
+
+Fall
+
+Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum
+
+
+Winter
+
+Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root
+
+
+The Beach
+
+Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed
+
+
+The Mines
+
+Cave Carrot • Purple Mushroom • Red Mushroom
+
+
+The Desert
+
+Cactus Fruit • Coconut
+
+
+Skull Cavern
+
+Dinosaur Egg • Fiddlehead Fern
+
+
+Ginger Island
+
+Ginger • Magma Cap
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Foraging&oldid=142868"
+Category: ForagingHidden category: Bugs tested in 1.4
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 3 November 2022, at 02:52.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

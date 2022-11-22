@@ -1,0 +1,392 @@
+
+
+
+
+
+Oil Maker - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oil Maker
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Oil Maker
+
+
+
+
+
+Makes gourmet truffle oil.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Crafting
+
+
+Recipe Source:
+
+ Farming (Level 8)
+
+
+Ingredients:
+
+ Slime (50) Hardwood (20) Gold Bar (1)
+
+
+The Oil Maker is a type of Artisan Equipment used to make Artisan Goods. It takes specific items and turns them into oil.
+
+Products
+For Truffle/Truffle Oil profitability, see also: Animal Products Profitability
+
+
+Image
+
+Name
+
+Description
+
+Ingredient
+
+Processing Time[1]
+
+Sell Price
+
+Energy / Health
+
+
+
+
+Truffle Oil
+
+A gourmet cooking ingredient.
+
+ Truffle (1)
+
+ 360m (6 Hours)
+
+1,065g
+
+3817
+
+
+
+
+Oil
+
+All purpose cooking oil.
+
+ Corn (1)
+
+ 1000m (≈16 Hours)
+
+100g
+
+135
+
+
+ Sunflower Seeds (1)
+
+ 3200m (2 Days)
+
+
+ Sunflower (1)
+
+ 60m (1 Hour)
+
+Processing time calculates differently depending on the time of day. 1 hour = 60 minutes from 6:00 AM to 2:00 AM, but = 100 minutes from 2:00 AM to 6:00 AM.
+
+References
+
+↑ See Object::performObjectDropInAction in the game code and Data\ObjectInformation.xnb for corresponding items IDs.
+
+
+History
+1.0: Introduced.
+1.4: Adjusted processing time so that machines process 100 minutes from 2:00 AM to 6:00 AM, not every hour the player is asleep. Oil makers can now be stacked in a player's inventory and in chests.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Oil_Maker&oldid=142966"
+Category: Craftable items
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 15:09.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

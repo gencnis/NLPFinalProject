@@ -1,0 +1,347 @@
+
+
+
+
+
+Farm Computer - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Farm Computer
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Farm Computer
+
+
+
+
+
+Scans the farm and displays useful information.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Crafting
+
+
+Recipe Source:
+
+ Special Order
+
+
+Ingredients:
+
+ Dwarf Gadget (1) Battery Pack (1) Refined Quartz (10)
+
+
+The Farm Computer is a piece of craftable equipment that can be interacted with to display information about the farm. The player receives the recipe after completing either the "Biome Balance" or "Aquatic Overpopulation" special orders for Demetrius.
+
+ Farm Computer status display
+The information displayed includes:
+
+Pieces of Hay
+Total Crops Planted
+Crops Ready
+Unwatered Crops
+Crops Ready In Greenhouse
+Open Tilled Soil
+Forage Items
+Machines Ready
+Farm Cave Status
+A Farm Computer will never display information about the Ginger Island farm, even if placed there.
+"Forage Items" will only be displayed if used on the Forest or Beach farms even if forage items exist on your farm (truffles for example).  Crops grown from seasonal Wild Seeds show under "Crops".
+
+History
+1.5: Introduced.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Farm_Computer&oldid=143250"
+Category: Craftable itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 18:24.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

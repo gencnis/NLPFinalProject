@@ -1,0 +1,617 @@
+
+
+
+
+
+Luck - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luck
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+ Fortune Teller
+Luck  is a statistic that affects many different aspects of the game, such as the drop rates of geodes and chance of getting treasure from Fishing.  There are several sources of luck:  daily luck determined by the game, buffs gained from eating certain food and drink, a Special Charm which gives a small permanent luck boost, and the Lucky Ring.
+
+Contents
+
+1 Daily Luck
+
+1.1 Daily Luck Effects
+
+
+2 Luck Buffs
+3 Special Charm
+4 References
+5 History
+
+
+Daily Luck
+The base value for daily luck is a randomly generated number from -0.1 to 0.1.[1] The value is increased by 0.025 with the Special Charm. Daily luck does not change if the day is restarted, but it can change by replaying the previous day.
+Daily luck can be checked by right-clicking on the Television and selecting "Fortune Teller."  The Fortune Teller will give an indication of the daily luck stat modifier. Luck is not affected by viewing the Fortune Teller Television Program (i.e., the luck value is not neutral if the player does not view the program, the luck value remains constant regardless.)
+Before revealing the luck message, one of the following messages is shown randomly (the first two being gender-specific). They do not affect the luck in any way.
+
+
+
+
+“
+
+“Ah... I sense that a new viewer has joined us. A young man from... Stardew Valley? Welcome, welcome!”
+
+
+
+
+
+“
+
+“Ah... I sense that a new viewer has joined us. A young lady from... Stardew Valley? Welcome, welcome!”
+
+
+
+
+
+“
+
+“Ah... yes, I can hear the spirits whispering something to me... ”
+
+
+
+
+
+“
+
+“Welcome back to 'Welwick's Oracle'... If you seek hidden knowledge of the future, well you've come to the right place.”
+
+
+
+
+
+“
+
+“Hoo.. I see a glimmer within my scrying orb... A shard of knowledge from the future!”
+
+
+
+
+
+“
+
+“Welcome to Welwick's Oracle... the ONLY show where the voice of the spirits is channeled directly... to YOU.”
+
+
+
+
+Message
+
+TV Display
+
+Stat Bonus [2]
+
+
+The spirits are very happy today! They will do their best to shower everyone with good fortune.
+
+
+
+ Luck (> +0.07)
+
+
+The spirits are in good humor today. I think you'll have a little extra luck.
+
+
+
+ Luck (> +0.02 and ≤ +0.07)
+
+
+The spirits feel neutral today. The day is in your hands.
+
+
+
+ Luck (≥ -0.02 and ≤ +0.02, but not 0)
+
+
+This is rare. The spirits feel absolutely neutral today.
+
+
+
+ Luck (0)
+
+
+The spirits are somewhat annoyed today. Luck will not be on your side.The spirits are somewhat mildly perturbed today. Luck will not be on your side.
+
+
+
+ Luck (≥ -0.07 and < -0.02)
+
+
+The spirits are very displeased today. They will do their best to make your life difficult.
+
+
+
+ Luck (< -0.07)
+
+Daily Luck Effects
+Daily luck affects the following:
+
+Mining
+Chance to discover ladders from breaking rocks while Mining.
+Geode and coal drop chance from rocks.
+(Luck does not increase the chance to receive rare minerals and artifacts from breaking geodes. These results depend only on the save file and the sequence in which the geodes are broken.)
+Chance of finding Gem Nodes and Mystic Stones in The Mines or Skull Cavern.
+Chance that crates spawn in The Mines.
+Chance to find treasure rooms in the Skull Cavern.
+Amount of gold and items lost when dying in The Mines or Skull Cavern.
+Chance of finding Radioactive Nodes in The Mines (while the Shrine of Challenge is active) or Skull Cavern (while Skull Cavern Invasion is active). [3]
+Other
+Chance of treasure chests appearing while Fishing.
+Chance of getting special items (e.g., Neptune's Glaive, Prismatic Shard, Iridium Band).
+Chance to double the number of crops yielded at harvest. Works for any crop, and a unique "dwoop" sound effect plays if this occurs as the result of a luck-based check. [4]
+Drop chance of Duck Feather and Rabbit's Foot from animals.
+Amount of wood dropped from trees.
+Quality and number of ores obtained from panning.
+Chance of getting a second item (in addition to ore) from panning.
+Chance of getting items from Garbage Cans and the chance the item is not trash.
+Chance the spouse will be jealous after giving a gift to another marriage candidate that the player is also currently dating.
+Results of playing slots at the Casino.
+Amount of lightning during a storm (higher luck increases the amount of lightning). [5]
+Luck Buffs
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+In addition to Daily Luck, Luck Buffs gained from eating food will provide temporary bonuses.  Any luck buff is treated separately from daily luck, so the effects of the two types of luck are not automatically the same; both the types of events affected by luck buffs and the magnitude of the effect can be different. Only one drink-derived buff and one food-derived buff can be active at a given time.
+Known differences between daily luck and luck buffs include:
+
+The drop chances of Duck Feather and Rabbit's Foot are not improved by luck buffs.
+For Fishing Treasure Chest contents, a luck buff does not improve special item chances.  Instead, it increases the chance of getting double quantities of resources and gems.  It also allows standard rings (Glow Ring, Magnet Ring) to appear in place of small rings (Small Glow Ring, Small Magnet Ring).
+The following food and drink provide a temporary luck buff:
+
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Banana Pudding
+
+A creamy dessert with a wonderful tropical flavor.
+
+ Banana (1) Milk (1) (Any) Sugar (1)
+
+ 125 56
+
+ Mining (+1) Luck (+1) Defense (+1)
+
+ 5m 1s
+
+ Island Trader for  Bone Fragment (30)
+
+260g
+
+
+
+
+Fried Eel
+
+Greasy but flavorful.
+
+ Eel (1) Oil (1)
+
+ 75 33
+
+ Luck (+1)
+
+ 7m
+
+ George (Mail - 3+ )
+
+120g
+
+
+
+
+Ginger Ale
+
+A zesty soda known for its soothing effect on the stomach.
+
+ Ginger (3) Sugar (1)
+
+ 63 28
+
+ Luck (+1)
+
+ 5m
+
+Dwarf Shop in Volcano Dungeon for 1,000g
+
+200g
+
+
+
+
+Lucky Lunch
+
+A special little meal.
+
+ Sea Cucumber (1) Tortilla (1) Blue Jazz (1)
+
+ 100 45
+
+ Luck (+3)
+
+ 11m 11s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Spring, Year 2
+
+
+250g
+
+
+
+
+Pumpkin Soup
+
+A seasonal favorite.
+
+ Pumpkin (1) Milk (1)
+
+ 200 90
+
+ Defense (+2) Luck (+2)
+
+ 7m 41s
+
+ Robin (Mail - 7+ )
+
+300g
+
+
+
+
+Shrimp Cocktail
+
+A sumptuous appetizer made with freshly-caught shrimp.
+
+ Tomato (1) Shrimp (1) Wild Horseradish (1)
+
+ 225 101
+
+ Fishing (+1) Luck (+1)
+
+ 10m 2s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Winter, Year 2
+
+
+160g
+
+
+
+
+Spicy Eel
+
+It's really spicy! Be careful.
+
+ Eel (1) Hot Pepper (1)
+
+ 115 51
+
+ Luck (+1) Speed (+1)
+
+ 7m
+
+ George (Mail - 7+ )
+
+175g
+
+
+
+
+Magic Rock Candy
+
+A rare and powerful candy infused with the essence of the prismatic shard.
+
+N/A
+
+500225
+
+ Mining (+2) Luck (+5) Speed (+1) Defense (+5) Attack (+5)
+
+ 8m 24s
+
+N/A
+
+5,000g
+
+
+The following ring gives a luck buff:
+
+
+
+Image
+
+Name
+
+Description
+
+Effect
+
+Where to Find
+
+Ingredients
+
+Purchase Price
+
+Sell Price
+
+
+
+
+Lucky Ring
+
+The lunar emblem is said to bring good luck to whoever wears it.
+
+Increases  Luck by +1.
+
+Dropped as a special item in the Skull Cavern, or rarely by panning.
+
+N/A
+
+N/A
+
+100g
+
+Special Charm
+After reading Secret Note #20 and solving the puzzle depicted, the player is awarded with a Special Charm that permanently increases daily Luck by 0.025.
+
+References
+
+↑ See Game1::_newDayAfterFade in the game code.
+
+↑ See Objects.TV::getFortuneForecast in the game code.
+
+↑ See Locations.MineShaft::chooseStoneType in the game code.
+
+↑ See Crop::Harvest in the game code.
+
+↑ See Utility::performLightningUpdate in the game code.
+
+
+History
+1.3.27: Officially added Special Charm to the game. Treasure rooms added to Skull Cavern, which are affected by luck.
+1.4: Magic Rock Candy introduced. Special Charm luck increase changed to a static 0.025. Giving datable NPCs a gift no longer makes the player's spouse jealous unless they're currently dating them.
+1.5: Lucky Ring, Banana Pudding, and Ginger Ale introduced.
+
+
+Skills & Stats
+
+
+Skills
+
+Farming • Mining • Foraging • Fishing • Combat
+
+
+Stats
+
+Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Luck&oldid=141285"
+Categories: BuffsTelevisionHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 29 August 2022, at 21:24.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

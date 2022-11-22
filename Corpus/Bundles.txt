@@ -1,0 +1,1456 @@
+
+
+
+
+
+Bundles - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bundles
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Contents
+
+1 Traveling Cart Availability
+2 Standard Bundles
+
+2.1 Crafts Room
+2.2 Pantry
+2.3 Fish Tank
+2.4 Boiler Room
+2.5 Bulletin Board
+2.6 Vault
+2.7 Abandoned JojaMart
+
+
+3 Remixed Bundles
+4 History
+
+
+
+ For remixed bundles chosen at game start via advanced options, see Remixed Bundles.
+Bundles are donations to the Junimos given via golden scrolls inside the Community Center.  When a bundle is complete, the Junimos offer the player a reward.  When all bundles for a particular room in the Community Center are complete, the Junimos grant a special reward that sometimes benefits the entire community.  
+Bundle rewards are given immediately, but rewards for completing all bundles in a room are given at the end of the day via a cutscene depicting the Junimos fulfilling the reward. If two rooms are completed on the same day, only one of the cutscenes is shown. Note that if the player does not collect individual bundle rewards before completing the room, the rewards can be found in a small brown bag to the left of the Junimo Hut after the golden scroll disappears.  This bag persists after the Community Center completion ceremony, until all items are retrieved from it.
+A few bundles display more items than there are slots to fill (e.g., Artisan Bundle: 12 items, 6 slots to fill).  In this case, the player can choose which of the shown items they want to use to fill the bundle.  They do not have to use all shown items, only enough to fill the slots.
+Completing all bundles restores the Community Center to its condition when it was brand new and unlocks the "Local Legend" steam achievement. That night, the game also unlocks a cut scene that shows the grand re-opening of the Community Center. This scene is triggered by entering Pelican Town Square any time thereafter on a sunny day, unless a festival is to be held in the town that day. Mayor Lewis announces that the player has won the Stardew Hero award and gives the player a trophy.
+If the player opts to purchase a JojaMart Membership, the Community Center is turned into a Joja Warehouse instead. After this happens, the bundles will be completed by the Joja Corporation for a fee given to Morris, the local JojaMart manager, through the Joja Community Development Form.
+
+ Golden Scroll
+There is a total of 6 rooms and 30 bundles to complete in the Community Center.  In the Joja Warehouse, there are 5 rewards to purchase (the "Friendship" reward is not available).
+Bundle Progress can be checked at any time by clicking on the Golden Scroll icon at the top right of the Player Menu (above the Garbage Can and "organize" icons).  Selecting or hovering the mouse pointer over an inventory item that is needed for a bundle makes the Golden Scroll icon pulsate.
+Bundles that do not specify quality will accept items of any quality. For bundles that need multiple items, multiple stacks can be supplied, and different qualities are acceptable. For bundles that do specify a quality, a better quality is also acceptable.
+
+Traveling Cart Availability
+All items required for bundles have a small chance of appearing in the Traveling Cart stock, except for the items listed below.  These items will never be sold at the Traveling Cart:
+
+
+
+
+Any starred (silver or higher quality) item
+ Aged Roe*
+ Amethyst*
+ Ancient Doll*
+ Ancient Fruit
+ Aquamarine
+ Blobfish*
+ Bone Fragment*
+ Diamond*
+
+
+
+ Dinosaur Mayonnaise
+ Earth Crystal
+ Emerald*
+ Fire Quartz
+ Frozen Geode
+ Frozen Tear
+ Hay
+ Lava Eel*
+ Prismatic Shard
+
+
+
+ Quartz
+ Roe*
+ Ruby*
+ Squid Ink*
+ Sweet Gem Berry*
+ Topaz*
+ Void Salmon
+ Wheat Flour*
+ White Algae*
+
+*Used only in Remixed Bundles
+
+Standard Bundles
+Crafts Room
+ Crafts Room Before Completion
+ Crafts Room After Completion
+The Crafts Room contains the first group of bundles available.  Completing all Crafts Room bundles repairs the bridge east of The Mines, unlocking the Quarry.
+
+
+
+
+
+CraftsRoomReward
+
+Bridge Repair
+
+
+
+ Spring Foraging Bundle
+
+
+
+
+
+
+ Wild Horseradish
+
+Spring Foraging
+
+
+ Daffodil
+
+Spring Foraging, buy from Pierre at Flower Dance
+
+
+ Leek
+
+Spring Foraging
+
+
+ Dandelion
+
+Spring Foraging, buy from Pierre at Flower Dance
+
+
+ Reward:
+
+ Spring Seeds (30)
+
+
+
+ Summer Foraging Bundle
+
+
+
+
+
+
+ Grape
+
+Summer Foraging, Fall Farming
+
+
+ Spice Berry
+
+Summer Foraging, The Farm Cave (fruit bat option)
+
+
+ Sweet Pea
+
+Summer Foraging
+
+
+ Reward:
+
+ Summer Seeds (30)
+
+
+
+ Fall Foraging Bundle
+
+
+
+
+
+
+ Common Mushroom
+
+Fall Foraging, Spring & Fall Foraging in the Secret Woods, The Farm Cave (mushroom option), Tapping a Mushroom Tree
+
+
+ Wild Plum
+
+Fall Foraging, The Farm Cave (fruit bat option)
+
+
+ Hazelnut
+
+Fall Foraging
+
+
+ Blackberry
+
+Fall Foraging, The Farm Cave (fruit bat option)
+
+
+ Reward:
+
+ Fall Seeds (30)
+
+
+
+ Winter Foraging Bundle
+
+
+
+
+
+
+ Winter Root
+
+Tilling soil or Artifact Spots in Winter, dropped by Blue Slimes on floors 41-79 of The Mines
+
+
+ Crystal Fruit
+
+Winter Foraging, dropped by Dust Sprites on floors 41-79 of The Mines
+
+
+ Snow Yam
+
+Tilling soil or Artifact Spots in Winter
+
+
+ Crocus
+
+Winter Foraging
+
+
+ Reward:
+
+ Winter Seeds (30)
+
+
+
+ Construction Bundle
+
+
+
+
+
+
+ Wood (99)
+
+Chopping Trees or branches with an Axe, Carpenter's Shop
+
+
+ Wood (99)
+
+Chopping Trees or branches with an Axe, Carpenter's Shop
+
+
+ Stone (99)
+
+Smashing stones with a Pickaxe, Carpenter's Shop
+
+
+ Hardwood (10)
+
+Chopping Large Stumps or Large Logs with an upgraded Axe, smashing crates in The Mines
+
+
+ Reward:
+
+ Charcoal Kiln (1)
+
+
+
+ Exotic Foraging Bundle
+
+
+
+
+
+
+ Coconut
+
+Desert Foraging, Oasis
+
+
+ Cactus Fruit
+
+Desert Foraging, Oasis
+
+
+ Cave Carrot
+
+The Mines, either smashing boxes or tilling soil
+
+
+ Red Mushroom
+
+Foraging in The Mines, Summer or Fall Foraging in the Secret Woods, The Farm Cave (mushroom option), Tapping a Mushroom Tree, Forest Farm Map in Fall.
+
+
+ Purple Mushroom
+
+The Mines, The Farm Cave (mushroom option), Forest Farm Map Foraging in Fall
+
+
+ Maple Syrup
+
+Tapped Maple Tree
+
+
+ Oak Resin
+
+Tapped Oak Tree
+
+
+ Pine Tar
+
+Tapped Pine Tree
+
+
+ Morel
+
+Foraging in the Secret Woods or Forest Farm Map in Spring, The Farm Cave (mushroom option)
+
+
+ Reward:
+
+ Autumn's Bounty (5)
+
+Pantry
+ Pantry Before Completion
+ Pantry After Completion
+The Pantry appears after completing one bundle. Completing all Pantry bundles will restore the dilapidated Greenhouse on the farm, making it available to grow Crops and Fruit Trees year-round.
+
+
+
+
+
+PantryReward
+
+Greenhouse
+
+
+
+ Spring Crops Bundle
+
+
+
+
+
+
+ Parsnip
+
+Spring Crops
+
+
+ Green Bean
+
+Spring Crops
+
+
+ Cauliflower
+
+Spring Crops
+
+
+ Potato
+
+Spring Crops
+
+
+ Reward:
+
+ Speed-Gro (20)
+
+
+
+ Summer Crops Bundle
+
+
+
+
+
+
+ Tomato
+
+Summer Crops
+
+
+ Hot Pepper
+
+Summer Crops
+
+
+ Blueberry
+
+Summer Crops
+
+
+ Melon
+
+Summer Crops
+
+
+ Reward:
+
+ Quality Sprinkler (1)
+
+
+
+ Fall Crops Bundle
+
+
+
+
+
+
+ Corn
+
+Summer / Fall Crops
+
+
+ Eggplant
+
+Fall Crops
+
+
+ Pumpkin
+
+Fall Crops
+
+
+ Yam
+
+Fall Crops, dropped by Duggies on floors 6-29 of The Mines (3%)
+
+
+ Reward:
+
+ Bee House (1)
+
+
+
+ Quality Crops Bundle
+
+
+
+
+
+
+ Parsnip (5)
+
+Gold quality Spring Crops
+
+
+ Melon (5)
+
+Gold quality Summer Crops
+
+
+ Pumpkin (5)
+
+Gold quality Fall Crops
+
+
+ Corn (5)
+
+Gold quality Summer / Fall Crops
+
+
+ Reward:
+
+ Preserves Jar (1)
+
+
+
+ Animal Bundle
+
+
+
+
+
+
+ Large Milk
+
+Cows
+
+
+ Large Egg (Brown)
+
+Brown Chickens
+
+
+ Large Egg
+
+White Chickens
+
+
+ Large Goat Milk
+
+Goats
+
+
+ Wool
+
+Sheep, Rabbits
+
+
+ Duck Egg
+
+Ducks
+
+
+ Reward:
+
+ Cheese Press (1)
+
+
+
+ Artisan Bundle
+
+
+
+
+
+
+ Truffle Oil
+
+Made from Truffles using an Oil Maker
+
+
+ Cloth
+
+Loom, Recycling a Soggy Newspaper, Desert Trader, dropped by Mummies in Skull Cavern
+
+
+ Goat Cheese
+
+Cheese Press
+
+
+ Cheese
+
+Cheese Press, Desert Trader
+
+
+ Honey
+
+Bee House, Oasis
+
+
+ Jelly
+
+Preserves Jar
+
+
+ Apple
+
+Apple Trees during Fall, The Farm Cave (fruit bat option)
+
+
+ Apricot
+
+Apricot Trees during Spring, The Farm Cave (fruit bat option)
+
+
+ Orange
+
+Orange Trees during Summer, The Farm Cave (fruit bat option)
+
+
+ Peach
+
+Peach Trees during Summer, The Farm Cave (fruit bat option)
+
+
+ Pomegranate
+
+Pomegranate Trees during Fall, The Farm Cave (fruit bat option)
+
+
+ Cherry
+
+Cherry Trees during Spring, The Farm Cave (fruit bat option)
+
+
+ Reward:
+
+ Keg (1)
+
+Fish Tank
+ Fish Tank Before Completion
+ Fish Tank After Completion
+The Fish Tank appears after completing one bundle.  Completing all Fish Tank bundles will remove the Glittering Boulder to the left of The Mines entrance. Willy will also give the player a Copper Pan that can be used to collect metal ores and other items from bodies of water.
+Note: It may not be possible to finish the Specialty Fish Bundle before finishing the entire Vault section, as access to The Desert is required to get a Sandfish, unless it becomes available at the Traveling Cart.
+
+
+
+
+
+FishTankReward
+
+Glittering Boulder Removed
+
+
+
+ River Fish Bundle
+
+
+All River Fish can be found in the Riverlands Farm, Hill-Top Farm, or Forest Farm.
+
+
+
+
+
+
+ Sunfish
+
+Found in Rivers, 6am – 7pm, Spring and Summer during sunny weather.
+
+
+ Catfish
+
+Found in Rivers and Secret Woods, 6am – midnight, Spring and Fall. Only while raining.  Can be found in Summer during rain in the Secret Woods and Witch's Swamp, Winter with a Rain Totem.
+
+
+ Shad
+
+Found in Rivers, 9am – 2am, Spring, Summer, and Fall. Only while raining.
+
+
+ Tiger Trout
+
+Found in Rivers, 6am – 7pm, Fall and Winter. Can be found in any weather.
+
+
+ Reward:
+
+ Bait (30)
+
+
+
+ Lake Fish Bundle
+
+
+All Mountain Lake Fish can be found in any weather, and in the Wilderness Farm.
+
+
+
+
+
+
+ Largemouth Bass
+
+Found in the Mountain Lake, 6am – 7pm, All Seasons.
+
+
+ Carp
+
+Found in the Mountain Lake, Anytime, during Spring, Summer, or Fall.Found in Secret Woods or Sewer, Anytime, All Seasons.
+
+
+ Bullhead
+
+Found in the Mountain Lake, Anytime, All Seasons.
+
+
+ Sturgeon
+
+Found in the Mountain Lake, 6am – 7pm, Summer and Winter.
+
+
+ Reward:
+
+ Dressed Spinner (1)
+
+
+
+ Ocean Fish Bundle
+
+
+
+
+
+
+ Sardine
+
+Found in the Ocean, 6am – 7pm, Spring, Fall, and Winter.
+
+
+ Tuna
+
+Found in the Ocean, 6am – 7pm, Summer and Winter.
+
+
+ Red Snapper
+
+Found in the Ocean, 6am – 7pm, Summer and Fall. Only when raining.
+
+
+ Tilapia
+
+Found in the Ocean, 6am – 2pm, Summer and Fall.
+
+
+ Reward:
+
+ Warp Totem: Beach (5)
+
+
+
+ Night Fishing Bundle
+
+
+
+
+
+
+ Walleye
+
+Found in Rivers, the Mountain Lake, and Cindersap Forest Pond, 12pm – 2am, Fall (Winter with Rain Totem.) Only when raining.
+
+
+ Bream
+
+Found in Rivers, 6pm – 2am, All Seasons.
+
+
+ Eel
+
+Found in the Ocean, 4pm – 2am, Spring or Fall. Only when raining.
+
+
+ Reward:
+
+ Small Glow Ring (1)
+
+
+
+ Crab Pot Bundle
+
+
+
+
+
+
+ Lobster
+
+Caught in Crab Pots (ocean)
+
+
+ Crayfish
+
+Caught in Crab Pots (freshwater)
+
+
+ Crab
+
+Caught in Crab Pots (ocean), drops from Rock Crabs or Lava Crabs in The Mines
+
+
+ Cockle
+
+Caught in Crab Pots (ocean), Beach Foraging
+
+
+ Mussel
+
+Caught in Crab Pots (ocean), Beach Foraging
+
+
+ Shrimp
+
+Caught in Crab Pots (ocean)
+
+
+ Snail
+
+Caught in Crab Pots (freshwater)
+
+
+ Periwinkle
+
+Caught in Crab Pots (freshwater)
+
+
+ Oyster
+
+Caught in Crab Pots (ocean), Beach Foraging
+
+
+ Clam
+
+Caught in Crab Pots (ocean), Beach Foraging
+
+
+ Reward:
+
+ Crab Pot (3)
+
+
+
+ Specialty Fish Bundle
+
+
+
+
+
+
+ Pufferfish
+
+Found in the Ocean, 12pm – 4pm, Summer during sunny weather.
+
+
+ Ghostfish
+
+Found in ponds in The Mines floors 20 and 60, Anytime, All Seasons. May also be dropped by Ghosts.
+
+
+ Sandfish
+
+Found in the pond in The Desert, 6am – 8pm, All Seasons.
+
+
+ Woodskip
+
+Found in the Secret Woods and the Forest Farm, Anytime, All Seasons.
+
+
+ Reward:
+
+ Dish O' The Sea (5)
+
+Boiler Room
+ Boiler Room Before Completion
+ Boiler Room After Completion
+The Boiler Room appears after completing two bundles.  Completing all Boiler Room bundles repairs the Minecarts, allowing the player to fast travel between distant locations. The Locations are Bus Stop, Mines, Quarry and Town.
+
+
+
+
+
+BoilerRoomReward
+
+Minecarts Repaired
+
+
+
+ Blacksmith's Bundle
+
+
+
+
+
+
+ Copper Bar
+
+Smelting Copper Ore in the Furnace
+
+
+ Iron Bar
+
+Smelting Iron Ore in the Furnace, Crafting the "Transmute (Fe)" recipe
+
+
+ Gold Bar
+
+Smelting Gold Ore in the Furnace, Crafting the "Transmute (Au)" recipe
+
+
+ Reward:
+
+ Furnace (1)
+
+
+
+ Geologist's Bundle
+
+
+
+
+
+
+ Quartz
+
+Foraging on all floors of The Mines
+
+
+ Earth Crystal
+
+Foraging on floors 1-39 of The Mines, Geodes, Omni Geodes, drop from Duggies in the Mines (floors 6-29)
+
+
+ Frozen Tear
+
+Foraging on floors 41-79 of The Mines, Frozen Geodes, Omni Geodes, drop from Dust Sprites in the Mines (floors 41-79)
+
+
+ Fire Quartz
+
+Foraging on floors 81-119 of The Mines, Magma Geodes, Omni Geodes
+
+
+ Reward:
+
+ Omni Geode (5)
+
+
+
+ Adventurer's Bundle
+
+
+
+
+
+
+ Slime (99)
+
+Dropped by Slimes
+
+
+ Bat Wing (10)
+
+Dropped by Bats in The Mines or the Skull Cavern
+
+
+ Solar Essence
+
+Dropped by Ghosts, Squid Kids, or Metal Heads in The Mines, dropped by Mummies or Iridium Bats in the Skull Cavern; produced by Sunfish in Fish Ponds; buy from Krobus
+
+
+ Void Essence
+
+Dropped by Shadow Brutes or Shadow Shamans in The Mines or Serpents in the Skull Cavern; produced by Void Salmon in Fish Ponds; buy from Krobus
+
+
+ Reward:
+
+ Small Magnet Ring (1)
+
+Bulletin Board
+ Bulletin Board Before Completion
+ Bulletin Board After Completion
+The Bulletin Board appears after completing three bundles.
+Completing all Bulletin Board bundles improves the player's friendship rating with every non-datable villager by two hearts (500 points).  Note that this applies only to non-datable villagers whom the player has met in person. Villagers who do not show on the "Social" tab of the player menu and villagers whose names appear as "???' will not receive 500 points. If the player completes all the bundles before Kent arrives on 1 Spring, Year 2, he will not benefit from the friendship increase, and will start at 0 hearts. The Dwarf's friendship will be unaffected if the player does not have the Dwarvish Translation Guide.
+The morning after, Mayor Lewis will send a letter saying that packages containing items posted about "years ago" on the community center bulletin board have been appearing in villagers' homes.  He says the packages are all addressed from "your farm".  He expresses his gratitude and says "all of us in town are delighted!"
+
+
+
+
+
+BulletinBoardReward
+
+Friendship ♡
+
+
+
+ Chef's Bundle
+
+
+
+
+
+
+ Maple Syrup
+
+Tapped Maple Tree
+
+
+ Fiddlehead Fern
+
+Summer Foraging in the Secret Woods, Foraging on Prehistoric Floors at the Skull Cavern
+
+
+ Truffle
+
+Pigs
+
+
+ Poppy
+
+Summer Crops
+
+
+ Maki Roll
+
+Cooking (recipe sources: The Queen of Sauce, The Saloon)
+
+
+ Fried Egg
+
+Cooking
+
+
+ Reward:
+
+ Pink Cake (3)
+
+
+
+ Dye Bundle
+
+
+
+
+
+
+ Red Mushroom
+
+Foraging in The Mines, Summer or Fall Foraging in the Secret Woods, The Farm Cave (mushroom option), Tapping a Mushroom Tree
+
+
+ Sea Urchin
+
+Beach Foraging, after using 300 wood to fix the bridge to the right side of The Beach or any side of the beach during crab mating season; foraging in the Beach Farm
+
+
+ Sunflower
+
+Summer / Fall Crops
+
+
+ Duck Feather
+
+Ducks
+
+
+ Aquamarine
+
+Aquamarine Nodes, boxes in The Mines, Fishing Treasure Chests
+
+
+ Red Cabbage
+
+Summer Crops (Red Cabbage Seeds are available at Pierre's General Store in year 2+, at the Traveling Cart, or dropped by Serpents, Mummies, and Purple Slimes)
+
+
+ Reward:
+
+ Seed Maker (1)
+
+
+
+ Field Research Bundle
+
+
+
+
+
+
+ Purple Mushroom
+
+The Mines, The Farm Cave (mushroom option), Forest Farm Map Foraging in Fall
+
+
+ Nautilus Shell
+
+Winter Beach Foraging, Beach Farm Map Foraging during any season, Random gift from Demetrius (Note: NOT the Nautilus Fossil artifact)
+
+
+ Chub
+
+Can be found in the mountain lake and river during all seasons, any time.
+
+
+ Frozen Geode
+
+The Mines floors 41-79
+
+
+ Reward:
+
+ Recycling Machine (1)
+
+
+
+ Fodder Bundle
+
+
+
+
+
+
+ Wheat (10)
+
+Summer / Fall Crops
+
+
+ Hay (10)
+
+Purchase at Marnie's Ranch or Desert Trader, or harvest from Grass or Wheat.
+
+
+ Apple (3)
+
+Apple Trees during Fall, The Farm Cave (fruit bat option)
+
+
+ Reward:
+
+ Heater (1)
+
+
+
+ Enchanter's Bundle
+
+
+
+
+
+
+ Oak Resin
+
+Tapped Oak Tree
+
+
+ Wine
+
+Keg
+
+
+ Rabbit's Foot
+
+Rabbits, Serpent drop in Skull Cavern (0.8%)
+
+
+ Pomegranate
+
+Pomegranate Trees during Fall, The Farm Cave (fruit bat option)
+
+
+ Reward:
+
+ Gold Bar (5)
+
+Vault
+ Vault Before Completion
+ Vault After Completion
+The Vault becomes available after completing four bundles. Pressing the large "purchase" button will purchase the bundle and deduct the gold from the total.
+Completing all Vault bundles costs 42,500g, and repairs the Bus Stop. Taking the Bus grants access to The Calico Desert.
+
+
+
+
+
+VaultReward
+
+Bus Repair
+
+
+
+ 2,500 Bundle
+
+
+
+
+ 2,500g
+
+
+ Reward:
+
+ Chocolate Cake (3)
+
+
+
+ 5,000 Bundle
+
+
+
+
+ 5,000g
+
+
+ Reward:
+
+ Quality Fertilizer (30)
+
+
+
+ 10,000 Bundle
+
+
+
+
+ 10,000g
+
+
+ Reward:
+
+ Lightning Rod (1)
+
+
+
+ 25,000 Bundle
+
+
+
+
+ 25,000g
+
+
+ Reward:
+
+ Crystalarium (1)
+
+Abandoned JojaMart
+ The Missing Bundle
+After completing the Community Center, the first night before a rainy or stormy day, a cutscene will trigger in which a bolt of lightning strikes the abandoned JojaMart, opening its doors.  Inside, the Missing Bundle can be found.
+
+
+
+
+
+MissingBundleReward
+
+Movie Theater
+
+
+
+ The Missing Bundle
+
+
+
+
+
+
+
+
+
+
+
+Silver or better quality Wine (any)
+
+
+Cask, Ginger Island resort
+
+
+ Dinosaur Mayonnaise
+Mayonnaise Machine
+
+
+ Prismatic Shard
+Mining
+
+
+
+
+
+
+Gold quality Ancient Fruit (5)
+
+
+Crops
+
+
+
+
+
+
+Gold or Iridium quality Void Salmon
+
+
+Fishing in the Witch's Swamp
+
+
+ Caviar
+Preserves Jar product from Sturgeon roe
+
+
+Remixed Bundles
+Main article: Remixed Bundles
+History
+1.3.27: Removed an exploit that allowed some furniture to be used in place of items to fill bundles.
+1.4: Introduced the Missing Bundle.  Selecting or hovering the mouse pointer over inventory items needed for a bundle now makes the Golden Scroll icon pulsate.  Uncollected rewards can now be found in a bundle next to the Junimo Hut when the golden scroll disappears.
+1.5: Added the ability to randomize bundles for new saves, stack different quality items, as well as an option to be able to complete all of the bundles in the first year by guaranteeing that the Traveling Cart will sell a Red Cabbage Seed.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Bundles&oldid=143453"
+Category: Gameplay
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 9 November 2022, at 03:54.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,382 @@
+
+
+
+
+
+Roe - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roe
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Roe
+
+
+
+
+
+Fresh fish eggs. These can be aged in a preserves jar to bring out more flavor.
+
+
+Information 
+
+
+Source:
+
+Fish Pond
+
+
+Season:
+
+ All
+
+
+Healing Effect:
+
+
+
+
+
+
+50 Energy
+
+
+
+
+22 Health
+
+
+
+Sell Price:
+
+30 + (Base Fish Price / 2)
+
+
+Roe are fish eggs that are produced by fish in a Fish Pond.
+The selling price of Roe depends on the fish's base sell price.  The equation is 30 + (base fish sell price / 2), rounded down to the next nearest integer.  The health and energy gained from eating roe are the same for all types of roe, including Sturgeon Roe.
+All types of roe can be placed in a Preserves Jar to create a higher-value Artisan Good: Sturgeon Roe creates Caviar; other roe create fish-specific varieties of Aged Roe.
+Roe does not belong to any category and therefore it does not benefit from any Profession. It also cannot be sold to Pierre's General Store, but it can be sold to the Fish Shop or placed in the Shipping Bin. At the Stardew Valley Fair, Roe is considered uncategorised (trash), and gives 2-3 points for judging.
+
+Contents
+
+1 Roe Types
+2 Gifting
+3 Artisan Goods
+4 Tailoring
+5 Bundles
+6 Bugs
+7 References
+8 History
+
+
+Roe Types
+All fish produce roe, except those that cannot be put in Fish Ponds (i.e., Legendary Fish) and the two varieties of Squid (which produce Squid Ink instead).  As for the two non-fish that can be put in Fish Ponds, Sea Urchins produce roe, but Coral doesn't.
+The price and color of each roe is dependent upon the fish. In general, the color matches the dye color of the fish;[1] Sturgeon are an exception and have black-colored roe, which is used as a blue dye in Dye Pots. Orange is used for any fish that does not have a dye color, although this is not the same color as the generic Roe image, which is a mix of orange and pink eggs.  Despite the variety of displayed colors, all types of roe create orange dye.
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Artisan Goods
+See also: Preserves Jar Productivity
+Note that processing times are approximate. One hour = 60 minutes from 6am to 2am, but 1 hour = 100 minutes from 2am to 6am.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredient
+
+Equipment
+
+Processing Time
+
+Sell Price
+
+
+
+
+Aged Roe
+
+Fish eggs aged in salt to bring out the flavor.
+
+ Roe (1) (from any fish other than Sturgeon)
+
+Preserves Jar
+
+ 4000m (2-3 days)
+
+2 × Roe price
+
+
+
+
+Caviar
+
+The cured roe of a sturgeon fish. Considered to be a luxurious delicacy!
+
+ Sturgeon Roe (1)
+
+Preserves Jar
+
+ 6000m (≈4 days)
+
+500g
+
+
+Tailoring
+Roe can be used in the spool of the Sewing Machine to create the dyeable Polka Dot Shirt.   It can be used in dyeing, serving as an orange dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Bundles
+15 Roe are one of options for the  Fish Farmer's Bundle in the Pantry (Remixed)
+
+Bugs
+When eating Roe that is not the base orange-pinkish color, the Roe will become the orange-pinkish color just before being consumed.
+
+References
+
+↑ The name, price, and color of each type of roe is set by FishPond::GetFishProduce, which calls TailoringMenu:GetDyeColor to get the fish-appropriate color.
+
+
+History
+1.4: Introduced.
+
+
+Animals and Produce
+
+
+Coop
+
+Chicken (Egg • Large Egg • Brown Egg • Large Brown Egg) • Dinosaur (Dinosaur Egg) • Duck (Duck Egg • Duck Feather) • Golden Chicken (Golden Egg) • Rabbit (Wool • Rabbit's Foot) • Void Chicken (Void Egg)
+
+
+Barn
+
+Cow (Milk • Large Milk) • Goat (Goat Milk • Large Goat Milk) • Sheep (Wool) • Ostrich (Ostrich Egg) • Pig (Truffle)
+
+
+Fish Pond
+
+Fish (Roe)
+
+
+Slime Hutch
+
+Slimes (Slime • Slime Ball • Slime Egg)
+
+
+Other
+
+Cat • Dog • Horse
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Roe&oldid=143570"
+Category: Animal ProductsHidden category: Bugs tested in 1.5
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 16 November 2022, at 01:58.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

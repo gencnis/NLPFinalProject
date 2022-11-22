@@ -1,0 +1,877 @@
+
+
+
+
+
+Volcano Dungeon - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Volcano Dungeon
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+ Volcano Dungeon's Entryway
+The Volcano Dungeon is located inside the volcano at the north end of Ginger Island, accessed through a large cave on the south side of the volcano. The dungeon consists of ten levels through which the player must proceed in sequence to reach the Forge, thereby "completing" the dungeon.
+Entering the cave, the player faces a lava river, across which lies the Volcano Dungeon. On the west side of the entryway is a pool of water. On its east side is a gate, initially locked, with a button on the floor to the south through the gate, out of reach.
+To cross the lava river and enter the dungeon, pour water on it with the watering can, creating a pathway to walk on. A steel (or higher) watering can is able to cover 5 squares in line, enough to build a bridge with a single tool use. The path remains for the length of the day, but disappears every night. After the player completes the dungeon, a parrot offers to build a permanent bridge in exchange for 5 Golden Walnuts.
+Once across the lava river, the player can proceed north through the doorway to enter the first level of the dungeon.
+
+Contents
+
+1 Passage Through the Dungeon
+2 Monsters
+3 Special Floors
+
+3.1 Volcano Caldera
+3.2 Gated Doors
+3.3 Mushroom Floors
+3.4 Islands
+
+
+4 Treasure
+
+4.1 Common Chests
+4.2 Rare Chests
+
+
+5 Metal Crates
+6 Golden Walnuts
+7 Shop
+8 Bugs
+9 History
+
+
+Passage Through the Dungeon
+Unlike the Skull Cavern or The Mines, the Volcano Dungeon does not have ladders for instant exits or descent through levels. Instead, the player must find the doorway that leads to the next level in each level. Exit from the dungeon is accomplished by retracing the path through the levels and up to the cave's entryway, except by means of Warp Totems or Return Scepter. A player who passes out at 2AM in the Volcano Dungeon awakens the next day in the Island Farmhouse and the game deducts 2,500g from available funds.
+Within the dungeon, the player will encounter a variety of monsters, and may find Mystic Stones or other mining nodes that yield Cinder Shards, gems, or ores (including iridium). Level nine always contains a chest. Unlike the Mines or Skull Cavern, the game populates each level with these items only once each day. Leaving and reentering the dungeon does not cause re-spawning on the same day.
+Once the parrot appears on level five, it can create a special dungeon exit (hole in the floor) for 5 Golden Walnuts. This exit takes the player outside to the east side of the volcano, next to the Parrot Express. Once outside, the player cannot reenter at level five, but must start again by entering the cave.
+There is also an open doorway in the southwest corner of level ten that takes the player back to the far side of the gate at the entryway to the cave. Once there, the player must step on the button on the floor to permanently open the entryway gate, allowing passage in either direction thereafter. Thus, completing the dungeon permits direct access to the Forge.
+
+
+Monsters
+The volcano dungeon holds a unique set of Monsters.
+
+
+
+Image
+
+Monster
+
+HP
+
+Damage
+
+Notes
+
+
+
+
+Dwarvish Sentry
+
+300
+
+18
+
+Has a chance to spawn when a crate is broken. May drop gems on death.
+
+
+
+
+False Magma Cap
+
+290
+
+15
+
+Replicates the rock crab's behavior. Almost always drops a Magma Cap on death, and can occasionally drop Cinder Shards.
+
+
+
+
+Hot Head
+
+215
+
+18
+
+At low HP or death, it becomes a bomb that will explode quickly. May drop Solar Essence on death.
+
+
+
+
+Lava Lurk
+
+220
+
+15
+
+Shoots 4 fireballs that will travel through walls. May drop Bone Fragment or Dragon Tooth on death. Possible to kill when the Lava Lurk is within two spaces of the edge of the lava pool.
+
+
+
+
+Magma Sprite
+
+220
+
+15
+
+May drop Cinder Shard on death.
+
+
+
+
+Magma Sparker
+
+310
+
+15
+
+Can inflict Burnt debuff on player. May drop Cinder Shard on death.
+
+
+
+
+Magma Duggy
+
+380
+
+16
+
+May drop Taro Tuber, Cinder Shard, or Mega Bomb on death.
+
+
+
+
+Tiger Slime
+
+415
+
+23
+
+May drop Tiger Hat, Ginger, Taro Tuber, Pineapple Seeds, or Mango Sapling on death.
+
+Special Floors
+Volcano Caldera
+Level 10 of the dungeon contains the Forge. Players can pay Cinder Shards to use various gems on their weapons and equipment, giving enhancements and enchantments. This level has an exit to the volcano's entry in the southwest corner. Players can fish in the magma area to get Lava Eel, Trash, and the painting 'Physics 101'. After achieving Perfection, a secret hat can be obtained.
+
+Gated Doors
+On some floors in the dungeon, the gateway to the next level may be blocked behind a gate. The gate has small colored dots to indicate the state of the locks that control its opening: red for locked, green for unlocked. The gate opens once all dots are green, and the player can then move to the next level.
+The gate is activated by 1 to 3 pressure pads. Standing on the pad will push it downward making the red dot become a green dot. The player must search for all of these pads throughout the current level to reach the next level.
+
+Mushroom Floors
+ A mushroom floor.
+In the Volcano Dungeon, mushroom floors are filled with Magma Caps and False Magma Caps, which will come to life and attack the player when they are close by. There are also mushroom husks that can be cut through like grass.
+
+Islands
+Some floors have islands surrounded by lava. Occasionally pressure pads, treasure chests, or useful mining nodes will spawn on the islands. To reach them, use the watering can to pour water on the lava and create a bridge. Fishing inside the dungeon is not possible.
+
+Treasure
+There are two types of treasure chests that can spawn randomly, common and rare. The chance for a chest to be rare is significantly higher on the 9th level and is also affected by Luck.
+
+Common Chests
+ A common chest
+
+
+Image
+
+Name
+
+Description
+
+Quantity
+
+Chance
+
+
+
+
+Cinder Shard
+
+You can feel a warm glow from within this stone.
+
+1
+
+1/7*
+
+
+
+
+Golden Coconut
+
+This is one tough nut to crack, but a professional might be able to break it open.
+
+1
+
+1/7*
+
+
+
+
+Taro Tuber
+
+Plant these in warm weather. Takes 10 days to mature. Grows faster if planted near a body of water.
+
+8
+
+1/7*
+
+
+
+
+Pineapple Seeds
+
+Plant these in warm weather. Takes 14 days to mature, and keeps producing fruit after that.
+
+5
+
+1/7*
+
+
+
+
+Protection Ring
+
+Stay invincible for a little while longer after taking damage.
+
+1
+
+1/7*
+
+
+
+
+Soul Sapper Ring
+
+Gain a little bit of energy every time you slay a monster.
+
+1
+
+1/7*
+
+
+
+
+Dwarf Sword
+
+It's ancient, but the blade never dulls.
+
+1
+
+1/21*
+
+
+
+
+Dwarf Hammer
+
+It emits a very faint whirring sound.
+
+1
+
+1/21*
+
+
+
+
+Dwarf Dagger
+
+It's ancient, but the blade never dulls.
+
+1
+
+1/21*
+
+
+Rare Chests
+ A rare chest
+
+
+Image
+
+Name
+
+Description
+
+Quantity
+
+Chance
+
+
+
+
+Cinder Shard
+
+You can feel a warm glow from within this stone.
+
+10
+
+1/9*
+
+
+
+
+Mermaid Boots
+
+Mermaid scales gives these boots a protective aura.
+
+1
+
+1/9*
+
+
+
+
+Dragonscale Boots
+
+These shimmering boots are extremely tough.
+
+1
+
+1/9*
+
+
+
+
+Golden Coconut
+
+This is one tough nut to crack, but a professional might be able to break it open.
+
+3
+
+1/9*
+
+
+
+
+Phoenix Ring
+
+Once a day, regain some health after being knocked out in combat.
+
+1
+
+1/9*
+
+
+
+
+Hot Java Ring
+
+Greatly increases your chance to find coffee drinks when slaying monsters.
+
+1
+
+1/9*
+
+
+
+
+Deluxe Pirate Hat
+
+Only the most infamous pirate could pull off this look.
+
+1
+
+1/9*
+
+
+
+
+Ostrich Egg
+
+It may be the world's largest egg.
+
+1
+
+1/9*
+
+
+
+
+Dragontooth Cutlass
+
+The blade was forged from a magical tooth.
+
+1
+
+1/27*
+
+
+
+
+Dragontooth Club
+
+This club was crafted from a magical tooth.
+
+1
+
+1/27*
+
+
+
+
+Dragontooth Shiv
+
+The blade was forged from a magical tooth.
+
+1
+
+1/27*
+
+
+*It is impossible to get a Golden Coconut from either chest before one is cracked. Therefore, the probability of other loot before it is cracked is 1/6 for items and 1/18 for the weapons in the common chests, while in rare chests it is 1/8 for items and 1/24 for weapons.
+
+Metal Crates
+Containers in the Volcano Dungeon always contain either a Dwarvish Sentry or random loot when destroyed. At most one type of item will be dropped by a crate, although one stack may contain multiple items.
+
+
+
+Content
+
+Chance
+
+
+ Dwarvish Sentry
+
+23.57%
+
+
+ Golden Walnut (limited)
+
+10%
+
+
+ Amethyst
+
+8.57%
+
+
+ Coal (1-2)
+
+8.57%
+
+
+ Copper Ore (2-5)
+
+8.57%
+
+
+ Gold Ore (1-3)
+
+8.57%
+
+
+ Hardwood (2-5)
+
+8.57%
+
+
+ Iron Ore (2-5)
+
+8.57%
+
+
+ Omni Geode (1-2)
+
+4.11%
+
+
+ Cave Carrot (1-2)
+
+3%
+
+
+ Emerald
+
+3%
+
+
+ Ruby
+
+3%
+
+
+ Topaz
+
+3%
+
+
+ Cinder Shard
+
+1.11%
+
+
+ Curiosity Lure
+
+1.11%
+
+
+ Diamond
+
+1.11%
+
+
+ Iridium Ore
+
+1.11%
+
+
+ Pineapple Seeds (1-2)
+
+1.11%
+
+
+ Taro Tuber (1-3)
+
+1.11%
+
+
+ Warp Totem: Farm
+
+1.11%
+
+
+ Warp Totem: Island
+
+1.11%
+
+
+Golden Walnuts
+Up to 17 Golden Walnuts can be obtained by mining or killing monsters in the Volcano Dungeon. In particular:
+
+Up to 5 Golden Walnuts can be obtained by breaking rocks.
+Up to 5 Golden Walnuts can be obtained by killing enemies.
+Up to 5 Golden Walnuts can be obtained by breaking metal crates.
+Up to 1 Golden Walnut can be obtained by opening a common chest.
+Up to 1 Golden Walnut can be obtained by opening a rare chest.
+Shop
+ Dwarf Shop
+On level 5 of the dungeon, there is a dwarf that runs a small shop and a pool where The Player can refill their Watering Can. Three crates are always present on this level. Monsters cannot spawn here, but a Dwarvish Sentry can still spawn when a crate is broken. The crate closest to the dwarf always drops a gold quality Magma Cap, assuming it is not empty.
+It is not possible to trade with the dwarf without having the Dwarvish Translation Guide.
+In addition to the standard stock, the shop also offers one of two Food items every day.
+
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+Day Sold/Chance of being sold
+
+
+
+
+Cinderclown Shoes
+
+These magic shoes belonged to a famous Dwarvish jester.
+
+ Cinder Shard (100)
+
+Every day
+
+
+
+
+Cherry Bomb
+
+Generates a small explosion. Stand back!
+
+300g
+
+Every day
+
+
+
+
+Bomb
+
+Generates an explosion. Watch out!
+
+600g
+
+Every day
+
+
+
+
+Mega Bomb
+
+Generates a powerful explosion. Use with extreme caution.
+
+1,000g
+
+Every day
+
+
+
+
+Roots Platter
+
+This'll get you digging for more.
+
+1,200g
+
+50%
+
+
+
+
+Super Meal
+
+It's a really energizing meal.
+
+1,200g
+
+50%
+
+
+
+
+Pink Bow
+
+This huge bow makes quite a statement!
+
+10,000g
+
+25%
+
+
+
+
+
+Warp Totem: Island Recipe
+
+A recipe to make Warp Totem: Island
+
+10,000g
+
+Every day (until purchased)
+
+
+
+
+
+Ginger Ale Recipe
+
+A recipe to make Ginger Ale
+
+1,000g
+
+Every day (until purchased)
+
+Bugs
+No mail is generated when a player passes out at 2AM in the Volcano Dungeon.
+History
+1.5: Introduced.
+
+
+Locations
+
+
+Locations
+
+Backwoods • Beach • Bus Stop • Calico Desert • Cindersap Forest • Farm • Farm Cave • Farm Pond •  Graveyard • Ginger Island • Minecart • Mines • Mountain • Mutant Bug Lair • Pelican Town • Quarry • Quarry Mine • Railroad • Secret Woods • Sewers • Skull Cavern • Summit • Tunnel • Volcano Dungeon • Witch's Swamp
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Volcano_Dungeon&oldid=141647"
+Categories: Island LocationsStoresHidden categories: SpoilersBugs tested in 1.5
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolItalianoFrançais日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 12 September 2022, at 13:14.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

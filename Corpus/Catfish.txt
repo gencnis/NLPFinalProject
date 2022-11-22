@@ -1,0 +1,685 @@
+
+
+
+
+
+Catfish - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Catfish
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Catfish
+
+
+
+
+
+An uncommon fish found in streams.
+
+
+Information
+
+
+
+
+Location
+
+River • Secret Woods • Witch's Swamp
+
+
+Time
+
+6am - 12am
+
+
+Season
+
+ Spring •  Fall
+Secret Woods/Witch's Swamp:
+ Spring •  Summer •  Fall
+Only with Rain Totem:  Winter
+
+
+
+Weather
+
+ Rain
+
+
+Difficulty
+
+75
+
+
+Behavior
+
+Mixed
+
+
+Size (inches)
+
+12-73
+
+
+
+
+Fishing XP
+
+28    31    34    40
+
+
+Energy / Health
+
+
+
+
+
+
+50
+
+
+
+
+
+22
+
+
+
+
+70
+
+
+
+
+
+
+		31
+
+
+
+
+
+90
+
+
+
+
+
+40
+
+
+
+
+130
+
+
+
+
+
+58
+
+
+
+
+
+
+
+Sell Prices
+
+
+Base
+ Fisher(+25%)
+ Angler(+50%)
+
+
+
+
+
+
+200g
+
+
+
+250g
+
+
+
+300g
+
+
+
+400g
+
+
+
+
+
+
+
+250g
+
+
+
+312g
+
+
+
+375g
+
+
+
+500g
+
+
+
+
+
+
+
+300g
+
+
+
+375g
+
+
+
+450g
+
+
+
+600g
+
+
+
+
+
+
+
+
+
+
+Artisan Sell Prices
+
+
+Roe
+
+Aged Roe
+
+ Aged Roe (+40%)
+
+
+ 130g
+
+ 260g
+
+ 364g
+
+
+
+
+The Catfish is a fish that can be caught in the river (in Pelican Town or Cindersap Forest), the Secret Woods, the Witch's Swamp, and the Riverlands Farm, Forest Farm, or Hill-Top Farm during Spring and Fall when raining, or in Spring, Summer, and Fall during rain in the Secret Woods or Witch's Swamp. It can also be caught in Winter at these locations if a Rain Totem is used. It can be randomly be found in Garbage Cans during Spring and Fall, or at the Traveling Cart for 600-1,000g.
+Catfish can be caught regardless of weather, time, or season using Magic Bait.
+
+Contents
+
+1 Map
+2 Gifting
+3 Bundles
+4 Recipes
+5 Tailoring
+6 Fish Pond
+7 Quests
+8 History
+
+
+Map
+Catfish can be found in the river, in the Secret Woods pond when it's raining, and in the Witch's Swamp.
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Love
+
+ Willy
+
+
+Neutral
+
+ Demetrius •  Elliott •  Leo •  Linus •  Pam •  Sebastian
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Dwarf •  Emily •  George •  Gus •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Marnie •  Maru •  Penny •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Wizard
+
+
+Hate
+
+ Evelyn •  Haley •  Pierre
+
+Bundles
+Catfish is used in the  River Fish Bundle in the Fish Tank.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Recipe Source(s)
+Sell Price
+
+
+
+
+Maki Roll
+
+Fish and rice wrapped in seaweed.
+
+ Any Fish (1) Seaweed (1) Rice (1)
+
+ 100 45
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 1
+
+ Stardrop Saloon for 300g
+
+220g
+
+
+
+
+Quality Fertilizer
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Sap (2) Any Fish (1)
+
+N/A
+
+ Farming Level 9
+
+10g
+
+
+
+
+Sashimi
+
+Raw fish sliced into thin pieces.
+
+ Any Fish (1)
+
+ 75 33
+
+ Linus (Mail - 3+ )
+
+75g
+
+
+Tailoring
+Catfish can be used in the spool of the Sewing Machine to create the dyeable Fish Shirt.  
+
+Fish Pond
+Catfish can be placed in a Fish Pond, where they will reproduce every 4 days.  The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests.  The only possible output is dark gray Catfish Roe.
+Quests
+
+
+
+Pond Capacity
+
+Quest Item
+
+Fishing XP Granted
+
+
+Before Quest
+
+After Quest
+
+
+3
+5
+2 Amethyst, 3 Copper Bars, 3 Red Mushrooms, or 2 Topaz
+40
+
+
+5
+7
+10 Bat Wing, 2 Earth Crystals, 5 Mixed Seeds, or 2-3 Purple Mushrooms
+40
+
+
+7
+10
+1 Diamond, 3 Iron Bars, 1 Mayonnaise, or 1 Pickles
+40
+
+Produce
+
+
+
+Item(s) Produced
+
+Fishing XP Granted
+
+Population
+
+% of Items
+
+Overall Daily Chance
+
+
+ Roe (1)
+
+15
+
+1-10
+100%
+23-95%
+
+
+Nothing
+
+
+
+1-10
+0%
+77-5%
+
+Quests
+Item Delivery: One catfish may be randomly requested in Spring or Fall at the "Help Wanted" board outside Pierre's General Store for a reward of 600g and 150 Friendship points.
+Fishing: Demetrius or Willy may randomly request 1-4 catfish in Spring or Fall at the "Help Wanted" board outside Pierre's General Store for a reward of 200g per fish.  (You get to keep the fish).
+History
+1.4: Removed from garbage cans and most quests in Winter.  Added iridium quality.  Can now be used in Tailoring.
+1.4.4: Fixed a mistake in the game data that prevented catfish-specific fish pond data from being applied (in earlier versions, catfish used the same fish pond data as all generic river fish). Catfish can no longer be requested by Willy in a Fishing Help Wanted quest during Winter.
+
+
+Fish
+
+
+Legendary
+
+Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish
+
+
+The Beach
+
+Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna
+
+
+River
+
+Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye
+
+
+Mountain Lake
+
+Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye
+
+
+Cindersap Forest Pond
+
+Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye
+
+
+Secret Woods
+
+Carp • Catfish • Woodskip
+
+
+Mines
+
+Ghostfish • Ice Pip • Lava Eel • Stonefish
+
+
+Sewers
+
+Carp • Mutant Carp • Radioactive Carp
+
+
+Desert
+
+Sandfish • Scorpion Carp
+
+
+Mutant Bug Lair
+
+Carp • Slimejack
+
+
+Witch's Swamp
+
+Catfish • Void Salmon
+
+
+Night Market
+
+Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber
+
+
+Crab Pot
+
+Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail
+
+
+Ginger Island
+
+Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray •  Super Cucumber • Tilapia • Tuna
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Catfish&oldid=143431"
+Categories: Spring fishFall fishRiver fish
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 8 November 2022, at 17:18.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

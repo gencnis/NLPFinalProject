@@ -1,0 +1,350 @@
+
+
+
+
+
+Haunted Skull - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Haunted Skull
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Haunted Skull
+
+
+
+
+
+Information
+
+
+Spawns In:
+
+Quarry MineThe Mines random dungeon levels
+
+
+Floors:
+
+All
+
+
+Killable:
+
+Yes
+
+
+Base HP:
+
+160
+
+
+Base Damage:
+
+15
+
+
+Base Def:
+
+1
+
+
+Speed:
+
+3
+
+
+XP:
+
+15
+
+
+Variations:
+
+ Haunted Skull (dangerous)
+
+
+Drops:
+
+ Aquamarine Ring (1.3%) Dark Sword (1.3%) Earth Crystal (1.3%) Magic Rock Candy (0.13%) Mega Bomb (1.3%) Oak Resin (1.3%) Prehistoric Skull (1.3%) Ruby Ring (1.3%) Skeletal Hand (1.3%) Solar Essence (1.3%) Void Essence (1.3%)Gray Baggy Pants (0.22%) Dark Bandana Shirt (0.22%) Dark Highlight Shirt (0.22%)Gray Relaxed Fit Pants (0.22%) Skeleton Shirt (0.22%) Skull Shirt (0.22%)Only in Winter: Rice Shoot (21.43%)If Vault bundles completed: Artifact Trove (1.3%)If Vault bundles not completed: Omni Geode (1.3%)If reached bottom of Mines: Diamond (0.05%) Prismatic Shard (0.05%)
+
+
+
+Haunted Skulls are a flying enemy found in the Quarry Mine and in dungeon levels in The Mines.
+
+Contents
+
+1 Behavior
+2 Strategy
+3 Gallery
+4 References
+5 History
+
+
+Behavior
+Their behavior is similar to that of Bats and Serpents; they may fly away from the player and change the direction of attack.
+They have 2 methods of appearing:
+
+They can be regular enemies on the floor. Approaching them makes them active and they will attack the player from this point on.
+They can appear at random. They will screech and then one will approach from a random direction outside the level.
+Strategy
+The best weapon may be a regular sword swing (not a club or dagger), since its angle is large.  If possible, move in a contrary direction to the Skull so a mob is all on one side of the player, and swing at them all at once.
+
+Gallery
+
+
+
+
+Haunted Skulls in the Quarry Mine
+
+
+
+
+References
+Basic stats (HP, damage, defense, speed, and XP) can be found in Content\Data\Monsters.xnb, MineShaft::getMonsterForThisLevel and the constructor for Bat in the game code.
+
+History
+1.4: Introduced.
+
+
+Monsters
+
+
+Mines
+
+Bats • Bug • Cave Fly • Duggy • Dust Sprite • Ghost • Grub • Lava Crab • Metal Head • Rock Crab • Shadow Brute • Shadow Shaman • Skeleton • Slimes • Squid Kid • Stone Golem
+
+
+Dangerous Mines
+
+Bat (dangerous) • Blue Squid • Bug (dangerous) • Carbon Ghost • Cave Fly (dangerous) • Duggy (dangerous) • Dust Sprite (dangerous) • Frost Bat (dangerous) • Grub (dangerous) • Haunted Skull (dangerous) • Lava Crab (dangerous) • Metal Head (dangerous) • Putrid Ghost • Rock Crab (dangerous) • Shadow Brute (dangerous) • Shadow Shaman (dangerous) • Shadow Sniper • Skeleton (dangerous) • Skeleton Mage • Slimes (dangerous) • Spider • Squid Kid (dangerous) • Stick Bug • Stone Golem (dangerous)
+
+
+Quarry Mine
+
+Copper Slime • Haunted Skull • Iron Slime
+
+
+Skull Cavern
+
+Armored Bug • Big Slime • Carbon Ghost • Iridium Bat • Iridium Crab • Lava Bat • Mummy • Pepper Rex • Purple Slime • Serpent
+
+
+Dangerous Skull Cavern
+
+Armored Bug (dangerous) • Mummy (dangerous) • Royal Serpent • Slime (dangerous)
+
+
+Bug Lair
+
+Mutant Fly • Mutant Grub
+
+
+The Farm
+
+Wilderness Golem
+
+
+Volcano Dungeon
+
+Dwarvish Sentry • False Magma Cap • Hot Head • Lava Lurk • Magma Duggy • Magma Sparker • Magma Sprite • Tiger Slime
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Haunted_Skull&oldid=138483"
+Category: Monsters
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 5 June 2022, at 00:43.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

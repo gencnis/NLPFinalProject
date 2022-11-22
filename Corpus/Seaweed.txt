@@ -1,0 +1,499 @@
+
+
+
+
+
+Seaweed - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seaweed
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Seaweed
+
+
+
+
+
+It can be used in cooking.
+
+
+Information
+
+
+
+
+Source
+
+
+Fishing Pole: Ocean
+Foraging: The Beach
+Garbage Cans
+Fish Pond
+The "Dangerous Mines"
+
+
+Season
+
+ All
+
+
+
+
+XP
+
+
+Fishing Pole: 3 Fishing XP
+Foraging: 7 Foraging XP
+Fish Pond: 18 Fishing XP
+
+
+Energy / Health
+
+
+
+
+
+
+13
+
+
+
+
+
+5
+
+
+
+
+18
+
+
+
+
+
+
+		8
+
+
+
+
+
+23
+
+
+
+
+
+10
+
+
+
+
+33
+
+
+
+
+
+14
+
+
+
+
+Sell Price
+
+
+
+
+20g
+
+
+
+25g
+
+
+
+30g
+
+
+
+40g
+
+
+
+
+Seaweed is an item that can be caught using a Fishing Pole in the ocean during all seasons, including a 41% chance to catch Seaweed while fishing in the deep-sea submarine ride at the Night Market.  It is never caught in Crab Pots.
+It can also be foraged from a narrow strip of shore by the Tide Pools, i.e., to the east of the wooden footbridge.[1], but it spawns relatively infrequently (3% chance per night). The saltwater crab pot fish (Cockle, Crab, Lobster, Mussel, Oyster, and Shrimp) may produce 1-3 Seaweed in a Fish Pond when the population of the pond is at least 1.
+Catching Seaweed with a Fishing Pole always produces standard-quality seaweed and gives 3 Fishing XP. Picking up Seaweed from the beach gives 7 Foraging XP, with quality controlled by foraging skill and bonuses (including possibly iridium quality).
+Seaweed is displayed in the Fish section of the collection tab, and counts towards the four fishing Achievements.[2]  However, it is otherwise not considered to be a fish, and therefore cannot be sold to Willy at the Fish Shop, does not benefit from fish price bonuses, and cannot be used in fish recipes.
+It's also possible to find Seaweed in the "Dangerous Mines" on floors 1-39 when the Shrine of Challenge is turned on. This seaweed will always be normal quality.
+
+Contents
+
+1 Map
+2 Gifting
+3 Bundles
+4 Recipes
+5 Buildings
+6 Tailoring
+7 Quests
+8 References
+9 History
+
+
+Map
+Seaweed can be found in the ocean and on the beach.
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Dislike
+
+ Leah •  Marnie •  Sam •  Shane
+
+
+Hate
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leo •  Lewis •  Linus •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sandy •  Sebastian •  Vincent •  Willy •  Wizard
+
+Bundles
+Seaweed is not used in any bundles.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Recipe Source(s)
+Sell Price
+
+
+
+
+Maki Roll
+
+Fish and rice wrapped in seaweed.
+
+ Any Fish (1) Seaweed (1) Rice (1)
+
+ 100 45
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 1
+
+ Stardrop Saloon for 300g
+
+220g
+
+
+Buildings
+
+
+Image
+
+Name
+
+Description
+
+Cost
+
+Size
+
+
+
+
+Fish Pond
+
+Raise fish and harvest their produce. Fish multiply over time.
+
+5,000g Stone (200) Seaweed (5) Green Algae (5)
+
+5x5
+
+Tailoring
+Seaweed is used in the spool of the Sewing Machine to create the Kelp Shirt.     It can be used in dyeing, serving as a green dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Quests
+Seaweed may be randomly requested during any season at the "Help Wanted" board outside Pierre's General Store for a reward of 60g and 150 Friendship points.
+1-2 Seaweed may be requested by several ocean fish in a Fish Pond quest to increase the capacity of the pond from 3 to 5.
+References
+
+↑ See Beach::DayUpdate in the game code.  The spawn position starts at point (66,24) on the beach map.
+
+↑ In the game data (ObjectInformation.xnb) the type assigned to Seaweed is "Fish", but it is not assigned the Fish category (-4).  The label displayed in-game and most uses are controlled by the category.
+
+
+History
+1.3.27: Added chance to catch during Night Market.
+1.4: Added as forage to the beach.  Added as Fish Pond build material.  Can now be used in Tailoring.  Can be requested in Fish Pond quests. Can be produced by Fish Ponds.
+1.5: Can now be used as decoration in Fish Tanks. Added Shrine of Challenge to sources.
+
+
+Foraging
+
+
+Basic
+
+Sap
+
+
+Spring
+
+Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish
+
+
+Summer
+
+Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea
+
+
+Fall
+
+Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum
+
+
+Winter
+
+Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root
+
+
+The Beach
+
+Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed
+
+
+The Mines
+
+Cave Carrot • Purple Mushroom • Red Mushroom
+
+
+The Desert
+
+Cactus Fruit • Coconut
+
+
+Skull Cavern
+
+Dinosaur Egg • Fiddlehead Fern
+
+
+Ginger Island
+
+Ginger • Magma Cap
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Seaweed&oldid=142571"
+Categories: FishingBeach Forage
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 26 October 2022, at 03:37.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

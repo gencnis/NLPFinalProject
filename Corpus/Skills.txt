@@ -1,0 +1,1002 @@
+
+
+
+
+
+Skills - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skills
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+GettingStarted
+
+ThePlayer
+
+Options
+
+Controls
+
+MobileControls
+
+Health
+
+Energy
+
+Skills
+
+DayCycle
+
+Contents
+
+1 Proficiency
+
+1.1 Affected Tools
+1.2 Unaffected Tools
+
+
+2 Farming
+3 Mining
+4 Foraging
+
+4.1 Experience Points
+
+
+5 Fishing
+6 Combat
+7 Changing Professions
+8 Skill-Based Title
+9 Unused Content
+10 References
+11 History
+
+
+
+Skills are player attributes which are leveled up through the use of specific tools or actions. Each skill has ten levels. A skill level increase is awarded immediately upon earning enough experience points for a new level, and is immediately displayed on the skills tab of the inventory. The new skill level immediately increases the proficiency of the tool(s) associated with that skill.
+Overnight, after the player goes to bed on the day a skill level increases, a popup announces the increase, and additionally awards knowledge of any applicable crafting or cooking recipes. At level 5 and level 10, players also select which one of two available Professions to specialize in. Each profession has its own set of benefits, such as sell price bonuses for related items. It should be noted that awards of recipe knowledge or profession benefits do not take place until seen in the popup overnight, and are not available until the first thing the following morning. In particular, items sold or shipped the day of the skill level increase do not receive the new price bonuses. Like recipes, profession benefits are only available beginning the following day.
+All skills need the following experience points to increase skill level:
+
+
+
+
+
+
+Lvl
+
+Experience
+
+Total Experience
+
+
+1
+
+100
+
+100
+
+
+2
+
++280
+
+380
+
+
+3
+
++390
+
+770
+
+
+4
+
++530
+
+1300
+
+
+5
+
++850
+
+2150
+
+
+
+
+
+
+Lvl
+
+Experience
+
+Total Experience
+
+
+6
+
++1150
+
+3300
+
+
+7
+
++1500
+
+4800
+
+
+8
+
++2100
+
+6900
+
+
+9
+
++3100
+
+10000
+
+
+10
+
++5000
+
+15000
+
+
+
+A variety of skills can be temporarily improved by eating specific foods.  These skills will appear as a buff icon next to the player clock in the user interface.  Skills can be viewed in the player skill tab in the game pause menu.
+
+
+
+ Farming
+
+Levels are gained by harvesting crops and caring for animals. Each level grants +1 hoe and watering can proficiency (see tools).
+
+
+ Mining
+
+Mining skill is increased by breaking rocks (normally done with a Pickaxe). Each level grants +1 pickaxe proficiency.
+
+
+ Foraging
+
+Foraging skill includes both gathered foraged goods, and wood from trees chopped with an axe tool.  Each level grants +1 axe proficiency.
+
+
+ Fishing
+
+Fishing is associated with successfully completing the fishing mini-game or catching fish in a Crab Pot, increasing the fishing skill. Each level grants +1 fishing rod proficiency.
+
+
+ Combat
+
+Combat is a skill tied to the player's ability to fight against monsters.
+
+Proficiency
+Proficiency refers to the amount of energy required to use a specific tool.
+At skill level 0, each successful use of a Pickaxe, Axe, or Hoe costs 2 energy. Unsuccessful uses (e.g., attempting to chop a Large Log with the starter axe) cost 1 energy. Each cast of the Fishing Pole costs 8 energy, even if the cast fails (e.g., the fishing line does not land in water). The starter Watering Can uses 2 energy.
+Each increase in skill decreases energy requirements by 0.1 points for specific tools (listed below). Skill increases past level 10 (only possible temporarily via Buffs) continue to decrease the energy requirements.  So, for example, using a Pickaxe at Mining level 13 costs only 0.7 points per swing. (The game keeps track of fractional amounts of energy, but in the user interface they are rounded to the nearest integer.)
+Powering up an upgraded Watering Can increases its energy cost by 2 points per power-up; each increase in skill decreases the energy requirement by 0.1 points (regardless of power level). At Farming Level 0, the starter can uses 2 energy to water one tile; the iridium can at maximum power uses 10 energy to water eighteen tiles.  At Farming Level 10, the starter can uses 1 energy; the iridium at maximum power uses 9 energy (10 minus 0.1 per skill level). Using an upgraded can to water fewer tiles than it is able costs the same energy as the first watering can upgrade that is able to water that many tiles (single tile always the same as starter can, 5 tiles always the same as steel can). Attempting to use an empty watering can doesn't cost energy. Filling a watering can never uses energy.
+Upgrading an Axe, Pickaxe, or Hoe does not alter the amount of energy required to use it. The increased power of the Axe and Pickaxe and increased area-of-effect of the Hoe will result in less overall energy used for the same task than a lower-level tool.  
+Note that all Hoes use the same energy (2 points at Farming Level 0, and 1 point at Farming Level 10), whether powered-up or used to till one tile of soil.
+All fishing poles use the same energy:  8 points at Fishing Level 0, and 7 points at Fishing Level 10.
+
+
+
+
+Affected Tools
+Farming
+
+Hoe
+Watering Can
+Foraging
+
+Axe
+Fishing
+
+Fishing Rod
+Mining
+
+Pickaxe
+
+
+
+
+Unaffected Tools
+The following tools do not consume energy:
+
+Copper Pan
+Scythe
+Golden Scythe
+Weapons
+Swords
+Clubs
+Daggers
+Slingshots
+The following tools always consume 4 points of energy:
+
+Milk Pail
+Shears
+
+
+Neither loading a Crab Pot with Bait nor harvesting it uses any energy, at any skill level.
+
+ Farming
+Main article: Farming
+Farming skill is gained by harvesting crops. Caring for animals also adds experience: Petting, milking, and shearing farm animals or picking up an animal product inside a barn or coop each give 5 experience points. Using a hoe or watering can does not grant experience by itself. Each level grants +1 proficiency to hoes and watering cans.
+
+
+
+Level 1
+
+Level 2
+
+Level 3
+
+Level 4
+
+Level 5
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting / Cooking Recipes:
+
+Crafting Recipes:
+
+Choose a Profession:
+
+
+ Scarecrow Basic Fertilizer
+
+ Mayonnaise Machine Stone Fence Sprinkler
+
+ Bee House Speed-Gro Farmer's Lunch
+
+ Preserves Jar Basic Retaining Soil Iron Fence
+
+ Rancher
+Animal products worth 20% more.
+
+
+ Tiller
+Crops worth 10% more.
+(Bonus applies to all Vegetables and Flowers, plus any Fruit that has not been foraged)
+
+
+
+
+
+
+Level 6
+
+Level 7
+
+Level 8
+
+Level 9
+
+Level 10
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Rancher:
+
+Tiller:
+
+
+ Cheese Press Hardwood Fence Quality Sprinkler
+
+ Loom Quality Retaining Soil
+
+ Oil Maker Keg Deluxe Speed-Gro
+
+ Seed Maker Iridium Sprinkler Quality Fertilizer
+
+ Coopmaster
+Befriend coop animals quicker. Incubation time (for Incubator and Ostrich Incubator) cut in half.
+(Also improves coop product quality, see details here)
+
+
+ Artisan
+Artisan goods (wine, cheese, oil, etc.) worth 40% more.
+(Note that oil does not actually benefit from the Artisan Profession)
+
+
+
+ Shepherd
+Befriend barn animals quicker.  Sheep produce wool faster.
+(Also improves barn product quality, see details here)
+
+
+ Agriculturist
+All crops grow 10% faster.
+
+
+ Mining
+Main article: Mining
+Mining skill is increased by breaking rocks. Each level adds +1 to Pickaxe proficiency.
+Mining skill points are awarded when rocks are destroyed -- it doesn't matter if this is done by Pickaxe, Bombs, or by the action of Monsters.
+Different rock types give different numbers of experience points.
+
+
+
+Level 1
+
+Level 2
+
+Level 3
+
+Level 4
+
+Level 5
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Cooking Recipes:
+
+Crafting Recipes:
+
+Choose a Profession:
+
+
+ Cherry Bomb
+
+ Staircase
+
+ Miner's Treat
+
+ Glowstone Ring Transmute (Fe)
+
+ Miner
++1 ore per vein.
+
+ Geologist
+Chance for gems to appear in pairs.
+(50% chance per Node.  Also applies to geodes spawned from breaking rocks.)
+
+
+
+
+
+Level 6
+
+Level 7
+
+Level 8
+
+Level 9
+
+Level 10
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Miner:
+
+Geologist:
+
+
+ Bomb
+
+ Transmute (Au)
+
+ Mega Bomb
+
+ Crystalarium
+
+ Blacksmith
+Metal bars worth 50% more.
+(Applies to Copper, Iron, Gold, Iridium, & Radioactive Bars)
+
+ Excavator
+Chance to find geodes doubled.
+(Applies to all 4 types of geodes)
+
+
+ Prospector
+Chance to find coal doubled.
+
+ Gemologist
+Gems worth 30% more.
+(applies to Minerals and Gems)
+
+ Foraging
+Main article: Foraging
+Foraging skill is increased both by gathering forage items found on the ground throughout Stardew Valley and by chopping down Trees with an Axe.  Each foraging skill level adds +1 axe proficiency.
+
+
+
+Level 1
+
+Level 2
+
+Level 3
+
+Level 4
+
+Level 5
+
+
+Crafting Recipes:
+
+Cooking Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Choose a Profession:
+
+
+ Wild Seeds (Sp) Field Snack
+Trees sometimesdrop seeds.
+
+ Survival Burger
+
+ Tapper
+
+ Charcoal Kiln Wild Seeds (Su)
++1 Wild Berryharvesting
+
+ Forester
+Gain 25% more wood when chopping
+(Applies to Trees, Stumps & Logs)
+
+ Gatherer
+Chance for double harvest of foraged items.
+(20% chance of double harvest)
+
+
+
+
+
+Level 6
+
+Level 7
+
+Level 8
+
+Level 9
+
+Level 10
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Forester:
+
+Gatherer:
+
+
+ Lightning Rod Wild Seeds (Fa) Warp Totem:Beach
+
+ Wild Seeds (Wi) Warp Totem:Mountains Tree Fertilizer
+
+ Warp Totem: Farm+1 Wild Berryharvesting
+
+ Rain Totem Cookout Kit
+
+ Lumberjack
+All trees have a chance to drop hardwood.
+
+ Botanist
+Foraged items are always highest quality.
+
+
+ Tapper
+Syrups worth 25% more.
+
+ Tracker
+Location of forageable items revealed.
+
+Experience Points
+Experience points (XP) are granted as follows:
+
+12 XP for chopping down a tree with an axe (granted all at once for the last chop that causes the tree to fall).
+1 XP for removing the tree stump after chopping down a tree.
+25 XP for removing Large Stumps and Large Logs.
+7 XP for each foraged item picked up from the ground.
+If the Gatherer profession doubles the foraged item, another 7 XP is granted for the extra item.
+3 XP for each Spring Onion harvested from Cindersap Forest in Spring.
+The 7 XP for foraging items applies solely to those items visible sitting on the ground that are picked up only if the player clicks on them; it does not apply to items lying on the ground (e.g., dropped by shaking) that are automatically added to the player inventory by magnetism. Specific items that do grant 7 XP include:
+
+Standard randomly-spawned foraged items throughout Stardew Valley and Calico Desert.
+Items grown from Wild Seeds (except if in a Garden Pot, in which case 0 XP).
+All items foraged from the Beach and the west side of Ginger Island.
+All fruit collected from the Farm Cave, if the fruit bat option was selected.
+All mushrooms collected from the Ginger Island Mushroom Cave.
+Truffles.
+Forage items spawned on the ground in the Mines and Skull Cavern, namely Red Mushrooms, Purple Mushrooms, and Fiddlehead Ferns.
+
+The following Items do NOT grant any foraging experience:
+
+Trees felled by Bombs (however, weakening a tree with bombs before felling it with an axe will still give full XP).
+Blackberries and Salmonberries from bushes (whether picked by the player or shaken loose by animals).
+Grapes grown from Grape Starters (grants Farming XP instead).
+Items dug up from artifact spots, such as Snow Yams and Winter Roots.
+Items grown in Garden Pots.
+Mushrooms collected from the Farm Cave if the mushroom option was selected.
+Mushrooms obtained from chopping or tapping a Mushroom Tree.
+Non-forage items spawned on the ground in the Mines and Skull Cavern, namely Quartz, Earth Crystals, Frozen Tears, Fire Quartz, and Dinosaur Eggs -- except that a bug causes any duplicates created by the Gatherer profession to give 7 XP.
+Forageables obtained from killing Monsters.
+Gingers dug up from the ground.
+
+
+ Fishing
+Main article: Fishing
+Fishing Skill is increased by catching Fish, Trash, Seaweed, Green Algae, or White Algae with a Fishing Rod/Pole or by harvesting Crab Pots.
+Each level grants +1 Fishing Rod Proficiency, increases the minimum fish size (in/cm) and bobber bar height, and decreases the max amount of time before fish bite.  Fishing skill also increases the chance to find quality (silver or gold star) fish.
+
+
+Level 1
+
+Level 2
+
+Level 3
+
+Level 4
+
+Level 5
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting / Cooking Recipes:
+
+Crafting Recipes:
+
+Choose a Profession:
+
+
+Casting distance increased by one tile
+
+ BaitFiberglass Rod & Bait unlocked in Willy's Fish Shop
+
+ Crab Pot Dish O' The SeaCrab Pot unlocked in Willy's Fish Shop
+
+ Recycling MachineCasting distance increased by one tile
+
+ Fisher
+Fish worth 25% more.
+
+ Trapper
+Resources required to craft crab pots reduced.
+
+
+
+
+
+Level 6
+
+Level 7
+
+Level 8
+
+Level 9
+
+Level 10
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting / Cooking Recipes:
+
+Fisher:
+
+Trapper:
+
+
+ Spinner Trap BobberIridium Rod, Lead Bobber, Spinner, & Trap Bobber unlocked in Willy's Fish Shop
+
+ Cork Bobber Treasure HunterCork Bobber & Treasure Hunter unlocked in Willy's Fish Shop
+
+ Worm Bin Barbed Hook Dressed SpinnerBarbed Hook
+ & Dressed Spinner unlocked in Willy's Fish ShopCasting distance increased by one tile
+
+ Seafoam Pudding MagnetMagnet unlocked in Willy's Fish Shop
+
+ Angler
+Fish worth 50% more.
+
+ Mariner
+Crab pots no longer produce junk items.
+
+
+ Pirate
+Chance to find treasure doubled.
+
+ Luremaster
+Crab pots no longer require bait.
+
+ Combat
+Main article: Combat
+Combat skill is increased by fighting monsters.  Some levels add to the player's total HP (health points), as shown by an increase in the health meter.   
+
+
+
+Level 1
+
+Level 2
+
+Level 3
+
+Level 4
+
+Level 5
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Cooking Recipes:
+
+Crafting Recipes:
+
+Choose a Profession:
+
+
+ Sturdy Ring Bug Steak
+
+ Life Elixir
+
+ Roots Platter
+
+ Warrior Ring
+
+ Fighter
+All attacks deal 10% more damage.
+(+15 HP)
+
+ Scout
+Critical strike chance increased by 50%.
+(+0 HP)
+(Note that the increase is multiplicative. The formula is: critChance = critChance * 1.5)
+
+
+
+
+
+
+Level 6
+
+Level 7
+
+Level 8
+
+Level 9
+
+Level 10
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting / Cooking Recipes:
+
+Fighter:
+
+Scout:
+
+
+ Slime Egg-Press Oil of Garlic
+
+ Ring of Yoba Thorns Ring
+
+ Slime Incubator Explosive Ammo
+
+ Iridium Band Squid Ink Ravioli
+
+ Brute
+Deal 15% more damage.
+(+0 HP)
+(Stacks multiplicatively with Fighter)
+
+
+ Acrobat
+Cooldown on special moves cut in half.
+(+0 HP)
+
+
+ Defender
++25 HP.
+
+ Desperado
+Critical strikes are deadlier.
+(+0 HP)
+(2x Critical strike damage)
+
+
+Changing Professions
+The Statue Of Uncertainty in The Sewers allows the player to change professions.  After donating 10,000g, the statue requires the player to choose one skill to change.  That night after the player goes to bed, the Level 5 "Choose a profession" screen will appear, followed by the corresponding Level 10 "Choose a profession" screen for the skill selected at the statue.
+Only skills for which professions have already been chosen will appear in the Statue's menu.  As soon as the player chooses a profession to change, the bonuses for existing professions disappear. Skills that gives bonuses to sell prices will not apply to items placed in the shipping bin the day the profession is changed.
+Just like levelling up a skill at the end of the day causes the player to wake up with full energy the next day no matter what, using this statue on any given day will cause the player to wake up with full energy the next day as well.
+
+Skill-Based Title
+Based on the total Skill level a certain Title is given under the player's name in the Skills tab of the Player Menu.  Their level and title are also visible when hovering over their picture on the Inventory Tab of the Player Menu.
+The level is calculated as follows:  (farmingLevel + fishingLevel + foragingLevel + combatLevel + miningLevel + luckLevel) / 2
+If the resulting number ends in 0.5, the decimal value is truncated, and only the integer portion is considered.
+Here are the possible Titles:
+
+level  ≥ 30: Farm King
+level  > 28: Cropmaster
+level  > 26: Agriculturist
+level  > 24: Farmer
+level  > 22: Rancher
+level  > 20: Planter
+level  > 18: Granger
+level  > 16: Farmgirl/Farmboy
+level  > 14: Sodbuster
+level  > 12: Smallholder
+level  > 10: Tiller
+level  > 8:  Farmhand
+level  > 6:  Cowpoke
+level  > 4:  Bumpkin
+level  > 2:  Greenhorn
+level  ≤ 2:  Newcomer
+Luck level 10 as well as level 10 in all Skills would be needed to get the Highest title, Farm King.  Unfortunately, luck level (a value separate from daily Luck) is not implemented in the game as of PC v1.5.  Luck level appears (in the game code) to have been intended as a 6th skill that could be leveled up, like the other skills. This means that the highest level possible is 25, making "Farmer" the best obtainable title.
+
+Unused Content
+There is a reference in the game's code to an unused skill point system. The system appears to allow the player to accumulate and spend skill points.
+Based on the unused code, there would have been 36 skill point increases to go through, which were based on a combination of the player's skill level and the cumulative amount of money the player had earned. There is no indication of what the points would be spent on.[1]
+
+References
+
+↑ See Farmer::checkForLevelUp in the game code.
+
+
+History
+1.3.27: Added Statue of Uncertainty. Removing a regular tree stump now gives +1 Foraging experience.
+1.4: Fixed Prospector profession not applied to rocks destroyed in the mines.
+1.4.1: Profession bonuses now disappear as soon as a profession is chosen to be changed at the Statue of Uncertainty.  Only skills that have already chosen professions are shown in the Statue's menu.
+
+
+Skills & Stats
+
+
+Skills
+
+Farming • Mining • Foraging • Fishing • Combat
+
+
+Stats
+
+Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Skills&oldid=141232"
+Category: Skills
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 29 August 2022, at 18:30.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

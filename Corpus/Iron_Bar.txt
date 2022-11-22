@@ -1,0 +1,651 @@
+
+
+
+
+
+Iron Bar - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iron Bar
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Iron Bar
+
+
+
+
+
+A bar of pure iron.
+
+
+Information 
+
+
+Source:
+
+Crafting • Furnace
+
+
+Sell Price:
+
+120g
+
+
+Blacksmith Profession:   (+50% Sell Price)
+
+180g
+
+
+Crafting
+
+
+Equipment:
+
+ Furnace
+
+
+Time to Craft:
+
+ 2h
+
+
+Ingredients:
+
+ Iron Ore (5) Coal (1)
+
+
+An Iron Bar is created by smelting 5 Iron Ore in a furnace with 1 coal for fuel, or by Crafting the "Transmute (Fe)" recipe (3 Copper Bars into one Iron Bar which is unlocked at mining level 4).  
+Iron Bars may occasionally be found in Garbage Cans after receiving the Furnace blueprints from Clint.  An Iron Bar may also drop from a Shadow Brute (2% chance) or Shadow Shaman (2% chance) when slain.
+Smelting iron ore in a furnace takes 2 in-game hours.  The "Transmute (Fe)" recipe is earned at Mining Level 4.
+Iron bars are used in a variety of crafting recipes and are used to upgrade tools to tier 3. Each iron bar can be sold for 120g, or 180g with the Blacksmith Profession.
+
+Contents
+
+1 Tool Upgrades
+2 Crafting
+3 Buildings
+4 Gifting
+5 Bundles
+6 Tailoring
+7 Quests
+8 Notes
+9 History
+
+
+Tool Upgrades
+Iron Bars are required for the second upgrade of tools.
+
+
+
+Image
+
+Name
+
+Cost
+
+Ingredients
+
+
+
+
+Steel Hoe
+
+5,000g
+
+ Iron Bar (5)
+
+
+
+
+Steel Pickaxe
+
+5,000g
+
+ Iron Bar (5)
+
+
+
+
+Steel Axe
+
+5,000g
+
+ Iron Bar (5)
+
+
+
+
+Steel Watering Can
+
+5,000g
+
+ Iron Bar (5)
+
+
+
+
+Steel Trash Can
+
+2,500g
+
+ Iron Bar (5)
+
+Crafting
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+Iron Bars are used to make the following items:
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Glowstone Ring
+
+Emits a constant light, and also increases your radius for collecting items.
+
+ Solar Essence (5) Iron Bar (5)
+
+ Mining Level 4
+
+
+
+
+Warrior Ring
+
+Occasionally infuses the wearer with "warrior energy" after slaying a monster.
+
+ Iron Bar (10) Coal (25) Frozen Tear (10)
+
+ Combat Level 4
+
+
+
+
+Ring of Yoba
+
+Occasionally shields the wearer from damage.
+
+ Iron Bar (5) Diamond (1) Gold Bar (5)
+
+ Combat Level 7
+
+
+
+
+Explosive Ammo
+
+Fire this with the slingshot.
+
+ Iron Bar (1) Coal (2)
+
+ Combat Level 8
+
+
+
+
+Bee House
+
+Place outside and wait for delicious honey! (Except in Winter).
+
+ Iron Bar (1) Coal (8) Wood (40) Maple Syrup (1)
+
+ Farming Level 3
+
+
+
+
+Sprinkler
+
+Waters the 4 adjacent tiles every morning.
+
+ Iron Bar (1) Copper Bar (1)
+
+ Farming Level 3
+
+
+
+
+Iron Fence
+
+Lasts longer than a stone fence.
+
+ Iron Bar (1)
+
+ Farming Level 4
+
+
+
+
+Quality Sprinkler
+
+Waters the 8 adjacent tiles every morning.
+
+ Iron Bar (1) Gold Bar (1) Refined Quartz (1)
+
+ Farming Level 6
+
+
+
+
+Keg
+
+Place a fruit or vegetable in here. Eventually it will turn into a beverage.
+
+ Iron Bar (1) Copper Bar (1) Wood (30) Oak Resin
+
+ Farming Level 8
+
+
+
+
+Crab Pot
+
+Place it in the water, load it with bait, and check the next day to see if you've caught anything. Works in streams, lakes, and the ocean.
+
+ Iron Bar (3) Wood (40)
+
+ Fishing Level 3
+
+
+
+
+Recycling Machine
+
+Turns fishing trash into resources.
+
+ Iron Bar (1) Stone (25) Wood (25)
+
+ Fishing Level 4
+
+
+
+
+Spinner
+
+The shape makes it spin around in the water. Slightly increases the bite-rate when fishing.
+
+ Iron Bar (2)
+
+ Fishing Level 6
+
+
+
+
+Barbed Hook
+
+Makes your catch more secure, causing the "fishing bar" to cling to your catch. Works best on slow, weak fish.
+
+ Iron Bar (1) Copper Bar (1) Gold Bar (1)
+
+ Fishing Level 8
+
+
+
+
+Dressed Spinner
+
+The metal tab and colorful streamers create an enticing spectacle for fish. Increases the bite-rate when fishing.
+
+ Iron Bar (2) Cloth (1)
+
+ Fishing Level 8
+
+
+
+
+Worm Bin
+
+Produces bait on a regular basis. The worms are self-sufficient.
+
+ Iron Bar (1) Fiber (50) Gold Bar (1) Hardwood (25)
+
+ Fishing Level 8
+
+
+
+
+Magnet (3)
+
+Increases the chance of finding treasures when fishing. However, fish aren't crazy about the taste.
+
+ Iron Bar (1)
+
+ Fishing Level 9
+
+
+
+
+Lightning Rod
+
+Collects energy from lightning storms and turns it into battery packs.
+
+ Iron Bar (1) Refined Quartz (1) Bat Wing (5)
+
+ Foraging Level 6
+
+
+
+
+Warp Totem: Mountains
+
+Warp directly to the mountains. Consumed on use.
+
+ Iron Bar (1) Hardwood (1) Stone (25)
+
+ Foraging Level 7
+
+
+
+
+Transmute (Au)
+
+A bar of pure gold.
+
+ Iron Bar (2)
+
+ Mining Level 7
+
+
+
+
+Iron Lamp-post
+
+Provides a good amount of light.
+
+ Iron Bar (1) Battery Pack (1)
+
+ Carpenter's Shop(1,000g)
+
+
+Buildings
+
+
+Image
+
+Name
+
+Description
+
+Cost
+
+Size
+
+
+
+
+Stable
+
+Allows you to keep and ride a horse. Horse included.
+
+10,000g Hardwood (100) Iron Bar (5)
+
+4x2
+
+Gifting
+
+
+Villager Reactions
+
+
+Like
+
+ Clint •  Maru
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Pam •  Penny •  Pierre •  Robin •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+
+Hate
+
+ Sam
+
+Bundles
+An Iron Bar is used in the  Blacksmith's Bundle in the Boiler Room.
+
+Tailoring
+An Iron Bar is used in the spool of the Sewing Machine to create the Steel Breastplate.  
+
+Quests
+Clint requests an Iron Bar by mail on the 17th of Winter in the "A Favor for Clint" quest.  The reward is 500g and 1 Friendship heart.
+An Iron Bar may be randomly requested during any season at the "Help Wanted" Board outside Pierre's General Store for a reward of 360g and 150 Friendship points.  An Iron Bar will never be requested until you have the Furnace blueprints.
+Three or four Iron Bars may be requested by Catfish, Ice Pip, or Spook Fish in Fish Pond quests.
+Notes
+When selling Iron Bars, crafting them into Gold Bars first increases the profit by 10g per Gold Bar (15g with the Blacksmith profession).
+History
+1.4: Can now be used in Tailoring. Can be requested in Fish Pond quests.
+
+
+Resources
+
+
+Basic
+
+Battery Pack • Bone Fragment • Cinder Shard • Clay • Coal • Fiber • Hardwood • Stone • Wood
+
+
+Ore
+
+Copper Ore • Iron Ore • Gold Ore • Iridium Ore • Radioactive Ore
+
+
+Bars
+
+Copper Bar • Iron Bar • Gold Bar • Iridium Bar • Radioactive Bar • Refined Quartz
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Iron_Bar&oldid=142904"
+Categories: ResourcesCraftable itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 14:41.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

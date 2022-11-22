@@ -1,0 +1,810 @@
+
+
+
+
+
+Shipping - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shipping
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+This article is primarily about the game mechanic. For the placeable object, see Farm Buildings.
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+
+“
+
+“If you have anything to sell, just place it in this box here. I'll come by during the night to collect it.”
+
+
+— Lewis
+
+
+Shipping allows the player to sell items by placing them into a Shipping Bin or Mini-Shipping Bin.  Gold is received after going to sleep for the night.
+ Iridium quality items have the highest value, followed by  gold,  silver, and regular quality items, in that order. The amount of gold received from shipping is the same as when selling to a merchant. The main difference is that merchants will pay immediately, while the money received from shipping is given the next day.  Also, not all items can be sold using both methods: some items can only be sold using the shipping bin; other items that cannot be placed in the shipping bin can be sold to merchants (notably, weapons can be sold to the Adventurer's Guild).  Items sold to merchants are not included in the statistics on the Collection tab and do not count towards shipping-specific Achievements.
+The shipping bin opens its lid when the player approaches it.  To ship an item (or stack of items), approach the shipping bin and "use" it (right-click on it), then left-click on the item in inventory.  Alternatively, select an item in inventory, approach the shipping bin, and left-click on the bin.
+If a mistake is made and the wrong item is put in the shipping bin, "use" the bin at any time during the same day to display the last item. Click on that item to add it back into inventory. Only the last item shipped can be retrieved.
+The player begins the game with one Shipping Bin located near the mailbox on The Farm, but more can be purchased at the Carpenter's Shop for 250g and  Wood (150).  These can be placed anywhere on the farm.
+
+Contents
+
+1 Collection
+2 Achievements
+
+2.1 Polyculture
+2.2 Monoculture
+2.3 Full Shipment
+
+
+3 History
+
+
+Collection
+Shown below is the Shipping Collection tab of the player menu.  The game keeps track of which of the shown items are shipped and how many.
+
+
+
+
+Wild Horseradish
+
+Daffodil
+
+Leek
+
+Dandelion
+
+Parsnip
+
+Cave Carrot
+
+Coconut
+
+Cactus Fruit
+
+Banana
+
+Sap
+
+
+
+Iridium Ore
+
+Wood
+
+Stone
+
+Nautilus Shell
+
+Coral
+
+Rainbow Shell
+
+Spice Berry
+
+Sea Urchin
+
+Grape
+
+Spring Onion
+
+
+
+Cinder Shard
+
+Magma Cap
+
+Bone Fragment
+
+Radioactive Ore
+
+Radioactive Bar
+
+
+Large Egg (white)
+
+Egg (white)
+
+Egg (brown)
+
+Large Egg (brown)
+
+Milk
+
+Large Milk
+
+Green Bean
+
+Cauliflower
+
+Potato
+
+Garlic
+
+
+
+Strawberry
+
+Sweet Pea
+
+Common Mushroom
+
+Wild Plum
+
+Hazelnut
+
+Blackberry
+
+Winter Root
+
+Crystal Fruit
+
+Snow Yam
+
+Sweet Gem Berry
+
+
+Kale
+
+Rhubarb
+
+Melon
+
+Tomato
+
+Morel
+
+Blueberry
+
+Fiddlehead Fern
+
+Hot Pepper
+
+Wheat
+
+Radish
+
+
+
+Crocus
+
+Red Mushroom
+
+Sunflower
+
+Purple Mushroom
+
+Cheese
+
+Goat Cheese
+
+Cloth
+
+Truffle
+
+Truffle Oil
+
+Coffee Bean
+
+
+Red Cabbage
+
+Starfruit
+
+Corn
+
+Unmilled Rice
+
+Eggplant
+
+Artichoke
+
+Pumpkin
+
+Bok Choy
+
+Yam
+
+Chanterelle
+
+
+
+Goat Milk
+
+Large Goat Milk
+
+Wool
+
+Duck Egg
+
+Duck Feather
+
+Caviar
+
+Rabbit's Foot
+
+Aged Roe
+
+Ancient Fruit
+
+Mead
+
+
+Cranberries
+
+Holly
+
+Beet
+
+Ostrich Egg
+
+Salmonberry
+
+Amaranth
+
+Pale Ale
+
+Hops
+
+Void Egg
+
+Mayonnaise
+
+
+
+Tulip
+
+Summer Spangle
+
+Fairy Rose
+
+Blue Jazz
+
+Apple
+
+Green Tea
+
+Apricot
+
+Orange
+
+Peach
+
+Pomegranate
+
+
+Duck Mayonnaise
+
+Void Mayonnaise
+
+Clay
+
+Copper Bar
+
+Iron Bar
+
+Gold Bar
+
+Iridium Bar
+
+Refined Quartz
+
+Honey (any)
+
+Pickles (any)
+
+
+
+Cherry
+
+Bug Meat
+
+Hardwood
+
+Maple Syrup
+
+Oak Resin
+
+Pine Tar
+
+Slime
+
+Bat Wing
+
+Solar Essence
+
+Void Essence
+
+
+Jelly (any)
+
+Beer
+
+Wine (any)
+
+Juice (any)
+
+Clam
+
+Poppy
+
+Copper Ore
+
+Iron Ore
+
+Coal
+
+Gold Ore
+
+
+
+Fiber
+
+Battery Pack
+
+Dinosaur Mayonnaise
+
+Roe (any)
+
+Squid Ink
+
+Tea Leaves
+
+Ginger
+
+Taro Root
+
+Pineapple
+
+Mango
+
+Page One
+
+
+
+Wild Horseradish
+Daffodil
+Leek
+Dandelion
+Parsnip
+Cave Carrot
+Coconut
+Cactus Fruit
+Banana
+Sap
+
+
+Large Egg (white)
+Egg (white)
+Egg (brown)
+Large Egg (brown)
+Milk
+Large Milk
+Green Bean
+Cauliflower
+Potato
+Garlic
+
+
+Kale
+Rhubarb
+Melon
+Tomato
+Morel
+Blueberry
+Fiddlehead Fern
+Hot Pepper
+Wheat
+Radish
+
+
+Red Cabbage
+Starfruit
+Corn
+Unmilled Rice
+Eggplant
+Artichoke
+Pumpkin
+Bok Choy
+Yam
+Chanterelle
+
+
+Cranberries
+Holly
+Beet
+Ostrich Egg
+Salmonberry
+Amaranth
+Pale Ale
+Hops
+Void Egg
+Mayonnaise
+
+
+Duck Mayonnaise
+Void Mayonnaise
+Clay
+Copper Bar
+Iron Bar
+Gold Bar
+Iridium Bar
+Refined Quartz
+Honey (any)
+Pickles (any)
+
+
+Jelly (any)
+Beer
+Wine (any)
+Juice (any)
+Clam
+Poppy
+Copper Ore
+Iron Ore
+Coal
+Gold Ore
+
+Page Two
+
+
+
+Iridium Ore
+Wood
+Stone
+Nautilus Shell
+Coral
+Rainbow Shell
+Spice Berry
+Sea Urchin
+Grape
+Spring Onion
+
+
+Strawberry
+Sweet Pea
+Common Mushroom
+Wild Plum
+Hazelnut
+Blackberry
+Winter Root
+Crystal Fruit
+Snow Yam
+Sweet Gem Berry
+
+
+Crocus
+Red Mushroom
+Sunflower
+Purple Mushroom
+Cheese
+Goat Cheese
+Cloth
+Truffle
+Truffle Oil
+Coffee Bean
+
+
+Goat Milk
+Large Goat Milk
+Wool
+Duck Egg
+Duck Feather
+Caviar
+Rabbit's Foot
+Aged Roe
+Ancient Fruit
+Mead
+
+
+Tulip
+Summer Spangle
+Fairy Rose
+Blue Jazz
+Apple
+Green Tea
+Apricot
+Orange
+Peach
+Pomegranate
+
+
+Cherry
+Bug Meat
+Hardwood
+Maple Syrup
+Oak Resin
+Pine Tar
+Slime
+Bat Wing
+Solar Essence
+Void Essence
+
+
+Fiber
+Battery Pack
+Dinosaur Mayonnaise
+Roe (any)
+Squid Ink
+Tea Leaves
+Ginger
+Taro Root
+Pineapple
+Mango
+
+Page Three
+
+
+
+Cinder Shard
+Magma Cap
+Bone Fragment
+Radioactive Ore
+Radioactive Bar
+
+
+Achievements
+There are 3 Achievements associated with Shipping.
+
+Polyculture (Ship 15 of each crop)
+Monoculture (Ship 300 of one crop)
+Full Shipment (Ship every item)
+Polyculture
+There are exactly 28 Crops that must be shipped to earn the Polyculture achievement ("Ship 15 of each crop"):
+
+
+Spring Crops
+
+ Cauliflower
+ Coffee Bean
+ Garlic
+ Green Bean
+ Kale
+ Parsnip
+ Potato
+ Rhubarb
+ Strawberry
+
+
+Summer Crops
+
+ Blueberry
+ Corn
+ Hops
+ Hot Pepper
+ Melon
+ Radish
+ Red Cabbage
+ Starfruit
+ Tomato
+ Wheat
+
+
+Fall Crops
+
+ Amaranth
+ Artichoke
+ Beet
+ Bok Choy
+ Cranberries
+ Eggplant
+ Grape
+ Pumpkin
+ Yam
+
+
+Monoculture
+To earn the Monoculture achievement ("Ship 300 of one crop"), one of 33 Crops can be chosen -- any of the 28 crops listed above, or
+
+ Ancient Fruit
+ Blue Jazz
+ Fairy Rose
+ Summer Spangle
+ Tulip
+Full Shipment
+To earn the Full Shipment achievement ("Ship every item"), at least one of every item shown on the Shipping Collection tab of the player menu must be shipped.
+
+History
+1.3.27: Made extra shipping bins purchasable at the Carpenter's Shop.
+1.5: The default shipping bin can now be moved or demolished at Robin’s shop. Introduced the Mini-Shipping Bin.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Shipping&oldid=140424"
+Categories: GameplayAchievementsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 27 July 2022, at 13:16.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

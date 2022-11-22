@@ -1,0 +1,399 @@
+
+
+
+
+
+Curiosity Lure - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curiosity Lure
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Curiosity Lure
+
+
+
+
+
+Increases your chance to catch rare fish.
+
+
+Information 
+
+
+Source:
+
+
+Quarry Mine
+Skull Cavern
+Volcano Dungeon
+
+
+Sell Price:
+
+500g
+
+
+The Curiosity Lure is a tackle that increases the chance to catch rare fish. Mummies in the Skull Cavern have a 1% chance to drop Curiosity Lure. It can also be dropped from some monsters as a special item in the Skull Cavern and the Quarry Mine, or as a drop from breaking boxes, crates, and barrels in the Quarry Mine, Skull Cavern, and the Volcano Dungeon.
+It is one of two fishing tackle that cannot be crafted, along with the Lead Bobber. It is also one of two fishing tackle that cannot be bought from Willy's Fish Shop, along with the Quality Bobber.
+Only the Iridium Rod can equip tackle. To attach tackle to an Iridium Rod, left-click on the tackle, then right-click on the Iridium Rod. To remove tackle, first right-click to remove any bait, then right-click to remove the tackle.
+Tackle does not stack in inventory or chests; each tackle takes up one inventory slot.
+
+Contents
+
+1 Global Effects
+2 Specific Fish Affected by Type
+3 Fish Not Affected
+4 Gifting
+5 Bundles
+6 Quests
+7 References
+8 History
+
+
+Global Effects
+While fishing in most locations with this lure equipped, all fish bite chances are increased. Since all chances are increased with equal proportion to their existing bite chance, this ultimately results in trash showing up slightly less often. Note that this effect only refers to the calculation for determining which fish bites: this lure does not affect the time it takes before a fish will bite.[1]
+There are three types of fish that are given separate increases and are not part of the global effect described above: Legendary fish, the fish in the Mines, and the Night Market fish. This is because the chances of hooking those fish are handled in the game code and not in the data provided by Data\Fish.xnb.
+
+Specific Fish Affected by Type
+As mentioned above, some fish are given separate bite rate increases not covered by the global effect, because they are handled directly in the game code. Assuming all requirements are met to hook it, the curiosity lure will improve the chance that the following fish will bite:
+Legendary fish
+
+The chance of hooking a Crimsonfish increases to 25% from 18% when using a Curiosity Lure. This increase also applies to the Son of Crimsonfish.[2]
+The chance of hooking a Legend increases to 20% from 10% when using a Curiosity Lure. This increase also applies to the Legend II.[3]
+The chance of hooking a Mutant Carp increases to 20% from 10% when using a Curiosity Lure. This increase also applies to the Radioactive Carp.[4]
+The chance of hooking an Angler increases to 25% from 20% when using a Curiosity Lure. This increase also applies to the Ms. Angler.[5]
+Fish in the Mines
+
+The base percentage chance to catch each fish depends on fishing zone and fishing level. The Curiosity Lure adds a static percentage increase to the chance to catch the fish. For the Stonefish, the chance increases by 5%. For the Ice Pip, the chance increases by 4.5%. For the Lava Eel, the chance increases by 4%.[6]
+Night Market fish
+
+The chances of hooking a specific fish in the submarine ride at the Night Market, with and without a Curiosity Lure, can be found on the fishing submarine page. The chances of hooking a Spook Fish, Blobfish, Super Cucumber, and a Pearl increase when using a Curiosity Lure. Consequently, the chances of hooking everything else decrease.[7]
+For the Night Market fish on The Beach (requires Magic Bait to catch), the chances each of those fish get hooked increases from 3.3% to 6.8% when using a Curiosity Lure.[2]
+Fish Not Affected
+In some cases, fish bite rates do not increase. This happens when the bite rate of the fish is handled in the game code and there is no code that suggests that there will be a higher bite rate with the lure.
+
+The chances of hooking a Glacierfish or Glacierfish Jr. do not increase when using a Curiosity Lure, despite being listed among the Legendary fish and Legendary fish II respectively.[8]
+The chances of hooking an Octopus does not increase when using a Curiosity Lure in the submarine ride at the Night Market, even though it's the fish with the lowest bite rate. With a Curiosity Lure equipped, the chance of hooking it decreases from 2.2% to 1.6%.[7]
+The chances of hooking a Lava Eel does not increase at the Volcano Caldera when using a Curiosity Lure.[6][9]
+Gifting
+
+
+Villager Reactions
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Bundles
+The Curiosity Lure is not used in any bundles.
+
+Quests
+The Curiosity Lure is not used in any quests.
+
+References
+
+↑ See GameLocation::getFish in the game code. This reduction in trash rate is due to a global increase in each fish's bite chance (with trash being the default case when no fish bite).
+
+↑ 2.0 2.1 See Beach::getFish in the game code.
+
+↑ See Mountain::getFish in the game code.
+
+↑ See Sewer::getFish in the game code.
+
+↑ See Town::getFish in the game code.
+
+↑ 6.0 6.1 See MineShaft::getFish in the game code.
+
+↑ 7.0 7.1 See Submarine::getFish in the game code.
+
+↑ See Forest::getFish in the game code.
+
+↑ See Caldera::getFish in the game code.
+
+
+History
+1.5: Introduced.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Curiosity_Lure&oldid=143295"
+Category: Fishing TackleHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 19:03.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

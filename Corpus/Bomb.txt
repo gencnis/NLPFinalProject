@@ -1,0 +1,379 @@
+
+
+
+
+
+Bomb - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bomb
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+This article is about the specific item. For all types of bomb, see Crafting#Bombs.
+
+
+
+Bomb
+
+
+
+
+
+Generates an explosion. Watch out!
+
+
+Information 
+
+
+Source:
+
+
+Crafting
+ Dwarf
+ Bat (2%)
+ Frost Bat (2%)
+ Lava Bat (2%)
+ Lava Crab (40%)
+ Serpent (15%)
+ Squid Kid (10%)
+ Desert Trader
+
+
+Sell Price:
+
+50g
+
+
+Crafting
+
+
+Recipe Source:
+
+ Mining Level 6
+
+
+Ingredients:
+
+ Iron Ore (4)  Coal (1)
+
+
+The Bomb is a one-time use explosive item.  It damages certain items within its radius.  Other items are impervious to its effects.
+Bombs can be crafted or purchased from the Dwarf (both in the Volcano Dungeon and The Mines) for 600g.  They're also offered by the Desert Trader who will exchange five Quartz for one bomb. Bats, Lava Crabs, Squid Kids, and Serpents can also drop bombs when slain.  Ten Bombs may occasionally be found in treasure rooms in the Skull Cavern. 3-5 Bombs may occasionally be found in Supply Crates on the Beach Farm provided the player has upgraded the Farmhouse exactly once.
+
+Contents
+
+1 Effects
+2 Radius
+3 Gifting
+4 Tailoring
+5 History
+
+
+Effects
+Note that the following is not an exhaustive list:
+
+Rocks and ore/gem nodes will drop their respective ores, gems, etc.
+Mushrooms and foraged minerals will be destroyed.
+Any untilled dirt tiles or Artifact Spots within a significantly smaller radius will become tilled, dropping any items (e.g., clay, artifacts) at the same rate as a player using a hoe.
+Crafted artisan and refining equipment will be destroyed.
+Heaters will be destroyed.
+Auto-Grabbers will not be destroyed, whether empty or containing items.
+Trees will be destroyed when their health reaches zero (this may require more than one bomb).  Trees will drop wood, sap, and any seeds they contained.
+Radius
+The Bomb has a radius of 5 (diameter of 11).
+
+Gifting
+
+
+Villager Reactions
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Tailoring
+A Bomb can be used in the spool of the Sewing Machine to create the Bomber Jacket.  
+
+History
+1.4: Ore nodes in the Quarry now drop ore instead of stone.  Gem Nodes in the Quarry can be destroyed by bombs.  A Bomb can now be used in Tailoring.
+1.5: Bombs can now be bought at the shop in the Volcano Dungeon. Can now be found in Supply Crates on the Beach Farm.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Bomb&oldid=143097"
+Category: Craftable itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 16:26.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

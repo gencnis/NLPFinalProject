@@ -1,0 +1,480 @@
+
+
+
+
+
+Basic Fertilizer - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basic Fertilizer
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Basic Fertilizer
+
+
+
+
+
+Improves soil quality a little, increasing your chance to grow quality crops. Mix into tilled soil.
+
+
+Information
+
+
+Source:
+
+Pierre's • Crafting
+
+
+Sell Price:
+
+2g
+
+
+Recipe
+
+
+Recipe Source(s):
+
+ Farming Level 1
+
+
+Ingredients:
+
+ Sap (2)
+
+Basic Fertilizer is a Fertilizer that helps by improving soil quality. It can be crafted or purchased from Pierre's General Store for 100g starting on Spring 15th of year 1. [1]
+Basic Fertilizer must be placed on tilled soil before a seed has sprouted.
+Basic Fertilizer affects only the basic harvest, which means that extra crops gained at a single harvest (i.e., Coffee Bean, Blueberry, Cranberries) will be regular quality.
+
+Contents
+
+1 Chance for Quality Crops
+2 Gifting
+3 Bundles
+4 Tailoring
+5 Quests
+6 History
+7 References
+
+
+Chance for Quality Crops
+
+
+Farming level
+
+% Regular quality
+
+% Silver quality
+
+% Gold quality
+
+Average price
+
+
+0
+88%
+8%
+4%
+1.04
+
+
+1
+77%
+15%
+8%
+1.08
+
+
+2
+68%
+20%
+12%
+1.11
+
+
+3
+59%
+26%
+15%
+1.14
+
+
+4
+50%
+31%
+19%
+1.17
+
+
+5
+42%
+35%
+23%
+1.20
+
+
+6
+35%
+39%
+26%
+1.23
+
+
+7
+28%
+42%
+30%
+1.25
+
+
+8
+22%
+44%
+34%
+1.28
+
+
+9
+16%
+47%
+37%
+1.30
+
+
+10
+15%
+44%
+41%
+1.32
+
+
+11
+14%
+41%
+45%
+1.33
+
+
+12
+13%
+39%
+48%
+1.34
+
+
+13
+12%
+36%
+52%
+1.35
+
+
+14
+11%
+33%
+56%
+1.36
+
+Gifting
+
+
+Villager Reactions
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Bundles
+Basic Fertilizer is not used in any bundles.
+
+Tailoring
+Basic Fertilizer can be used in the spool of the Sewing Machine to create the dyeable High-Waisted Shirt.   It can be used in dyeing, serving as an orange dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Quests
+Basic Fertilizer is not used in any quests.
+
+History
+1.4: Basic Fertilizer can be applied to seeds (but can't be applied once a seed has sprouted).  Can now be used in Tailoring.
+References
+
+↑ See SeedShop::shopStock in the game code.
+
+
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Basic_Fertilizer&oldid=140309"
+Category: Fertilizer
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 24 July 2022, at 16:07.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

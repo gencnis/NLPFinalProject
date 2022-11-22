@@ -1,0 +1,1128 @@
+
+
+
+
+
+Tools - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tools
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Tools help you get things done in the world. You can carry them with you in your backpack for ready use, or store them in a chest when not immediately needed.  
+
+Contents
+
+1 Upgrades
+2 Enchantments
+
+2.1 Combat enchantments
+2.2 Tool enchantments
+
+
+3 Proficiency
+
+3.1 Affected Tools
+3.2 Unaffected Tools
+
+
+4 Hoes
+5 Pickaxes
+6 Axes
+7 Watering Cans
+8 Trash Cans
+9 Fishing Poles
+10 Other Tools
+11 Tool Disposal
+12 Bugs
+13 History
+
+
+Upgrades
+You can upgrade your tools at the Blacksmith in exchange for gold and metal bars, with upgrades taking two days to complete. During the upgrade, you can't buy anything or ask Clint to break open geodes. Tools must be upgraded in ascending order of materials; for example, a copper tool can't be upgraded directly to iridium.
+Tips:
+
+The practical meaning of an upgrade "taking two days to complete" is that you will wake up on two successive days without your tool. You may use the tool during the day, then take it to the Blacksmith (before it closes) to upgrade.  The next day you will be without your tool.  The following day, you must travel to the Blacksmith to pick up the tool, and can use it for the remainder of the day.
+When a tool has completed upgrading, a message will appear in the lower left corner of the screen when waking up for the day.
+Enchantments
+Main article: Enchantments
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+A random enchantment can be added to any melee weapon or tool, with the exceptions of the Copper Pan, Scythe, Golden Scythe, and Trash Can. This costs one  Prismatic Shard and 20  Cinder Shards.
+Each weapon or tool can only have one enchantment, and the applied enchantment is random. However, another Prismatic Shard can be used to re-randomize it. Tools track the previous two enchantments applied to them so they're not reselected when reapplying an enchantment.
+Upgrading a tool keeps its enchantment.
+Enchantments are randomized based on the number of times any tool has been enchanted, so reloading the day and enchanting a different tool will change the progression.
+
+Combat enchantments
+Only applies to melee weapons (can't be applied to a slingshot)
+
+
+
+Name
+
+Effect
+
+
+Artful
+
+50% cooldown on special moves. (Stacks multiplicatively with Acrobat for a total of 75% cooldown reduction.)
+
+
+Bug Killer
+
+Double damage to grubs, flies, bugs, Spiders, rock crabs. Allows killing armored bugs.
+
+
+Crusader
+
+50% more damage to mummies, ghosts, skeletons, and void spirits. Prevents mummies from reviving.
+
+
+Vampiric
+
+9% Chance to regain some health on kill. Amount healed is 9% to ≈10.67% of monster's maximum health and does not scale with weapon damage.
+
+
+Haymaker
+
+More fiber is earned when collecting weeds. Also a chance to collect hay. Cutting weeds has a 50% chance of also dropping a fiber, and 33% chance of extra hay (directly into silo on farm, else into inventory).
+
+Tool enchantments
+
+
+Name
+
+Axe
+
+Rod
+
+Hoe
+
+Pick
+
+Can
+
+Effect
+
+
+Auto-Hook
+
+
+
+
+
+
+
+
+
+
+
+Automatically hooks fish/junk when they bite (which starts the fishing minigame if it hooks a fish).
+
+
+Archaeologist
+
+
+
+
+
+
+
+
+
+
+
+Double chance of finding artifacts in artifact spots.
+
+
+Bottomless
+
+
+
+
+
+
+
+
+
+
+
+Infinite water.
+
+
+Efficient
+
+
+
+
+
+
+
+
+
+
+
+No energy drain.
+
+
+Generous
+
+
+
+
+
+
+
+
+
+
+
+50% chance of double item after digging.
+
+
+Master
+
+
+
+
+
+
+
+
+
+
+
+Adds an extra fishing level to the player while held.
+
+
+Powerful
+
+
+
+
+
+
+
+
+
+
+
+Adds 1 extra power level for pickaxe, 2 for axe.
+
+
+Preserving
+
+
+
+
+
+
+
+
+
+
+
+50% chance that bait and tackle aren't consumed on use.
+
+
+Reaching
+
+
+
+
+
+
+
+
+
+
+
+Increased charge-up capacity for greater area of effect.Increases the maximum area of effect to 5x5 tiles.
+
+
+Shaving
+
+
+
+
+
+
+
+
+
+
+
+Extra 3 regular wood from Oak, Maple, Pine, Palm, and Mahogany trees.3 wood from Mushroom trees. Chance of extra hardwood from stumps.Chance of extra produce from giant crops.
+
+
+Swift
+
+
+
+
+
+
+
+
+
+
+
+Tool use is 33% faster.
+
+Proficiency
+Proficiency refers to the amount of energy required to use a specific tool.
+At skill level 0, each successful use of a Pickaxe, Axe, or Hoe costs 2 energy. Unsuccessful uses (e.g., attempting to chop a Large Log with the starter axe) cost 1 energy. Each cast of the Fishing Pole costs 8 energy, even if the cast fails (e.g., the fishing line does not land in water). The starter Watering Can uses 2 energy.
+Each increase in skill decreases energy requirements by 0.1 points for specific tools (listed below). Skill increases past level 10 (only possible temporarily via Buffs) continue to decrease the energy requirements.  So, for example, using a Pickaxe at Mining level 13 costs only 0.7 points per swing. (The game keeps track of fractional amounts of energy, but in the user interface they are rounded to the nearest integer.)
+Powering up an upgraded Watering Can increases its energy cost by 2 points per power-up; each increase in skill decreases the energy requirement by 0.1 points (regardless of power level). At Farming Level 0, the starter can uses 2 energy to water one tile; the iridium can at maximum power uses 10 energy to water eighteen tiles.  At Farming Level 10, the starter can uses 1 energy; the iridium at maximum power uses 9 energy (10 minus 0.1 per skill level). Using an upgraded can to water fewer tiles than it is able costs the same energy as the first watering can upgrade that is able to water that many tiles (single tile always the same as starter can, 5 tiles always the same as steel can). Attempting to use an empty watering can doesn't cost energy. Filling a watering can never uses energy.
+Upgrading an Axe, Pickaxe, or Hoe does not alter the amount of energy required to use it. The increased power of the Axe and Pickaxe and increased area-of-effect of the Hoe will result in less overall energy used for the same task than a lower-level tool.  
+Note that all Hoes use the same energy (2 points at Farming Level 0, and 1 point at Farming Level 10), whether powered-up or used to till one tile of soil.
+All fishing poles use the same energy:  8 points at Fishing Level 0, and 7 points at Fishing Level 10.
+
+
+
+
+Affected Tools
+Farming
+
+Hoe
+Watering Can
+Foraging
+
+Axe
+Fishing
+
+Fishing Rod
+Mining
+
+Pickaxe
+
+
+
+
+Unaffected Tools
+The following tools do not consume energy:
+
+Copper Pan
+Scythe
+Golden Scythe
+Weapons
+Swords
+Clubs
+Daggers
+Slingshots
+The following tools always consume 4 points of energy:
+
+Milk Pail
+Shears
+
+
+Neither loading a Crab Pot with Bait nor harvesting it uses any energy, at any skill level.
+
+Hoes
+Main article: Hoes
+Used primarily to till soil for Farming and to dig up Artifact Spots. Upgraded hoes may be used to till more than one square at a time by holding left-click and "powering up" the tool.
+
+
+
+Image
+
+Name
+
+Cost
+
+Ingredients
+
+Improvements
+
+
+
+
+Hoe
+
+Starter Tool
+
+N/A
+
+
+
+
+
+
+Copper Hoe
+
+2,000g
+
+ Copper Bar (5)
+
+Increases maximum area of effect to 3 tiles, in a line in front of you.
+
+
+
+
+Steel Hoe
+
+5,000g
+
+ Iron Bar (5)
+
+Increases maximum area of effect to 5 tiles, in a line in front of you.
+
+
+
+
+Gold Hoe
+
+10,000g
+
+ Gold Bar (5)
+
+Increases maximum area of effect to 3x3 tiles.
+
+
+
+
+Iridium Hoe
+
+25,000g
+
+ Iridium Bar (5)
+
+Increases maximum area of effect to 6x3 tiles.
+
+Pickaxes
+Main article: Pickaxes
+Used mainly for breaking stones and picking up placed equipment or furniture items.  It is also used to un-till soil that has been tilled with a Hoe.
+Using a pickaxe on a Monster will deal a small portion of damage, similar to weapons.
+
+
+
+Image
+
+Name
+
+Cost
+
+Ingredients
+
+Improvements
+
+
+
+
+Pickaxe
+
+Starter Tool
+
+N/A
+
+Can break small rocks anywhere.In the Mines, can break tougher rocks on levels 1-40 in two hits and can break large boulders with multiple hits. Can break copper nodes in 3 hits.Note: Cannot break boulders on The Farm.
+
+
+
+
+Copper Pickaxe
+
+2,000g
+
+ Copper Bar (5)
+
+
+In the Mines, can break all rocks on levels 1-40 in one hit and 40-79 in two hits. Can break copper nodes in 2 hits.
+
+
+
+
+
+Steel Pickaxe
+
+5,000g
+
+ Iron Bar (5)
+
+Can break boulders on The Farm.
+In the Mines, can break rocks on levels 40-79 in one hit, and Quarry Mine rocks in two hits.
+Breaks copper nodes in 1 hit, iron nodes in 2 hits, gold nodes in 3 hits, and iridium nodes in 6 hits. Can break large rocks in 4 hits. Can break the barrier inside the mine that blocks the player from talking with Dwarf.
+
+
+
+
+
+Gold Pickaxe
+
+10,000g
+
+ Gold Bar (5)
+
+Can break a meteorite.
+In the Mines, can break rocks on levels 80-120 in one hit.
+Breaks copper and iron nodes in 1 hit, gold nodes in 2 hits, and iridium nodes in 4 hits.
+
+
+
+
+
+Iridium Pickaxe
+
+25,000g
+
+ Iridium Bar (5)
+
+
+Can break rocks in the Quarry Mine and Skull Cavern in one hit.
+
+
+Axes
+Main article: Axes
+Used to chop down Trees for wood and sap and to gather Hardwood from a Large Stump or a Large Log.  The axe must also be used to harvest Giant Crops.  Like the pickaxe, it can deal a small amount of damage to monsters.
+
+
+
+Image
+
+Name
+
+Cost
+
+Ingredients
+
+Improvements
+
+
+
+
+Axe
+
+Starter Tool
+
+N/A
+
+10 hits to chop a fully-grown tree, and 5 hits for a small stump.
+
+
+
+
+Copper Axe
+
+2,000g
+
+ Copper Bar (5)
+
+Can chop Large Stumps. 8 hits to chop a fully-grown tree, and 4 hits for a small stump.
+
+
+
+
+Steel Axe
+
+5,000g
+
+ Iron Bar (5)
+
+Can chop Large Logs. 6 hits to chop a fully-grown tree, and 3 hits for a small stump.3 hits for a stage 4 tree, and 2 hits for a stage 3 tree and below.
+
+
+
+
+Gold Axe
+
+10,000g
+
+ Gold Bar (5)
+
+4 hits to chop a fully-grown tree, and 2 hits for a small stump. 2 hits for a stage 4 tree, and one hit for a stage 3 tree and below.
+
+
+
+
+Iridium Axe
+
+25,000g
+
+ Iridium Bar (5)
+
+2 hits to chop a fully-grown tree, and 1 hit for a small stump. 1 hit for a stage 4 tree and below.
+
+Watering Cans
+Main article: Watering Cans
+Used to water crops. A crop plant does not grow on a day it is not watered. If it is raining, the rain waters all crops without use of the watering can.
+Upgraded watering cans may be used to water more than one square at a time by holding left-click and "powering up" the tool.
+
+
+
+Image
+
+Name
+
+Cost
+
+Ingredients
+
+Improvements
+
+
+
+
+Watering Can
+
+Starter Tool
+
+N/A
+
+Has a total water capacity of 40 charges before it has to be refilled.
+
+
+
+
+Copper Watering Can
+
+2,000g
+
+ Copper Bar (5)
+
+Capacity increased to 55 charges.
+Increases maximum area of effect to 3 tiles in a straight line.
+
+
+
+
+
+Steel Watering Can
+
+5,000g
+
+ Iron Bar (5)
+
+Capacity increased to 70 charges.
+Increases maximum area of effect to 5 tiles in a straight line.
+
+
+
+
+
+Gold Watering Can
+
+10,000g
+
+ Gold Bar (5)
+
+Capacity increased to 85 charges.
+Increases maximum area of effect to a 3x3 area (9 corresponding tiles).
+
+
+
+
+
+Iridium Watering Can
+
+25,000g
+
+ Iridium Bar (5)
+
+Capacity increased to 100 charges.
+Increases maximum area of effect to a 6x3 area (18 corresponding tiles).
+
+
+Trash Cans
+Main article: Trash Cans
+Used to delete items from the Inventory.
+Upgraded trash cans will return some gold for trashed items.
+
+
+
+Image
+
+Name
+
+Cost
+
+Ingredients
+
+Improvements
+
+
+
+
+Trash Can
+
+Starter Tool
+
+N/A
+
+Used to delete items from the inventory menu.
+
+
+
+
+Copper Trash Can
+
+1,000g
+
+ Copper Bar (5)
+
+When deleting items, reclaim 15% of their monetary value.
+
+
+
+
+Steel Trash Can
+
+2,500g
+
+ Iron Bar (5)
+
+When deleting items, reclaim 30% of their monetary value.
+
+
+
+
+Gold Trash Can
+
+5,000g
+
+ Gold Bar (5)
+
+When deleting items, reclaim 45% of their monetary value.
+
+
+
+
+Iridium Trash Can
+
+12,500g
+
+ Iridium Bar (5)
+
+When deleting items, reclaim 60% of their monetary value.
+
+Fishing Poles
+Used to catch fish.  Hold down left click to power-up the cast, use WASD or the arrow keys to slightly adjust the placement of the hook.
+
+
+
+Image
+
+Name
+
+Cost
+
+Improvements
+
+Location
+
+Requirements
+
+
+
+
+Training Rod
+
+25g
+
+Easier to use (only catches common Fish).
+
+Buy from Willy's Fish Shop
+
+
+
+
+
+
+Bamboo Pole
+
+500g
+
+
+
+Given to the player by WillyBuy from Willy's Fish Shop
+
+
+
+
+
+
+Fiberglass Rod
+
+1,800g
+
+Able to use bait.
+
+Buy from Willy's Fish Shop
+
+ Fishing Level 2(The player receives a letter the day after it becomes available)
+
+
+
+
+Iridium Rod
+
+7,500g
+
+Able to use bait & tackle.
+
+Buy from Willy's Fish Shop
+
+ Fishing Level 6(The player receives a letter the day after it becomes available)
+
+Other Tools
+
+
+Image
+
+Name
+
+Cost
+
+Description
+
+Location
+
+
+none
+
+Backpack (12 slots)
+
+Starter Tool
+
+Use to carry your inventory.
+
+You start with one. It can hold 12 stacks of items, but it can be upgraded.
+
+
+
+
+Large Pack (24 slots)
+
+2,000g
+
+Unlocks the 2nd row of inventory (12 more slots).
+
+Purchased from Pierre's General Store at the start of the game.
+
+
+
+
+Deluxe Pack (36 slots)
+
+10,000g
+
+Unlocks the 3rd row of inventory (12 more slots).
+
+Purchased from Pierre's General Store after buying 24 Size Backpack.
+
+
+
+
+Scythe
+
+Starter Tool
+
+It can cut grass into hay, if you've built a silo.
+
+You start with one.
+
+
+
+
+Golden Scythe
+
+N/A
+
+It's more powerful than a normal scythe.
+
+Found at end of Quarry Mine.
+
+
+
+
+Milk Pail
+
+1,000g
+
+Gather milk from your animals.
+
+Purchased from Marnie's Ranch.
+
+
+
+
+Shears
+
+1,000g
+
+Use this to collect wool from sheep
+
+Purchased from Marnie's Ranch.
+
+
+
+
+Heater
+
+2,000g
+
+Keeps your animals warmer and happier during the winter.
+
+Purchased from Marnie's Ranch. It is the reward for completing the  Fodder Bundle on the Bulletin Board.
+
+
+
+
+Copper Pan
+
+2,500g
+
+Use to gather ore from streams.
+
+Unlocked via completing the Community Center fishing Bundles or Joja upgrades.
+
+
+
+
+Auto-Grabber
+
+25,000g
+
+Automatically harvests from your animals each morning. Must be placed inside a coop or barn.
+
+Unlocked after reaching Farming Level 10, the player will receive a letter in the mail from Marnie.
+
+
+
+
+Auto-Petter
+
+50,000g
+
+Joja Co. patented technology for coops and barns. Keeps your animals content, but can't replace the full benefit of human touch. Hand-petting can be provided to supplement.
+
+Purchased from JojaMart.Rare reward from the Skull Cavern.
+
+Tool Disposal
+Most tools cannot be put in the trash can on the player's inventory screen, or dragged off the inventory screen to be dropped.  Tools that can be trashed and/or dropped are:  all Fishing Poles, the Auto-Grabber, Heater, and Copper Pan.
+If the player somehow loses the Scythe, Axe, Pickaxe, or Watering Can (by dying in the mines for example), the next day a basic version of the tool will appear next to the player's bed, in the player's refrigerator (if the player has a kitchen), or in the Lost and Found box in the Mayor's Manor.  Mayor Lewis may send a letter in the mail saying he found them and returned them.
+
+Bugs
+In multiplayer, it is possible to lose a tool in the mines, and never get a replacement back. A known workaround for this bug is to have one of the non-hosting players create a new character, have them drop their tools into a chest, and then quit and re-join as their original character.
+When swinging a pickaxe, axe, or hoe at one of the cactuses in Calico Desert, the tool disappears from the animation.
+If the player triggers a fishing rod away from a fishing spot, it may freeze the player in place. This disables all menus and the game cannot be saved or exited without force.
+History
+1.4: Tools upgraded from Clint will now tell you when they're ready.
+1.5: Added Enchantments.
+
+
+Tools
+
+
+Basic
+
+Axes • Golden Scythe • Hoes • Pickaxes • Scythe • Trash Cans • Watering Cans
+
+
+Fishing
+
+Training Rod • Bamboo Pole • Fiberglass Rod • Iridium Rod • Crab Pot
+
+
+Other
+
+Auto-Grabber • Auto-Petter • Copper Pan • Hay Hopper • Heater • Incubator • Milk Pail • Ostrich Incubator • Shears
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Tools&oldid=141303"
+Category: ToolsHidden categories: SpoilersBugs tested in an unknown versionBugs tested in 1.5
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 29 August 2022, at 21:33.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

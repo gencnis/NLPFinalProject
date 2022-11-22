@@ -1,0 +1,486 @@
+
+
+
+
+
+Coral - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coral
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Coral
+
+
+
+
+
+A colony of tiny creatures that clump together to form beautiful structures.
+
+
+Information
+
+
+
+
+Source
+
+Foraging
+
+
+Location
+
+The Beach • Ginger Island West
+
+
+Season
+
+ All
+
+
+
+
+Energy
+
+Inedible
+
+
+Sell Price
+
+
+
+
+80g
+
+
+
+100g
+
+
+
+120g
+
+
+
+160g
+
+
+
+
+Coral is a forageable item found year-round in the Tide Pool section of the Beach, i.e., to the east of the wooden footbridge[1].  During Summer 12-14, extra Coral appears anywhere on the beach (including possibly the western section).
+The average spawn rate for Coral in the tide pool section of the beach is 0.93/day. An additional 3.2 (on average) Coral per day will spawn during Summer 12-14.  These spawn rates are not affected by the presence of other forageable items on the beach; in particular, Coral are not part of the standard six item per map limit on forageable items. 7 Foraging XP are granted for every Coral picked up, and all Foraging bonuses apply to Coral.
+Several Crab Pot fish may produce 1 Coral in a Fish Pond when the population of the pond reaches 5.
+
+Contents
+
+1 Gifting
+2 Bundles
+3 Recipes
+4 Buildings
+5 Tailoring
+6 Fish Pond
+7 Quests
+8 References
+9 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  George •  Gus •  Haley •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+
+Hate
+
+ Evelyn •  Harvey
+
+Bundles
+Coral is not used in any Bundles.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Recipe Source(s)
+Sell Price
+
+
+
+
+Deluxe Speed-Gro
+
+Stimulates leaf production. Guaranteed to increase growth rate by at least 25%. Mix into tilled soil.
+
+ Oak Resin (1) Coral (1)
+
+ Farming Level 8
+
+40g
+
+
+
+
+Warp Totem: Beach
+
+Warp directly to the beach. Consumed on use.
+
+ Hardwood (1) Coral (2) Fiber (10)
+
+ Foraging Level 6
+
+20g
+
+
+Buildings
+Ten coral are required to purchase the Water Obelisk from the Wizard's Tower.
+
+
+
+Image
+
+Name
+
+Description
+
+Cost
+
+Size
+
+
+
+
+Water Obelisk
+
+Warps you to the beach.
+
+500,000g Iridium Bar (5) Clam (10) Coral (10)
+
+3x2
+
+Tailoring
+Coral can be used in the spool of the Sewing Machine to create the dyeable Strapped Top.   It can be also used as a red dye color at the dye pots in Emily's and Haley's house, 2 Willow Lane.
+
+Fish Pond
+Although Coral is not otherwise considered to be fish, it can be placed in a Fish Pond, where it will reproduce every 2 days. The initial pond capacity is 10 Coral; no quests are necessary to increase the pond capacity. Instead of producing Roe, Coral ponds produce Dolomite and Limestone, but only once the population reaches 9.
+Produce
+
+
+
+Item(s) Produced
+
+Fishing XP Granted
+
+Population
+
+% of Items
+
+Overall Daily Chance
+
+
+ Dolomite (1)
+
+130
+
+9-10
+6%
+5-6%
+
+
+ Limestone (1)
+
+16
+
+9-10
+6%
+5%
+
+
+Nothing
+
+
+
+1-8
+100%
+100%
+
+
+9-10
+88%
+90-89%
+
+Quests
+One to three Coral may be requested by several fish in Fish Pond quests.
+
+References
+
+↑ See Beach::DayUpdate in the game code.  The spawn position starts at point (65,11) on the beach map.
+
+
+History
+1.1: Used as a building material to the Water Obelisk.
+1.4: Can now be used in Tailoring.  Can be requested in Fish Pond quests. Can be produced by Fish Ponds. Can be added to Fish Ponds.
+1.5: Can now be used as decoration in Fish Tanks.
+1.5.2: Now benefits from the Botanist profession. Now considered red for dyes.
+
+
+Foraging
+
+
+Basic
+
+Sap
+
+
+Spring
+
+Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish
+
+
+Summer
+
+Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea
+
+
+Fall
+
+Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum
+
+
+Winter
+
+Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root
+
+
+The Beach
+
+Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed
+
+
+The Mines
+
+Cave Carrot • Purple Mushroom • Red Mushroom
+
+
+The Desert
+
+Cactus Fruit • Coconut
+
+
+Skull Cavern
+
+Dinosaur Egg • Fiddlehead Fern
+
+
+Ginger Island
+
+Ginger • Magma Cap
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Coral&oldid=142565"
+Category: Beach Forage
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 26 October 2022, at 03:30.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

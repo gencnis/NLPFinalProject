@@ -1,0 +1,514 @@
+
+
+
+
+
+Fish Shop - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fish Shop
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Fish Shop
+
+
+
+
+
+
+
+
+Open Hours:
+
+9am to 5pm
+
+
+Closed:
+
+Non-rainy Saturdays (Building Open, no sales)
+
+
+Occupants:
+
+ Willy
+
+
+The Fish Shop is the home of Willy. It's located on the docks of The Beach south of Pelican Town. If the player has not read the letter from Willy sent on Spring 2, then the shop cannot be entered. Although the door will unlock on Saturdays, the shop will be closed unless it is raining.
+Willy sells a variety of fishing-related supplies, including rods, bait, tackle, fish tanks, and crab pots. Some items, such as tackles, become available once the player reaches a specific fishing level. Those items can be purchased as soon as the appropriate skill level is achieved, without needing to wait until the next day. Other items, such as the Copper Pan and the Deluxe Fish Tank, require the player to complete specific tasks to become available.
+
+Contents
+
+1 Stock
+2 Purchases
+3 Player-Derived Stock
+4 Willy's Boat
+5 Trivia
+6 References
+7 History
+
+
+Stock
+The following items are available as soon as the Fish Shop is open: Trout Soup, Bamboo Pole, Training Rod, Small Fish Tank, Large Fish Tank, and Fisher Double Bed.
+
+
+
+Item
+
+Description
+
+Price
+
+ Fishing Level Required
+
+
+ Trout Soup
+
+Pretty salty.
+
+250g
+
+N/A
+
+
+ Bait
+
+Causes fish to bite faster. Must first be attached to a fishing rod.
+
+5g
+
+2
+
+
+ Crab Pot
+
+Place it in the water, load it with bait, and check the next day to see if you've caught anything. Works in streams, lakes, and the ocean.
+
+1,500g
+
+3
+
+
+ Spinner
+
+The shape makes it spin around in the water. Slightly increases the bite-rate when fishing.
+
+500g
+
+6
+
+
+ Trap Bobber
+
+Causes fish to escape slower when you aren't reeling them in.
+
+500g
+
+6
+
+
+ Lead Bobber
+
+Adds weight to your "fishing bar", preventing it from bouncing along the bottom.
+
+200g
+
+6
+
+
+ Treasure Hunter
+
+Fish don't escape while collecting treasures. Also slightly increases the chance to find treasures.
+
+750g
+
+7
+
+
+ Cork Bobber
+
+Slightly increases the size of your "fishing bar".
+
+750g
+
+7
+
+
+ Barbed Hook
+
+Makes your catch more secure, causing the "fishing bar" to cling to your catch. Works best on slow, weak fish.
+
+1,000g
+
+8
+
+
+ Dressed Spinner
+
+The metal tab and colorful streamers create an enticing spectacle for fish. Increases the bite-rate when fishing.
+
+1,000g
+
+8
+
+
+ Magnet
+
+Increases the chance of finding treasures when fishing. However, fish aren't crazy about the taste.
+
+1,000g
+
+9
+
+
+ Bamboo Pole
+
+Use in the water to catch fish.
+
+500g
+
+N/A
+
+
+ Fiberglass Rod
+
+Use in the water to catch fish.
+
+1,800g
+
+2
+
+
+ Iridium Rod
+
+Use in the water to catch fish.
+
+7,500g
+
+6
+
+
+ Training Rod
+
+It's a lot easier to use than other rods, but can only catch basic fish.
+
+25g
+
+N/A
+
+
+ Copper Pan
+
+Use to gather ore from streams.
+
+2,500g
+
+N/A
+
+
+ Large Fish Tank
+
+Can be placed inside your house.
+
+2,000g
+
+N/A
+
+
+ Small Fish Tank
+
+Can be placed inside your house.
+
+500g
+
+N/A
+
+
+ Deluxe Fish Tank
+
+Can be placed inside your house.
+
+5,000g
+
+N/A
+
+
+ Fisher Double Bed
+
+Can be placed inside your house.
+
+25,000g
+
+N/A
+
+Purchases
+Willy will buy the following items from the player: All Fish, Bait, Tackle, Beach Forageables (except Seaweed), Roe, and Squid Ink.[1]
+He will not buy any other catchable items (Trash, Green Algae, Seaweed, or White Algae). He will also not buy Aged Roe or Caviar.
+
+Player-Derived Stock
+If the player chooses to sell items to Willy, there is a chance they will appear in the list of items for sale, especially if sold to Willy in large quantity.  Any of these items will be available for purchase in limited quantities. Additional villager dialogues may appear indicating they've seen or purchased the items.
+
+Willy's Boat
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+After completing three Community Center Bundles, entering the Fish Shop will trigger a cutscene, Willy doesn't need to be there and weather doesn't matter. In the cutscene he will chat with the player about how they're doing on fishing, and finally hint on the fact that if the Community Center gets restored, he will show them "something".
+
+ Willy and Robin put the Ginger Island boat back into operation.
+Willy's Boat is then introduced when Willy mails the player an invitation to come to the back room of his shop. The invitation arrives two days after either all bundles for the Community Center have been donated or the Joja Community Development Form has been completed. The celebration/recognition ceremony need not be seen to generate the letter.
+Upon arriving at the back room, the player finds a hidden dock with an old boat that is out of service. Willy can use the boat to provide transport to and from Ginger Island at a ticket price of 1,000g, but he does not have the materials needed for repairs.
+The player's task is to provide the materials to restore service, namely, the following items:
+ Hardwood (200) for the hull
+ Iridium Bar (5) for the anchor
+ Battery Pack (5) for the ticket stand
+Once the player leaves all the needed items in the back room, the game generates an overnight cutscene in which Willy and Robin work to restore boat service. Note that this cutscene is delayed a day if another overnight cutscene is scheduled for the same night.
+From the day after the cutscene runs, the player can buy a boat ticket in the back room. The shop doors unlock at 8am instead of 9am for earlier starts. Willy's own schedule does not change. He pilots the boat, but he becomes available automatically whenever the player purchases a ticket and doesn't need to be in the shop beforehand.
+By fishing inside the boat room there is a 20% chance to catch a Lifesaver.[2]
+
+Trivia
+Interacting with the ladder at the back of the shop results in a message that suggests Willy lives upstairs.
+If the player attempts to enter the Fish Shop on Spring 1, Year 1, a note on the door says "Gone Fishing, be back tomorrow".
+References
+
+↑ See ShopMenu::setUpStoreForContext, case FishShop, in the game code.
+
+↑ See BoatTunnel::getFish in the game code.
+
+
+History
+1.04: Fixed bug where the shop was considered a water location.
+1.4: Player-derived stock sold to Willy now appears in the Fish Shop menu instead of at Pierre's General Store. Added Training Rod and Copper Pan to shop stock.
+1.5: Large Fish Tank, Small Fish Tank, Deluxe Fish Tank, and Fisher Double Bed added to shop stock. Willy's Boat appears.
+
+
+Buildings
+
+
+Merchants
+
+Abandoned House • Adventurer's Guild • Blacksmith • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower
+
+
+Houses
+
+1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse
+
+
+Farm Buildings
+
+Farming
+
+Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Shed  • Silo • Slime Hutch • Stable • Well
+
+
+Special
+
+Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk
+
+
+Other Buildings
+
+Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Fish_Shop&oldid=142989"
+Categories: LocationsBeach LocationsStoresHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 15:41.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

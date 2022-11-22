@@ -1,0 +1,455 @@
+
+
+
+
+
+Truffle - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Truffle
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Truffle
+
+
+
+
+
+A gourmet type of mushroom with a unique taste.
+
+
+Information 
+
+
+Source:
+
+Pigs
+
+
+Season:
+
+ Spring •  Summer •  Fall
+
+
+Healing Effect
+
+
+
+
+
+
+
+13 Energy
+
+
+
+
+18 Energy
+
+
+
+
+23 Energy
+
+
+
+
+33 Energy
+
+
+
+
+
+
+
+5 Health
+
+
+
+
+8 Health
+
+
+
+
+10 Health
+
+
+
+
+14 Health
+
+
+
+Sell Price:
+
+
+
+
+
+
+625g
+
+
+
+
+781g
+
+
+
+
+937g
+
+
+
+
+1,250g
+
+
+
+Artisan Sell Prices
+
+
+Base Price:
+
+Artisan Profession:   (+40% Sell Price)
+
+
+
+
+
+
+
+1,065g
+
+
+
+
+
+
+
+1,491g
+
+
+
+The Truffle is a type of mushroom that can only be spawned by a Pig on The Farm when the pig is outside the Barn. Since pigs do not go out of the barn in winter, they spawn no truffles in that season.  Truffles sell for a base price of 625g.
+Despite being spawned by pigs, truffles are not considered to be animal produce, like eggs or milk. They do not receive a price increase from the Rancher profession.
+Despite being mushrooms, Truffles technically are also not considered to be foraged items, but give Foraging EXP when picked up on the farm. They are not among the items included in the foraging category at the Stardew Valley Fair, nor are they labeled as "Forage" in inventory. They do, however, benefit from the Gatherer and Botanist professions.
+Truffles not gathered on the 28th day of a season disappear on the following morning, the 1st day of the new season.
+On rare occasions, a Truffle can be purchased from the Traveling Cart for 1,875-3,125g.
+
+Contents
+
+1 Gifting
+2 Bundles
+3 Artisan Goods
+4 Recipes
+5 Tailoring
+6 Quests
+7 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Love
+
+ Leah
+
+
+Neutral
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leo •  Lewis •  Linus •  Marnie •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+
+Hate
+
+ Maru
+
+Bundles
+Truffle is used in the  Chef's Bundle on the Bulletin Board.
+
+Artisan Goods
+See also: Animal Products Profitability
+
+
+Image
+
+Name
+
+Description
+
+Ingredient
+
+Equipment
+
+Time
+
+Restores
+
+Sell Price
+
+
+
+
+Truffle Oil
+
+A gourmet cooking ingredient.
+
+ Truffle (1)
+
+Oil Maker
+
+ 360m (6 hours)
+
+3817
+
+1,065g
+
+Recipes
+Truffle is not used in any recipes.
+
+Tailoring
+Truffle can be used in the spool of the Sewing Machine to create the dyeable Dark Bandana Shirt.   It can be used in dyeing, serving as an orange dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Quests
+The Truffle may be randomly requested during any season at the "Help Wanted" board outside Pierre's General Store for a reward of 1,875g and 150 Friendship points. The Truffle will never be requested unless the player owns a Pig.
+History
+1.0: Introduced.
+1.1: Increased value from 500g to 625g.
+1.11: Fixed bug where truffles could spawn in the water.
+1.2.26: Fixed crash that occurred when a pig tried to spawn a truffle in an area with no space for it.
+1.4: Can now be used in Tailoring.
+
+
+Animals and Produce
+
+
+Coop
+
+Chicken (Egg • Large Egg • Brown Egg • Large Brown Egg) • Dinosaur (Dinosaur Egg) • Duck (Duck Egg • Duck Feather) • Golden Chicken (Golden Egg) • Rabbit (Wool • Rabbit's Foot) • Void Chicken (Void Egg)
+
+
+Barn
+
+Cow (Milk • Large Milk) • Goat (Goat Milk • Large Goat Milk) • Sheep (Wool) • Ostrich (Ostrich Egg) • Pig (Truffle)
+
+
+Fish Pond
+
+Fish (Roe)
+
+
+Slime Hutch
+
+Slimes (Slime • Slime Ball • Slime Egg)
+
+
+Other
+
+Cat • Dog • Horse
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Truffle&oldid=143165"
+Categories: ForagingAnimal Products
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 17:06.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,382 @@
+
+
+
+
+
+Magic Bait - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Magic Bait
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Magic Bait
+
+
+
+
+
+Allows you to catch fish from any season, time, or weather, from whichever type of water you cast into.
+
+
+Information 
+
+
+Source:
+
+Qi's Walnut Room for  5
+
+
+Healing Effect:
+
+
+
+
+Inedible
+
+
+
+Sell Price:
+
+1g
+
+
+Crafting
+
+
+Recipe Source:
+
+Qi's Walnut Room for  20
+
+
+Ingredients:
+
+ Radioactive Ore (1) Bug Meat (3)
+
+
+Produces:
+
+5 Bait per craft
+
+
+Magic Bait is a type of bait that provides the ability to catch any fish from that source regardless of weather, time, or season. It can be attached to a Fiberglass Rod or an Iridium Rod. It can also technically be inserted into a Crab Pot, but it is no better than standard bait as all crab pot fish can be caught anytime in any season in any weather. Bait is always a single-use item. Magic Bait has the same effect on fish bite rate as standard Bait (decreasing biting time by 50%).
+20 Magic Bait can be purchased from the shop in Qi's Walnut Room for  5. The recipe to craft Magic Bait can also be purchased for  20.
+
+Contents
+
+1 Use
+2 Fish Locations
+3 Gifting
+4 History
+
+
+Use
+To attach bait to a fishing rod, open the inventory, click on the bait ( left-click or  right-click, depending on how many bait will be used), and then  on the rod.  To remove bait,  on the rod.  
+Each cast uses one piece of bait or one magnet.  When all bait is used up, the game pops up a notification saying "You've used your last piece of bait."
+On an Xbox controller, press  on the bait to select the whole stack (or  to pick up a single one), then  to attach to the rod.
+On a PS4 controller, press  on the bait to select the whole stack (or  to pick up a single one), then  to attach to the rod.
+On a Nintendo Switch Controller, Press  on the bait to select the whole stack (Or  to pick up a single one), then  to attach to the rod.
+Bait can be detached by pressing  on either Controller. ( on Nintendo Switch)
+For the mobile version, bait can be added to the fishing rod by opening the inventory, then dragging the bait and dropping it on top of the rod.
+
+
+Fish Locations
+ Area for Night Market fish
+See the fish location tables for a list of all fish that can be caught in a specific area. As long as the fish can be caught at some point in a specific area, it can be caught anytime by using Magic Bait. Night Market Fish can be caught anytime using Magic Bait in the southwest corner of The Beach. Legendary Fish can be caught anytime in their specific locations by using Magic Bait.
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Hate
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+History
+1.5: Introduced.
+1.5.2: Fixed crash when fishing from the pond on The Farm using Magic Bait.
+1.5.3: Now can catch Night Market fish using Magic Bait in the southwest corner of the Beach.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Magic_Bait&oldid=143299"
+Category: BaitHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 19:05.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

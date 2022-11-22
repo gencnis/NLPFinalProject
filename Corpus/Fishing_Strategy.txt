@@ -1,0 +1,2952 @@
+
+
+
+
+
+Fishing Strategy - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fishing Strategy
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Contents
+
+1 Basics of Strategy
+
+1.1 Locations
+1.2 Bobber Position
+1.3 Fishing Skill
+
+
+2 Fishing Zones
+
+2.1 The Farm
+2.2 Pelican Town
+2.3 Cindersap Forest
+2.4 The Beach
+2.5 The Mountain
+2.6 The Desert
+2.7 The Sewers
+2.8 The Mines
+2.9 Secret Woods
+2.10 Night Market
+2.11 Mutant Bug Lair
+2.12 Witch's Swamp
+2.13 Island South
+2.14 Island North
+2.15 Island West
+2.16 Island Southeast
+2.17 Pirate Cove
+2.18 Caldera
+
+
+3 Location Tables
+
+3.1 Pelican Town
+3.2 The Beach
+3.3 Cindersap Forest
+3.4 The Mountain
+3.5 The Mines
+3.6 Secret Woods
+3.7 The Desert
+3.8 The Sewers
+3.9 Mutant Bug Lair
+3.10 Witch's Swamp
+3.11 Ginger Island North
+3.12 Ginger Island South & Southeast
+3.13 Pirate Cove
+3.14 Ginger Island West
+
+
+4 Fish Infograph
+
+
+
+For a list of fish and their locations, see Fish.
+For information about the Fishing Skill and Mechanics, see Fishing.
+For an index to the completed fish collection, see Collections.
+See also: Tackle, Bait
+This page provides fishing strategy information for Stardew Valley.
+
+Basics of Strategy
+The availability of many types of fish can depend on various factors: the location of the fishing spot, the season, the time of day, and the weather. Match the fishing location to current conditions as necessary to get a chance to catch certain type(s) of fish.
+
+Locations
+Fishing spots are commonly broken up into ocean, lake, and river types. However, while most fishing spots in a similar body of water will share catches, the map also plays a role. For instance, the river in Cindersap Forest is not the same as the river in Pelican Town. Ponds usually have a smaller selection of fish, if any, compared to larger bodies of water and the selection is usually specific to the map where the pond is found.
+Keep in mind that the less fish there are in a certain location, the more likely it is that trash will be caught there.
+The Sewers
+The Sewers are an easy and productive fishing location, especially to level up the fishing skill or farm treasure. Carp is the least difficult fish to catch in the game and it is the only fish in the sewers (except for a legendary fish). Therefore, almost every cast of the line results in either an immediate item reward or a quick Carp catch.
+
+Bobber Position
+In general, it is optimal to cast the bobber as far from land as possible to maximize the Fishing Zone. Longer casting distances are important, but also casting east/west instead of north/south can improve the fishing zone, as can fishing in wide-open water. In addition to affecting the quality of the fish, Fishing Zone also affects the chances of catching certain fish over other ones. While all non-Legendary fish can be caught in tiles that have a zone of 1, a lot of the more difficult and profitable fish have a higher chance to be caught at higher-zone locations.
+Bubbles greatly increase the rate at which fish bite and can also alter the relative chances of each fish type at the location.  Careful placement of the bobber on the edge of the bubbles allows the bubble bonus to be used in any of the adjacent tiles, providing some ability to optimize the Fishing Zone.
+
+Fishing Skill
+Fishing level is important because each increase in the fishing level increases the fishing bar size by 8 pixels. The longer the fishing bar is, the easier it is to catch fish. The fishing bar will continue to increase by this amount even as the player goes beyond level 10 (with buffs). This means the bar can get much bigger than it naturally would be even at fishing level 10. Using a fishing rod with the Master enchant will also increase the fishing bar by 8 pixels. A Cork Bobber will increase the fishing bar by 24 pixels.
+Catching Difficult Fish
+This concept of the fishing bar getting bigger is especially useful when trying to catch extremely hard fish such as the Legendary Fish and the Octopus. Reaching fishing level 10, using an iridium rod with a Cork Bobber or Trap Bobber tackle and with the Master enchant, and eating food (better prepared with Qi Seasoning) that provides a temporary fishing buff (e.g., Seafoam Pudding) will all help make catching these difficult fish much more manageable.
+
+Fishing Zones
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+The following images show the Fishing Zone based on the location where the bobber lands, color coded as:
+
+Note that these maps are not valid on iOS and Android because of a bug.
+
+The Farm
+
+
+Standard Farm
+
+Riverland Farm
+
+
+ 
+
+ 
+
+
+Forest Farm
+
+Hill-top Farm
+
+
+ 
+
+ 
+
+
+Wilderness Farm
+
+Four Corners Farm
+
+
+ 
+
+ 
+
+
+Beach Farm
+
+
+ 
+
+
+
+Pelican Town
+
+
+Cindersap Forest
+
+
+ 
+
+ 
+
+
+
+The Beach
+
+
+The Mountain
+
+
+ 
+
+ 
+
+
+
+The Desert
+
+
+The Sewers
+
+
+ 
+
+ 
+
+
+
+The Mines
+
+
+Secret Woods
+
+
+ Mine floors 20, 60, & 100
+
+ 
+
+
+
+Night Market
+
+
+Mutant Bug Lair
+
+
+ The submarine ride at the Night Market
+
+ 
+
+
+
+
+
+Witch's Swamp
+
+
+Island South
+
+
+ 
+
+ 
+
+
+
+Island North
+
+
+Island West
+
+
+ 
+
+ 
+
+
+
+Island Southeast
+
+
+Pirate Cove
+
+
+ 
+
+ 
+
+
+
+Caldera
+
+
+
+
+ 
+
+
+
+
+Location Tables
+Note that the 5 legendary fish are not included in the tables below.  The following tables are based on the data in Content\Locations.xnb.
+
+Pelican Town
+
+
+
+
+Time
+
+
+ Spring
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Sunfish
+
+Sunny day only
+
+
+
+
+ Catfish
+
+Rainy day only
+
+
+
+
+ Green Algae
+
+
+
+
+
+
+ Smallmouth Bass
+
+
+
+
+
+
+ Shad
+
+
+
+Rainy day only
+
+
+ Bream
+
+
+
+
+
+
+ Summer
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Rainbow Trout
+
+Sunny day only
+
+
+
+
+ Sunfish
+
+Sunny day only
+
+
+
+
+ Green Algae
+
+
+
+
+
+
+ Pike
+
+
+
+
+
+
+ Shad
+
+
+
+Rainy day only
+
+
+ Bream
+
+
+
+
+
+
+ Fall
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Salmon
+
+
+
+
+
+
+ Tiger Trout
+
+
+
+
+
+
+ Catfish
+
+Rainy day only
+
+
+
+
+ Green Algae
+
+
+
+
+
+
+ Smallmouth Bass
+
+
+
+
+
+
+ Shad
+
+
+
+Rainy day only
+
+
+ Walleye
+
+
+
+Rainy day only
+
+
+ Bream
+
+
+
+
+
+
+ Winter
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Tiger Trout
+
+
+
+
+
+
+ Green Algae
+
+
+
+
+
+
+ Lingcod
+
+
+
+
+
+
+ Perch
+
+
+
+
+
+
+ Pike
+
+
+
+
+
+
+ Bream
+
+
+
+
+
+The Beach
+
+
+
+
+Time
+
+
+ Spring
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Sardine
+
+
+
+
+
+
+ Flounder
+
+
+
+
+
+
+ Anchovy
+
+
+
+
+
+
+ Herring
+
+
+
+
+
+
+ Seaweed
+
+
+
+
+
+
+ Halibut
+
+
+
+
+
+
+
+
+ Eel
+
+
+
+Rainy day only
+
+
+ Summer
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Octopus
+
+
+
+
+
+
+ Tilapia
+
+
+
+
+
+
+ Red Mullet
+
+
+
+
+
+
+ Red Snapper
+
+Rainy day only
+
+
+
+
+ Tuna
+
+
+
+
+
+
+ Flounder
+
+
+
+
+
+
+ Seaweed
+
+
+
+
+
+
+ Halibut
+
+
+
+
+
+
+
+
+ Pufferfish
+
+
+
+Sunny day only
+
+
+
+
+ Super Cucumber
+
+
+
+
+
+
+ Fall
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Tilapia
+
+
+
+
+
+
+ Red Snapper
+
+Rainy day only
+
+
+
+
+ Sardine
+
+
+
+
+
+
+ Sea Cucumber
+
+
+
+
+
+
+ Anchovy
+
+
+
+
+
+
+ Seaweed
+
+
+
+
+
+
+ Albacore
+
+
+
+
+
+
+
+
+ Eel
+
+
+
+Rainy day only
+
+
+ Super Cucumber
+
+
+
+
+
+
+ Winter
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Red Mullet
+
+
+
+
+
+
+ Sardine
+
+
+
+
+
+
+ Sea Cucumber
+
+
+
+
+
+
+ Tuna
+
+
+
+
+
+
+ Herring
+
+
+
+
+
+
+ Red Snapper
+
+Rainy day only
+
+
+
+
+ Seaweed
+
+
+
+
+
+
+ Albacore
+
+
+
+
+
+
+
+
+ Halibut
+
+
+
+
+
+
+
+
+ Squid
+
+
+
+
+
+Cindersap Forest
+Note that there are two fishing spots in the forest, the pond in the middle and the river to the south.
+
+
+
+
+
+Time
+
+
+ Spring
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Sunfish
+
+River
+
+Sunny day only
+
+
+
+
+ Catfish
+
+River
+
+Rainy day only
+
+
+
+
+ Chub
+
+River
+
+
+
+
+
+
+ Green Algae
+
+Both
+
+
+
+
+
+
+ Smallmouth Bass
+
+Pond
+
+
+
+
+
+
+ Shad
+
+River
+
+
+
+Rainy day only
+
+
+ Bream
+
+River
+
+
+
+
+
+
+ Summer
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Dorado
+
+River
+
+
+
+
+
+
+ Rainbow Trout
+
+River
+
+Sunny day only
+
+
+
+
+ Sunfish
+
+River
+
+Sunny day only
+
+
+
+
+ Chub
+
+River
+
+
+
+
+
+
+ Green Algae
+
+Both
+
+
+
+
+
+
+ Pike
+
+Both
+
+
+
+
+
+
+ Shad
+
+River
+
+
+
+Rainy day only
+
+
+ Bream
+
+River
+
+
+
+
+
+
+ Fall
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Salmon
+
+River
+
+
+
+
+
+
+ Tiger Trout
+
+River
+
+
+
+
+
+
+ Catfish
+
+River
+
+Rainy day only
+
+
+
+
+ Chub
+
+River
+
+
+
+
+
+
+ Midnight Carp
+
+Pond
+
+
+
+
+
+
+ Green Algae
+
+Both
+
+
+
+
+
+
+ Smallmouth Bass
+
+Pond
+
+
+
+
+
+
+ Shad
+
+River
+
+
+
+Rainy day only
+
+
+ Walleye
+
+Both
+
+
+
+Rainy day only
+
+
+ Bream
+
+River
+
+
+
+
+
+
+ Winter
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Tiger Trout
+
+River
+
+
+
+
+
+
+ Chub
+
+River
+
+
+
+
+
+
+ Midnight Carp
+
+Pond
+
+
+
+
+
+
+ Green Algae
+
+Both
+
+
+
+
+
+
+ Lingcod
+
+River
+
+
+
+
+
+
+ Perch
+
+Both
+
+
+
+
+
+
+ Pike
+
+Both
+
+
+
+
+
+
+ Bream
+
+River
+
+
+
+
+
+The Mountain
+Note that this refers to the lake outside of The Mines.
+
+
+
+
+
+Time
+
+
+ Spring
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Largemouth Bass
+
+
+
+
+
+
+ Bullhead
+
+
+
+
+
+
+ Carp
+
+
+
+
+
+
+ Chub
+
+
+
+
+
+
+ Green Algae
+
+
+
+
+
+
+ Summer
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Largemouth Bass
+
+
+
+
+
+
+ Rainbow Trout
+
+Sunny day only
+
+
+
+
+ Sturgeon
+
+
+
+
+
+
+ Bullhead
+
+
+
+
+
+
+ Carp
+
+
+
+
+
+
+ Chub
+
+
+
+
+
+
+ Green Algae
+
+
+
+
+
+
+ Fall
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Largemouth Bass
+
+
+
+
+
+
+ Bullhead
+
+
+
+
+
+
+ Carp
+
+
+
+
+
+
+ Chub
+
+
+
+
+
+
+ Green Algae
+
+
+
+
+
+
+ Walleye
+
+
+
+Rainy day only
+
+
+ Midnight Carp
+
+
+
+
+
+
+ Winter
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Largemouth Bass
+
+
+
+
+
+
+ Sturgeon
+
+
+
+
+
+
+ Bullhead
+
+
+
+
+
+
+ Chub
+
+
+
+
+
+
+ Green Algae
+
+
+
+
+
+
+ Lingcod
+
+
+
+
+
+
+ Perch
+
+
+
+
+
+
+ Midnight Carp
+
+
+
+
+
+The Mines
+
+
+
+
+Time
+
+
+ All
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Ghostfish
+
+Floors 20, 60
+
+
+
+
+
+
+ Stonefish
+
+Floor 20
+
+
+
+
+
+
+ Green Algae
+
+All
+
+
+
+
+
+
+ White Algae
+
+All
+
+
+
+
+
+
+ Ice Pip
+
+Floor 60
+
+
+
+
+
+
+ Lava Eel
+
+Floor 100
+
+
+
+
+
+Secret Woods
+
+
+
+
+Time
+
+
+ All
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Carp
+
+
+
+
+
+
+ Woodskip
+
+
+
+
+
+
+ Catfish
+
+Rainy day only
+
+
+
+The Desert
+
+
+
+
+Time
+
+
+ All
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Sandfish
+
+
+
+
+
+
+ Scorpion Carp
+
+
+
+
+
+
+ Green Algae
+
+
+
+
+
+The Sewers
+
+
+
+
+Time
+
+
+ All
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Carp
+
+
+
+
+
+
+ Green Algae
+
+
+
+
+
+
+ White Algae
+
+
+
+
+
+Mutant Bug Lair
+
+
+
+
+Time
+
+
+ All
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Carp
+
+
+
+
+
+
+ Slimejack
+
+
+
+
+
+
+ Green Algae
+
+
+
+
+
+
+ White Algae
+
+
+
+
+
+Witch's Swamp
+
+
+
+
+Time
+
+
+ All
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Void Salmon
+
+
+
+
+
+
+ Catfish
+
+Rainy day only
+
+
+
+
+ Green Algae
+
+
+
+
+
+
+ White Algae
+
+
+
+
+
+Ginger Island North
+
+
+
+
+Time
+
+
+ All
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Blue Discus
+
+
+
+
+
+
+ Midnight Carp
+
+
+
+
+
+
+ Tilapia
+
+
+
+
+
+Ginger Island South & Southeast
+
+
+
+
+Time
+
+
+ All
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Flounder
+
+
+
+
+
+
+ Lionfish
+
+
+
+
+
+
+ Pufferfish
+
+
+
+Sunny day only
+
+
+
+
+ Super Cucumber
+
+
+
+
+
+
+ Tuna
+
+
+
+
+
+Pirate Cove
+
+
+
+
+Time
+
+
+ All
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Flounder
+
+
+
+
+
+
+ Pufferfish
+
+
+
+Sunny day only
+
+
+
+
+ Stingray
+
+
+
+
+
+
+ Super Cucumber
+
+
+
+
+
+
+ Tuna
+
+
+
+
+
+Ginger Island West
+Note that there are two types of water in Ginger Island West: freshwater and ocean. The southern-most plank bridge in the river is the divider between the two.  The ocean is to the west and south; the pond and river north of the southern-most plank bridge are freshwater.
+
+
+
+
+
+Time
+
+
+ All
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1
+
+
+ Flounder
+
+Ocean
+
+
+
+
+
+
+ Lionfish
+
+Ocean
+
+
+
+
+
+
+ Octopus
+
+Ocean
+
+
+
+
+
+
+ Pufferfish
+
+Ocean
+
+
+Sunny day only
+
+
+
+
+ Super Cucumber
+
+Ocean
+
+
+
+
+
+
+ Tuna
+
+Ocean
+
+
+
+
+
+
+ Blue Discus
+
+Freshwater
+
+
+
+
+
+
+ Midnight Carp
+
+Freshwater
+
+
+
+
+
+
+ Tilapia
+
+Freshwater
+
+
+
+
+
+Fish Infograph
+Note that the only difference between the two images is the background.
+
+ Night background
+ Day background
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Fishing_Strategy&oldid=141905"
+Category: GameplayHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 23 September 2022, at 19:27.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

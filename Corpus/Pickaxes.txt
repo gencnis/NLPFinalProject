@@ -1,0 +1,309 @@
+
+
+
+
+
+Pickaxes - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pickaxes
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+The Pickaxe is a tool obtained at the beginning of the game. It is used mainly for breaking stones, particularly when Mining, although it has other uses and can also remove certain objects. For example, the pickaxe can be used to pick up placed items, such as floor tiles, sprinklers, or artisan equipment, much like an axe. In a similar way, the pickaxe can also strike small plants like weeds or other crops on the farm to remove them.
+Only the pickaxe can un-till soil that has previously been tilled (i.e., it can remove strikes from a Hoe). This process is overall done in two stages; striking once will remove any crops on top, leaving the underlying tilled soil intact (including any fertilizer present).  Striking a second time tilled soil will revert the tile to an un-tilled state, removing any applied fertilizer. The pickaxe also applies this two-stage removal process to for items placed on top of floor tiles, while the axe will remove both the object and the floor at once. Also, using the pickaxe on a Monster will deal a small portion of damage, similar to other weapons. However, another unique use case is hitting a Crab 5 times with a pickaxe which will knock off its shell, and cause the crab to flee rather than attack the player.
+
+Grades of Pickaxe
+The Pickaxe may be upgraded at the Blacksmith.  The cost and resource requirements for each upgrade are shown in the table below.  As a summary of the upgrade effects, with each upgrade level the number of hits required to break a stone or node is reduced, and it becomes possible to break harder types of rocks.
+
+
+
+Image
+
+Name
+
+Cost
+
+Ingredients
+
+Improvements
+
+
+
+
+Pickaxe
+
+Starter Tool
+
+N/A
+
+Can break small rocks anywhere.In the Mines, can break tougher rocks on levels 1-40 in two hits and can break large boulders with multiple hits. Can break copper nodes in 3 hits.Note: Cannot break boulders on The Farm.
+
+
+
+
+Copper Pickaxe
+
+2,000g
+
+ Copper Bar (5)
+
+
+In the Mines, can break all rocks on levels 1-40 in one hit and 40-79 in two hits. Can break copper nodes in 2 hits.
+
+
+
+
+
+Steel Pickaxe
+
+5,000g
+
+ Iron Bar (5)
+
+Can break boulders on The Farm.
+In the Mines, can break rocks on levels 40-79 in one hit, and Quarry Mine rocks in two hits.
+Breaks copper nodes in 1 hit, iron nodes in 2 hits, gold nodes in 3 hits, and iridium nodes in 6 hits. Can break large rocks in 4 hits. Can break the barrier inside the mine that blocks the player from talking with Dwarf.
+
+
+
+
+
+Gold Pickaxe
+
+10,000g
+
+ Gold Bar (5)
+
+Can break a meteorite.
+In the Mines, can break rocks on levels 80-120 in one hit.
+Breaks copper and iron nodes in 1 hit, gold nodes in 2 hits, and iridium nodes in 4 hits.
+
+
+
+
+
+Iridium Pickaxe
+
+25,000g
+
+ Iridium Bar (5)
+
+
+Can break rocks in the Quarry Mine and Skull Cavern in one hit.
+
+
+Energy Cost
+See Proficiency
+
+
+Tools
+
+
+Basic
+
+Axes • Golden Scythe • Hoes • Pickaxes • Scythe • Trash Cans • Watering Cans
+
+
+Fishing
+
+Training Rod • Bamboo Pole • Fiberglass Rod • Iridium Rod • Crab Pot
+
+
+Other
+
+Auto-Grabber • Auto-Petter • Copper Pan • Hay Hopper • Heater • Incubator • Milk Pail • Ostrich Incubator • Shears
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Pickaxes&oldid=141788"
+Category: Tools
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 18 September 2022, at 17:32.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

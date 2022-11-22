@@ -1,0 +1,329 @@
+
+
+
+
+
+Rock Crab - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rock Crab
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Rock Crab
+
+
+
+
+
+Information
+
+
+Spawns In:
+
+The Mines
+
+
+Floors:
+
+1-29
+
+
+Killable:
+
+Yes
+
+
+Base HP:
+
+30
+
+
+Base Damage:
+
+5
+
+
+Base Def:
+
+1
+
+
+Speed:
+
+2
+
+
+XP:
+
+4
+
+
+Variations:
+
+ Lava Crab Iridium Crab Rock Crab (dangerous) Lava Crab (dangerous)
+
+
+Drops:
+
+ Cherry Bomb (40%) Crab (15%) Dwarf Scroll I (0.5%) Dwarf Scroll IV (0.1%)If reached bottom of Mines: Diamond (0.05%) Prismatic Shard (0.05%)
+
+
+
+Rock Crabs are an enemy found in the Mines. 60 rock crabs (any type) need to be killed for the Monster Eradication Goal at the Adventurer's Guild.
+
+Behavior
+They disguise themselves as stones, sometimes surprising the player. When immobile, they are invulnerable to attack, though they can be hit with a pickaxe to knock them back, making them mobile again.
+
+Strategy
+Rock Crabs may be differentiated from rocks by striking them with a weapon.  A Rock Crab will make a knocking sound and a zero damage indicator will pop up when hit with a weapon, while a rock will not.
+The Rock Crab can only be dealt damage if it is mobile, and not hiding beneath its shell. Strike an immobile Rock Crab with a pickaxe to make it mobile again. 
+Striking a Rock Crab with a pickaxe enough times will knock the shell off of its back, and will cause it to flee. Alternatively, setting off a bomb near a Rock Crab can remove its shell, and will cause it to flee as well.
+
+
+History
+1.0: Introduced.
+1.4: Fixed bug that caused striking an unshelled crab with a pickaxe to produce the same sounds and debris as hitting a rock.  Dropped Crabs now always bounce around before being taken into inventory, instead of bouncing only when inventory was full.
+
+
+Monsters
+
+
+Mines
+
+Bats • Bug • Cave Fly • Duggy • Dust Sprite • Ghost • Grub • Lava Crab • Metal Head • Rock Crab • Shadow Brute • Shadow Shaman • Skeleton • Slimes • Squid Kid • Stone Golem
+
+
+Dangerous Mines
+
+Bat (dangerous) • Blue Squid • Bug (dangerous) • Carbon Ghost • Cave Fly (dangerous) • Duggy (dangerous) • Dust Sprite (dangerous) • Frost Bat (dangerous) • Grub (dangerous) • Haunted Skull (dangerous) • Lava Crab (dangerous) • Metal Head (dangerous) • Putrid Ghost • Rock Crab (dangerous) • Shadow Brute (dangerous) • Shadow Shaman (dangerous) • Shadow Sniper • Skeleton (dangerous) • Skeleton Mage • Slimes (dangerous) • Spider • Squid Kid (dangerous) • Stick Bug • Stone Golem (dangerous)
+
+
+Quarry Mine
+
+Copper Slime • Haunted Skull • Iron Slime
+
+
+Skull Cavern
+
+Armored Bug • Big Slime • Carbon Ghost • Iridium Bat • Iridium Crab • Lava Bat • Mummy • Pepper Rex • Purple Slime • Serpent
+
+
+Dangerous Skull Cavern
+
+Armored Bug (dangerous) • Mummy (dangerous) • Royal Serpent • Slime (dangerous)
+
+
+Bug Lair
+
+Mutant Fly • Mutant Grub
+
+
+The Farm
+
+Wilderness Golem
+
+
+Volcano Dungeon
+
+Dwarvish Sentry • False Magma Cap • Hot Head • Lava Lurk • Magma Duggy • Magma Sparker • Magma Sprite • Tiger Slime
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Rock_Crab&oldid=142735"
+Category: Monsters
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 28 October 2022, at 17:51.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

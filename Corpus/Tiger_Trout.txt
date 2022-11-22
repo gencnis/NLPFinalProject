@@ -1,0 +1,691 @@
+
+
+
+
+
+Tiger Trout - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tiger Trout
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Tiger Trout
+
+
+
+
+
+A rare hybrid trout that cannot bear offspring of its own.
+
+
+Information
+
+
+
+
+Location
+
+River
+
+
+Time
+
+6am – 7pm
+
+
+Season
+
+ Fall •  Winter
+
+
+Weather
+
+Any
+
+
+Difficulty
+
+60
+
+
+Behavior
+
+Dart
+
+
+Size (inches)
+
+10-21
+
+
+
+
+Fishing XP
+
+23    26    29    35
+
+
+Energy / Health
+
+
+
+
+
+
+25
+
+
+
+
+
+11
+
+
+
+
+35
+
+
+
+
+
+
+		15
+
+
+
+
+
+45
+
+
+
+
+
+20
+
+
+
+
+65
+
+
+
+
+
+29
+
+
+
+
+
+
+
+Sell Prices
+
+
+Base
+ Fisher(+25%)
+ Angler(+50%)
+
+
+
+
+
+
+150g
+
+
+
+187g
+
+
+
+225g
+
+
+
+300g
+
+
+
+
+
+
+
+187g
+
+
+
+233g
+
+
+
+281g
+
+
+
+375g
+
+
+
+
+
+
+
+225g
+
+
+
+280g
+
+
+
+337g
+
+
+
+450g
+
+
+
+
+
+
+
+
+
+
+Artisan Sell Prices
+
+
+Roe
+
+Aged Roe
+
+ Aged Roe (+40%)
+
+
+ 105g
+
+ 210g
+
+ 294g
+
+
+
+
+The Tiger Trout is a fish that can be caught in the river (in Pelican Town or Cindersap Forest) and the Riverlands Farm, Forest Farm, or Hill-Top Farm during Fall and Winter.  It may also randomly appear in Krobus' shop on Wednesdays for 200g, or at the Traveling Cart for 450-1,000g.
+Tiger Trout can be caught regardless of time of day or season using Magic Bait.
+
+Contents
+
+1 Map
+2 Gifting
+3 Bundles
+4 Recipes
+5 Tailoring
+6 Fish Pond
+7 Quests
+8 Trivia
+9 References
+10 History
+
+
+Map
+The Tiger Trout can be found in the river.
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Like
+
+ Willy
+
+
+Neutral
+
+ Demetrius •  Elliott •  Leo •  Linus •  Pam •  Sebastian
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Dwarf •  Emily •  George •  Gus •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Marnie •  Maru •  Penny •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Wizard
+
+
+Hate
+
+ Evelyn •  Haley •  Pierre
+
+Bundles
+Tiger Trout is used in the  River Fish Bundle in the Fish Tank.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Recipe Source(s)
+Sell Price
+
+
+
+
+Maki Roll
+
+Fish and rice wrapped in seaweed.
+
+ Any Fish (1) Seaweed (1) Rice (1)
+
+ 100 45
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 1
+
+ Stardrop Saloon for 300g
+
+220g
+
+
+
+
+Quality Fertilizer
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Sap (2) Any Fish (1)
+
+N/A
+
+ Farming Level 9
+
+10g
+
+
+
+
+Sashimi
+
+Raw fish sliced into thin pieces.
+
+ Any Fish (1)
+
+ 75 33
+
+ Linus (Mail - 3+ )
+
+75g
+
+
+Tailoring
+Tiger Trout can be used in the spool of the Sewing Machine to create the dyeable Fish Shirt.   It can be used in dyeing, serving as an orange dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Fish Pond
+Tiger Trout can be placed in a Fish Pond, but unlike all other fish, they cannot reproduce. [1]  The pond must be filled with caught Tiger Trout to reach maximum capacity. The initial pond capacity is 10 fish; no quests are necessary to increase the pond capacity. The only possible output is dark brown Tiger Trout Roe.
+Produce
+
+
+
+Item(s) Produced
+
+Fishing XP Granted
+
+Population
+
+% of Items
+
+Overall Daily Chance
+
+
+ Roe (1)
+
+14
+
+1-4
+100%
+23-47%
+
+
+5-9
+60%
+33-52%
+
+
+10
+12%
+11%
+
+
+ Roe (2)
+
+14
+
+5-9
+40%
+22-35%
+
+
+10
+88%
+84%
+
+
+Nothing
+
+
+
+1-4
+0%
+77-53%
+
+
+5-9
+0%
+45-13%
+
+
+10
+0%
+5%
+
+Quests
+Fishing: Willy may randomly request 1-4 Tiger Trout during Fall or Winter at the "Help Wanted" board outside Pierre's General Store for a reward of 150g per fish.  (You get to keep the fish).
+Aquatic Overpopulation: Demetrius may request 10 Tiger Trout to be caught in Fall at the Special Orders board outside the Mayor's Manor for a reward of gold equivalent to selling the fish and the Farm Computer recipe.
+Trivia
+In real life, as in the game, Tiger Trout are a sterile hybrid of the Brown Trout and the Brook Trout, unable to reproduce.
+References
+
+↑  In the game code the spawn rate for Tiger Trout is set to 999999 meaning it could technically reproduce after that number of days. To reach that number of days in Stardew Valley would require over 8900 years of the game to be played. 
+
+
+History
+1.4: Added iridium quality.  Can now be used in Tailoring.
+1.5: Special Order quest added.
+
+
+Fish
+
+
+Legendary
+
+Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish
+
+
+The Beach
+
+Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna
+
+
+River
+
+Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye
+
+
+Mountain Lake
+
+Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye
+
+
+Cindersap Forest Pond
+
+Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye
+
+
+Secret Woods
+
+Carp • Catfish • Woodskip
+
+
+Mines
+
+Ghostfish • Ice Pip • Lava Eel • Stonefish
+
+
+Sewers
+
+Carp • Mutant Carp • Radioactive Carp
+
+
+Desert
+
+Sandfish • Scorpion Carp
+
+
+Mutant Bug Lair
+
+Carp • Slimejack
+
+
+Witch's Swamp
+
+Catfish • Void Salmon
+
+
+Night Market
+
+Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber
+
+
+Crab Pot
+
+Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail
+
+
+Ginger Island
+
+Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray •  Super Cucumber • Tilapia • Tuna
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Tiger_Trout&oldid=143432"
+Categories: River fishLake fishFall fishWinter fish
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 8 November 2022, at 17:18.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

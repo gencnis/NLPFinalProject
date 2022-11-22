@@ -1,0 +1,449 @@
+
+
+
+
+
+Snow Yam - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Snow Yam
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Snow Yam
+
+
+
+
+
+This little yam was hiding beneath the snow.
+
+
+Information 
+
+
+Source:
+
+Tilling • Winter Seeds
+
+
+Season:
+
+ Winter
+
+
+Healing Effect
+
+
+
+
+
+
+
+30 Energy
+
+
+
+
+42 Energy
+
+
+
+
+54 Energy
+
+
+
+
+78 Energy
+
+
+
+
+
+
+
+13 Health
+
+
+
+
+18 Health
+
+
+
+
+24 Health
+
+
+
+
+35 Health
+
+
+
+Sell Price:
+
+
+
+
+
+
+100g
+
+
+
+
+125g
+
+
+
+
+150g
+
+
+
+
+200g
+
+
+
+The Snow Yam is a foraging item found only in Winter. Wild snow yams do not grow above ground, but instead they are buried in the snow/dirt and must be dug up with a Hoe (no other tools, even Bombs, will work).
+The highest chance of finding a Snow Yam (11-16%, map-dependent) is when digging up an Artifact Spot.[1]  There is also a 4% chance of finding a Snow Yam when digging standard tillable soil in any exterior location.[2]  Exceptions are in the Farm, where Snow Yams can be found at artifact spots, but not standard tillable soil, and in the Desert, where Snow Yams can not be found at all.  Digging up a Snow Yam provides no experience.
+Snow Yams can also be grown from Winter Seeds, in which case they are a standard wild-seed crop: they grow above ground, can be harvested without using a tool, give 7 Foraging XP each, and are affected by the Gatherer and Botanist professions.
+
+Contents
+
+1 Gifting
+2 Bundles
+3 Recipes
+4 Tailoring
+5 Quests
+6 References
+7 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Like
+
+ Harvey •  Leah •  Linus
+
+
+Neutral
+
+ Abigail •  Alex •  Clint •  Demetrius •  Emily •  Evelyn •  George •  Gus •  Lewis •  Marnie •  Pam •  Penny •  Robin •  Sandy
+
+
+Dislike
+
+ Caroline •  Dwarf •  Elliott •  Haley •  Jas •  Jodi •  Kent •  Krobus •  Leo •  Pierre •  Sam •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+
+Hate
+
+ Maru
+
+Bundles
+Snow Yam is used in the  Winter Foraging Bundle in the Crafts Room.
+
+Recipes
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+Sell Price
+
+
+
+
+Wild Seeds (Wi)
+
+An assortment of wild winter seeds.(Produces 10 Winter Seeds per craft.)
+
+ Crocus (1) Crystal Fruit (1) Snow Yam (1) Winter Root (1)
+
+ Foraging Level 7
+
+30g
+
+Tailoring
+Snow Yam is used in the spool of the Sewing Machine to create a light blue Shirt  with a horizontal white stripe in the middle.
+
+Quests
+The Snow Yam may be randomly requested in Winter at the "Help Wanted" board outside Pierre's General Store for a reward of 300g and 150 Friendship points.
+References
+
+↑ The chance of appearing in an artifact spot is calculated by GameLocation::digUpArtifactSpot.  The base chance in code is 20% (0.5*0.4), but the actual chance is lower because artifacts and lost books are checked first and must all fail their checks.
+
+↑ The chance of appearing in standard tillable soil is calculated by GameLocation::checkForBuriedItem.
+
+
+History
+1.4: Can now be used in Tailoring. Can no longer be dug up in Desert.
+
+
+Foraging
+
+
+Basic
+
+Sap
+
+
+Spring
+
+Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish
+
+
+Summer
+
+Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea
+
+
+Fall
+
+Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum
+
+
+Winter
+
+Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root
+
+
+The Beach
+
+Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed
+
+
+The Mines
+
+Cave Carrot • Purple Mushroom • Red Mushroom
+
+
+The Desert
+
+Cactus Fruit • Coconut
+
+
+Skull Cavern
+
+Dinosaur Egg • Fiddlehead Fern
+
+
+Ginger Island
+
+Ginger • Magma Cap
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Snow_Yam&oldid=143013"
+Category: Winter Forage
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 15:57.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

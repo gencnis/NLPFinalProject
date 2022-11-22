@@ -1,0 +1,394 @@
+
+
+
+
+
+Attack - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attack
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Attack  is a statistic that affects how much damage the player does. It can be affected in a variety of ways.
+
+Buff
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+The following buffs affect Attack.
+
+
+
+Image
+
+Name
+
+Effect
+
+Causes
+
+Duration
+
+
+
+
+Warrior Energy
+
++10 Attack
+
+Killing an enemy while wearing a Warrior Ring.
+
+ 5 Seconds
+
+
+
+
+Weakness
+
+-20 Attack
+
+Getting hit by a Blue Squid's orb
+
+ 10 Seconds
+
+Cooking
+The following cooked dishes increase Attack:
+
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Fried Mushroom
+
+Earthy and aromatic.
+
+ Common Mushroom (1) Morel (1) Oil (1)
+
+ 135 60
+
+ Attack (+2)
+
+ 7m
+
+ Demetrius (Mail - 3+ )
+
+200g
+
+
+
+
+Roots Platter
+
+This'll get you digging for more.
+
+ Cave Carrot (1) Winter Root (1)
+
+ 125 56
+
+ Attack (+3)
+
+ 5m 35s
+
+ Combat Level 3
+
+100g
+
+
+
+
+Magic Rock Candy
+
+A rare and powerful candy infused with the essence of the prismatic shard.
+
+N/A
+
+500225
+
+ Mining (+2) Luck (+5) Speed (+1) Defense (+5) Attack (+5)
+
+ 8m 24s
+
+N/A
+
+5,000g
+
+
+Rings
+The following rings increase Attack.  The effect is permanent while wearing the ring.
+
+
+
+Image
+
+Name
+
+Description
+
+Effect
+
+Where to Find
+
+Ingredients
+
+Purchase Price
+
+Sell Price
+
+
+
+
+Iridium Band
+
+Glows, attracts items, and increases attack damage by 10%.
+
+Combines the effect of the Glow Ring, the Magnet Ring, and the Ruby Ring.
+
+
+Crafting with  Combat Level 9
+ Fishing Treasure Chests
+
+ Iridium Bar (5) Solar Essence (50) Void Essence (50)
+
+N/A
+
+1,000g
+
+
+
+
+Ruby Ring
+
+Increases attack by 10%.
+
+Increases  Attack by 10%.
+
+Purchased from the Adventurer's Guild after reaching level 80 in The Mines
+
+N/A
+
+5,000g
+
+300g
+
+
+
+Skills & Stats
+
+
+Skills
+
+Farming • Mining • Foraging • Fishing • Combat
+
+
+Stats
+
+Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Attack&oldid=140705"
+Category: BuffsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 7 August 2022, at 16:42.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

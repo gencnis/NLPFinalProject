@@ -1,0 +1,699 @@
+
+
+
+
+
+Bream - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bream
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Bream
+
+
+
+
+
+A fairly common river fish that becomes active at night.
+
+
+Information
+
+
+
+
+Location
+
+River
+
+
+Time
+
+6pm – 2am
+
+
+Season
+
+ All
+
+
+Weather
+
+Any
+
+
+Difficulty
+
+35
+
+
+Behavior
+
+Smooth
+
+
+Size (inches)
+
+12-31
+
+
+
+
+Fishing XP
+
+14    17    20    26
+
+
+Energy / Health
+
+
+
+
+
+
+13
+
+
+
+
+
+5
+
+
+
+
+18
+
+
+
+
+
+
+		8
+
+
+
+
+
+23
+
+
+
+
+
+10
+
+
+
+
+33
+
+
+
+
+
+14
+
+
+
+
+
+
+
+Sell Prices
+
+
+Base
+ Fisher(+25%)
+ Angler(+50%)
+
+
+
+
+
+
+45g
+
+
+
+56g
+
+
+
+67g
+
+
+
+90g
+
+
+
+
+
+
+
+56g
+
+
+
+70g
+
+
+
+83g
+
+
+
+112g
+
+
+
+
+
+
+
+67g
+
+
+
+84g
+
+
+
+100g
+
+
+
+135g
+
+
+
+
+
+
+
+
+
+
+Artisan Sell Prices
+
+
+Roe
+
+Aged Roe
+
+ Aged Roe (+40%)
+
+
+ 52g
+
+ 104g
+
+ 145g
+
+
+
+
+The Bream is a fish that can be found in the river (in Pelican Town or Cindersap Forest) during all seasons after 6pm. It can also randomly be found in Garbage Cans during any season, or at the Traveling Cart for 135-1,000g.
+A Bream can be caught regardless of the time of day using Magic Bait.
+
+Contents
+
+1 Map
+2 Gifting
+3 Bundles
+4 Recipes
+5 Tailoring
+6 Fish Pond
+7 Quests
+8 History
+
+
+Map
+Bream can be found in the river.
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Demetrius •  Elliott •  Leo •  Linus •  Pam •  Sebastian •  Willy
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Dwarf •  Emily •  George •  Gus •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Marnie •  Maru •  Penny •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Wizard
+
+
+Hate
+
+ Evelyn •  Haley •  Pierre
+
+Bundles
+Bream is used in the  Night Fishing Bundle in the Fish Tank.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Recipe Source(s)
+Sell Price
+
+
+
+
+Baked Fish
+
+Baked fish on a bed of herbs.
+
+ Sunfish (1) Bream (1) Wheat Flour (1)
+
+ 75 33
+
+
+
+
+
+
+The Queen of Sauce
+
+
+7 Summer, Year 1
+
+
+100g
+
+
+
+
+Maki Roll
+
+Fish and rice wrapped in seaweed.
+
+ Any Fish (1) Seaweed (1) Rice (1)
+
+ 100 45
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 1
+
+ Stardrop Saloon for 300g
+
+220g
+
+
+
+
+Quality Fertilizer
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Sap (2) Any Fish (1)
+
+N/A
+
+ Farming Level 9
+
+10g
+
+
+
+
+Sashimi
+
+Raw fish sliced into thin pieces.
+
+ Any Fish (1)
+
+ 75 33
+
+ Linus (Mail - 3+ )
+
+75g
+
+
+Tailoring
+Bream can be used in the spool of the Sewing Machine to create the dyeable Fish Shirt.   It can be used in dyeing, serving as a blue dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Fish Pond
+Bream can be placed in a Fish Pond, where they will reproduce every 2 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is blue Bream Roe.
+Quests
+
+
+
+Pond Capacity
+
+Quest Item
+
+Fishing XP Granted
+
+
+Before Quest
+
+After Quest
+
+
+3
+5
+3 Acorns, 10 Bug Meat, 3 Maple Seeds, or 3 Pine Cones
+30
+
+
+5
+7
+3 Gold Ore, 1 Maple Syrup, or 5 Mixed Seeds
+30
+
+
+7
+10
+1 Crayfish, 1 Honey, 2 Jade, or 1 Periwinkle
+30
+
+Produce
+
+
+
+Item(s) Produced
+
+Fishing XP Granted
+
+Population
+
+% of Items
+
+Overall Daily Chance
+
+
+ Roe (1)
+
+12
+
+1-10
+90%
+21-86%
+
+
+Nothing
+
+
+
+1-10
+10%
+79-14%
+
+Quests
+Item Delivery: One Bream may be randomly requested during any season at the "Help Wanted" board outside Pierre's General Store for a reward of 135g and 150 Friendship points.
+Two Bream may be requested by Dorado, Lingcod, or Pike in a Fish Pond quest to increase the capacity of the pond from 3 to 5.
+History
+1.4: Added iridium quality.  Can now be used in Tailoring.  Can be requested in Fish Pond quests.
+
+
+Fish
+
+
+Legendary
+
+Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish
+
+
+The Beach
+
+Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna
+
+
+River
+
+Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye
+
+
+Mountain Lake
+
+Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye
+
+
+Cindersap Forest Pond
+
+Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye
+
+
+Secret Woods
+
+Carp • Catfish • Woodskip
+
+
+Mines
+
+Ghostfish • Ice Pip • Lava Eel • Stonefish
+
+
+Sewers
+
+Carp • Mutant Carp • Radioactive Carp
+
+
+Desert
+
+Sandfish • Scorpion Carp
+
+
+Mutant Bug Lair
+
+Carp • Slimejack
+
+
+Witch's Swamp
+
+Catfish • Void Salmon
+
+
+Night Market
+
+Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber
+
+
+Crab Pot
+
+Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail
+
+
+Ginger Island
+
+Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray •  Super Cucumber • Tilapia • Tuna
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Bream&oldid=142641"
+Categories: Spring fishSummer fishFall fishWinter fishRiver fish
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 26 October 2022, at 03:48.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

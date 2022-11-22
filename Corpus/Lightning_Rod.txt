@@ -1,0 +1,358 @@
+
+
+
+
+
+Lightning Rod - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lightning Rod
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Lightning Rod
+
+
+
+
+
+Collects energy from lightning storms and turns it into battery packs.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Season:
+
+Spring • Summer • Fall
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Crafting
+
+
+Recipe Source:
+
+ Foraging (Level 6)
+
+
+Ingredients:
+
+ Iron Bar (1) Refined Quartz (1) Bat Wing (5)
+
+
+The Lightning Rod creates a  Battery Pack the day after getting hit by lightning during a storm. It is not necessary for the player to be on the farm when the lightning strike happens.
+Since rods do not protect a specific area, the exact placement of a rod on the farm has no bearing on its chance to intercept a lightning strike. A Lightning Rod has a very good chance of intercepting a lightning bolt if it isn't already processing one.[1]
+Since each rod only protects the farm from harm if it is not already processing a previous lightning strike, it is advisable to place multiple rods on the farm. The number of lightning strikes during one day is random.
+A lightning rod is the reward for completing the  10,000 Bundle in the Vault.
+
+Contents
+
+1 Chance to Intercept
+2 Notes
+3 References
+4 History
+
+
+Chance to Intercept
+The chance that a lightning strike will be intercepted is inversely related to the percentage of lightning rods on the farm that are currently holding a charge (either pulsing or holding a battery pack). The exact probability is chance to intercept = 1 - (number of charged lightning rods / total number of lightning rods)²[2]. That is, if none of the lightning rods are currently holding a charge, a lightning strike is 100% guaranteed to be intercepted. If 50% of the lightning rods are charged, a lightning strike has a 75% chance to be intercepted. If 90% of the lightning rods are charged, a strike has only a 19% chance to be intercepted. At least one lightning rod must be on the farm to have any chance of intercepting a strike.
+A non-intercepted lightning strike has a base 25% chance of hitting a feature on the farm, influenced by daily luck and luck buffs.
+
+Notes
+Though it is possible to place lightning rods outside of the farm map, they will never get hit by lightning there, and thus will produce no battery packs.
+Storms (and thus lightning) never occur in Winter.  Storms never occur on Ginger Island.
+More lightning will strike the longer the player stays awake, necessitating more lightning rods and giving potential to produce more Battery Packs.
+Placing a lightning rod on a Grass Starter will cause animals to be unable to eat the grass. It can be used as a persistent source of grass expansion.
+References
+
+↑ "v1.07 beta branch Bugs/Discussion"
+
+↑ See Utility.performLightningUpdate() in the game code.
+
+
+History
+1.4: Lightning Rods are now ready to harvest the day after a storm, instead of 24 hours later. Lightning Rods can now be stacked in a player's inventory and in chests.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Lightning_Rod&oldid=142985"
+Category: Craftable items
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 15:35.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

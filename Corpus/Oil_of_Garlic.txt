@@ -1,0 +1,327 @@
+
+
+
+
+
+Oil of Garlic - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oil of Garlic
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Oil of Garlic
+
+
+
+
+
+Drink this and weaker monsters will avoid you.
+
+
+Information
+
+
+Source:
+
+Crafting
+
+
+Buff(s):
+
+ Oil of Garlic Buff
+
+
+Buff Duration:
+
+ 10m
+
+
+
+
+Healing:
+
+
+
+
+ 200 Energy
+
+
+ 89 Health
+
+
+
+
+Sell Price:
+
+1,000g
+
+
+Recipe
+
+
+Recipe Source(s):
+
+ Combat Level 6
+
+
+Ingredients:
+
+ Garlic (10) Oil (1)
+
+Oil of Garlic is a drinkable crafted item. The recipe is earned at Combat skill level 6. The Dwarf also sells Oil of Garlic for 3,000g each.
+Drinking Oil of Garlic gives the Oil of Garlic Buff which lasts for 10 minutes (real-time). The Oil of Garlic Buff prevents enemies from spawning in The Mines, except on Dungeon Floors.[1] In Skull Cavern, it prevents floors from being infested, which includes Prehistoric Floors[2], and also prevents swarms of monsters on any level[3]. The Buff has no effect in Dangerous Mines or Dangerous Skull Cavern.[4]
+It is a special-effect buff, meaning that drinking Oil of Garlic will not remove any buffs from other drinks, or vice-versa.
+Note: this recipe is profitable - it will always result in profit when using the lowest quality ingredients.
+
+Contents
+
+1 Gifting
+2 Tailoring
+3 Quests
+4 References
+5 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Hate
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Tailoring
+Oil of Garlic can be used in the spool of the Sewing Machine to create the dyeable Dark Highlight Shirt.  It can be used in dyeing, serving as a green dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Quests
+Oil of Garlic is not used in any quests.
+
+References
+
+↑ See Locations.MineShaft::adjustLevelChances in the game code. Note the Oil of Garlic Buff has the index 23.
+
+↑ See Locations.MineShaft::populateLevel in the game code.
+
+↑ See Locations.MineShaft::performTenMinuteUpdate in the game code.
+
+↑ See Locations.MineShaft::AnyOnlineFarmerHasBuff in the game code.
+
+
+History
+1.4: Can now be used in Tailoring.
+
+
+Recipes
+
+
+Cooking
+
+Algae Soup • Artichoke Dip • Autumn's Bounty • Baked Fish • Banana Pudding • Bean Hotpot • Blackberry Cobbler • Blueberry Tart • Bread • Bruschetta • Carp Surprise • Cheese Cauliflower • Chocolate Cake • Chowder • Coleslaw • Complete Breakfast • Cookie • Crab Cakes • Cranberry Candy • Cranberry Sauce • Crispy Bass • Dish O' The Sea • Eggplant Parmesan • Escargot • Farmer's Lunch • Fiddlehead Risotto • Fish Stew • Fish Taco • Fried Calamari • Fried Eel • Fried Egg • Fried Mushroom • Fruit Salad • Glazed Yams • Ginger Ale • Hashbrowns • Ice Cream • Lobster Bisque • Lucky Lunch • Maki Roll • Mango Sticky Rice • Maple Bar • Miner's Treat • Omelet • Pale Broth • Pancakes • Parsnip Soup • Pepper Poppers • Pink Cake • Pizza • Plum Pudding • Poi • Poppyseed Muffin • Pumpkin Pie • Pumpkin Soup • Radish Salad • Red Plate • Rhubarb Pie • Rice Pudding • Roasted Hazelnuts • Roots Platter • Salad • Salmon Dinner • Sashimi • Seafoam Pudding • Shrimp Cocktail • Spaghetti • Spicy Eel • Squid Ink Ravioli • Stir Fry • Strange Bun • Stuffing • Super Meal • Survival Burger • Tom Kha Soup • Tortilla • Triple Shot Espresso • Tropical Curry • Trout Soup • Vegetable Medley
+
+
+Crafting
+
+Bug Steak • Field Snack • Life Elixir • Oil of Garlic
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Oil_of_Garlic&oldid=141757"
+Categories: RecipesCraftable items
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 17 September 2022, at 19:40.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,333 @@
+
+
+
+
+
+Dust Sprite - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dust Sprite
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Dust Sprite
+
+
+
+
+
+Information
+
+
+Spawns In:
+
+The Mines
+
+
+Floors:
+
+41-79
+
+
+Killable:
+
+Yes
+
+
+Base HP:
+
+40
+
+
+Base Damage:
+
+6
+
+
+Base Def:
+
+2
+
+
+Speed:
+
+3
+
+
+XP:
+
+2
+
+
+Variations:
+
+ Dust Sprite (dangerous)
+
+
+Drops:
+
+ Coal (50%) Coffee Bean (1%) Crystal Fruit (2%) Dwarf Scroll II (0.5%) Dwarf Scroll IV (0.1%) Frozen Tear (2%) Gold Bar (0.1%)If reached bottom of Mines: Diamond (0.05%) Prismatic Shard (0.05%)
+
+
+
+Dust Sprites are an enemy found in the Mines in the frozen floors. Dust Sprites are a great source of coal, as it is one of their most common drops. 500 Dust Sprites (any type) need to be killed for the Monster Eradication Goal at the Adventurer's Guild.
+
+Behavior
+Dust Sprites are small creatures which often travel in packs. They bounce in place and chirp while inactive. If they spot the player, dust sprites will bound after them, causing damage upon collision.  Occasionally, they will break a rock that is in their way.
+
+Strategy
+Simply hit them. Cornering them against a wall will keep them from being knocked out of range with repeated swinging or stabbing.  Because of their bouncy behavior, it's easy for them to be closer than expected.
+
+Respawning
+Traveling to the entrance to the Mines will reset all floors.  Repeatedly farming frozen levels of the Mines, then exiting the mines will allow for repeated farming of Dust Sprites.
+
+Trivia
+The Dust Sprites may be a reference to the Soot Sprites from Studio Ghibli's animated films "Spirited Away" and "My Neighbor Totoro".
+The Dust Sprite's name in data files is "Dust Spirit".  This can be seen in-game during the cutscene at The Summit. It is also listed as "Dust Spirit" in Clint's Special Orders Quest.
+Players get Mining experience points for any rocks that are broken by Dust Sprites. This is the case even in Multiplayer where every player will get the experience for the rock broken, even if they weren't in the mines at the time.
+History
+1.0: Introduced.
+1.1: Added Coffee Bean to drop table.
+
+
+Monsters
+
+
+Mines
+
+Bats • Bug • Cave Fly • Duggy • Dust Sprite • Ghost • Grub • Lava Crab • Metal Head • Rock Crab • Shadow Brute • Shadow Shaman • Skeleton • Slimes • Squid Kid • Stone Golem
+
+
+Dangerous Mines
+
+Bat (dangerous) • Blue Squid • Bug (dangerous) • Carbon Ghost • Cave Fly (dangerous) • Duggy (dangerous) • Dust Sprite (dangerous) • Frost Bat (dangerous) • Grub (dangerous) • Haunted Skull (dangerous) • Lava Crab (dangerous) • Metal Head (dangerous) • Putrid Ghost • Rock Crab (dangerous) • Shadow Brute (dangerous) • Shadow Shaman (dangerous) • Shadow Sniper • Skeleton (dangerous) • Skeleton Mage • Slimes (dangerous) • Spider • Squid Kid (dangerous) • Stick Bug • Stone Golem (dangerous)
+
+
+Quarry Mine
+
+Copper Slime • Haunted Skull • Iron Slime
+
+
+Skull Cavern
+
+Armored Bug • Big Slime • Carbon Ghost • Iridium Bat • Iridium Crab • Lava Bat • Mummy • Pepper Rex • Purple Slime • Serpent
+
+
+Dangerous Skull Cavern
+
+Armored Bug (dangerous) • Mummy (dangerous) • Royal Serpent • Slime (dangerous)
+
+
+Bug Lair
+
+Mutant Fly • Mutant Grub
+
+
+The Farm
+
+Wilderness Golem
+
+
+Volcano Dungeon
+
+Dwarvish Sentry • False Magma Cap • Hot Head • Lava Lurk • Magma Duggy • Magma Sparker • Magma Sprite • Tiger Slime
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Dust_Sprite&oldid=142756"
+Category: Monsters
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 28 October 2022, at 17:52.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

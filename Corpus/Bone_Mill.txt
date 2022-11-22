@@ -1,0 +1,382 @@
+
+
+
+
+
+Bone Mill - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bone Mill
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Bone Mill
+
+
+
+
+
+Turns bone items into fertilizers.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Crafting
+
+
+Recipe Source:
+
+ "Fragments of the past" Special Order
+
+
+Ingredients:
+
+ Bone Fragment (10) Clay (3) Stone (20)
+
+
+The Bone Mill is a piece of Refining Equipment that produces fertilizers from Bone Fragments, fossils, and specific artifacts. It takes  240m (4h) to process.[1]
+A Bone Mill may be crafted after receiving the recipe by mail from Gunther the day after completing his "Fragments of the past" Special Order.
+
+Contents
+
+1 Input Items
+2 Output Items
+3 References
+4 History
+
+
+Input Items
+
+
+
+ Amphibian Fossil (1)
+ Bone Fragment (5)
+ Fossilized Leg (1)
+ Fossilized Ribs (1)
+ Fossilized Skull (1)
+ Fossilized Spine (1)
+ Fossilized Tail (1)
+ Mummified Bat (1)
+ Mummified Frog (1)
+ Nautilus Fossil (1)
+ Palm Fossil (1)
+
+
+ Prehistoric Rib (1)
+ Prehistoric Scapula (1)
+ Prehistoric Skull (1)
+ Prehistoric Tibia (1)
+ Prehistoric Vertebra (1)
+ Skeletal Hand (1)
+ Skeletal Tail (1)
+ Snake Skull (1)
+ Snake Vertebrae (1)
+ Trilobite (1)
+
+
+Output Items
+Any of the following items may be output randomly.  There is a 10% chance that the number of items will be doubled.[1]
+
+ Deluxe Speed-Gro (3)
+ Quality Fertilizer (10)
+ Speed-Gro (5)
+ Tree Fertilizer (5)
+References
+
+↑ 1.0 1.1 See StardewValley.Object::performObjectDropInAction in the game code.
+
+
+History
+1.5: Introduced.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Bone_Mill&oldid=143269"
+Category: Craftable itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 18:38.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

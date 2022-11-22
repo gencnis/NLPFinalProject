@@ -1,0 +1,702 @@
+
+
+
+
+
+Duck Egg - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Duck Egg
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Duck Egg
+
+
+
+
+
+It's still warm.
+
+
+Information 
+
+
+Source:
+
+Ducks
+
+
+Healing Effect
+
+
+
+
+
+
+
+38 Energy
+
+
+
+
+53 Energy
+
+
+
+
+68 Energy
+
+
+
+
+98 Energy
+
+
+
+
+
+
+
+17 Health
+
+
+
+
+23 Health
+
+
+
+
+30 Health
+
+
+
+
+44 Health
+
+
+
+Sell Prices
+
+
+Base Price:
+
+Rancher Profession:   (+20% Sell Price)
+
+
+
+
+
+
+
+95g
+
+
+
+
+118g
+
+
+
+
+142g
+
+
+
+
+190g
+
+
+
+
+
+
+
+114g
+
+
+
+
+141g
+
+
+
+
+170g
+
+
+
+
+228g
+
+
+
+
+Artisan Sell Prices
+
+
+Base Price:
+
+Rancher:   (+20%)
+
+Artisan:   (+40%)
+
+
+
+
+
+
+
+375g
+
+
+
+
+
+
+
+450g
+
+
+
+
+
+
+
+525g
+
+
+
+
+
+
+
+The Duck Egg is an animal product obtained from a Duck.  It may be placed in a Big or Deluxe Coop's incubator to create a Duck. Duck Eggs may also be avaliable at the Traveling Cart for 285-1,000g.
+
+Contents
+
+1 Gifting
+2 Bundles
+3 Artisan Goods
+4 Recipes
+5 Tailoring
+6 Quests
+7 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Like
+
+ Alex •  Demetrius •  Harvey •  Jodi •  Kent •  Leah •  Linus •  Marnie •  Pierre •  Sam •  Shane
+
+
+Neutral
+
+ Caroline •  Clint •  Elliott •  Emily •  Evelyn •  George •  Gus •  Krobus •  Lewis •  Maru •  Penny •  Robin •  Sandy •  Willy
+
+
+Dislike
+
+ Abigail •  Dwarf •  Haley •  Jas •  Pam •  Vincent •  Wizard
+
+
+Hate
+
+ Sebastian
+
+Bundles
+A Duck Egg is an option for the  Animal Bundle in the Pantry.
+
+Artisan Goods
+See also: Animal Products Profitability
+
+
+Image
+
+Name
+
+Description
+
+Ingredient
+
+Equipment
+
+Time
+
+Sell Price
+
+
+
+
+Duck Mayonnaise
+
+It's a rich, yellow mayonnaise.
+
+ Duck Egg (1)
+
+Mayonnaise Machine
+
+ 3 Hours
+
+375g
+
+Recipes
+When used for Cooking, Duck Eggs are interchangeable with other Eggs.
+
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Fried Egg
+
+Sunny-side up.
+
+ Egg (1)
+
+ 50 22
+
+N/A
+
+N/A
+
+Upgraded farmhouse
+
+35g
+
+
+
+
+Omelet
+
+It's super fluffy.
+
+ Egg (1) Milk (1)
+
+ 100 45
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Spring, Year 1
+
+ Stardrop Saloon for 100g
+
+125g
+
+
+
+
+Pancakes
+
+A double stack of fluffy, soft pancakes.
+
+ Wheat Flour (1) Egg (1)
+
+ 90 40
+
+ Foraging (+2)
+
+ 11m 11s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Summer, Year 1
+
+ Stardrop Saloon for 100g
+
+80g
+
+
+
+
+Chocolate Cake
+
+Rich and moist with a thick fudge icing.
+
+ Wheat Flour (1) Sugar (1) Egg (1)
+
+ 150 67
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Winter, Year 1
+
+
+200g
+
+
+
+
+Pink Cake
+
+There's little heart candies on top.
+
+ Melon (1) Wheat Flour (1) Sugar (1) Egg (1)
+
+ 250 112
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 2
+
+
+480g
+
+
+
+
+Cookie
+
+Very chewy.
+
+ Wheat Flour (1) Sugar (1) Egg (1)
+
+ 90 40
+
+N/A
+
+N/A
+
+ Evelyn (4-heart event)
+
+140g
+
+
+
+
+Blueberry Tart
+
+It's subtle and refreshing.
+
+ Blueberry (1) Wheat Flour (1) Sugar (1) Egg (1)
+
+ 125 56
+
+N/A
+
+N/A
+
+ Pierre (Mail - 3+ )
+
+150g
+
+
+
+
+Crab Cakes
+
+Crab, bread crumbs, and egg formed into patties then fried to a golden brown.
+
+ Crab (1) Wheat Flour (1) Egg (1) Oil (1)
+
+ 225 101
+
+ Speed (+1) Defense (+1)
+
+ 16m 47s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Fall, Year 2
+
+
+275g
+
+
+Tailoring
+Duck Egg is used in the spool of the Sewing Machine to create the dyeable Green Jacket Shirt.  
+
+Quests
+Duck Eggs are not used in any quests.
+
+History
+1.0: Introduced.
+1.1: Increased value from 75g to 95g
+1.4: Can now be used in Tailoring.
+
+
+Animals and Produce
+
+
+Coop
+
+Chicken (Egg • Large Egg • Brown Egg • Large Brown Egg) • Dinosaur (Dinosaur Egg) • Duck (Duck Egg • Duck Feather) • Golden Chicken (Golden Egg) • Rabbit (Wool • Rabbit's Foot) • Void Chicken (Void Egg)
+
+
+Barn
+
+Cow (Milk • Large Milk) • Goat (Goat Milk • Large Goat Milk) • Sheep (Wool) • Ostrich (Ostrich Egg) • Pig (Truffle)
+
+
+Fish Pond
+
+Fish (Roe)
+
+
+Slime Hutch
+
+Slimes (Slime • Slime Ball • Slime Egg)
+
+
+Other
+
+Cat • Dog • Horse
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Duck_Egg&oldid=143087"
+Category: Animal Products
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 16:17.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

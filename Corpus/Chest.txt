@@ -1,0 +1,482 @@
+
+
+
+
+
+Chest - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chest
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Chest
+
+
+
+
+
+A place to store your items.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Crafting
+
+
+Recipe Source:
+
+Starter
+
+
+Ingredients:
+
+ Wood (50)
+
+
+See also: Stone Chest.
+The Chest is a craftable storage item that holds up to 36 different types of items. You can stack a maximum of 999 identical items into a single slot. Items do not decompose in chests.
+Chests can be left in many different places in Stardew Valley. However, if a chest is left on a walking pathway for a villager it will disappear, and its contents dropped.
+An empty chest can be picked up and returned to inventory by hitting it with any tool, or hitting repeatedly with an empty hand. Chests with any items inside cannot be picked up until emptied; however if a filled chest is hit repeatedly with just an empty hand, it will be pushed one tile away from the player (note that tools will not work for pushing). If that tile is not valid for item placement, the chest can jump to the nearest acceptable tile, such as behind the player, to a diagonally adjacent tile, or over other items to a valid one.
+
+Contents
+
+1 Coloring
+
+1.1 Color Picker
+1.2 Individual chests
+
+
+2 Chests outside the farm
+3 Bugs
+4 References
+5 History
+
+
+Coloring
+When opened, chests have a color bar above their inventory window which allows players to select a different color for the chest. This can be changed at anytime without cost. There are 20 colors available to select in the color picker, plus the original brown color.
+
+Color Picker
+
+
+Individual chests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chests outside the farm
+It is possible to place chests and other crafted items outside the farm.  Chests are useful for storing gifts close to the homes of Villagers who prefer them or to allow additional storage when Mining, Fishing, or Foraging.  Worm Bins can be placed near fishing spots, Furnaces can be placed at the entrance to The Mines, and entire sections of the Valley may be utilized for Keg or Preserves Jar processing. Common Trees can be planted in tillable soil and tapped.
+If a villager walks through the square where a crafted item was placed, the item will be destroyed. Below are player-created maps to indicate which tiles on the map are safe from villager-pathing. The tiles with the Rotten Plant should be safe.
+Safe-pathing images of the interiors of homes and buildings can be found in the complete image gallery located at https://imgur.com/a/JlRXGlc
+Note that items placed on the docks at the beach may be destroyed by villagers during the Dance of the Moonlight Jellies, or by Emily if married to her.  The image below is accurate for players who do not attend the festival and don't marry Emily.
+Note for v1.5 only: Leo has additional pathing requirements 
+
+
+  Pelican Town as of v1.4 
+  Cindersap Forest 
+  The Bus Stop 
+  The Railroad 
+  Calico Desert 
+  The Beach 
+  The Mountain as of v1.4 
+
+Note that the game uses a unique beach map during festival days, so items a player has placed on the Beach (Crab Pots, Chests, etc.) may disappear during the Night Market. These items should return on Winter 18.
+
+Bugs
+Prior to update 1.5, with a full inventory, selecting an item or stack of items in a chest, then clicking the organize button on the chest duplicates the item/stack of items being held.  They are dropped on the ground near the chest, and can be collected after freeing up inventory space.  When shipped, the duplicated items do not show in the end of day summary screen, but the gold is collected upon starting the next day.
+This bug is known to cause game instability and ConcernedApe recommends not using it. [1]
+
+References
+
+↑ https://forums.stardewvalley.net/index.php?threads/bug-items-on-chest-giving-free-copies-on-the-ground.609/post-4755
+
+
+History
+1.0: Introduced.
+1.1: Added ability to change color.
+1.4: When an NPC walks over a chest, it will dump its contents out instead of destroying them. Added menu button "Add to existing stacks". Chests can now be stacked in a player's inventory and in other chests.
+1.5: Chests can be moved by repeatedly hitting them with an empty hand. A duplication glitch involving chest organization was fixed.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Chest&oldid=143194"
+Category: Craftable itemsHidden category: Bugs tested in 1.4
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 17:24.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

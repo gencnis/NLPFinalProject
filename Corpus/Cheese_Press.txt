@@ -1,0 +1,445 @@
+
+
+
+
+
+Cheese Press - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cheese Press
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Cheese Press
+
+
+
+
+
+Turns milk into cheese.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Crafting
+
+
+Recipe Source:
+
+ Farming (Level 6)
+
+
+Ingredients:
+
+ Wood (45) Stone (45) Hardwood (10) Copper Bar (1)
+
+
+The Cheese Press is a type of Artisan Equipment used to make Artisan Goods. It takes Milk and turns it into Cheese. 
+Regular quality Milk produces regular quality Cheese, and regular quality Goat Milk produces regular quality Goat Cheese.  Large Milk and Large Goat Milk produce gold quality cheeses.  Cheese and Goat Cheese can be aged in Casks to increase their value.
+A Cheese Press is the reward for completing the  Animal Bundle in the Pantry.
+
+Products
+See also: Animal Products Profitability
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Processing Time[1]
+
+Sell Price
+
+Energy / Health
+
+
+
+
+Cheese
+
+It's your basic cheese.
+
+ Milk (1) or Large Milk (1)
+
+ 200m (≈3h)
+
+
+
+
+
+
+230g
+
+
+
+
+345g
+
+
+
+
+data-sort-value="0050"
+
+
+ 
+
+125
+
+56
+
+
+
+
+225
+
+101
+
+
+
+
+
+
+
+
+
+Goat Cheese
+
+Soft cheese made from goat's milk.
+
+ Goat Milk (1) or Large Goat Milk (1)
+
+ 200m (≈3h)
+
+
+
+
+
+
+400g
+
+
+
+
+600g
+
+
+
+
+data-sort-value="0050"
+
+
+ 
+
+125
+
+56
+
+
+
+
+225
+
+101
+
+
+
+
+
+
+References
+
+↑ See Object::performObjectDropInAction in the game code.
+
+
+History
+1.4: Increased cheese sell price from 200g to 230g.  Increased goat cheese sell price from 375g to 400g. Cheese Presses can now be stacked in a player's inventory and in chests.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Cheese_Press&oldid=143105"
+Category: Craftable items
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 16:31.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,772 @@
+
+
+
+
+
+Quality Fertilizer - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quality Fertilizer
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Quality Fertilizer
+
+
+
+
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+
+Information
+
+
+Source:
+
+Pierre's from year 2 • Crafting • Bone Mill
+
+
+Sell Price:
+
+10g
+
+
+Recipe
+
+
+Recipe Source(s):
+
+ Farming Level 9
+
+
+Ingredients:
+
+ Sap (2) Any Fish (1)
+
+Quality Fertilizer is a Fertilizer that improves the chance to grow a quality crop. It can be crafted, obtained from a Bone Mill, or purchased for 150g from Pierre's General Store beginning in year 2.  It may also occasionally be sold by the Traveling Cart (in any year) for 100-1,000g.  Thirty Quality Fertilizer are the reward for completing the  5,000 Bundle in the Vault.
+Quality Fertilizer must be placed on tilled soil before a seed has sprouted.
+Quality Fertilizer only affects the basic harvest, which means that extra crops gained at harvest (i.e., Coffee Bean, Blueberry, Cranberries) will be of regular quality.
+
+Contents
+
+1 Chance for Quality Crops
+2 When to turn fish into Quality Fertilizer
+
+2.1 Fishing Pole Fish
+2.2 Crab Pot Fish
+
+
+3 Gifting
+4 Tailoring
+5 Quests
+6 History
+
+
+Chance for Quality Crops
+
+
+Farming level
+
+% Regular quality
+
+% Silver quality
+
+% Gold quality
+
+Average price
+
+
+0
+78%
+14%
+8%
+1.07
+
+
+1
+64%
+23%
+13%
+1.12
+
+
+2
+52%
+30%
+18%
+1.17
+
+
+3
+40%
+36%
+24%
+1.21
+
+
+4
+30%
+41%
+29%
+1.25
+
+
+5
+21%
+45%
+34%
+1.28
+
+
+6
+15%
+45%
+40%
+1.31
+
+
+7
+14%
+41%
+45%
+1.33
+
+
+8
+13%
+37%
+50%
+1.34
+
+
+9
+11%
+33%
+56%
+1.36
+
+
+10
+10%
+29%
+61%
+1.38
+
+
+11
+9%
+25%
+66%
+1.39
+
+
+12
+7%
+21%
+72%
+1.41
+
+
+13
+6%
+17%
+77%
+1.43
+
+
+14
+4%
+13%
+82%
+1.44
+
+When to turn fish into Quality Fertilizer
+Below are quick-reference tables showing when to turn fish into Quality Fertilizer, based on the quality of the fish.  
+(The tables consider fish whose sell price is exactly 150g to be not good to turn into Quality Fertilizer, since the addition of the sell price of 2 sap (4g) makes it technically better to purchase Quality Fertilizer.)
+
+
+Fishing Pole Fish
+
+
+Fish
+
+No Profession
+
+ Fisher
+
+ Angler
+
+
+ Albacore
+Regular, Silver, Gold
+Regular, Silver, Gold
+Regular, Silver
+
+
+ Anchovy
+Always
+Always
+Always
+
+
+ Bream
+Always
+Always
+Always
+
+
+ Blue Discus
+Regular
+Never
+Never
+
+
+ Bullhead
+Regular, Silver, Gold
+Regular, Silver, Gold
+Regular, Silver
+
+
+ Carp
+Always
+Always
+Always
+
+
+ Chub
+Always
+Always
+Regular, Silver, Gold
+
+
+ Dorado
+Regular, Silver
+Regular
+Never
+
+
+ Eel
+Regular, Silver, Gold
+Regular, Silver
+Regular
+
+
+ Flounder
+Regular, Silver
+Regular
+Never
+
+
+ Ghostfish
+Always
+Always
+Always
+
+
+ Halibut
+Regular, Silver, Gold
+Regular, Silver
+Regular
+
+
+ Herring
+Always
+Always
+Always
+
+
+ Largemouth Bass
+Regular, Silver
+Regular
+Never
+
+
+ Lingcod
+Regular
+Never
+Never
+
+
+ Lionfish
+Regular, Silver
+Regular
+Never
+
+
+ Midnight Squid
+Regular, Silver
+Regular
+Never
+
+
+ Perch
+Always
+Always
+Regular, Silver, Gold
+
+
+ Pike
+Regular, Silver
+Regular
+Never
+
+
+ Rainbow Trout
+Always
+Regular, Silver, Gold
+Regular, Silver, Gold
+
+
+ Red Mullet
+Regular, Silver, Gold
+Regular, Silver, Gold
+Regular, Silver
+
+
+ Red Snapper
+Always
+Always
+Regular, Silver, Gold
+
+
+ Salmon
+Regular, Silver, Gold
+Regular, Silver, Gold
+Regular, Silver
+
+
+ Sandfish
+Regular, Silver, Gold
+Regular, Silver, Gold
+Regular, Silver
+
+
+ Sardine
+Always
+Always
+Always
+
+
+ Sea Cucumber
+Regular, Silver, Gold
+Regular, Silver, Gold
+Regular, Silver
+
+
+ Shad
+Always
+Regular, Silver, Gold
+Regular, Silver, Gold
+
+
+ Slimejack
+Regular, Silver
+Regular
+Never
+
+
+ Smallmouth Bass
+Always
+Always
+Regular, Silver, Gold
+
+
+ Squid
+Regular, Silver, Gold
+Regular, Silver
+Regular
+
+
+ Sunfish
+Always
+Always
+Always
+
+
+ Tilapia
+Regular, Silver, Gold
+Regular, Silver, Gold
+Regular, Silver
+
+
+ Tuna
+Regular, Silver
+Regular
+Never
+
+
+ Walleye
+Regular, Silver
+Regular
+Never
+
+
+ Woodskip
+Regular, Silver, Gold
+Regular, Silver, Gold
+Regular, Silver
+
+
+
+Crab Pot Fish
+
+
+Fish
+
+No Profession
+
+ Fisher
+
+ Angler
+
+
+ Cockle
+Always
+Always
+Regular, Silver, Gold
+
+
+ Crab
+Always
+Always
+Never
+
+
+ Crayfish
+Always
+Always
+Always
+
+
+ Lobster
+Always
+Never
+Never
+
+
+ Mussel
+Always
+Always
+Always
+
+
+ Oyster
+Always
+Always
+Always
+
+
+ Periwinkle
+Always
+Always
+Always
+
+
+ Shrimp
+Always
+Always
+Always
+
+
+ Snail
+Always
+Always
+Always
+
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Tailoring
+Quality Fertilizer can be used in the spool of the Sewing Machine to create the dyeable High-Waisted Shirt.   It can be used in dyeing, serving as an orange dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Quests
+Quality Fertilizer is not used in any quests.
+
+History
+1.05: Corrected sell price from 20g to 150g.
+1.4: Quality Fertilizer can be applied to seeds (but can't be applied once a seed has sprouted).  Can now be used in Tailoring.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Quality_Fertilizer&oldid=140310"
+Category: Fertilizer
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 24 July 2022, at 16:07.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,836 @@
+
+
+
+
+
+Movie Theater - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Movie Theater
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Movie Theater
+
+
+
+
+
+
+
+
+Open Hours:
+
+9:00am to 9:00pm
+
+
+Address:
+
+Abandoned JojaMart or Joja Warehouse
+
+
+The Movie Theater is a building that allows players to watch movies, alone or with a guest, once every 7 days. It is unlocked either by completing the Community Center or all community upgrades offered by Morris.
+If players choose to restore the Community Center, the night before the first rainy or stormy day after restoring the Center, there is a cutscene of a lightning bolt striking the doors to the abandoned JojaMart. Afterwards, the player may enter the abandoned JojaMart and find the Missing Bundle. The night after completing the Missing Bundle, the Junimos will build a Movie Theater.
+If players choose the Joja route, they can purchase the Movie Theater from Morris for 500,000g after completing all other community upgrades.  The Joja Warehouse will then become a Movie Theater.
+Players must purchase a Movie Ticket for 1,000g to enter the Movie Theater. A second Movie Ticket can also be purchased for 1,000g and given to a villager in the same way a gift is given. This will invite the villager to attend the movie with the player. To see the movie with the villager, enter the theater on the same day the ticket is gifted; otherwise, the ticket is forgotten.
+
+Contents
+
+1 Movies
+2 Concessions
+3 Crane Game
+
+3.1 Prizes
+
+
+4 Notes
+5 Trivia
+6 References
+7 History
+
+
+Movies
+There are 8 movies in total.  Movies repeat on a 2-year cycle, based on the season in which the player unlocks the Movie Theater.  All four "year 1" movies will cycle, followed by year 2 movies, then repeat.  The year in the table below refers to the year in which the player first unlocks the Theater. 
+Asking a guest to a loved movie earns 200 Friendship points with the guest, a liked movie earns 100 Friendship points, and a disliked movie neither earns nor costs friendship points with the guest.
+Note that Penny will love any movie if Pam is also present. Although it is impossible to invite both of them, there is a small chance that Pam will be in the audience of the movie when inviting Penny, as random community members are sometimes in the movie theater during the movie. 
+
+
+
+Poster
+
+Name
+
+Description
+
+Season / Year
+
+Love
+
+Like
+
+Dislike
+
+
+
+
+The Brave Little Sapling
+
+An animated family comedy about a little sprout on a magical adventure to become a tree!
+
+ Spring, Y1
+
+Caroline, Dwarf, Jas, Penny, Sandy, Vincent
+
+Abigail, Alex, Clint, Demetrius, Elliott, Emily, Evelyn, George, Gus, Haley, Harvey, Jodi, Kent, Leah, Leo, Lewis, Marnie, Maru, Pam, Pierre, Robin, Sam, Willy
+
+Krobus, Linus, Sebastian, Shane, Wizard
+
+
+
+
+Journey Of The Prairie King: The Motion Picture
+
+The beloved video game comes to the silver screen!
+
+ Summer, Y1
+
+Caroline, Dwarf, Jas, Robin, Sandy, Vincent
+
+Abigail, Alex, Clint, Demetrius, Emily, Evelyn, Gus, Jodi, Kent, Leo, Lewis, Marnie, Maru, Pam, Penny, Pierre, Sam, Sebastian, Shane, Willy
+
+Elliott, George, Haley, Harvey, Krobus, Leah, Linus, Wizard
+
+
+
+
+Mysterium
+
+Peer behind the midnight veil... You must experience to believe!
+
+ Fall, Y1
+
+Abigail, Dwarf, Elliott, Leah, Sandy, Sebastian, Wizard
+
+Alex, Caroline, Clint, Demetrius, Haley, Jodi, Krobus, Leo, Marnie, Maru, Pam, Pierre, Robin, Sam, Shane, Willy
+
+Emily, Evelyn, George, Gus, Harvey, Jas, Kent, Lewis, Linus, Penny, Vincent
+
+
+
+
+The Miracle At Coldstar Ranch
+
+Against all odds, a family keeps the spirit of the Winter Star alive...
+
+ Winter, Y1
+
+Dwarf, Emily, Evelyn, Gus, Harvey, Marnie, Sandy
+
+Alex, Caroline, Clint, Elliott, George, Haley, Jas, Jodi, Kent, Leah, Leo, Lewis, Maru, Pam, Penny, Pierre, Robin, Willy
+
+Abigail, Demetrius, Krobus, Linus, Sam, Sebastian, Shane, Vincent, Wizard
+
+
+
+
+Natural Wonders: Exploring Our Vibrant World
+
+Take a tour through the lands of the Ferngill Republic... from The Fern Islands to Zuzu City, this world is full of life!
+
+ Spring, Y2
+
+Demetrius, Dwarf, Jas, Leo, Lewis, Maru, Sandy
+
+Abigail, Caroline, Clint, Elliott, Emily, Evelyn, George, Gus, Haley, Harvey, Jodi, Kent, Leah, Marnie, Pam, Penny, Pierre, Robin, Sam, Sebastian, Shane, Willy
+
+Alex, Krobus, Linus, Vincent, Wizard
+
+
+
+
+Wumbus
+
+An absurd sci-fi comedy centered around the life and times of a lumpy guy from another star.
+
+ Summer, Y2
+
+Alex, Demetrius, Dwarf, Gus, Jas, Maru, Pierre, Sam, Sandy, Shane, Vincent
+
+Abigail, Clint, Elliott, Emily, Evelyn, George, Harvey, Jodi, Kent, Leah, Leo, Lewis, Marnie, Pam, Penny, Robin, Sebastian, Willy
+
+Caroline, Haley, Krobus, Linus, Wizard
+
+
+
+
+It Howls In The Rain
+
+A group of youngsters set out to discover the source of a mysterious sound. (Parental Supervision Required)
+
+ Fall, Y2
+
+Abigail, Alex, Dwarf, Sandy, Sebastian, Shane
+
+Caroline, Clint, Demetrius, Gus, Haley, Jodi, Leo, Marnie, Maru, Pam, Pierre, Robin, Sam, Willy
+
+Elliott, Emily, Evelyn, George, Harvey, Jas, Kent, Krobus, Leah, Lewis, Linus, Penny, Vincent, Wizard
+
+
+
+
+The Zuzu City Express
+
+A beloved movie classic, carefully restored for modern theaters.
+
+ Winter, Y2
+
+Dwarf, Evelyn, George, Harvey, Jodi, Sandy
+
+Alex, Caroline, Elliott, Emily, Gus, Haley, Jas, Kent, Leah, Leo, Lewis, Marnie, Maru, Pam, Penny, Pierre, Robin, Willy
+
+Abigail, Clint, Demetrius, Krobus, Linus, Sam, Sebastian, Shane, Vincent, Wizard
+
+
+Concessions
+Players can choose to purchase a snack for their guest at the concessions counter.  Purchasing a loved snack earns 50 Friendship points with the guest, a liked snack earns 25 Friendship points, and a disliked snack neither earns nor costs friendship points with the guest.
+Only five foods out of the following are randomly offered at a time for the player to select for their guest. The game tries to populate the list with one loved snack, two liked snacks, and one disliked snack among the five snacks available at the counter, if they exist. If the theater is built from the Joja Warehouse, a JojaCorn is also guaranteed.[1]
+
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+Love
+
+Like
+
+Dislike
+
+
+
+
+Apple Slices
+
+Crunchy and sweet little slices.
+
+100g
+
+Harvey
+
+Abigail, Alex, Caroline, Demetrius, Elliott, Emily, Evelyn, Haley, Jas, Kent, Leah, Leo, Lewis, Linus, Marnie, Maru, Penny, Pierre, Robin, Sandy, Sebastian, Vincent
+
+Clint, Dwarf, George, Gus, Jodi, Krobus, Pam, Sam, Shane, Willy, Wizard
+
+
+
+
+Black Licorice
+
+A chewy candy with an intense, pungent flavor.
+
+25g
+
+George, Krobus, Wizard
+
+N/A
+
+Everyone other than George, Krobus, and the Wizard
+
+
+
+
+Cappuccino Mousse Cake
+
+A small chocolate cake glazed with a cappuccino mousse.
+
+220g
+
+Elliott, Evelyn, Gus, Haley
+
+Abigail, Alex, Caroline, Clint, Demetrius, Emily, Harvey, Jas, Jodi, Kent, Leah, Leo, Lewis, Linus, Marnie, Maru, Penny, Pierre, Robin, Sandy, Vincent
+
+Dwarf, George, Krobus, Pam, Sam, Sebastian, Shane, Willy, Wizard
+
+
+
+
+Chocolate Popcorn
+
+It's normal popcorn... but with a chocolate coating.
+
+130g
+
+Jodi
+
+Abigail, Alex, Caroline, Clint, Demetrius, Elliott, Emily, Evelyn, Gus, Haley, Jas, Kent, Leah, Leo, Lewis, Linus, Marnie, Maru, Pam, Penny, Pierre, Robin, Sam, Sandy, Sebastian, Shane, Vincent, Willy
+
+Dwarf, George, Harvey, Krobus, Wizard
+
+
+
+
+Cotton Candy
+
+A large pink cloud of spun sugar.
+
+50g
+
+Penny, Sandy
+
+Abigail, Clint, Demetrius, Dwarf, Emily, Evelyn, Haley, Jas, Leah, Leo, Lewis, Linus, Marnie, Maru, Pam, Pierre, Sam, Sebastian, Shane, Vincent, Wizard
+
+Alex, Caroline, Elliott, George, Gus, Harvey, Jodi, Kent, Krobus, Robin, Willy
+
+
+
+
+Fries
+
+Thin slices of potato, deep fried and then lightly salted.
+
+100g
+
+Clint
+
+Abigail, Alex, Demetrius, George, Gus, Jodi, Kent, Krobus, Lewis, Leo, Linus, Maru, Pam, Penny, Pierre, Robin, Sam, Sandy, Sebastian, Shane, Vincent, Willy
+
+Caroline, Dwarf, Elliott, Emily, Evelyn, Haley, Harvey, Jas, Leah, Marnie, Wizard
+
+
+
+
+Hummus Snack Pack
+
+It's crunchy and healthy.
+
+90g
+
+Shane
+
+Alex, Caroline, Elliott, Emily, Evelyn, Haley, Harvey, Kent, Krobus, Leah, Leo, Lewis, Linus, Marnie, Maru, Penny, Pierre, Robin, Sandy, Sebastian
+
+Abigail, Clint, Demetrius, Dwarf, George, Gus, Jas, Jodi, Pam, Sam, Vincent, Willy, Wizard
+
+
+
+
+Ice Cream Sandwich
+
+Vanilla ice cream sandwiched between two chocolate cookies.
+
+150g
+
+Marnie
+
+Everyone other than George, Harvey, Krobus, and Marnie
+
+George, Harvey, Krobus
+
+
+
+
+Jasmine Tea
+
+Green tea flavored with aromatic jasmine flowers.
+
+50g
+
+Caroline, Harvey, Lewis, Sebastian
+
+Alex, Elliott, Emily, Haley, Jodi, Kent, Krobus, Leah, Leo, Lewis, Linus, Linus, Marnie, Maru, Penny, Pierre, Robin, Sandy, Shane, Willy, Wizard
+
+Abigail, Clint, Demetrius, Dwarf, Evelyn, George, Gus, Jas, Pam, Sam, Vincent
+
+
+
+
+Jawbreaker
+
+It's a big, hard candy that lasts the whole movie!
+
+250g
+
+Vincent
+
+Abigail, Clint, Demetrius, Dwarf, Emily, Evelyn, Haley, Jas, Leah, Leo, Lewis, Linus, Marnie, Maru, Pam, Penny, Pierre, Sam, Sandy, Sebastian, Shane, Wizard
+
+Alex, Caroline, Elliott, George, Gus, Harvey, Jodi, Kent, Krobus, Robin, Willy
+
+
+
+
+Joja Cola
+
+An extra-large cup of Joja's flagship soda.
+
+40g
+
+Shane
+
+Pam, Sam
+
+Everyone other than Pam, Sam, and Shane
+
+
+
+
+JojaCorn
+
+Joja's patented corn food, slathered in plenty of "b'utter sauce".
+
+10g
+
+Shane
+
+Pam
+
+Everyone other than Pam and Shane
+
+
+
+
+Kale Smoothie
+
+It's loaded with vitamins and fiber.
+
+120g
+
+Emily
+
+Alex, Caroline, Elliott, Evelyn, Haley, Harvey, Kent, Krobus, Leah, Leo, Lewis, Linus, Marnie, Maru, Penny, Pierre, Robin, Sandy
+
+Abigail, Clint, Demetrius, Dwarf, George, Gus, Jas, Jodi, Pam, Sam, Sebastian, Shane, Vincent, Willy, Wizard
+
+
+
+
+Nachos
+
+Gooey, spicy cheese on top of freshly fried tortilla chips.
+
+100g
+
+Pam, Shane
+
+Abigail, Alex, Clint, Demetrius, George, Gus, Jodi, Kent, Krobus, Leo, Lewis, Linus, Maru, Penny, Pierre, Robin, Sam, Sandy, Sebastian, Vincent, Willy
+
+Caroline, Dwarf, Elliott, Emily, Evelyn, Haley, Harvey, Jas, Leah, Marnie, Wizard
+
+
+
+
+Panzanella Salad
+
+A summer salad of bread and tomatoes.
+
+200g
+
+Gus, Leah
+
+Alex, Caroline, Elliott, Emily, Evelyn, Haley, Harvey, Kent, Krobus, Leo, Lewis, Linus, Marnie, Maru, Penny, Pierre, Robin, Sandy
+
+Abigail, Clint, Demetrius, Dwarf, George, Jas, Jodi, Pam, Sam, Sebastian, Shane, Vincent, Willy, Wizard
+
+
+
+
+Personal Pizza
+
+A pizza small enough to enjoy as a snack.
+
+150g
+
+Pierre, Sam, Shane
+
+Abigail, Alex, Clint, Demetrius, George, Gus, Robin, Jas, Jodi, Kent, Krobus, Leo, Lewis, Linus, Marnie, Maru, Pam, Penny, Robin, Sandy, Sebastian, Vincent, Willy
+
+Caroline, Dwarf, Elliott, Emily, Evelyn, Haley, Harvey, Leah, Wizard
+
+
+
+
+Popcorn
+
+Popped kernels of corn, dusted lightly with salt and drizzled with butter.
+
+120g
+
+Demetrius, Kent
+
+Abigail, Alex, Caroline, Clint, George, Gus, Jodi, Krobus, Leo, Lewis, Linus, Marnie, Maru, Pam, Penny, Pierre, Robin, Sam, Sandy, Sebastian, Shane, Vincent, Willy
+
+Dwarf, Elliott, Emily, Evelyn, Haley, Harvey, Jas, Leah, Wizard
+
+
+
+
+Rock Candy
+
+Flavored sugar crystals attached to a convenient stick.
+
+90g
+
+Abigail, Dwarf
+
+Clint, Demetrius, Emily, Evelyn, Haley, Jas, Leah, Leo, Lewis, Linus, Marnie, Maru, Pam, Penny, Pierre, Sam, Sandy, Sebastian, Shane, Vincent, Wizard
+
+Alex, Caroline, Elliott, George, Gus, Harvey, Jodi, Kent, Krobus, Robin, Willy
+
+
+
+
+Salmon Burger
+
+A thick slab of salmon on a lightly toasted sesame seed bun.
+
+150g
+
+Alex, Linus, Willy
+
+Everyone other than Alex, Linus, and Willy
+
+N/A
+
+
+
+
+Salted Peanuts
+
+A classic salty treat.
+
+120g
+
+Robin
+
+Abigail, Alex, Caroline, Clint, Demetrius, George, Gus, Jodi, Kent, Krobus, Leo, Lewis, Linus, Maru, Pam, Penny, Pierre, Sam, Sandy, Sebastian, Shane, Vincent, Willy
+
+Dwarf, Elliott, Emily, Evelyn, Haley, Harvey, Jas, Leah, Marnie, Wizard
+
+
+
+
+Sour Slimes
+
+Tiny gummy slimes of assorted colors. They're sprinkled with an extremely sour powder.
+
+80g
+
+Jas
+
+Abigail, Clint, Demetrius, Dwarf, Emily, Evelyn, George, Haley, Harvey, Krobus, Leah, Leo, Linus, Marnie, Maru, Pam, Pierre, Sam, Sebastian, Shane, Vincent, Wizard
+
+Alex, Caroline, Elliott, Gus, Jodi, Kent, Lewis, Penny, Robin, Sandy, Willy
+
+
+
+
+Star Cookie
+
+A star-shaped shortbread cookie with rainbow sprinkles.
+
+150g
+
+Evelyn, Maru, Wizard
+
+Abigail, Alex, Caroline, Clint, Demetrius, Dwarf, Elliott, Emily, Gus, Haley, Jas, Jodi, Kent, Leah, Leo, Lewis, Linus, Marnie, Pam, Penny, Pierre, Robin, Sam, Sandy, Sebastian, Shane, Vincent, Willy
+
+George, Harvey, Krobus
+
+
+
+
+Stardrop Sorbet
+
+A single drop of stardrop essence transforms this sorbet into an extraordinary treat.
+
+1,250g
+
+Everyone other than Leo and Krobus
+
+Leo
+
+Krobus
+
+
+
+
+Truffle Popcorn
+
+Heirloom popcorn sprinkled with truffle salt.
+
+180g
+
+Caroline, Elliott, Gus
+
+Abigail, Alex, Clint, Demetrius, Emily, George, Harvey, Kent, Krobus, Leah, Leo, Lewis, Linus, Maru, Pam, Penny, Pierre, Robin, Sandy, Sebastian, Willy
+
+Dwarf, Evelyn, Haley, Jas, Jodi, Marnie, Sam, Shane, Vincent, Wizard
+
+Crane Game
+
+Inside the lobby is a Crane Game machine.  Players can play the Crane Game for 500g to win prizes. The first time the player visits the Movie Theater, the crane game will always be occupied by a man, and unplayable. Afterwards, before watching a movie, there is a 25% chance that the Crane Game will be occupied.
+After paying to play, the player has 3 chances to grab a prize.  There is a 15-second timer for each attempt, which begins when the player first moves the crane. Successfully grabbing a prize on chance 1 or 2 does not end the game. Each time the player pays for a new game, the prizes will be randomized.
+The first movement is horizontal, and places the crane (right-arrow on keyboard).  The second movement is vertical, and drops the crane (down-arrow on keyboard).  The crane will drop to the position of its shadow, which can be controlled by holding the down-arrow.  Once the down-arrow button is released, the crane will drop.  When the crane reaches its shadow, it will stop and grab any prize at that location.
+The crane may drop the prize on its way to the collection chute at the left.  The further away from the chute the item is, and the less firm the crane's grasp on the item is, the more likely it is to drop it.
+Some of the more rare prizes (like the Dinosaur Egg or Movie Ticket) may be hidden behind foliage in the Crane Game, and become dislodged when the crane drops another prize.
+
+Prizes
+Anytime: Futan Bear, Futan Rabbit, Small Junimo Plush (any color), Lg. Futan Bear, Dinosaur Egg, Omni Geode, Warp Totem: Farm, Mega Bomb, Movie Ticket, Exotic Tree, Deluxe Tree, House Plant 13, Poster from current movie
+Spring: Indoor Hanging Basket, Plush Bunny, Lawn Flamingo, Seasonal Decor, Seasonal Plants #1, 2, 3, or 6
+Summer: Indoor Palm, (if Wumbus is playing: Wumbus Statue, Bobo Statue), (if Journey of the Prairie King is playing: Long Palm, Long Cactus)
+Fall: Small Wall Pumpkin, Wall Pumpkin, Dried Sunflowers, Grave Stone, Green Serpent Statue, Purple Serpent Statue
+Winter: Winter Tree Decal, Big Red Cane, Big Green Cane, Green Canes, Red Canes, Mixed Cane, Tree of the Winter Star
+Notes
+Krobus will not attend movies on Fridays.
+Linus dislikes ALL of the movies; presumably he dislikes going to the movies in general.
+On the other hand, the Dwarf and Sandy love all of the movies; presumably they just enjoy the experience.
+Unlike presents, the cooldown on movies does not reset on Sunday. The player must wait at least 7 days after having seen a movie to give another Movie Ticket to an NPC or attend a movie alone.
+Even though Shane and Pam hate Joja Cola as a gift, Pam likes and Shane loves the Joja Cola concession snack.
+Despite being clear analogs for one another, the Personal Pizza and the Pizza have notably different tastes among the NPCs; many NPCs who like Pizza dislike the Personal Pizza.
+NPCs that can appear in the lobby include Gunther, the Governor, Famous Painter Lupini, Welwick the Fortune Teller, and Marcello, who appears in Harvey's 10-heart event.
+Movie tickets can be purchased on festival days, but entry to the theater is not permitted. Attempting to give a ticket to a villager on a festival day will result in a popup box saying: "The movie theater isn't open on festival days!".
+Trivia
+In 2011, ConcernedApe created a series of comics called Wumbus World.
+References
+
+↑ See MovieTheater::GetConcessionsForGuest in the game code.
+
+
+History
+1.4: Introduced.
+1.4.4: Sam now likes Joja Cola as a concessions snack.
+
+
+Buildings
+
+
+Merchants
+
+Abandoned House • Adventurer's Guild • Blacksmith • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower
+
+
+Houses
+
+1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse
+
+
+Farm Buildings
+
+Farming
+
+Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Shed  • Silo • Slime Hutch • Stable • Well
+
+
+Special
+
+Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk
+
+
+Other Buildings
+
+Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Movie_Theater&oldid=140957"
+Category: Town Locations
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 18 August 2022, at 18:02.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,306 @@
+
+
+
+
+
+Supply Crate - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Supply Crate
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Supply Crate
+
+
+
+
+
+
+
+
+Information 
+
+
+Source:
+
+Beach Farm
+
+
+Sell Price:
+
+Cannot be sold
+
+
+This article is about the Beach farm object. For the object in the mines, see The Mines#Crates and Barrels.
+Supply Crates sometimes wash up on the shore of the Beach Farm. The contents of the crate are random and mainly depend on how many times the Farmhouse has been upgraded.
+There are three types of crates that can appear on shore. Each type of crate is equally likely to appear. The chances of receiving certain items are not affected by what type of crate spawns. 
+
+Contents
+
+1 Contents
+
+1.1 No Upgrades
+1.2 One Upgrade
+1.3 Two Or Three Upgrades
+
+
+2 References
+3 History
+
+
+Contents
+The following contents can appear depending on how many times the Farmhouse has been upgraded.[1] Each item in each list is equally likely to appear. The only exception is when the farmhouse is upgraded at least two times, where Banana Pudding and Mango Sticky Rice have a 6.25% chance of appearing while everything else has a 12.5% chance of appearing. 
+Also, after the item is picked, all possible quantities of the item are equally likely. For instance, the chance of getting 3 Mixed Seeds is the same as the chance of getting 4 Mixed Seeds.
+
+
+
+
+No Upgrades
+3-5  Mixed Seeds
+5-7  Quality Retaining Soil
+2-4  Geode
+1-2  Survival Burger
+1-2  Coffee
+3-5  Cherry Bomb
+
+
+One Upgrade
+3-5  Mixed Seeds
+5-7  Quality Retaining Soil
+2-4  Omni Geode
+1-2  Triple Shot Espresso
+1-2  Super Meal
+4-7  Wheat Flour
+2-4  Oil
+4-7  Sugar
+3-5  Bomb
+
+
+Two Or Three Upgrades
+3-5  Mixed Seeds
+5-7  Deluxe Retaining Soil
+2-4  Omni Geode
+2-3  Triple Shot Espresso
+1-2  Banana Pudding
+1-2  Mango Sticky Rice
+One of each:
+4-7  Wheat Flour
+2-4  Oil
+4-7  Sugar
+2  Artifact Trove
+3-5  Mega Bomb
+
+
+References
+
+↑ Drops are determined by Object::performToolAction in the game code.
+
+
+History
+1.5: Introduced.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Supply_Crate&oldid=143296"
+Category: Special itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 19:04.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

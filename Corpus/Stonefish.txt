@@ -1,0 +1,711 @@
+
+
+
+
+
+Stonefish - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stonefish
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Stonefish
+
+
+
+
+
+A bizarre fish that's shaped like a brick.
+
+
+Information
+
+
+
+
+Location
+
+Level 20 of The Mines
+
+
+Time
+
+Any
+
+
+Season
+
+ All
+
+
+Weather
+
+Any
+
+
+Difficulty
+
+65
+
+
+Behavior
+
+Sinker
+
+
+Size (inches)
+
+14-16
+
+
+
+
+Fishing XP
+
+24    27    30    36
+
+
+Energy
+
+Inedible
+
+
+
+
+
+Sell Prices
+
+
+Base
+ Fisher(+25%)
+ Angler(+50%)
+
+
+
+
+
+
+300g
+
+
+
+375g
+
+
+
+450g
+
+
+
+600g
+
+
+
+
+
+
+
+375g
+
+
+
+468g
+
+
+
+562g
+
+
+
+750g
+
+
+
+
+
+
+
+450g
+
+
+
+562g
+
+
+
+675g
+
+
+
+900g
+
+
+
+
+
+
+
+
+
+
+Artisan Sell Prices
+
+
+Roe
+
+Aged Roe
+
+ Aged Roe (+40%)
+
+
+ 180g
+
+ 360g
+
+ 504g
+
+
+
+
+The Stonefish is a fish that can be caught in The Mines on the 20th floor during all seasons. The only other fish that can be caught on the 20th floor of the mines is the Ghostfish. 
+The chances of hooking a Stonefish depends on fishing level and on the fishing zone of the spot fished, increasing by 5% if a Curiosity Lure is equipped. For example, at level 10 fishing and fishing zone of 5, the chances of hooking a Stonefish is 7.5%. With a Curiosity Lure equipped, this increases to 12.5%.[1]
+The Stonefish and the Octopus are the only fish caught with a fishing rod that cannot be eaten unless used in a recipe.
+
+Contents
+
+1 Map
+2 Gifting
+3 Bundles
+4 Recipes
+5 Tailoring
+6 Fish Pond
+7 Quests
+8 References
+9 History
+
+
+Map
+The Stonefish can be found in The Mines.
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Demetrius •  Elliott •  Leo •  Linus •  Pam •  Sebastian •  Willy
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Dwarf •  Emily •  George •  Gus •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Marnie •  Maru •  Penny •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Wizard
+
+
+Hate
+
+ Evelyn •  Haley •  Pierre
+
+Bundles
+Stonefish is not used in any bundles.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Recipe Source(s)
+Sell Price
+
+
+
+
+Maki Roll
+
+Fish and rice wrapped in seaweed.
+
+ Any Fish (1) Seaweed (1) Rice (1)
+
+ 100 45
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 1
+
+ Stardrop Saloon for 300g
+
+220g
+
+
+
+
+Quality Fertilizer
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Sap (2) Any Fish (1)
+
+N/A
+
+ Farming Level 9
+
+10g
+
+
+
+
+Sashimi
+
+Raw fish sliced into thin pieces.
+
+ Any Fish (1)
+
+ 75 33
+
+ Linus (Mail - 3+ )
+
+75g
+
+
+Tailoring
+Stonefish can be used in the spool of the Sewing Machine to create the  Fishing Hat. It can be used in dyeing, serving as an orange dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Fish Pond
+Stonefish can be placed in a Fish Pond, where they will reproduce every 5 days. The initial pond capacity is 1 fish, but the capacity can be increased to 10 by completing four quests. The primary output is dark brown Stonefish Roe, but Copper Ore is possible starting at population 3 and several more valuable items are possible starting at population 9.
+Quests
+
+
+
+Pond Capacity
+
+Quest Item
+
+Fishing XP Granted
+
+
+Before Quest
+
+After Quest
+
+
+1
+3
+10 Copper Ore
+45
+
+
+3
+5
+5 Earth Crystals
+45
+
+
+5
+7
+10 Coal or 5 Geodes
+45
+
+
+7
+10
+4 Copper Bars or 5 Refined Quartz
+45
+
+Produce
+
+
+
+Item(s) Produced
+
+Fishing XP Granted
+
+Population
+
+% of Items
+
+Overall Daily Chance
+
+
+ Roe (1)
+
+17
+
+1-2
+25%
+6-8%
+
+
+3-8
+23%
+9-18%
+
+
+9-10
+43%
+37-41%
+
+
+ Copper Ore (5)
+
+10
+
+3-8
+10%
+4-8%
+
+
+9-10
+8%
+7%
+
+
+ Geode (1)
+
+12
+
+9-10
+11%
+9-10%
+
+
+ Geode (5)
+
+12
+
+9-10
+5%
+4-5%
+
+
+ Stone (30)
+
+10
+
+9-10
+7%
+6-7%
+
+
+ Diamond (1)
+
+40
+
+9-10
+0.8%
+0.7%
+
+
+Nothing
+
+
+
+1-2
+75%
+94-92%
+
+
+3-8
+68%
+87-74%
+
+
+9-10
+26%
+35-30%
+
+Quests
+Stonefish is not used in any quests.
+
+References
+
+↑ See MineShaft::getFish in the game code. While Data\Fish.xnb suggests that a fishing level of 3 is needed to hook a Stonefish, the data in MineShaft::getFish, which does not have any level conditions, overrides it. This means that there is no fishing level requirement to hook a Stonefish.
+
+
+History
+1.4: Added iridium quality.  Can now be used in Tailoring.
+1.5: Chance of catching it can now be increased by using a Curiosity Lure.
+
+
+Fish
+
+
+Legendary
+
+Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish
+
+
+The Beach
+
+Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna
+
+
+River
+
+Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye
+
+
+Mountain Lake
+
+Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye
+
+
+Cindersap Forest Pond
+
+Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye
+
+
+Secret Woods
+
+Carp • Catfish • Woodskip
+
+
+Mines
+
+Ghostfish • Ice Pip • Lava Eel • Stonefish
+
+
+Sewers
+
+Carp • Mutant Carp • Radioactive Carp
+
+
+Desert
+
+Sandfish • Scorpion Carp
+
+
+Mutant Bug Lair
+
+Carp • Slimejack
+
+
+Witch's Swamp
+
+Catfish • Void Salmon
+
+
+Night Market
+
+Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber
+
+
+Crab Pot
+
+Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail
+
+
+Ginger Island
+
+Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray •  Super Cucumber • Tilapia • Tuna
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Stonefish&oldid=142669"
+Categories: Mine fishSpring fishSummer fishFall fishWinter fish
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 26 October 2022, at 04:00.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

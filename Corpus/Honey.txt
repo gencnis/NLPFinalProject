@@ -1,0 +1,594 @@
+
+
+
+
+
+Honey - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Honey
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Honey
+
+
+
+
+
+It's a sweet syrup produced by bees.
+
+
+Information 
+
+
+Source:
+
+Artisan Goods • Oasis
+
+
+Season:
+
+Spring, Summer, Fall
+
+
+Healing Effect:
+
+
+
+
+Inedible
+
+
+
+Sell Prices
+
+
+Base Price:
+
+Artisan Profession:   (+40% Sell Price)
+
+
+
+
+
+
+
+100g
+
+
+
+
+
+
+
+140g
+
+
+
+Artisan Sell Prices
+
+
+Base Price:
+
+Artisan Profession:   (+40% Sell Price)
+
+
+
+
+
+
+
+200g
+
+
+
+
+250g
+
+
+
+
+300g
+
+
+
+
+400g
+
+
+
+
+
+
+
+280g
+
+
+
+
+350g
+
+
+
+
+420g
+
+
+
+
+560g
+
+
+
+Artisan Goods
+
+
+Equipment:
+
+ Bee House
+
+
+Processing Time:
+
+ 6100m (≈4d)
+
+
+Ingredients:
+
+Various flowers
+
+
+Honey is an Artisan Good produced by the Bee House every 4 days in every season other than Winter. It can be purchased from the Oasis year-round on Fridays for 200g or at the Traveling Cart for 300-1,000g. 
+Honey can be made into mead by placing it inside a keg.
+
+Contents
+
+1 Flower Honey
+2 Sell Prices
+3 Range
+4 Gifting
+5 Bundles
+6 Recipes
+7 Artisan Goods
+8 Tailoring
+9 Quests
+10 References
+11 History
+
+
+Flower Honey
+Fully-grown flowers planted near the Bee House will have an effect on the type of honey produced, increasing its sale price. Flowers are not used up when a hive produces honey, and multiple hives can make honey from the same flower, so one flower can service a large number of hives. The honey type is determined when harvested, rather than when it becomes ready: If honey is left in a Bee House until a nearby flower has bloomed, it will be harvested as flower honey.
+If no flowers are planted near the Bee House, or if a Bee House has produced flower honey, but the flower is harvested before the honey, the honey will become "Wild Honey," the least profitable Honey. Similarly, if a Bee House is removed with a tool while it has flower honey ready for harvesting, the honey will go into inventory as "Honey", which is functionally identical to Wild Honey. Honey purchased from the Oasis or Traveling Cart, or deconstructed from a Warp Totem: Farm, is also called "Honey", and is also functionally identical to Wild Honey.
+
+Sell Prices
+Flowers not listed below (i.e., Crocus and Sweet Pea) do not influence the price of honey.  Daffodil and Dandelion are classified as "Forage" not "Flower" in-game, so they do not influence the price of honey either.
+The formula used to calculate the sale price of honey is base honey sell price + (base flower sell price × 2).[1]
+
+
+
+Flower Honey
+
+Flower Season
+
+Flower Growth Time
+
+ Honey Sell Price
+
+ Artisan ProfessionSell Price (+40%)
+
+
+N/A (Wild Honey)
+
+ Spring   Summer   Fall
+
+N/A
+
+100g
+
+140g
+
+
+ Tulip
+
+ Spring
+
+6 Days
+
+160g
+
+224g
+
+
+ Blue Jazz
+
+ Spring
+
+7 Days
+
+200g
+
+280g
+
+
+ Summer Spangle
+
+ Summer
+
+8 Days
+
+280g
+
+392g
+
+
+ Poppy
+
+ Summer
+
+7 Days
+
+380g
+
+532g
+
+
+ Sunflower
+
+ Summer   Fall
+
+8 Days
+
+260g
+
+364g
+
+
+ Fairy Rose
+
+ Fall
+
+12 Days
+
+680g
+
+952g
+
+
+Range
+Flowers within 5 tiles of a Bee House will affect the type of honey produced.
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Like
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Willy •  Wizard
+
+
+Hate
+
+ Maru •  Sebastian
+
+Bundles
+It is an option for the  Artisan Bundle in the Pantry.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Recipe Source(s)
+Sell Price
+
+
+
+
+Warp Totem: Farm
+
+Warp directly to your house. Consumed on use.
+
+ Hardwood (1) Honey (1) Fiber (20)
+
+ Foraging Level 8
+
+20g
+
+
+Artisan Goods
+Honey may be placed in a Keg to produce Mead.  Mead may be aged in Casks to increase its quality.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Mead
+
+A fermented beverage made from honey. Drink in moderation.
+
+ Honey (1)
+
+ Keg
+
+
+Tailoring
+Honey is used in the spool of the Sewing Machine to create the dyeable Simple Dress.  It can be used in dyeing, serving as a yellow dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Quests
+One Honey (of any type) may be requested by several fish in Fish Pond quests.
+
+References
+
+↑ See Object::checkForAction in the game code.  The base sell price of honey is set in ObjectInformation.xnb.
+
+
+History
+1.4: Added sunflower honey.  Fixed lopsided bee house range.  Jas & Vincent now like honey, instead of hating it.  Honey can now be used in Tailoring.  Can be requested in Fish Pond quests.
+1.5: Honey can now be collected from bee houses right when the morning starts (every 4 days).
+1.5.2: Fixed bug where Honey could not be collected from bee houses on the Ginger Island farm during Winter.
+
+
+Artisan Goods
+
+
+Bee House
+
+Honey
+
+
+Cask
+
+Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine
+
+
+Cheese Press
+
+Cheese • Goat Cheese
+
+
+Keg
+
+Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine
+
+
+Loom
+
+Cloth
+
+
+Mayonnaise Machine
+
+Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise
+
+
+Oil Maker
+
+Oil • Truffle Oil
+
+
+Preserves Jar
+
+Aged Roe • Caviar • Jellies and Pickles
+
+
+Misc
+
+Maple Syrup • Oak Resin • Pine Tar
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Honey&oldid=142955"
+Category: Artisan Goods
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 15:04.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

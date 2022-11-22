@@ -1,0 +1,255 @@
+
+
+
+
+
+Prismatic Jelly - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prismatic Jelly
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Prismatic Jelly
+
+
+
+
+
+Harvested from the rare and elusive prismatic slime.
+
+
+Information 
+
+
+Source:
+
+Prismatic Slimes (100% drop)
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Prismatic Jelly will always drop from killing Prismatic Slimes. They are only obtainable while the Wizard's "Prismatic Jelly" Special Order quest is active.
+Only one Prismatic Jelly is required for the Special Order, and any not handed to the Wizard will disappear once the order is complete or expired.
+While the special order is active, each slime spawned in The Mines, Quarry Mine, or Skull Cavern has a 1.2% chance to be replaced with a Prismatic Slime, depending on daily luck.  The exact chance is 0.012 + Daily Luck / 10.0 [1].
+
+Trivia
+It is possible for a Prismatic Slime to be a special slime. In this case, the Prismatic Slime will only drop one of the special items and will not drop the intended Prismatic Jelly.
+PC only: Prismatic Jelly can be spawned using the item ID glitch and gifted as a universally hated gift.
+When killing a Prismatic Slime while wearing the Burglar's Ring, the slime will drop two Prismatic Jellies.
+References
+
+↑ See Locations.MineShaft::populateLevel in the game code.
+
+
+History
+1.5: Introduced.
+1.5.3: Prismatic Slimes are now more common (1.2% chance, up from 0.8%), and their spawn rate is now affected by daily luck.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Prismatic_Jelly&oldid=143270"
+Category: Special itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 18:39.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

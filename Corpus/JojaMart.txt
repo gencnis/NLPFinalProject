@@ -1,0 +1,746 @@
+
+
+
+
+
+JojaMart - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+JojaMart
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+JojaMart
+
+
+
+
+
+
+
+
+Open Hours:
+
+9:00am to 11:00pm
+
+
+Closed:
+
+After the player completes the Community Center
+
+
+Address:
+
+North of Blacksmith
+
+
+Occupants:
+
+ Morris
+
+
+JojaMart is a store owned by "Joja Corporation", the player's previous employer. It is managed by Morris, who also handles customer service. The store is the main competitor of Pierre's General Store and sells a similar variety of seeds and other items, with JojaMart's key advantages being open longer (until 11pm) and on Wednesdays, however without Membership its prices are usually worse than Pierre's. Purchases can be made from the unnamed cashier found at checkout lane 3.
+Morris can be found inside the kiosk at the bottom right of the store, where he will offer the player a JojaMart Membership for 5,000g.  Membership is available once the Community Center is unlocked. Purchasing a Joja Membership from Morris causes the Community Center to be destroyed and replaced with a Joja Warehouse.  The player can then purchase community development projects through the Joja Community Development Form, rather than through completing bundles in the Community Center.
+Shane works there stocking shelves from 8:00 to 5:00 on weekdays. He also works on the weekend if it's raining. Sam sweeps from 12:50 to 5:00 on Mondays and Wednesdays. Both Sam and Shane are not available to talk to during their work time. 
+
+Contents
+
+1 Community Development Projects
+2 Prices
+3 Permanent Stock
+4 Spring Stock
+5 Summer Stock
+6 Fall Stock
+7 Trivia
+8 Bugs
+9 Gallery
+10 History
+
+
+Community Development Projects
+
+
+Name
+
+Description
+
+Price
+
+
+Minecarts
+
+Repairs the minecart system that runs between the bus stop, the mountains, and Pelican Town.
+
+15,000g
+
+
+Panning
+
+Removes the glimmering boulder near the mine entrance.
+
+20,000g
+
+
+Bridge
+
+Repairs the broken bridge in the mountains.The broken bridge east of The Mines will be repaired, enabling access to the Quarry.
+
+25,000g
+
+
+Greenhouse
+
+Repairs the old ruins on the farm, turning it into a greenhouse.
+
+35,000g
+
+
+Bus
+
+Repairs the bus that runs to Calico Desert.
+
+40,000g
+
+Prices
+The cost of seeds, Grass Starter, Sugar, Wheat Flour, and Rice at JojaMart are higher than at Pierre's General Store, with one exception:  Sunflower Seeds are 125g at JojaMart, and 200g at Pierre's.  After the player purchases a Joja membership, prices are the same as at Pierre's (with the exception of Sunflower Seeds, which sell for 100g at Joja).
+The prices of Joja Cola, the J. Cola Light, Wallpaper (including Joja wallpaper) and Flooring do not change after purchasing a Joja membership.
+
+Permanent Stock
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+
+
+
+Joja Cola
+
+The flagship product of Joja corporation.
+
+75g
+
+
+
+
+Joja Wallpaper
+
+Decorates the walls of one room
+
+20g
+
+
+
+
+J. Cola Light
+
+Can be placed inside your house.
+
+500g
+
+
+
+
+Grass Starter
+
+Place this on your farm to start a new patch of grass.
+
+125g
+
+
+
+
+Sugar
+
+Adds sweetness to pastries and candies. Too much can be unhealthy.
+
+125g
+
+
+
+
+Wheat Flour
+
+A common cooking ingredient made from crushed wheat seeds.
+
+125g
+
+
+
+
+Rice
+
+A basic grain often served under vegetables.
+
+250g
+
+
+
+
+Auto-Petter (only if Joja Warehouse route completed)
+
+Joja Co. patented technology for coops and barns. Keeps your animals content, but can't replace the full benefit of human touch. Hand-petting can be provided to supplement.
+
+50,000g
+
+
+
+
+Wallpaper (Random each day)
+
+Decorates the walls of one room
+
+250g
+
+
+
+
+Flooring (Random each day)
+
+Decorates the floor of one room.
+
+250g
+
+Spring Stock
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+
+
+
+Parsnip Seeds
+
+Plant these in the spring. Takes 4 days to mature.
+
+25g
+
+
+
+
+Bean Starter
+
+Plant these in the spring. Takes 10 days to mature, but keeps producing after that. Grows on a trellis.
+
+75g
+
+
+
+
+Cauliflower Seeds
+
+Plant these in the spring. Takes 12 days to produce a large cauliflower.
+
+100g
+
+
+
+
+Potato Seeds
+
+Plant these in the spring. Takes 6 days to mature, and has a chance of yielding multiple potatoes at harvest.
+
+62g
+
+
+
+
+Tulip Bulb
+
+Plant in spring. Takes 6 days to produce a colorful flower. Assorted colors.
+
+25g
+
+
+
+
+Kale Seeds
+
+Plant these in the spring. Takes 6 days to mature. Harvest with the scythe.
+
+87g
+
+
+
+
+Jazz Seeds
+
+Plant in spring. Takes 7 days to produce a blue puffball flower.
+
+37g
+
+Summer Stock
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+
+
+
+Tomato Seeds
+
+Plant these in the summer. Takes 11 days to mature, and continues to produce after first harvest.
+
+62g
+
+
+
+
+Pepper Seeds
+
+Plant these in the summer. Takes 5 days to mature, and continues to produce after first harvest.
+
+50g
+
+
+
+
+Wheat Seeds
+
+Plant these in the summer or fall. Takes 4 days to mature. Harvest with the scythe.
+
+12g
+
+
+
+
+Radish Seeds
+
+Plant these in the summer. Takes 6 days to mature.
+
+50g
+
+
+
+
+Melon Seeds
+
+Plant these in the summer. Takes 12 days to mature.
+
+100g
+
+
+
+
+Hops Starter
+
+Plant these in the summer. Takes 11 days to grow, but keeps producing after that. Grows on a trellis.
+
+75g
+
+
+
+
+Poppy Seeds
+
+Plant in summer. Produces a bright red flower in 7 days.
+
+125g
+
+
+
+
+Spangle Seeds
+
+Plant in summer. Takes 8 days to produce a vibrant tropical flower. Assorted colors.
+
+62g
+
+
+
+
+Sunflower Seeds
+
+Plant in summer or fall. Takes 8 days to produce a large sunflower. Yields more seeds at harvest.
+
+125g
+
+Fall Stock
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+
+
+
+Corn Seeds
+
+Plant these in the summer or fall. Takes 14 days to mature, and continues to produce after first harvest.
+
+187g
+
+
+
+
+Eggplant Seeds
+
+Plant these in the fall. Takes 5 days to mature, and continues to produce after first harvest.
+
+25g
+
+
+
+
+Pumpkin Seeds
+
+Plant these in the fall. Takes 13 days to mature.
+
+125g
+
+
+
+
+Amaranth Seeds
+
+Plant these in the fall. Takes 7 days to grow. Harvest with the scythe.
+
+87g
+
+
+
+
+Grape Starter
+
+Plant these in the fall. Takes 10 days to grow, but keeps producing after that. Grows on a trellis.
+
+75g
+
+
+
+
+Yam Seeds
+
+Plant these in the fall. Takes 10 days to mature.
+
+75g
+
+
+
+
+Bok Choy Seeds
+
+Plant these in the fall. Takes 4 days to mature.
+
+62g
+
+
+
+
+Cranberry Seeds
+
+Plant these in the fall. Takes 7 days to mature, and continues to produce after first harvest.
+
+300g
+
+
+
+
+Sunflower Seeds
+
+Plant in summer or fall. Takes 8 days to produce a large sunflower. Yields more seeds at harvest.
+
+125g
+
+
+
+
+Fairy Seeds
+
+Plant in fall. Takes 12 days to produce a mysterious flower. Assorted Colors.
+
+250g
+
+
+
+
+Wheat Seeds
+
+Plant these in the summer or fall. Takes 4 days to mature. Harvest with the scythe.
+
+12g
+
+Trivia
+On Fridays (before the Community Center is complete) Jodi may say, "The food at JojaMart might not be the healthiest for my family, but with such low prices you'd be crazy to shop anywhere else!" even though most items are more expensive at JojaMart than at Pierre's. She may, however, have a Joja membership or Pierre may offer the player discounts to encourage vegetable sales. This is further referenced to in Penny's dialogue "Since mom started shopping at JojaMart she's been able to afford more than shopping at Pierre's ever did!"
+JojaMart does not sell Vinegar. This makes Pierre's the only place to obtain the cooking ingredient, as the player cannot craft it themselves.
+The Steam achievement "Joja Co. Member Of The Year" requires purchasing all of the Joja Community Development Form projects, which takes at least six days; one day to build the Joja Warehouse after purchasing a Joja membership, and one day each for the five projects.
+The 'Joja' logo has a striking similarity to WatchMojo's, a popular corporate YouTube channel.
+There is no music of any kind inside of JojaMart.
+It is possible to interact with the shelves to see what item it has on it.
+A cold section in the back advertises "fish" and "milk," but neither product is available for sale to the player.
+If the Community Center is completed, Sam goes to work at the Museum and Shane becomes unemployed.
+JojaMart does not sell Blueberry Seeds.
+Bugs
+If the player purchases a JojaMart membership after completing the Community Center, but before triggering the Community Center completion ceremony cutscene, the cutscene may become glitched, with the player stuck in boxes that were not previously there.
+Gallery
+
+
+
+
+JojaMart out of business during winter.
+
+
+
+
+
+
+Joja Community Development Form
+
+
+
+
+History
+1.3: Removed the interaction cursor from the box behind the mart.
+1.4: Joja membership cannot be purchased until after the Community Center is unlocked.
+
+
+Buildings
+
+
+Merchants
+
+Abandoned House • Adventurer's Guild • Blacksmith • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower
+
+
+Houses
+
+1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse
+
+
+Farm Buildings
+
+Farming
+
+Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Shed  • Silo • Slime Hutch • Stable • Well
+
+
+Special
+
+Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk
+
+
+Other Buildings
+
+Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=JojaMart&oldid=141957"
+Categories: Town LocationsStoresHidden category: Bugs tested in an unknown version
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 26 September 2022, at 00:48.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

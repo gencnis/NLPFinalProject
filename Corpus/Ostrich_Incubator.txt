@@ -1,0 +1,358 @@
+
+
+
+
+
+Ostrich Incubator - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ostrich Incubator
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Ostrich Incubator
+
+
+       
+
+
+Hatches ostrich eggs into baby ostriches. Place in a barn.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Crafting
+
+
+Recipe Source:
+
+ Professor Snail
+
+
+Ingredients:
+
+ Bone Fragment (50) Hardwood (50) Cinder Shard (20)
+
+
+The Ostrich Incubator is a piece of Refining Equipment used to hatch Ostrich Eggs into Ostriches. The recipe for the incubator is given by Professor Snail after completing the fossil collection and surveys at the Island Field Office. The incubator must be placed in a barn, but more than one can be placed in the same barn. It takes  15,000m (9d 10h) to incubate an egg.[1] This time can be cut in half to  7,500m (4d 18h 20m) with the Coopmaster Profession.
+To begin incubation, right click the machine while holding an ostrich egg.
+If multiple Ostrich Eggs are ready to be hatched, only one will be hatched when entering the barn. Leaving and re-entering will allow for further eggs to be hatched.
+If the barn is at capacity (4 animals for a Barn, 8 for a Big Barn, 12 for a Deluxe Barn), the ostrich won't hatch until a space is freed-up. This can happen by selling an animal or moving an animal to another barn. Once the barn is below capacity, entering will cause the egg to hatch instantly. 
+
+References
+
+↑ See Object::performObjectDropInAction in the game code.
+
+
+History
+1.5: Introduced.
+
+
+Tools
+
+
+Basic
+
+Axes • Golden Scythe • Hoes • Pickaxes • Scythe • Trash Cans • Watering Cans
+
+
+Fishing
+
+Training Rod • Bamboo Pole • Fiberglass Rod • Iridium Rod • Crab Pot
+
+
+Other
+
+Auto-Grabber • Auto-Petter • Copper Pan • Hay Hopper • Heater • Incubator • Milk Pail • Ostrich Incubator • Shears
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Ostrich_Incubator&oldid=143282"
+Category: Craftable itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 18:55.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

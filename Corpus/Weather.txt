@@ -1,0 +1,366 @@
+
+
+
+
+
+Weather - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weather
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+ The Weather Channel
+
+
+
+“
+
+“Welcome to KOZU 5... your number one source for weather, news, and entertainment.  And now, the weather forecast for tomorrow...”
+
+
+Weather changes daily and with the seasons. The weather for the next day can be checked by viewing the TV screen and selecting "Weather Report." 
+
+ The Fern Islands weather report
+The weather on Ginger Island is different from in Stardew Valley, and once unlocked, the Fern Islands weather report will display immediately after the Stardew Valley report.
+Daily weather affects the types of fish that can be caught, as well as villager dialogues and behavior.
+
+Contents
+
+1 Weather Types
+2 Weather Chances
+3 Notes
+
+3.1 Storm
+3.2 Snow
+3.3 Other
+
+
+4 Bugs
+5 Trivia
+6 References
+7 History
+
+
+Weather Types
+
+
+Weather
+
+Icon
+
+TV Image
+
+Description
+
+
+Sun
+
+
+
+
+
+It's going to be clear and sunny all day.It's going to be a beautiful, sunny day tomorrow!
+
+
+Rain
+
+
+
+
+
+It's going to rain all day tomorrow.
+
+
+Wind (Spring)
+
+
+
+
+
+Partially cloudy with a light breeze. Expect lots of pollen!
+
+
+Wind (Fall)
+
+
+
+
+
+It's going to be cloudy, with gusts of wind throughout the day.
+
+
+Storm
+
+
+
+
+
+Looks like a storm is approaching. Thunder and lightning is expected.
+
+
+Snow
+
+
+
+
+
+Expect a few inches of snow tomorrow.Bundle up, folks. It's going to snow tomorrow!
+
+
+Festival
+
+
+
+
+
+It's going to be clear and sunny tomorrow... perfect weather for the Festival!
+
+
+Wedding Day
+
+
+
+N/A
+
+(This image will appear instead of the weather icon on a player's wedding day)
+
+Weather Chances
+The chance that a particular day will be be sunny/rainy/stormy/etc. depends on a number of different factors. See Modding:Weather data.
+Ginger Island only has two types of weather: sun and rain. The chance for rain is 24% (0% on first visit).[1]
+
+Notes
+Storm
+It always rains on stormy days. Fish that require rain can be caught on stormy days, and the Old Mariner will appear on stormy days.
+During a storm, lightning strikes can destroy random tiles on the farm. This includes crops and trees. If a Fruit Tree is hit, it will temporarily change into a coal tree.
+If lightning hits a tile with a crafted flooring or path on it, the flooring or path will be displaced but not permanently destroyed.
+There is a chance for a lightning strike to occur every 10 minutes.
+Lightning will not strike Chests placed outside[2].
+If Lightning Rods are placed anywhere on the farm[3] they have a good chance to intercept lightning strikes, as long as they are not already processing a strike into a Battery Pack.
+Using a Rain Totem never has a chance to cause a storm unless used on a stormy day (which will make the next day stormy as well). Otherwise it will only cause rain.
+It is always stormy on Summer 13 and 26, every year.
+Snow
+Winter Seeds need to be watered even if it is snowing.
+Snow transparency can be changed in the Options Menu.  Sliding the bar to the left will increase snow transparency (i.e., decrease opacity).
+Other
+On the first year, it is always sunny on Spring 1, 2, and 4, and it always rains on Spring 3. From Spring 5 and onwards, the weather is randomized, with certain exceptions.
+The Rain Totem will change the weather for the following day to rain unless the following day is a festival or the 1st day of a season.  (Spring 2-4 of year 1 can also not be changed by a Rain Totem.)
+The weather will always be "clear and sunny" for Festivals.
+It will never rain in Winter unless a Rain Totem is used.
+If there is a Festival on a player's wedding day, the heart icon will not display.
+For all villager heart events, there are only two defined weather states:  Sun and Rain.  This means that any event that requires a "Sunny" day can trigger on windy or snowy days as well as sunny days.  Thunderstorm days count as rainy days, so "sunny" events will not trigger.
+Bugs
+The TV will not necessarily be accurate for Spring 2 or 4, or Summer 13 or 26.
+The TV will predict stormy weather on Summer 25th, but not the 26th. If the player does not check the TV forecast on the 25th, it may not be stormy. (See Modding:Weather data for more information.)
+Trivia
+While winter can't have windy weather without modding, there is still an unseen message for such weather in the weather forecast: "It's going to snow all day. Make sure you bundle up, folks!"
+References
+
+↑ See Game1::SetOtherLocationWeatherForTomorrow in the game code.
+
+↑ /u/ConcernedApe, "v1.07 beta branch Bugs/Discussion"
+
+↑ /u/ConcernedApe, "v1.07 beta branch Bugs/Discussion"
+
+
+History
+1.5: Added weather report for Ginger Island.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Weather&oldid=138594"
+Categories: Game mechanicsTelevisionHidden categories: SpoilersBugs tested in an unknown version
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 10 June 2022, at 17:33.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

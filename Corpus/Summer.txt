@@ -1,0 +1,2575 @@
+
+
+
+
+
+Summer - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Summer
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+Summer is the second season new players play through. It is followed by Fall and preceded by Spring.
+In Summer, grass remains green, although noticeably yellower than the spring grass was. Trees are no longer in bloom and instead are thick with vibrant green leaves. Butterflies can be seen flying across the screen. Any Spring crops still planted wilt and die on the 1st of Summer. New crops, fish, and forageable items are available, however.
+
+Contents
+
+1 Events
+
+1.1 Festivals
+1.2 Other
+1.3 Birthdays
+
+
+2 Crops
+
+2.1 Single Harvest
+2.2 Multiple Harvests
+
+
+3 Forage
+4 Fish
+5 References
+
+
+Events
+On the start of the third day of summer in the first year, an earthquake occurs that unlocks the railroad area that contains the spa.
+
+
+
+
+
+
+
+Jas
+
+
+
+
+
+Gus
+
+Maru
+Luau
+
+Alex
+
+
+
+
+
+Sam
+
+Demetrius
+
+
+
+
+Dwarf
+
+Willy
+
+Leo
+
+Dance of the Moonlight Jellies
+
+
+
+
+
+Festivals
+
+
+Day
+
+Name
+
+
+11
+ Luau
+
+
+28
+ Dance of the Moonlight Jellies
+
+Other
+
+
+Day
+
+Event
+
+
+12-14
+Extra forageables at The Beach
+
+
+
+
+
+Birthdays
+
+
+Day
+
+Villager
+
+
+04
+ Jas
+
+
+08
+ Gus
+
+
+10
+ Maru
+
+
+13
+ Alex
+
+
+17
+ Sam
+
+
+19
+ Demetrius
+
+
+22
+ Dwarf
+
+
+24
+ Willy
+
+
+26
+ Leo
+
+
+Crops
+Main article: Crops
+See also: Farming#Experience Points
+The following Crops can be grown in Summer.  Note that the "Seed Price" shown is the General Store price, unless otherwise indicated.  "Maximum Harvests per Season" assumes no fertilizer is used and the Agriculturist profession is not chosen. "Gold/Day" assumes no fertilizer is used and the Tiller profession is not chosen.  See the Crops page for the full calculation.
+
+Single Harvest
+
+
+Crop
+Seed Price
+Daysto Grow
+Maximum Harvestsper Season
+Sells For
+Gold/Day
+
+
+ Melon
+80g
+12 days
+2
+250g
+≈14.17g
+
+
+ Poppy
+100g
+7 days
+3
+140g
+≈5.71g
+
+
+ Radish
+40g
+6 days
+4
+90g
+≈8.33g
+
+
+ Red Cabbage
+100g
+9 days
+3
+260g
+≈17.78g
+
+
+ Starfruit
+Oasis: 400g
+13 days
+2
+750g
+≈26.92g
+
+
+ Summer Spangle
+50g
+8 days
+3
+90g
+5g
+
+
+ Sunflower
+200g
+8 days
+Summer: 3Summer and Fall: 6
+80g
+-15g
+
+
+ Wheat
+10g
+4 days
+Summer: 6Summer and Fall: 13
+25g
+3.75g
+
+
+Multiple Harvests
+Note that each blueberry plant produces 3 Blueberries at harvest and each coffee plant produces 4 Coffee Beans at harvest.
+
+
+
+Crop
+Seed Price
+Daysto Grow
+Regrowth
+Maximum Harvestsper Season
+Sells For
+Gold/Day
+
+
+ Blueberry
+80g
+13 days
+4 days
+4
+50g (x3)
+20.8g
+
+
+ Coffee Bean
+Traveling Cart: 2,500g
+10 days
+2 days
+Summer: 9Spring and Summer: 23
+15g (x4)
+Harvested Coffee Bean/Dust Sprite (2 seasons): 25.56gHarvested Coffee Bean/Dust Sprite (1 season): 20.77gTraveling Cart (2 seasons): -20.74g
+
+
+ Corn
+150g
+14 days
+4 days
+Summer: 4  Summer and Fall: 11
+50g
+Summer only: ≈1.92gSummer and Fall: ≈7.41g
+
+
+ Hops
+60g
+11 days
+1 day
+17
+25g
+≈13.52g
+
+
+ Hot Pepper
+40g
+5 days
+3 days
+8
+40g
+≈10.77g
+
+
+ Tomato
+50g
+11 days
+4 days
+5
+60g
+≈9.26g
+
+
+Forage
+Main article: Foraging
+The  Rainbow Shell can be found at The Beach only in Summer.  In addition, the items shown below can be found while foraging during Summer. The percentages provided for each location are the percentage of all foraged items in the location that will (on average) be the specified item. [1]
+
+
+
+
+Image
+
+Name
+
+Description
+
+Found
+
+Sell Price
+
+Restores
+
+Used In
+
+
+
+
+Grape
+
+A sweet cluster of fruit.
+
+
+Backwoods (62%)
+Mountain (62%)
+Bus Stop (27%)
+Railroad (27%)
+Forest Farm (25%)
+
+
+
+
+
+
+80g
+
+
+
+
+100g
+
+
+
+
+120g
+
+
+
+
+160g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Summer Foraging Bundle Summer Seeds Jelly Wine Vincent (loved gift)
+
+
+
+
+Spice Berry
+
+It fills the air with a pungent aroma.
+
+
+Cindersap Forest (40%)
+Backwoods (38%)
+Mountain (38%)
+Bus Stop (27%)
+Railroad (27%)
+Forest Farm (25%)
+Farm Cave (Fruit Bat option)
+
+
+
+
+
+
+80g
+
+
+
+
+100g
+
+
+
+
+120g
+
+
+
+
+160g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Summer Foraging Bundle Summer Seeds Jelly Wine
+
+
+
+
+Sweet Pea
+
+A fragrant summer flower.
+
+
+Pelican Town (100%)
+Cindersap Forest (60%)
+Bus Stop (47%)
+Railroad (47%)
+Forest Farm (25%)
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+
+
+data-sort-value="0000"
+
+
+ 
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+
+
+ Summer Foraging Bundle Summer Seeds Sandy (loved gift)
+
+
+
+
+Red Mushroom
+
+A spotted mushroom sometimes found in caves.
+
+
+Secret Woods (22%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+data-sort-value="0-20"
+
+
+ 
+
+−50
+
+
+
+
+−70
+
+
+
+
+−90
+
+
+
+
+−130
+
+
+
+
+
+
+ Exotic Foraging Bundle Dye Bundle Life Elixir
+
+
+
+
+Fiddlehead Fern
+
+The young shoots are an edible specialty.
+
+Secret Woods (78%)
+
+
+
+
+
+
+90g
+
+
+
+
+112g
+
+
+
+
+135g
+
+
+
+
+180g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Chef's Bundle Fiddlehead Risotto Pickles Juice
+
+
+
+
+Common Mushroom
+
+Slightly nutty, with good texture.
+
+
+Forest Farm (25%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+40g
+
+
+
+
+50g
+
+
+
+
+60g
+
+
+
+
+80g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Fall Foraging Bundle Fall Seeds Fried Mushroom Stir Fry Tom Kha Soup
+
+
+
+Fish
+Main article: Fish
+There are a variety of fish which can only be caught during specific seasons.  Listed below are all fish catchable during Summer.  
+Fish that can be caught during all seasons are not listed.
+Note: Any Fish can be used for recipes with the tag "any fish" (i.e.,  Sashimi,  Maki Roll,  Quality Fertilizer).
+
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+ Fisher Profession (+25%)
+
+ Angler Profession (+50%)
+
+Location
+
+Time
+
+Season
+
+Weather
+
+Size (inches)
+
+Difficulty & Behavior
+
+Base XP
+
+Used In
+
+
+
+
+Pufferfish
+
+Inflates when threatened.
+
+
+
+
+
+
+200g
+
+
+
+
+250g
+
+
+
+
+300g
+
+
+
+
+400g
+
+
+
+
+
+
+
+250g
+
+
+
+
+312g
+
+
+
+
+375g
+
+
+
+
+500g
+
+
+
+
+
+
+
+300g
+
+
+
+
+375g
+
+
+
+
+450g
+
+
+
+
+600g
+
+
+Ocean, Ginger Island oceans
+
+12pm – 4pm
+
+ Summer(All Seasons on Ginger Island)
+
+ Sun
+
+1-37
+
+80 floater
+
+29
+
+ Specialty Fish Bundle Abigail (loved gift) "Aquatic Research" Quest
+
+
+
+
+Tuna
+
+A large fish that lives in the ocean.
+
+
+
+
+
+
+100g
+
+
+
+
+125g
+
+
+
+
+150g
+
+
+
+
+200g
+
+
+
+
+
+
+
+125g
+
+
+
+
+156g
+
+
+
+
+187g
+
+
+
+
+250g
+
+
+
+
+
+
+
+150g
+
+
+
+
+187g
+
+
+
+
+225g
+
+
+
+
+300g
+
+
+Ocean, Ginger Island oceans
+
+6am – 7pm
+
+ Summer Winter(All Seasons on Ginger Island)
+
+Any
+
+12-61
+
+70 smooth
+
+26
+
+ Ocean Fish Bundle Quality Fish Bundle Fish Taco
+
+
+
+
+Rainbow Trout
+
+A freshwater trout with colorful markings.
+
+
+
+
+
+
+65g
+
+
+
+
+81g
+
+
+
+
+97g
+
+
+
+
+130g
+
+
+
+
+
+
+
+81g
+
+
+
+
+101g
+
+
+
+
+121g
+
+
+
+
+162g
+
+
+
+
+
+
+
+97g
+
+
+
+
+121g
+
+
+
+
+145g
+
+
+
+
+195g
+
+
+River (Town+Forest)Mountain Lake
+
+6am – 7pm
+
+ Summer
+
+ Sun
+
+10-26
+
+45 mixed
+
+18
+
+ Trout Soup
+
+
+
+
+Catfish
+
+An uncommon fish found in streams.
+
+
+
+
+
+
+200g
+
+
+
+
+250g
+
+
+
+
+300g
+
+
+
+
+400g
+
+
+
+
+
+
+
+250g
+
+
+
+
+312g
+
+
+
+
+375g
+
+
+
+
+500g
+
+
+
+
+
+
+
+300g
+
+
+
+
+375g
+
+
+
+
+450g
+
+
+
+
+600g
+
+
+River (Town+Forest)Secret Woods PondWitch's Swamp
+
+6am – 12am
+
+ Spring Fall( Spring & Summer in Secret Woods Pond)
+
+ Rain
+
+12-73
+
+75 mixed
+
+28
+
+ River Fish Bundle Willy (loved gift)
+
+
+
+
+Pike
+
+A freshwater fish that's difficult to catch.
+
+
+
+
+
+
+100g
+
+
+
+
+125g
+
+
+
+
+150g
+
+
+
+
+200g
+
+
+
+
+
+
+
+125g
+
+
+
+
+156g
+
+
+
+
+187g
+
+
+
+
+250g
+
+
+
+
+
+
+
+150g
+
+
+
+
+187g
+
+
+
+
+225g
+
+
+
+
+300g
+
+
+River (Town+Forest)Forest Pond
+
+Anytime
+
+ Summer Winter
+
+Any
+
+15-61
+
+60 dart
+
+23
+
+
+
+
+
+
+Sunfish
+
+A common river fish.
+
+
+
+
+
+
+30g
+
+
+
+
+37g
+
+
+
+
+45g
+
+
+
+
+60g
+
+
+
+
+
+
+
+37g
+
+
+
+
+46g
+
+
+
+
+56g
+
+
+
+
+75g
+
+
+
+
+
+
+
+45g
+
+
+
+
+55g
+
+
+
+
+67g
+
+
+
+
+90g
+
+
+River (Town+Forest)
+
+6am – 7pm
+
+ Spring Summer
+
+ Sun Wind
+
+5-16
+
+30 mixed
+
+13
+
+ River Fish Bundle Baked Fish
+
+
+
+
+Red Mullet
+
+Long ago these were kept as pets.
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+
+
+
+93g
+
+
+
+
+116g
+
+
+
+
+140g
+
+
+
+
+187g
+
+
+
+
+
+
+
+112g
+
+
+
+
+139g
+
+
+
+
+168g
+
+
+
+
+225g
+
+
+Ocean
+
+6am – 7pm
+
+ Summer Winter
+
+Any
+
+8-23
+
+55 smooth
+
+21
+
+
+
+
+
+
+Octopus
+
+A mysterious and intelligent creature.
+
+
+
+
+
+
+150g
+
+
+
+
+187g
+
+
+
+
+225g
+
+
+
+
+300g
+
+
+
+
+
+
+
+187g
+
+
+
+
+233g
+
+
+
+
+281g
+
+
+
+
+375g
+
+
+
+
+
+
+
+225g
+
+
+
+
+280g
+
+
+
+
+337g
+
+
+
+
+450g
+
+
+Ocean
+
+6am – 1pm
+
+ Summer
+
+Any
+
+12-49
+
+95 sinker
+
+34
+
+ Master Fisher's Bundle Willy (loved gift)
+
+
+
+
+Red Snapper
+
+A popular fish with a nice red color.
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+
+
+
+
+
+62g
+
+
+
+
+77g
+
+
+
+
+93g
+
+
+
+
+125g
+
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+Ocean
+
+6am – 7pm
+
+ Summer Fall Winter with Rain Totem
+
+ Rain
+
+8-26
+
+40 mixed
+
+16
+
+ Ocean Fish Bundle
+
+
+
+
+Super Cucumber
+
+A rare, purple variety of sea cucumber.
+
+
+
+
+
+
+250g
+
+
+
+
+312g
+
+
+
+
+375g
+
+
+
+
+500g
+
+
+
+
+
+
+
+312g
+
+
+
+
+390g
+
+
+
+
+468g
+
+
+
+
+625g
+
+
+
+
+
+
+
+375g
+
+
+
+
+468g
+
+
+
+
+562g
+
+
+
+
+750g
+
+
+Ocean, Ginger Island oceans
+
+6pm – 2am
+
+ Summer Fall(All Seasons on Ginger Island)
+
+Any
+
+12-37
+
+80 sinker
+
+29
+
+ Wizard (loved gift)
+
+
+
+
+Sturgeon
+
+An ancient bottom-feeder with a dwindling population. Females can live up to 150 years.
+
+
+
+
+
+
+200g
+
+
+
+
+250g
+
+
+
+
+300g
+
+
+
+
+400g
+
+
+
+
+
+
+
+250g
+
+
+
+
+312g
+
+
+
+
+375g
+
+
+
+
+500g
+
+
+
+
+
+
+
+300g
+
+
+
+
+375g
+
+
+
+
+450g
+
+
+
+
+600g
+
+
+Mountain Lake
+
+6am – 7pm
+
+ Summer Winter
+
+Any
+
+12-61
+
+78 mixed
+
+29
+
+ Lake Fish Bundle Willy (loved gift)
+
+
+
+
+Tilapia
+
+A primarily vegetarian fish that prefers warm water.
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+
+
+
+93g
+
+
+
+
+116g
+
+
+
+
+140g
+
+
+
+
+187g
+
+
+
+
+
+
+
+112g
+
+
+
+
+139g
+
+
+
+
+168g
+
+
+
+
+225g
+
+
+Ocean, Ginger Island rivers
+
+6am – 2pm
+
+ Summer Fall(All Seasons on Ginger Island)
+
+Any
+
+11-31
+
+50 mixed
+
+19
+
+ Ocean Fish Bundle
+
+
+
+
+Dorado
+
+A fierce carnivore with brilliant orange scales.
+
+
+
+
+
+
+100g
+
+
+
+
+125g
+
+
+
+
+150g
+
+
+
+
+200g
+
+
+
+
+
+
+
+125g
+
+
+
+
+156g
+
+
+
+
+187g
+
+
+
+
+250g
+
+
+
+
+
+
+
+150g
+
+
+
+
+187g
+
+
+
+
+225g
+
+
+
+
+300g
+
+
+River (Forest)
+
+6am – 7pm
+
+ Summer
+
+Any
+
+24-33
+
+78 mixed
+
+29
+
+
+
+
+
+
+Flounder
+
+It lives on the bottom, so both eyes are on top of its head.
+
+
+
+
+
+
+100g
+
+
+
+
+125g
+
+
+
+
+150g
+
+
+
+
+200g
+
+
+
+
+
+
+
+125g
+
+
+
+
+156g
+
+
+
+
+187g
+
+
+
+
+250g
+
+
+
+
+
+
+
+150g
+
+
+
+
+187g
+
+
+
+
+225g
+
+
+
+
+300g
+
+
+Ocean, Ginger Island oceans
+
+6am – 8pm
+
+ Spring Summer(All Seasons on Ginger Island)
+
+Any
+
+4-17
+
+50 sinker
+
+19
+
+ Seafoam Pudding
+
+
+
+
+Shad
+
+Lives in a school at sea, but returns to the rivers to spawn.
+
+
+
+
+
+
+60g
+
+
+
+
+75g
+
+
+
+
+90g
+
+
+
+
+120g
+
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+
+
+
+90g
+
+
+
+
+112g
+
+
+
+
+135g
+
+
+
+
+180g
+
+
+River (Town+Forest)
+
+9am – 2am
+
+ Spring Summer Fall
+
+ Rain
+
+20-49
+
+45 smooth
+
+18
+
+ River Fish Bundle Quality Fish Bundle
+
+
+
+
+Halibut
+
+A flat fish that lives on the ocean floor.
+
+
+
+
+
+
+80g
+
+
+
+
+100g
+
+
+
+
+120g
+
+
+
+
+160g
+
+
+
+
+
+
+
+100g
+
+
+
+
+125g
+
+
+
+
+150g
+
+
+
+
+200g
+
+
+
+
+
+
+
+120g
+
+
+
+
+150g
+
+
+
+
+180g
+
+
+
+
+240g
+
+
+Ocean
+
+6am – 11am7pm – 2am
+
+ Spring Summer Winter
+
+Any
+
+10-34
+
+50 sinker
+
+19
+
+
+
+
+
+
+Crimsonfish
+
+Lives deep in the ocean but likes to lay its eggs in the warm summer water.
+
+
+
+
+
+
+1,500g
+
+
+
+
+1,875g
+
+
+
+
+2,250g
+
+
+
+
+3,000g
+
+
+
+
+
+
+
+1,875g
+
+
+
+
+2,343g
+
+
+
+
+2,812g
+
+
+
+
+3,750g
+
+
+
+
+
+
+
+2,250g
+
+
+
+
+2,812g
+
+
+
+
+3,375g
+
+
+
+
+4,500g
+
+
+East Pier on The Beach. Requires level 5 fishing.
+
+Any
+
+ Summer
+
+Any
+
+19-21
+
+95 mixed
+
+170
+
+
+
+References
+
+↑ The foraged items that can spawn in a given location each season are determined by GameLocation::spawnObjects in the game code, using input from the data file Content\Locations.xnb.  The percentages provided here have been normalized to ensure that the percentages sum to 100% for each location. The data was normalized by:
+Calculating the sum of all percentages listed in Locations.xnb for Summer
+Dividing each percentage by the sum
+
+
+
+
+Seasons
+
+
+Seasons
+
+Spring • Summer • Fall • Winter
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Summer&oldid=141200"
+Category: Seasons
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 29 August 2022, at 18:20.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

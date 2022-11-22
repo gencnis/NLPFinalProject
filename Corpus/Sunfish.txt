@@ -1,0 +1,717 @@
+
+
+
+
+
+Sunfish - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sunfish
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Sunfish
+
+
+
+
+
+A common river fish.
+
+
+Information
+
+
+
+
+Location
+
+River
+
+
+Time
+
+6am – 7pm
+
+
+Season
+
+ Spring •  Summer
+
+
+Weather
+
+ Sun •  Wind
+
+
+Difficulty
+
+30
+
+
+Behavior
+
+Mixed
+
+
+Size (inches)
+
+5-16
+
+
+
+
+Fishing XP
+
+13    16    19    25
+
+
+Energy / Health
+
+
+
+
+
+
+13
+
+
+
+
+
+5
+
+
+
+
+18
+
+
+
+
+
+
+		8
+
+
+
+
+
+23
+
+
+
+
+
+10
+
+
+
+
+33
+
+
+
+
+
+14
+
+
+
+
+
+
+
+Sell Prices
+
+
+Base
+ Fisher(+25%)
+ Angler(+50%)
+
+
+
+
+
+
+30g
+
+
+
+37g
+
+
+
+45g
+
+
+
+60g
+
+
+
+
+
+
+
+37g
+
+
+
+46g
+
+
+
+56g
+
+
+
+75g
+
+
+
+
+
+
+
+45g
+
+
+
+55g
+
+
+
+67g
+
+
+
+90g
+
+
+
+
+
+
+
+
+
+
+Artisan Sell Prices
+
+
+Roe
+
+Aged Roe
+
+ Aged Roe (+40%)
+
+
+ 45g
+
+ 90g
+
+ 126g
+
+
+
+
+The Sunfish is a fish that can be caught in the river (in Pelican Town or Cindersap Forest) during Spring and Summer during sunny weather. It may also be caught on the Riverlands Farm, Forest Farm, or Hill-top Farm. It may also randomly be found at the Traveling Cart for 100-1,000g or in Garbage Cans during Spring and Summer.
+Sunfish can be caught regardless of weather, time, or season using Magic Bait.
+
+Contents
+
+1 Map
+2 Gifting
+3 Bundles
+4 Recipes
+5 Tailoring
+6 Fish Pond
+7 Quests
+8 Note
+9 History
+
+
+Map
+Sunfish can be found in the river.
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Demetrius •  Elliott •  Leo •  Linus •  Pam •  Sebastian •  Willy
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Dwarf •  Emily •  George •  Gus •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Marnie •  Maru •  Penny •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Wizard
+
+
+Hate
+
+ Evelyn •  Haley •  Pierre
+
+Bundles
+Sunfish is used in the  River Fish Bundle in the Fish Tank.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Recipe Source(s)
+Sell Price
+
+
+
+
+Baked Fish
+
+Baked fish on a bed of herbs.
+
+ Sunfish (1) Bream (1) Wheat Flour (1)
+
+ 75 33
+
+
+
+
+
+
+The Queen of Sauce
+
+
+7 Summer, Year 1
+
+
+100g
+
+
+
+
+Maki Roll
+
+Fish and rice wrapped in seaweed.
+
+ Any Fish (1) Seaweed (1) Rice (1)
+
+ 100 45
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 1
+
+ Stardrop Saloon for 300g
+
+220g
+
+
+
+
+Quality Fertilizer
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Sap (2) Any Fish (1)
+
+N/A
+
+ Farming Level 9
+
+10g
+
+
+
+
+Sashimi
+
+Raw fish sliced into thin pieces.
+
+ Any Fish (1)
+
+ 75 33
+
+ Linus (Mail - 3+ )
+
+75g
+
+
+Tailoring
+Sunfish can be used in the spool of the Sewing Machine to create the dyeable Fish Shirt.   It can be used in dyeing, serving as an orange dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Fish Pond
+Sunfish can be placed in a Fish Pond, where they will reproduce every day. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing two quests. The primary output is orange Sunfish Roe, but Solar Essence is also possible at population 10.
+Quests
+
+
+
+Pond Capacity
+
+Quest Item
+
+Fishing XP Granted
+
+
+Before Quest
+
+After Quest
+
+
+3
+5
+2 Acorns or 2 Geodes
+25
+
+
+5
+10
+1 Amethyst or 3 Mixed Seeds
+25
+
+Produce
+
+
+
+Item(s) Produced
+
+Fishing XP Granted
+
+Population
+
+% of Items
+
+Overall Daily Chance
+
+
+ Roe (1)
+
+11
+
+1-9
+90%
+21-78%
+
+
+10
+83%
+79%
+
+
+ Solar Essence (1)
+
+11
+
+10
+8%
+8%
+
+
+Nothing
+
+
+
+1-9
+10%
+79-22%
+
+
+10
+9%
+14%
+
+Quests
+Item Delivery: One Sunfish may be randomly requested in Spring or Summer at the "Help Wanted" board outside Pierre's General Store for a reward of 90g and 150 Friendship points.
+Fishing: Demetrius or Willy may randomly request 1-4 sunfish during Spring or Summer at the "Help Wanted" board outside Pierre's General Store for a reward of 30g per fish.  (You get to keep the fish).
+Aquatic Overpopulation: Demetrius may request 10 Sunfish to be caught in Spring at the Special Orders board outside the Mayor's Manor for a reward of gold equivalent to selling the fish and the Farm Computer recipe.
+Note
+It is possible to catch sunfish in other locations, not just the river, if it is the first fish caught after receiving the Bamboo Pole from Willy.
+History
+1.4: Added iridium quality.  Can now be used in Tailoring.
+1.5: Special Order quest added.
+
+
+Fish
+
+
+Legendary
+
+Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish
+
+
+The Beach
+
+Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna
+
+
+River
+
+Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye
+
+
+Mountain Lake
+
+Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye
+
+
+Cindersap Forest Pond
+
+Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye
+
+
+Secret Woods
+
+Carp • Catfish • Woodskip
+
+
+Mines
+
+Ghostfish • Ice Pip • Lava Eel • Stonefish
+
+
+Sewers
+
+Carp • Mutant Carp • Radioactive Carp
+
+
+Desert
+
+Sandfish • Scorpion Carp
+
+
+Mutant Bug Lair
+
+Carp • Slimejack
+
+
+Witch's Swamp
+
+Catfish • Void Salmon
+
+
+Night Market
+
+Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber
+
+
+Crab Pot
+
+Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail
+
+
+Ginger Island
+
+Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray •  Super Cucumber • Tilapia • Tuna
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Sunfish&oldid=143430"
+Categories: Spring fishSummer fishRiver fish
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 8 November 2022, at 17:18.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

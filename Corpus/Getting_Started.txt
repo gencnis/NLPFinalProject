@@ -1,0 +1,437 @@
+
+
+
+
+
+Getting Started - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Getting Started
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+GettingStarted
+
+ThePlayer
+
+Options
+
+Controls
+
+MobileControls
+
+Health
+
+Energy
+
+Skills
+
+DayCycle
+
+
+Stardew Valley is an open-ended game, allowing the player to achieve goals non-linearly.
+There are various ways to earn income and many activities to choose from including farming, fishing, foraging, mining, combat (fighting enemies), crafting, cooking, gift giving, completing quests, donating to the Museum and restoring the Community Center.
+
+Contents
+
+1 Character Creation
+2 Farm map
+3 Controls
+4 Preparing Your First Harvest
+
+4.1 Watering Can
+
+
+5 Energy
+6 Skills
+7 Villagers and Friendship
+8 Television
+
+
+Character Creation
+
+Main article: The Player
+The character creation screen allows customization options, such as character Appearance, Gender, Name, Farm Name, Favorite Thing, and Animal Preference.
+
+There are 2 genders, 24 skin tones, 73 hairstyles, 112 shirts, 4 pants, 20 accessories, and 6 animals (3 cats and 3 dogs) to choose from.
+The villagers will refer to you matching the case you put your name in - for example, if you put all lowercase, the first letter will not be corrected to uppercase. {confirmed on mobile iOS and Nintendo Switch}
+The sliders next to eye color, hair color, and pants color represent hue, saturation, and value.
+Animal Preference determines which pet will arrive on the farm later.
+Gender does not affect in-game marriage.
+The "Favorite Thing" will be referenced in-game when the player eats a Stardrop. If the player chooses ConcernedApe (Capital C and A) as their favorite thing, the following message will appear when eaten.
+
+If the player puts anything containing Stardew (capital S), then the following message will appear.
+
+Players can later change their appearance for 500g, in the Wizard's Tower, after reaching 4 Hearts of friendship with him or gaining access to the Witch's Hut and using the portal within.
+At the character creation menu, there is a button with a wrench icon  that contains all of the Advanced Options, which are:
+
+Changing the community center bundles between normal and remixed
+Making it so the Community Center is completable in year one by guaranteeing that the Traveling Cart will sell a Red Cabbage Seed sometime in the first year
+Changing the chest rewards in The Mines between normal and remixed
+Making it so monsters can spawn on the farm
+Changing the profit margin
+Choosing how many starter cabins there are and how far apart they are
+Farm map
+Main article: Farm Maps
+Players can select from seven different farm maps. Each map offers unique benefits, and favors specific skills.
+After selecting a map, it cannot be changed, characters are permanently tied to their map type once created. Space-wise each map takes up the same area, but there are different amounts of usable/farmable/buildable land on each.
+
+
+
+Name
+
+Description
+
+Favored Skill 
+
+
+
+Standard Farm
+The original farm map, designed to maximize open space for crops and animals.
+ Farming
+
+
+
+Forest Farm
+The forest encroaches on the land, limiting farming space. However, there are renewable stumps on the west edge of the map, and seasonal forage items spawn there as well. There is a type of weed which spawns on this farm, which looks unique and will always drop mixed seeds when cut.
+ Foraging
+
+
+
+Hill-top Farm
+Lots of cliffs and there is a special mining area in the southwest where ore will spawn, as well as unique geode-bearing stones.
+ Mining
+
+
+
+Riverland Farm
+Lots of water on this map... limiting space for crops and animals. Looks nice and fishing is actually viable on this farm... In fact, players can catch the same fish that are available in town.
+ Fishing
+
+
+
+Wilderness Farm
+A large lake in the southwest corner, and a cliff along the east and south. Monsters will come out at night. Their stats scale with player combat level. Wilderness Golems are unique to this map.
+ Combat
+
+
+
+Four Corners Farm
+The land is divided into four parcels, each with its own perk. Perfect for a group!
+ Multiplayer
+
+
+
+Beach Farm
+Good fishing and foraging, and tons of open space. Sometimes, supply crates wash up on shore. However, sprinklers don't work in the sandy soil. Seems more tailored to players who won't rely as much on crops.
+ Foraging Fishing
+
+Controls
+Main article: Controls
+All hotkeys can be reassigned by opening the menu and choosing the Options tab 
+
+
+
+Key
+
+Description
+
+
+WA S D
+
+W Move UpA Move LeftS Move DownD Move Right
+
+
+, C
+
+Use tool or place item
+
+
+, X
+
+Check/Do Action
+
+
+Escape, E
+
+Open Menu
+
+
+F
+
+Open Journal
+
+
+M
+
+Open Map window
+
+
+Y
+
+Open Emote Menu
+
+
+
+
+Switch Item
+
+
+Tab
+
+Shift Toolbar
+
+
+Left Shift
+
+Run
+
+
+?, T
+
+Open Chat Box
+
+
+1 - 0,  - ,  = 
+
+Inventory hotkeys
+
+
+F4
+
+Screenshot mode
+
+Preparing Your First Harvest
+ Gift from Mayor Lewis
+Use your axe, pickaxe, and scythe on the logs, stones, grass and bushes on your farm to clear about 15 tiles.
+Use your hoe to till the soil and plant the 15 Parsnip Seeds provided by Mayor Lewis.
+Use your watering can to water your seeds and soil.
+Continue watering your crops every day until they grow in to harvestable crops. Your parsnips will be ready to harvest in 4 days.
+A helpful tip: Maple, Pine and Oak trees all have the same hit ratio; 10 hits from your axe. The stumps only take 5 hits from your axe.
+Watering Can
+Main article: Watering Cans
+Crops needs to be watered daily in order to grow. The starting watering can only waters one tile at a time and can be refilled at any pond, river, or other body of water. This includes the kitchen sink, after getting your first house upgrade.
+Crops need to be watered every day. Crops that are not watered will not die, but they will not grow either. 
+The best times to upgrade the watering can are the day before it is predicted to rain, as the rain will water the crops, or the 27th day of the season after watering any crops that are expected to ripen on the 28th. 
+The Blacksmith will need 2 days to upgrade any tools, including the watering can. 
+Sprinklers, which must be crafted and placed, will automatically water surrounding tiles every morning. Throughout the gameplay, sprinklers become available in 3 tiers that can water an increasing number of surrounding tiles, starting with 4 tiles (immediately adjacent to the sprinkler), 8 tiles (in the surrounding 3x3 area), and up to 24 tiles (in the surrounding 5x5 area).
+
+Energy
+ Energy & Health
+Main article: Energy
+Energy limits productivity. One of the main ways to overcome this is by eating food. Eating food is an action, for which default controls are Right Click or type X with the food highlighted in your inventory and then click Yes in the confirmation dialogue to eat the food. Most crops and many foraged items can be eaten in order to regain energy.
+Sleeping at the end of the day will restore the players' energy. After 12:00AM, the player won't restore 100% of the energy. If the player is exhausted when they go to bed or forced sleep at 2:00AM, they'll wake up in the morning with their energy level about half restored.
+On Multiplayer, lying in bed will regain energy over time.
+The Spa will fully restore energy over a short period of time.
+
+Skills
+Main article: Skills
+To level up skills, the player must complete certain actions related to that skill. Farming XP is earned by harvesting a fully grown crop and taking care of animals. Foraging XP is earned by foraging or chopping down trees. Mining XP is earned by breaking rocks and ore deposits. Fishing and using crab pots will increase fishing XP.  Killing monsters will increase combat XP.
+As the skill level increases, the player will earn crafting recipes (every level except level 5 and 10) or professions (on level 5 and 10).
+Professions (level 5 and 10) can give the player a boost on yielding products, including more products gained, additional selling price, using less inventories and others. The player's choice of a level 5 profession will determine which profession choices are available at level 10.
+
+Villagers and Friendship
+Main articles: Villagers, Friendship
+See also: Marriage, List of All Gifts
+Giving gifts to villagers will increase their friendship rating. You can give a gift by highlighting it in your inventory or selecting it by typing its hotkey number and then left clicking on the person to whom you wish to give the item.  As friendship is earned villagers will send cooking recipes or gifts through the mail, give you access to their bedrooms, and treat you differently in dialogue. Unique cutscenes and interactions can also occur as friendship is earned. The player must also earn a high level of friendship in order to date, and eventually marry, an eligible villager.
+
+Television
+Main article: Television
+The television provides useful information, such as weather forecasts, daily luck, free cooking recipes, and other general tips. All players will have one inside their home when beginning a new game.
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Getting_Started&oldid=141934"
+Category: Gameplay
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 25 September 2022, at 18:11.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

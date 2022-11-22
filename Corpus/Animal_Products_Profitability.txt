@@ -1,0 +1,2956 @@
+
+
+
+
+
+Animal Products Profitability - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Animal Products Profitability
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Not all processing of animal products results in a price gain.  This page lists the profitability of processing animal products at different quality levels and Farming Professions.
+Note that regular chicken eggs always produce normal quality Mayonnaise and Large Eggs produce gold quality mayonnaise.  Duck Mayonnaise, Void Mayonnaise, and Dinosaur Mayonnaise are always normal quality.  The quality of these eggs is not a factor. However, Ostrich Eggs produce 10 jars of Mayonnaise, where the quality of the Mayonnaise will be equal to the quality of the Ostrich Egg used.
+Similarly, normal sized Milk always produces normal quality Cheese and Large Milk always produces gold quality Cheese.  Normal sized Goat Milk always produces normal quality Goat Cheese and Large Goat Milk always produces gold quality Goat Cheese.  The quality of the milk is not a factor.
+When using quality Wool with a Loom, there is a chance of receiving two Cloth:
+
+ Silver quality wool = 10% chance
+ Gold quality wool = 25% chance
+ Iridium quality wool = 50% chance
+Mayonnaise produced using Ostrich Eggs and Cloth are the only artisan goods in the game that are actually affected by the quality level of the input.
+
+When to process animal products
+Below is a quick reference table indicating when to process animal products, without regard to aging in casks. Aging cheese or goat cheese in a cask will almost always result in profit. This table also does not take into account the chance of obtaining 2 Cloth from 1 Wool.  Obtaining 2 cloth from 1 higher quality wool is never guaranteed, and can result in a net loss on an individual wool if only 1 cloth is produced. However, in the long run the chance for extra cloth makes processing wool profitable on average for all quality levels (with iridium wool producing 1.5 cloth on average, gold 1.25, and silver 1.1).
+
+
+
+Item
+No Profession
+ Rancher
+ Artisan
+
+
+ Egg
+Always
+Always
+Always
+
+
+ Large Egg
+Always
+Always
+Always
+
+
+ Duck Egg
+Always
+Always
+Always
+
+
+ Void Egg
+Always
+Always
+Always
+
+
+ Dinosaur Egg
+Always
+Always
+Always
+
+
+ Ostrich Egg
+Always
+Always
+Always
+
+
+ Golden Egg
+Regular, Silver, and Gold
+Regular, Silver, and Gold
+Always
+
+
+ Wool
+Regular and Silver
+Regular and Silver
+Regular, Silver, and Gold
+
+
+ Milk
+Regular, Silver, and Gold
+Regular, Silver, and Gold
+Always
+
+
+ Large Milk
+Regular, Silver, and Gold
+Regular, Silver, and Gold
+Always
+
+
+ Goat Milk
+Regular, Silver, and Gold
+Regular, Silver, and Gold
+Always
+
+
+ Large Goat Milk
+Always
+Regular, Silver, and Gold
+Always
+
+
+ Truffle
+Regular, Silver, and Gold
+Regular, Silver, and Gold
+Always
+
+Profit
+The table below shows the profit gained (or lost) from processing animal products through their respective Equipment. Gains less than 100%, which are losses, are highlighted in red.
+Profit Increase = (Processed Item Sell Price / Sell Price) × 100
+
+Note that you may click on a column header to sort the table by that column, then Shift+Click on a second column to perform a secondary sort.
+
+
+
+Item
+
+Quality
+
+Profession
+
+Sell Price
+
+Processed Item
+
+Processed Item Quality
+
+Processed Item Sell Price
+
+Profit Increase
+
+
+ Egg
+Regular
+—
+50
+ Mayonnaise
+Regular
+190
+380%
+
+
+ Egg
+ Silver
+—
+62
+ Mayonnaise
+Regular
+190
+306%
+
+
+ Egg
+ Gold
+—
+75
+ Mayonnaise
+Regular
+190
+253%
+
+
+ Egg
+ Iridium
+—
+100
+ Mayonnaise
+Regular
+190
+190%
+
+
+ Egg
+Regular
+ Rancher
+60
+ Mayonnaise
+Regular
+228
+380%
+
+
+ Egg
+ Silver
+ Rancher
+75
+ Mayonnaise
+Regular
+228
+304%
+
+
+ Egg
+ Gold
+ Rancher
+90
+ Mayonnaise
+Regular
+228
+253%
+
+
+ Egg
+ Iridium
+ Rancher
+120
+ Mayonnaise
+Regular
+228
+190%
+
+
+ Egg
+Regular
+ Artisan
+50
+ Mayonnaise
+Regular
+266
+532%
+
+
+ Egg
+ Silver
+ Artisan
+62
+ Mayonnaise
+Regular
+266
+429%
+
+
+ Egg
+ Gold
+ Artisan
+75
+ Mayonnaise
+Regular
+266
+355%
+
+
+ Egg
+ Iridium
+ Artisan
+100
+ Mayonnaise
+Regular
+266
+266%
+
+
+ Large Egg
+Regular
+—
+95
+ Mayonnaise
+ Gold
+285
+300%
+
+
+ Large Egg
+ Silver
+—
+118
+ Mayonnaise
+ Gold
+285
+242%
+
+
+ Large Egg
+ Gold
+—
+142
+ Mayonnaise
+ Gold
+285
+201%
+
+
+ Large Egg
+ Iridium
+—
+190
+ Mayonnaise
+ Gold
+285
+150%
+
+
+ Large Egg
+Regular
+ Rancher
+114
+ Mayonnaise
+ Gold
+342
+300%
+
+
+ Large Egg
+ Silver
+ Rancher
+142
+ Mayonnaise
+ Gold
+342
+241%
+
+
+ Large Egg
+ Gold
+ Rancher
+171
+ Mayonnaise
+ Gold
+342
+200%
+
+
+ Large Egg
+ Iridium
+ Rancher
+228
+ Mayonnaise
+ Gold
+342
+150%
+
+
+ Large Egg
+Regular
+ Artisan
+95
+ Mayonnaise
+ Gold
+399
+420%
+
+
+ Large Egg
+ Silver
+ Artisan
+118
+ Mayonnaise
+ Gold
+399
+338%
+
+
+ Large Egg
+ Gold
+ Artisan
+142
+ Mayonnaise
+ Gold
+399
+281%
+
+
+ Large Egg
+ Iridium
+ Artisan
+190
+ Mayonnaise
+ Gold
+399
+210%
+
+
+ Void Egg
+Regular
+—
+65
+ Void Mayonnaise
+Regular
+275
+423%
+
+
+ Void Egg
+ Silver
+—
+81
+ Void Mayonnaise
+Regular
+275
+340%
+
+
+ Void Egg
+ Gold
+—
+97
+ Void Mayonnaise
+Regular
+275
+284%
+
+
+ Void Egg
+ Iridium
+—
+130
+ Void Mayonnaise
+Regular
+275
+212%
+
+
+ Void Egg
+Regular
+ Rancher
+78
+ Void Mayonnaise
+Regular
+330
+423%
+
+
+ Void Egg
+ Silver
+ Rancher
+97
+ Void Mayonnaise
+Regular
+330
+340%
+
+
+ Void Egg
+ Gold
+ Rancher
+117
+ Void Mayonnaise
+Regular
+330
+282%
+
+
+ Void Egg
+ Iridium
+ Rancher
+156
+ Void Mayonnaise
+Regular
+330
+212%
+
+
+ Void Egg
+Regular
+ Artisan
+65
+ Void Mayonnaise
+Regular
+385
+592%
+
+
+ Void Egg
+ Silver
+ Artisan
+81
+ Void Mayonnaise
+Regular
+385
+475%
+
+
+ Void Egg
+ Gold
+ Artisan
+97
+ Void Mayonnaise
+Regular
+385
+397%
+
+
+ Void Egg
+ Iridium
+ Artisan
+130
+ Void Mayonnaise
+Regular
+385
+296%
+
+
+ Duck Egg
+Regular
+—
+95
+ Duck Mayonnaise
+Regular
+375
+395%
+
+
+ Duck Egg
+ Silver
+—
+118
+ Duck Mayonnaise
+Regular
+375
+318%
+
+
+ Duck Egg
+ Gold
+—
+142
+ Duck Mayonnaise
+Regular
+375
+264%
+
+
+ Duck Egg
+ Iridium
+—
+190
+ Duck Mayonnaise
+Regular
+375
+197%
+
+
+ Duck Egg
+Regular
+ Rancher
+114
+ Duck Mayonnaise
+Regular
+450
+395%
+
+
+ Duck Egg
+ Silver
+ Rancher
+142
+ Duck Mayonnaise
+Regular
+450
+317%
+
+
+ Duck Egg
+ Gold
+ Rancher
+171
+ Duck Mayonnaise
+Regular
+450
+263%
+
+
+ Duck Egg
+ Iridium
+ Rancher
+228
+ Duck Mayonnaise
+Regular
+450
+197%
+
+
+ Duck Egg
+Regular
+ Artisan
+95
+ Duck Mayonnaise
+Regular
+525
+553%
+
+
+ Duck Egg
+ Silver
+ Artisan
+118
+ Duck Mayonnaise
+Regular
+525
+445%
+
+
+ Duck Egg
+ Gold
+ Artisan
+142
+ Duck Mayonnaise
+Regular
+525
+370%
+
+
+ Duck Egg
+ Iridium
+ Artisan
+190
+ Duck Mayonnaise
+Regular
+525
+276%
+
+
+ Wool
+Regular
+—
+340
+ Cloth (1)
+Regular
+470
+138%
+
+
+ Wool
+ Silver
+—
+425
+ Cloth (1)
+Regular
+470
+111%
+
+
+ Wool
+ Silver
+—
+425
+ Cloth (2)
+Regular
+940
+221%
+
+
+ Wool
+ Gold
+—
+510
+ Cloth (1)
+Regular
+470
+92%
+
+
+ Wool
+ Gold
+—
+510
+ Cloth (2)
+Regular
+940
+184%
+
+
+ Wool
+ Iridium
+—
+680
+ Cloth (1)
+Regular
+470
+69%
+
+
+ Wool
+ Iridium
+—
+680
+ Cloth (2)
+Regular
+940
+138%
+
+
+ Wool
+Regular
+ Rancher
+408
+ Cloth (1)
+Regular
+564
+138%
+
+
+ Wool
+Regular
+ Rancher
+408
+ Cloth (2)
+Regular
+1128
+276%
+
+
+ Wool
+ Silver
+ Rancher
+510
+ Cloth (1)
+Regular
+564
+111%
+
+
+ Wool
+ Silver
+ Rancher
+510
+ Cloth (2)
+Regular
+1128
+221%
+
+
+ Wool
+ Gold
+ Rancher
+612
+ Cloth (1)
+Regular
+564
+92%
+
+
+ Wool
+ Gold
+ Rancher
+612
+ Cloth (2)
+Regular
+1128
+184%
+
+
+ Wool
+ Iridium
+ Rancher
+816
+ Cloth (1)
+Regular
+564
+69%
+
+
+ Wool
+ Iridium
+ Rancher
+816
+ Cloth (2)
+Regular
+1128
+138%
+
+
+ Wool
+Regular
+ Artisan
+340
+ Cloth (1)
+Regular
+658
+194%
+
+
+ Wool
+Regular
+ Artisan
+340
+ Cloth (2)
+Regular
+1316
+387%
+
+
+ Wool
+ Silver
+ Artisan
+425
+ Cloth (1)
+Regular
+658
+155%
+
+
+ Wool
+ Silver
+ Artisan
+425
+ Cloth (2)
+Regular
+1316
+310%
+
+
+ Wool
+ Gold
+ Artisan
+510
+ Cloth (1)
+Regular
+658
+129%
+
+
+ Wool
+ Gold
+ Artisan
+510
+ Cloth (2)
+Regular
+1316
+258%
+
+
+ Wool
+ Iridium
+ Artisan
+680
+ Cloth (1)
+Regular
+658
+97%
+
+
+ Wool
+ Iridium
+ Artisan
+680
+ Cloth (2)
+Regular
+1316
+194%
+
+
+ Dinosaur Egg
+Regular
+—
+350
+ Dinosaur Mayonnaise
+Regular
+800
+229%
+
+
+ Dinosaur Egg
+ Silver
+—
+437
+ Dinosaur Mayonnaise
+Regular
+800
+183%
+
+
+ Dinosaur Egg
+ Gold
+—
+525
+ Dinosaur Mayonnaise
+Regular
+800
+152%
+
+
+ Dinosaur Egg
+ Iridium
+—
+700
+ Dinosaur Mayonnaise
+Regular
+800
+114%
+
+
+ Dinosaur Egg
+Regular
+ Rancher
+350
+ Dinosaur Mayonnaise
+Regular
+960
+274%
+
+
+ Dinosaur Egg
+ Silver
+ Rancher
+437
+ Dinosaur Mayonnaise
+Regular
+960
+220%
+
+
+ Dinosaur Egg
+ Gold
+ Rancher
+525
+ Dinosaur Mayonnaise
+Regular
+960
+183%
+
+
+ Dinosaur Egg
+ Iridium
+ Rancher
+700
+ Dinosaur Mayonnaise
+Regular
+960
+137%
+
+
+ Dinosaur Egg
+Regular
+ Artisan
+350
+ Dinosaur Mayonnaise
+Regular
+1120
+320%
+
+
+ Dinosaur Egg
+ Silver
+ Artisan
+437
+ Dinosaur Mayonnaise
+Regular
+1120
+256%
+
+
+ Dinosaur Egg
+ Gold
+ Artisan
+525
+ Dinosaur Mayonnaise
+Regular
+1120
+213%
+
+
+ Dinosaur Egg
+ Iridium
+ Artisan
+700
+ Dinosaur Mayonnaise
+Regular
+1120
+160%
+
+
+ Golden Egg
+Regular
+—
+500
+ Mayonnaise (3)
+ Gold
+855
+171%
+
+
+ Golden Egg
+ Silver
+—
+625
+ Mayonnaise (3)
+ Gold
+855
+137%
+
+
+ Golden Egg
+ Gold
+—
+750
+ Mayonnaise (3)
+ Gold
+855
+114%
+
+
+ Golden Egg
+ Iridium
+—
+1000
+ Mayonnaise (3)
+ Gold
+855
+86%
+
+
+ Golden Egg
+Regular
+ Rancher
+600
+ Mayonnaise (3)
+ Gold
+1026
+171%
+
+
+ Golden Egg
+ Silver
+ Rancher
+750
+ Mayonnaise (3)
+ Gold
+1026
+137%
+
+
+ Golden Egg
+ Gold
+ Rancher
+900
+ Mayonnaise (3)
+ Gold
+1026
+114%
+
+
+ Golden Egg
+ Iridium
+ Rancher
+1200
+ Mayonnaise (3)
+ Gold
+1026
+86%
+
+
+ Golden Egg
+Regular
+ Artisan
+500
+ Mayonnaise (3)
+ Gold
+1197
+239%
+
+
+ Golden Egg
+ Silver
+ Artisan
+625
+ Mayonnaise (3)
+ Gold
+1197
+192%
+
+
+ Golden Egg
+ Gold
+ Artisan
+750
+ Mayonnaise (3)
+ Gold
+1197
+160%
+
+
+ Golden Egg
+ Iridium
+ Artisan
+1000
+ Mayonnaise (3)
+ Gold
+1197
+120%
+
+
+ Ostrich Egg
+Regular
+—
+600
+ Mayonnaise (10)
+Regular
+1900
+317%
+
+
+ Ostrich Egg
+ Silver
+—
+750
+ Mayonnaise (10)
+ Silver
+2370
+316%
+
+
+ Ostrich Egg
+ Gold
+—
+900
+ Mayonnaise (10)
+ Gold
+2850
+317%
+
+
+ Ostrich Egg
+ Iridium
+—
+1200
+ Mayonnaise (10)
+ Iridium
+3800
+317%
+
+
+ Ostrich Egg
+Regular
+ Rancher
+720
+ Mayonnaise (10)
+Regular
+2280
+317%
+
+
+ Ostrich Egg
+ Silver
+ Rancher
+900
+ Mayonnaise (10)
+ Silver
+2840
+316%
+
+
+ Ostrich Egg
+ Gold
+ Rancher
+1080
+ Mayonnaise (10)
+ Gold
+3420
+317%
+
+
+ Ostrich Egg
+ Iridium
+ Rancher
+1440
+ Mayonnaise (10)
+ Iridium
+4560
+317%
+
+
+ Ostrich Egg
+Regular
+ Artisan
+600
+ Mayonnaise (10)
+Regular
+2660
+443%
+
+
+ Ostrich Egg
+ Silver
+ Artisan
+750
+ Mayonnaise (10)
+ Silver
+3310
+441%
+
+
+ Ostrich Egg
+ Gold
+ Artisan
+900
+ Mayonnaise (10)
+ Gold
+3990
+443%
+
+
+ Ostrich Egg
+ Iridium
+ Artisan
+1200
+ Mayonnaise (10)
+ Iridium
+5320
+443%
+
+
+ Milk
+Regular
+—
+125
+ Cheese
+Regular
+230
+184%
+
+
+ Milk
+Regular
+—
+125
+ Cheese
+ Silver
+287
+230%
+
+
+ Milk
+Regular
+—
+125
+ Cheese
+ Gold
+345
+276%
+
+
+ Milk
+Regular
+—
+125
+ Cheese
+ Iridium
+460
+368%
+
+
+ Milk
+ Silver
+—
+156
+ Cheese
+Regular
+230
+147%
+
+
+ Milk
+ Silver
+—
+156
+ Cheese
+ Silver
+287
+184%
+
+
+ Milk
+ Silver
+—
+156
+ Cheese
+ Gold
+345
+221%
+
+
+ Milk
+ Silver
+—
+156
+ Cheese
+ Iridium
+460
+295%
+
+
+ Milk
+ Gold
+—
+187
+ Cheese
+Regular
+230
+123%
+
+
+ Milk
+ Gold
+—
+187
+ Cheese
+ Silver
+287
+153%
+
+
+ Milk
+ Gold
+—
+187
+ Cheese
+ Gold
+345
+184%
+
+
+ Milk
+ Gold
+—
+187
+ Cheese
+ Iridium
+460
+246%
+
+
+ Milk
+ Iridium
+—
+250
+ Cheese
+Regular
+230
+92%
+
+
+ Milk
+ Iridium
+—
+250
+ Cheese
+ Silver
+287
+115%
+
+
+ Milk
+ Iridium
+—
+250
+ Cheese
+ Gold
+345
+138%
+
+
+ Milk
+ Iridium
+—
+250
+ Cheese
+ Iridium
+460
+184%
+
+
+ Milk
+Regular
+ Rancher
+150
+ Cheese
+Regular
+276
+184%
+
+
+ Milk
+Regular
+ Rancher
+150
+ Cheese
+ Silver
+345
+230%
+
+
+ Milk
+Regular
+ Rancher
+150
+ Cheese
+ Gold
+414
+276%
+
+
+ Milk
+Regular
+ Rancher
+150
+ Cheese
+ Iridium
+552
+368%
+
+
+ Milk
+ Silver
+ Rancher
+187
+ Cheese
+Regular
+276
+148%
+
+
+ Milk
+ Silver
+ Rancher
+187
+ Cheese
+ Silver
+345
+184%
+
+
+ Milk
+ Silver
+ Rancher
+187
+ Cheese
+ Gold
+414
+221%
+
+
+ Milk
+ Silver
+ Rancher
+187
+ Cheese
+ Iridium
+552
+295%
+
+
+ Milk
+ Gold
+ Rancher
+225
+ Cheese
+Regular
+276
+123%
+
+
+ Milk
+ Gold
+ Rancher
+225
+ Cheese
+ Silver
+345
+153%
+
+
+ Milk
+ Gold
+ Rancher
+225
+ Cheese
+ Gold
+414
+184%
+
+
+ Milk
+ Gold
+ Rancher
+225
+ Cheese
+ Iridium
+552
+245%
+
+
+ Milk
+ Iridium
+ Rancher
+300
+ Cheese
+Regular
+276
+92%
+
+
+ Milk
+ Iridium
+ Rancher
+300
+ Cheese
+ Silver
+345
+115%
+
+
+ Milk
+ Iridium
+ Rancher
+300
+ Cheese
+ Gold
+414
+138%
+
+
+ Milk
+ Iridium
+ Rancher
+300
+ Cheese
+ Iridium
+552
+184%
+
+
+ Milk
+Regular
+ Artisan
+125
+ Cheese
+Regular
+322
+258%
+
+
+ Milk
+Regular
+ Artisan
+125
+ Cheese
+ Silver
+402
+322%
+
+
+ Milk
+Regular
+ Artisan
+125
+ Cheese
+ Gold
+483
+386%
+
+
+ Milk
+Regular
+ Artisan
+125
+ Cheese
+ Iridium
+644
+515%
+
+
+ Milk
+ Silver
+ Artisan
+156
+ Cheese
+Regular
+322
+206%
+
+
+ Milk
+ Silver
+ Artisan
+156
+ Cheese
+ Silver
+402
+258%
+
+
+ Milk
+ Silver
+ Artisan
+156
+ Cheese
+ Gold
+483
+310%
+
+
+ Milk
+ Silver
+ Artisan
+156
+ Cheese
+ Iridium
+644
+413%
+
+
+ Milk
+ Gold
+ Artisan
+187
+ Cheese
+Regular
+322
+172%
+
+
+ Milk
+ Gold
+ Artisan
+187
+ Cheese
+ Silver
+402
+215%
+
+
+ Milk
+ Gold
+ Artisan
+187
+ Cheese
+ Gold
+483
+258%
+
+
+ Milk
+ Gold
+ Artisan
+187
+ Cheese
+ Iridium
+644
+344%
+
+
+ Milk
+ Iridium
+ Artisan
+250
+ Cheese
+Regular
+322
+129%
+
+
+ Milk
+ Iridium
+ Artisan
+250
+ Cheese
+ Silver
+402
+161%
+
+
+ Milk
+ Iridium
+ Artisan
+250
+ Cheese
+ Gold
+483
+193%
+
+
+ Milk
+ Iridium
+ Artisan
+250
+ Cheese
+ Iridium
+644
+258%
+
+
+ Large Milk
+Regular
+—
+190
+ Cheese
+ Gold
+345
+182%
+
+
+ Large Milk
+Regular
+—
+190
+ Cheese
+ Iridium
+460
+242%
+
+
+ Large Milk
+ Silver
+—
+237
+ Cheese
+ Gold
+345
+146%
+
+
+ Large Milk
+ Silver
+—
+237
+ Cheese
+ Iridium
+460
+194%
+
+
+ Large Milk
+ Gold
+—
+285
+ Cheese
+ Gold
+345
+121%
+
+
+ Large Milk
+ Gold
+—
+285
+ Cheese
+ Iridium
+460
+161%
+
+
+ Large Milk
+ Iridium
+—
+380
+ Cheese
+ Gold
+345
+91%
+
+
+ Large Milk
+ Iridium
+—
+380
+ Cheese
+ Iridium
+460
+121%
+
+
+ Large Milk
+Regular
+ Rancher
+228
+ Cheese
+ Gold
+414
+182%
+
+
+ Large Milk
+Regular
+ Rancher
+228
+ Cheese
+ Iridium
+552
+242%
+
+
+ Large Milk
+ Silver
+ Rancher
+285
+ Cheese
+ Gold
+414
+145%
+
+
+ Large Milk
+ Silver
+ Rancher
+285
+ Cheese
+ Iridium
+552
+194%
+
+
+ Large Milk
+ Gold
+ Rancher
+342
+ Cheese
+ Gold
+414
+121%
+
+
+ Large Milk
+ Gold
+ Rancher
+342
+ Cheese
+ Iridium
+552
+161%
+
+
+ Large Milk
+ Iridium
+ Rancher
+456
+ Cheese
+ Gold
+414
+91%
+
+
+ Large Milk
+ Iridium
+ Rancher
+456
+ Cheese
+ Iridium
+552
+121%
+
+
+ Large Milk
+Regular
+ Artisan
+190
+ Cheese
+ Gold
+483
+254%
+
+
+ Large Milk
+Regular
+ Artisan
+190
+ Cheese
+ Iridium
+644
+339%
+
+
+ Large Milk
+ Silver
+ Artisan
+237
+ Cheese
+ Gold
+483
+204%
+
+
+ Large Milk
+ Silver
+ Artisan
+237
+ Cheese
+ Iridium
+644
+272%
+
+
+ Large Milk
+ Gold
+ Artisan
+285
+ Cheese
+ Gold
+483
+169%
+
+
+ Large Milk
+ Gold
+ Artisan
+285
+ Cheese
+ Iridium
+644
+226%
+
+
+ Large Milk
+ Iridium
+ Artisan
+380
+ Cheese
+ Gold
+483
+127%
+
+
+ Large Milk
+ Iridium
+ Artisan
+380
+ Cheese
+ Iridium
+644
+169%
+
+
+ Goat Milk
+Regular
+—
+225
+ Goat Cheese
+Regular
+400
+178%
+
+
+ Goat Milk
+Regular
+—
+225
+ Goat Cheese
+ Silver
+500
+222%
+
+
+ Goat Milk
+Regular
+—
+225
+ Goat Cheese
+ Gold
+600
+267%
+
+
+ Goat Milk
+Regular
+—
+225
+ Goat Cheese
+ Iridium
+800
+356%
+
+
+ Goat Milk
+ Silver
+—
+281
+ Goat Cheese
+Regular
+400
+142%
+
+
+ Goat Milk
+ Silver
+—
+281
+ Goat Cheese
+ Silver
+500
+178%
+
+
+ Goat Milk
+ Silver
+—
+281
+ Goat Cheese
+ Gold
+600
+214%
+
+
+ Goat Milk
+ Silver
+—
+281
+ Goat Cheese
+ Iridium
+800
+285%
+
+
+ Goat Milk
+ Gold
+—
+337
+ Goat Cheese
+Regular
+400
+119%
+
+
+ Goat Milk
+ Gold
+—
+337
+ Goat Cheese
+ Silver
+500
+148%
+
+
+ Goat Milk
+ Gold
+—
+337
+ Goat Cheese
+ Gold
+600
+178%
+
+
+ Goat Milk
+ Gold
+—
+337
+ Goat Cheese
+ Iridium
+800
+237%
+
+
+ Goat Milk
+ Iridium
+—
+450
+ Goat Cheese
+Regular
+400
+89%
+
+
+ Goat Milk
+ Iridium
+—
+450
+ Goat Cheese
+ Silver
+500
+111%
+
+
+ Goat Milk
+ Iridium
+—
+450
+ Goat Cheese
+ Gold
+600
+133%
+
+
+ Goat Milk
+ Iridium
+—
+450
+ Goat Cheese
+ Iridium
+800
+178%
+
+
+ Goat Milk
+Regular
+ Rancher
+270
+ Goat Cheese
+Regular
+480
+178%
+
+
+ Goat Milk
+Regular
+ Rancher
+270
+ Goat Cheese
+ Silver
+600
+222%
+
+
+ Goat Milk
+Regular
+ Rancher
+270
+ Goat Cheese
+ Gold
+720
+267%
+
+
+ Goat Milk
+Regular
+ Rancher
+270
+ Goat Cheese
+ Iridium
+960
+356%
+
+
+ Goat Milk
+ Silver
+ Rancher
+337
+ Goat Cheese
+Regular
+480
+142%
+
+
+ Goat Milk
+ Silver
+ Rancher
+337
+ Goat Cheese
+ Silver
+600
+178%
+
+
+ Goat Milk
+ Silver
+ Rancher
+337
+ Goat Cheese
+ Gold
+720
+214%
+
+
+ Goat Milk
+ Silver
+ Rancher
+337
+ Goat Cheese
+ Iridium
+960
+285%
+
+
+ Goat Milk
+ Gold
+ Rancher
+405
+ Goat Cheese
+Regular
+480
+118%
+
+
+ Goat Milk
+ Gold
+ Rancher
+405
+ Goat Cheese
+ Silver
+600
+148%
+
+
+ Goat Milk
+ Gold
+ Rancher
+405
+ Goat Cheese
+ Gold
+720
+178%
+
+
+ Goat Milk
+ Gold
+ Rancher
+405
+ Goat Cheese
+ Iridium
+960
+237%
+
+
+ Goat Milk
+ Iridium
+ Rancher
+540
+ Goat Cheese
+Regular
+480
+89%
+
+
+ Goat Milk
+ Iridium
+ Rancher
+540
+ Goat Cheese
+ Silver
+600
+111%
+
+
+ Goat Milk
+ Iridium
+ Rancher
+540
+ Goat Cheese
+ Gold
+720
+133%
+
+
+ Goat Milk
+ Iridium
+ Rancher
+540
+ Goat Cheese
+ Iridium
+960
+178%
+
+
+ Goat Milk
+Regular
+ Artisan
+225
+ Goat Cheese
+Regular
+560
+249%
+
+
+ Goat Milk
+Regular
+ Artisan
+225
+ Goat Cheese
+ Silver
+700
+311%
+
+
+ Goat Milk
+Regular
+ Artisan
+225
+ Goat Cheese
+ Gold
+840
+373%
+
+
+ Goat Milk
+Regular
+ Artisan
+225
+ Goat Cheese
+ Iridium
+1120
+498%
+
+
+ Goat Milk
+ Silver
+ Artisan
+281
+ Goat Cheese
+Regular
+560
+199%
+
+
+ Goat Milk
+ Silver
+ Artisan
+281
+ Goat Cheese
+ Silver
+700
+249%
+
+
+ Goat Milk
+ Silver
+ Artisan
+281
+ Goat Cheese
+ Gold
+840
+299%
+
+
+ Goat Milk
+ Silver
+ Artisan
+281
+ Goat Cheese
+ Iridium
+1120
+399%
+
+
+ Goat Milk
+ Gold
+ Artisan
+337
+ Goat Cheese
+Regular
+560
+166%
+
+
+ Goat Milk
+ Gold
+ Artisan
+337
+ Goat Cheese
+ Silver
+700
+208%
+
+
+ Goat Milk
+ Gold
+ Artisan
+337
+ Goat Cheese
+ Gold
+840
+249%
+
+
+ Goat Milk
+ Gold
+ Artisan
+337
+ Goat Cheese
+ Iridium
+1120
+332%
+
+
+ Goat Milk
+ Iridium
+ Artisan
+450
+ Goat Cheese
+Regular
+560
+124%
+
+
+ Goat Milk
+ Iridium
+ Artisan
+450
+ Goat Cheese
+ Silver
+700
+156%
+
+
+ Goat Milk
+ Iridium
+ Artisan
+450
+ Goat Cheese
+ Gold
+840
+187%
+
+
+ Goat Milk
+ Iridium
+ Artisan
+450
+ Goat Cheese
+ Iridium
+1120
+249%
+
+
+ Large Goat Milk
+Regular
+—
+345
+ Goat Cheese
+ Gold
+600
+174%
+
+
+ Large Goat Milk
+Regular
+—
+345
+ Goat Cheese
+ Iridium
+800
+232%
+
+
+ Large Goat Milk
+ Silver
+—
+431
+ Goat Cheese
+ Gold
+600
+139%
+
+
+ Large Goat Milk
+ Silver
+—
+431
+ Goat Cheese
+ Iridium
+800
+186%
+
+
+ Large Goat Milk
+ Gold
+—
+517
+ Goat Cheese
+ Gold
+600
+116%
+
+
+ Large Goat Milk
+ Gold
+—
+517
+ Goat Cheese
+ Iridium
+800
+155%
+
+
+ Large Goat Milk
+ Iridium
+—
+690
+ Goat Cheese
+ Gold
+600
+97%
+
+
+ Large Goat Milk
+ Iridium
+—
+690
+ Goat Cheese
+ Iridium
+800
+116%
+
+
+ Large Goat Milk
+Regular
+ Rancher
+414
+ Goat Cheese
+ Gold
+720
+174%
+
+
+ Large Goat Milk
+Regular
+ Rancher
+414
+ Goat Cheese
+ Iridium
+960
+232%
+
+
+ Large Goat Milk
+ Silver
+ Rancher
+517
+ Goat Cheese
+ Gold
+720
+139%
+
+
+ Large Goat Milk
+ Silver
+ Rancher
+517
+ Goat Cheese
+ Iridium
+960
+186%
+
+
+ Large Goat Milk
+ Gold
+ Rancher
+621
+ Goat Cheese
+ Gold
+720
+116%
+
+
+ Large Goat Milk
+ Gold
+ Rancher
+621
+ Goat Cheese
+ Iridium
+960
+155%
+
+
+ Large Goat Milk
+ Iridium
+ Rancher
+828
+ Goat Cheese
+ Gold
+720
+87%
+
+
+ Large Goat Milk
+ Iridium
+ Rancher
+828
+ Goat Cheese
+ Iridium
+960
+116%
+
+
+ Large Goat Milk
+Regular
+ Artisan
+345
+ Goat Cheese
+ Gold
+840
+243%
+
+
+ Large Goat Milk
+Regular
+ Artisan
+345
+ Goat Cheese
+ Iridium
+1120
+325%
+
+
+ Large Goat Milk
+ Silver
+ Artisan
+431
+ Goat Cheese
+ Gold
+840
+195%
+
+
+ Large Goat Milk
+ Silver
+ Artisan
+431
+ Goat Cheese
+ Iridium
+1120
+260%
+
+
+ Large Goat Milk
+ Gold
+ Artisan
+517
+ Goat Cheese
+ Gold
+840
+162%
+
+
+ Large Goat Milk
+ Gold
+ Artisan
+517
+ Goat Cheese
+ Iridium
+1120
+217%
+
+
+ Large Goat Milk
+ Iridium
+ Artisan
+690
+ Goat Cheese
+ Gold
+840
+122%
+
+
+ Large Goat Milk
+ Iridium
+ Artisan
+690
+ Goat Cheese
+ Iridium
+1120
+162%
+
+
+ Truffle
+Regular
+—
+625
+ Truffle Oil
+Regular
+1065
+170%
+
+
+ Truffle
+ Silver
+—
+781
+ Truffle Oil
+Regular
+1065
+136%
+
+
+ Truffle
+ Gold
+—
+937
+ Truffle Oil
+Regular
+1065
+114%
+
+
+ Truffle
+ Iridium
+—
+1250
+ Truffle Oil
+Regular
+1065
+85%
+
+
+ Truffle
+Regular
+ Rancher
+625
+ Truffle Oil
+Regular
+1065
+170%
+
+
+ Truffle
+ Silver
+ Rancher
+781
+ Truffle Oil
+Regular
+1065
+136%
+
+
+ Truffle
+ Gold
+ Rancher
+937
+ Truffle Oil
+Regular
+1065
+114%
+
+
+ Truffle
+ Iridium
+ Rancher
+1250
+ Truffle Oil
+Regular
+1065
+85%
+
+
+ Truffle
+Regular
+ Artisan
+625
+ Truffle Oil
+Regular
+1491
+239%
+
+
+ Truffle
+ Silver
+ Artisan
+781
+ Truffle Oil
+Regular
+1491
+191%
+
+
+ Truffle
+ Gold
+ Artisan
+937
+ Truffle Oil
+Regular
+1491
+159%
+
+
+ Truffle
+ Iridium
+ Artisan
+1250
+ Truffle Oil
+Regular
+1491
+119%
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Animal_Products_Profitability&oldid=138515"
+Category: Animal Products
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 6 June 2022, at 05:54.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

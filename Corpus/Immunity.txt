@@ -1,0 +1,371 @@
+
+
+
+
+
+Immunity - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Immunity
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Immunity  is a statistic that affects your chance to be afflicted with any debuff. It has no effect on the length of time that you are invulnerable after getting damaged.
+Each point of Immunity reduces the probability of being debuffed by 10%, additively. For example, when wearing the Genie Shoes, which provides 6 points of Immunity, the chance of being debuffed is 40%.[1]  If wearing equipment that provide sufficient total Immunity (+10 or more), the player can stay completely free from any debuffs.
+
+Contents
+
+1 Equipment
+
+1.1 Footwear
+1.2 Rings
+
+
+2 References
+3 History
+
+
+Equipment
+The following equipment affects Immunity.
+
+
+Footwear
+
+
+Image
+
+Name
+
+Effect
+
+
+
+
+Leather Boots
+
+ Defense (+1) Immunity (+1)
+
+
+
+
+Rubber Boots
+
+ Immunity (+1)
+
+
+
+
+Tundra Boots
+
+ Defense (+2) Immunity (+1)
+
+
+
+
+Thermal Boots
+
+ Defense (+1) Immunity (+2)
+
+
+
+
+Firewalker Boots
+
+ Defense (+3) Immunity (+3)
+
+
+
+
+Space Boots
+
+ Defense (+4) Immunity (+4)
+
+
+
+
+Cowboy Boots
+
+ Defense (+2) Immunity (+2)
+
+
+
+
+Dark Boots
+
+ Defense (+4) Immunity (+2)
+
+
+
+
+Genie Shoes
+
+ Defense (+1) Immunity (+6)
+
+
+
+
+Leprechaun Shoes
+
+ Defense (+2) Immunity (+1)
+
+
+
+
+Emily's Magic Boots
+
+ Defense (+4) Immunity (+4)
+
+
+
+
+Cinderclown Shoes
+
+ Defense (+6) Immunity (+5)
+
+
+
+
+Mermaid Boots
+
+ Defense (+5) Immunity (+8)
+
+
+
+
+Crystal Shoes
+
+ Defense (+3) Immunity (+5)
+
+
+
+Rings
+
+
+Image
+
+Name
+
+Effect
+
+
+
+
+Immunity Band
+
+ Immunity (+4)
+
+
+References
+
+↑ See DebuffingProjectile::behaviorOnCollisionWithPlayer in the game code.
+
+
+History
+1.5: Immunity now reduces the chance of any status debuff, instead of only debuffs from projectiles.
+
+
+Skills & Stats
+
+
+Skills
+
+Farming • Mining • Foraging • Fishing • Combat
+
+
+Stats
+
+Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Immunity&oldid=140264"
+Category: Buffs
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 23 July 2022, at 10:09.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

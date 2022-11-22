@@ -1,0 +1,329 @@
+
+
+
+
+
+Copper Pan - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copper Pan
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Copper Pan
+
+
+
+
+
+Use to gather ore from streams.
+
+
+Information
+
+
+Cost:
+
+2,500g
+
+
+
+
+Sold by:
+
+Fish Shop
+
+
+
+The Copper Pan is a tool used to gather ore (and other items) from rivers, lakes, and ponds. One is received from Willy after the Glittering Boulder at the bridge just west of the mine entrance is removed, revealing a stream in its place. This is accomplished by completing the Fish Tank Bundles or purchasing "Panning" from the Joja Community Development Form for 20,000g.
+
+Contents
+
+1 Acquisition
+2 Use
+3 Items Obtained
+4 Notes
+5 References
+6 History
+
+
+Acquisition
+Go to the mountain area any day after the Glittering Boulder is removed. A cutscene will trigger where Willy is pondering the disappearance of the boulder. He points out the shimmering lights in the water that indicate that the stream is carrying ore and minerals out of the mountain. He then gives the player his spare Copper Pan from his backpack.
+Thereafter, Copper Pans can be purchased from the Fish Shop for 2,500g.
+
+ Shimmering Lights
+Use
+Watch for the shimmering lights that randomly appear in any river, lake, or pond, accompanied by the sound of something "falling" in the water.  If the area can be reached, approach it, equip the Copper Pan, and left-click on the shimmering lights.  Using the Copper Pan consumes no energy. The location(s) of the shimmering lights and the item(s) received from panning are predetermined at the beginning of the day in a region.
+It can also be placed on the player's head as a hat by moving it from inventory into the player's head equipment slot.
+
+Items Obtained
+A random number of one type of metal ore is always received from panning.  A random amount of coal, one gem/mineral, or a random amount of Omni Geodes can also be received.  An additional item, the Lucky Ring, can be obtained depending on daily luck and luck buffs. Shown below is a complete list of items that can be obtained by panning, as well as how the percent chance of obtaining them is adjusted for various luck levels. [1]
+As shown, better luck increases the chance of finding Iridium Ore rather than Copper Ore, and the chance of finding a Diamond rather than Coal.  Luck from food buffs also increases the chance of finding a Diamond rather than an Amethyst, Aquamarine, Emerald, Ruby, or Topaz.  Luck from food buffs affects the percent chance of finding ore by 0.4% for each integer difference in luck, and by 4% for each integer difference in luck for all other items.
+On Ginger Island, two extra items can be received: the Fossilized Tail (only in the Dig Site river) or Taro Tubers (everywhere else). Shimmering lights will appear at least every half hour at the Dig Site river.
+
+
+
+
+Ore
+ Copper Ore (40% ∓ daily luck, −food buff)
+ Iron Ore (35.9%)
+ Gold Ore (23.1%)
+ Iridium Ore (1% ± daily luck, +food buff)
+
+
+
+Gems
+ Amethyst (1.6%, −food buff)
+ Aquamarine (1.6%, −food buff)
+ Diamond (2% ± daily luck, +food buff)
+ Emerald (1.6%, −food buff)
+ Ruby (1.6%, −food buff)
+ Topaz (1.6%, −food buff)
+
+
+
+Other
+ Coal (50% ∓ daily luck)
+ Earth Crystal (4.9%)
+ Fire Quartz (4.2%)
+ Frozen Tear (4.9%)
+ Omni Geode (26%)
+
+
+
+Extra
+ Fossilized Tail (20%) (in Dig Site river)
+ Taro Tuber (20%) (Ginger Island West, South, and Southeast)
+ Lucky Ring (anywhere, depends entirely on daily Luck and Luck Buffs)
+
+Notes
+The Tracker profession can facilitate panning by adding a small green arrow when shimmering lights appear off-screen (but only within the current map region).
+References
+
+↑ See Pan::getPanItems in the game code.
+
+
+
+History
+1.0: Introduced.
+1.4: Can now be trashed. Can be bought at Willy's Fish Shop after receiving the first one. Can be used as a hat.
+1.5: Can find Fossilized Tail and Taro Tubers on Ginger Island. Can now find Lucky Ring by panning.
+
+
+Tools
+
+
+Basic
+
+Axes • Golden Scythe • Hoes • Pickaxes • Scythe • Trash Cans • Watering Cans
+
+
+Fishing
+
+Training Rod • Bamboo Pole • Fiberglass Rod • Iridium Rod • Crab Pot
+
+
+Other
+
+Auto-Grabber • Auto-Petter • Copper Pan • Hay Hopper • Heater • Incubator • Milk Pail • Ostrich Incubator • Shears
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Copper_Pan&oldid=140909"
+Category: Tools
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 14 August 2022, at 01:04.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

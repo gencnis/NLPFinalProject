@@ -1,0 +1,270 @@
+
+
+
+
+
+Grass - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grass
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Grass
+
+
+
+
+
+
+
+
+Information 
+
+
+Seed:
+
+ Grass Starter
+
+
+Growth Time:
+
+Varies
+
+
+Season:
+
+
+ Spring
+ Summer
+ Fall
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Grass is a naturally occurring resource that is present in the Spring, Summer, and Fall seasons. At the start of the game, the player's farm has many unconfined fields of grass. Each day, new grass tufts will grow around existing grass. Grass can be cut using the scythe. Once the player constructs a silo on their farm, each grass cut has a 50% chance of providing hay, which is automatically stored into the player's silo(s). This chance is increased to 75% when using the Golden Scythe.
+Although grass can occur naturally, the player can choose to start a new patch using Grass Starter. This will place a single tuft of grass, which will spread into additional tufts over time.
+Occasionally, grass will spawn randomly on unoccupied tiles on the player's farm overnight. These tufts will behave in the same way that player-planted tufts will behave.
+In the winter, grass will no longer grow and all that's left in 28 of Fall will die before 1st day of Winter, so it's advisable to collect all the grass in the farm beforehand. It is recommended that a player stores enough hay to feed their animals for the entire 28-day season in their silos. Hay can be purchased at Marnie's Ranch for 50g if the player does not have enough. Marnie may also send 30 hay in the mailbox at any friendship level greater than 0 points.
+
+Contents
+
+1 Tips
+2 Notes
+3 Propagation
+4 History
+
+
+Tips
+Paths, fences, closed gates, or pieces of furniture (such as chests or braziers) should prevent the spread of grass through the tile it occupies. However, some materials, like the stone fence, do not always operate this way.
+It is possible to exploit this by sectioning off patches of grass in animal enclosures, preventing them from eating all the grass in the area. This allows the grass to regrow more quickly, stemming from the fenced-off source patch.
+Notes
+Grass has a -1 Speed penalty, unless the player is riding a horse.
+Propagation
+Each fully grown grass tile consists of 4 tufts of grass. Each day, every individual tile containing grass has a 65% chance of growing. If the tile containing grass has less than 4 tufts and succeeds a growth check, it will grow 1-3 additional tufts of grass. (randomly determined) If a fully grown grass tile succeeds a growth check, it will check all 4 adjacent tiles. If they are tillable, there is a 25% chance for each tile for 1-3 tufts of grass to grow.
+
+History
+1.0: Introduced.
+1.5.6: Grass grown inside no longer disappears on the first day of Winter.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Grass&oldid=143642"
+Category: Foraging
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 20 November 2022, at 20:29.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

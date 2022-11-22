@@ -1,0 +1,365 @@
+
+
+
+
+
+Strawberry Seeds - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strawberry Seeds
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Strawberry Seeds
+
+
+
+
+
+Plant these in spring. Takes 8 days to mature, and keeps producing strawberries after that.
+
+
+Information
+
+
+Crop:
+
+ Strawberry
+
+
+Growth Time:
+
+8 days
+
+
+Season:
+
+
+ Spring
+
+
+
+Sell Price:
+
+0g
+
+
+Purchase Prices
+
+
+ General Store:
+
+Not Sold
+
+
+ JojaMart:
+
+Not Sold
+
+
+ Traveling Cart:
+
+Not Sold
+
+
+Other:
+
+Egg Festival: 100g
+
+Strawberry Seeds are a type of seed. Mature plants yield Strawberries.
+They can be purchased for 100g at the Egg Festival. They can also be obtained by using the Seed Maker.
+When harvested, each Strawberry plant gives 1 Strawberry every 4 days, with a small random chance for more Strawberries.[1]
+
+Stages
+
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Stage 5
+
+Harvest
+
+After-Harvest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 Day
+
+1 Day
+
+2 Days
+
+2 Days
+
+2 Days
+
+Total: 8 Days
+
+Regrowth: 4 Days
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Notes
+
+↑ The game generates a random number between 0 and 1, and if it is less than 0.02, then another Strawberry will spawn.  This repeats until the random number is greater than or equal to 0.02, at which point the chance for an extra Strawberry ends.  Daily Luck can double the amount of extra Strawberries spawned by the above formula.
+
+
+Unlike most other types of seed, Strawberry Seeds have no sell value. This means that it is not profitable to process the crops with a Seed Maker to gain additional value.
+
+
+Seeds, Starters, and Saplings
+
+
+Spring
+
+Apricot Sapling • Bean Starter • Cauliflower Seeds • Cherry Sapling • Coffee Beans • Garlic Seeds • Jazz Seeds • Kale Seeds • Parsnip Seeds • Potato Seeds • Rice Shoot • Rhubarb Seeds • Spring Seeds • Strawberry Seeds • Tulip Bulb
+
+
+Summer
+
+Blueberry Seeds • Coffee Beans • Corn Seeds • Hops Starter • Melon Seeds • Orange Sapling • Peach Sapling • Pepper Seeds • Poppy Seeds • Radish Seeds • Red Cabbage Seeds • Spangle Seeds • Summer Seeds • Sunflower Seeds • Starfruit Seeds • Tomato Seeds • Wheat Seeds
+
+
+Fall
+
+Amaranth Seeds • Apple Sapling • Artichoke Seeds • Beet Seeds • Bok Choy Seeds • Corn Seeds • Cranberry Seeds • Eggplant Seeds • Fairy Seeds • Fall Seeds • Grape Starter • Pomegranate Sapling • Pumpkin Seeds • Rare Seed • Sunflower Seeds • Wheat Seeds • Yam Seeds
+
+
+Winter
+
+Winter Seeds
+
+
+Other
+
+Acorn • Ancient Seeds • Banana Sapling • Cactus Seeds • Fiber Seeds • Grass Starter • Mahogany Seed • Mango Sapling • Maple Seed • Mixed Seeds • Mushroom Tree Seed • Pineapple Seeds • Qi Bean • Tea Sapling • Pine Cone • Taro Tuber
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Strawberry_Seeds&oldid=133415"
+Category: Spring seeds
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 7 January 2022, at 21:28.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

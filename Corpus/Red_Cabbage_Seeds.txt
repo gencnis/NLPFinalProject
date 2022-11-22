@@ -1,0 +1,378 @@
+
+
+
+
+
+Red Cabbage Seeds - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Red Cabbage Seeds
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Red Cabbage Seeds
+
+
+
+
+
+Plant these in the summer. Takes 9 days to mature.
+
+
+Information
+
+
+Crop:
+
+ Red Cabbage
+
+
+Growth Time:
+
+9 days
+
+
+Season:
+
+
+ Summer
+
+
+
+Sell Price:
+
+50g
+
+
+Purchase Prices
+
+
+ General Store:
+
+100g (Year 2+)
+
+
+ JojaMart:
+
+Not Sold
+
+
+ Traveling Cart:
+
+150-1,000g
+
+
+Night Market(Winter 16):
+
+100g (Year 2+)
+
+Red Cabbage Seeds are a type of seed that can be found:
+
+at Pierre's General Store for 100g starting in Year 2.
+at the Magic Shop Boat at the Night Market on Winter 16 for 100g starting in Year 2.
+occasionally at the Traveling Cart for 150-1,000g. If the "Guarantee Year 1 Completable" in the "Advanced Game Options" is checked, they are guaranteed to be available at the Traveling Cart at least once in Year 1.
+in a Seed Maker from a processed Red Cabbage.
+in the Skull Cavern from slain Mummies (0.2% chance).
+in the Skull Cavern from slain Serpents (0.2% chance).
+in the Skull Cavern from slain Purple Slimes (0.125% chance). [1]
+occasionally in Skull Cavern treasure rooms (1/675 chance (≈0.15% chance) for 5 to 20 seeds).
+Mature plants yield Red Cabbage.
+
+Contents
+
+1 Stages
+2 Gifting
+3 References
+4 History
+
+
+Stages
+
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Stage 5
+
+Harvest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 Days
+
+1 Day
+
+2 Days
+
+2 Days
+
+2 Days
+
+Total: 9 Days
+
+
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+References
+
+↑ See GreenSlime::getExtraDropItems in the game code, taking into account the specialNumber % 4 == 0 condition.
+
+
+History
+1.5: The Advanced Game Options, which can be used to customize a new game, can make Red Cabbage Seeds guaranteed to sell at least once at the Traveling Cart in year one. Added drops from Serpents and Mummies.
+
+
+Seeds, Starters, and Saplings
+
+
+Spring
+
+Apricot Sapling • Bean Starter • Cauliflower Seeds • Cherry Sapling • Coffee Beans • Garlic Seeds • Jazz Seeds • Kale Seeds • Parsnip Seeds • Potato Seeds • Rice Shoot • Rhubarb Seeds • Spring Seeds • Strawberry Seeds • Tulip Bulb
+
+
+Summer
+
+Blueberry Seeds • Coffee Beans • Corn Seeds • Hops Starter • Melon Seeds • Orange Sapling • Peach Sapling • Pepper Seeds • Poppy Seeds • Radish Seeds • Red Cabbage Seeds • Spangle Seeds • Summer Seeds • Sunflower Seeds • Starfruit Seeds • Tomato Seeds • Wheat Seeds
+
+
+Fall
+
+Amaranth Seeds • Apple Sapling • Artichoke Seeds • Beet Seeds • Bok Choy Seeds • Corn Seeds • Cranberry Seeds • Eggplant Seeds • Fairy Seeds • Fall Seeds • Grape Starter • Pomegranate Sapling • Pumpkin Seeds • Rare Seed • Sunflower Seeds • Wheat Seeds • Yam Seeds
+
+
+Winter
+
+Winter Seeds
+
+
+Other
+
+Acorn • Ancient Seeds • Banana Sapling • Cactus Seeds • Fiber Seeds • Grass Starter • Mahogany Seed • Mango Sapling • Maple Seed • Mixed Seeds • Mushroom Tree Seed • Pineapple Seeds • Qi Bean • Tea Sapling • Pine Cone • Taro Tuber
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Red_Cabbage_Seeds&oldid=143057"
+Category: Summer seeds
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 16:04.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

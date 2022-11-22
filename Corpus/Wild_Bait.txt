@@ -1,0 +1,396 @@
+
+
+
+
+
+Wild Bait - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wild Bait
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Wild Bait
+
+
+
+
+
+A unique recipe from Linus that gives you a chance to catch two fish at once.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Healing Effect:
+
+
+
+
+Inedible
+
+
+
+Sell Price:
+
+15g
+
+
+Crafting
+
+
+Recipe Source:
+
+ Linus (4-heart event)
+
+
+Ingredients:
+
+ Fiber (10) Slime (5) Bug Meat (5)
+
+
+Produces:
+
+5 Wild Bait per craft
+
+
+Wild Bait is a type of bait that makes it possible to catch two fish at the same time and also makes fish bite slightly faster than standard bait.  Wild Bait can be crafted after being taught the recipe by Linus during his 4-heart cutscene. Once the recipe is known it is also possible to obtain Wild Bait from Fishing Treasure Chests. It is possible to find Wild Bait in artifact spots on Ginger Island even before triggering the cutscene with Linus.
+Wild Bait cannot be used with the Training Rod or the Bamboo Pole. Only the Fiberglass Rod and the Iridium Rod can use bait. Wild bait can also technically be used in a Crab Pot, but it is no better than standard bait as crab pots never produce double fish.
+
+Contents
+
+1 Use
+2 Effect
+3 Gifting
+4 Bundles
+5 Recipes
+6 Tailoring
+7 Quests
+8 References
+9 History
+
+
+Use
+To attach bait to a fishing rod, open the inventory, click on the bait ( left-click or  right-click, depending on how many bait will be used), and then  on the rod.  To remove bait,  on the rod.  
+Each cast uses one piece of bait or one magnet.  When all bait is used up, the game pops up a notification saying "You've used your last piece of bait."
+On an Xbox controller, press  on the bait to select the whole stack (or  to pick up a single one), then  to attach to the rod.
+On a PS4 controller, press  on the bait to select the whole stack (or  to pick up a single one), then  to attach to the rod.
+On a Nintendo Switch Controller, Press  on the bait to select the whole stack (Or  to pick up a single one), then  to attach to the rod.
+Bait can be detached by pressing  on either Controller. ( on Nintendo Switch)
+For the mobile version, bait can be added to the fishing rod by opening the inventory, then dragging the bait and dropping it on top of the rod.
+
+
+Effect
+Using Wild Bait reduces the delay before a nibble by 62.5%. There is also a chance to catch two fish, equal to 0.25 + Daily Luck / 2.0 [1].  The chance to catch 2 fish does not apply to Legendary Fish. It can however, catch 2 of the semi-Legendary fish caught from the Extended Family quest line.
+Note that catching two fish does not grant double Fishing Experience points.
+Catching two fish with Wild Bait while working on a fishing or special order quest counts both fish toward the required total.
+Gifting
+
+
+Villager Reactions
+
+
+Hate
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Bundles
+Wild Bait is not used in any bundles.
+
+Recipes
+Wild Bait is not used in any recipes.
+
+Tailoring
+Wild Bait is used in the spool of the Sewing Machine to create a Shirt. 
+
+Quests
+One or five Wild Bait may be requested by several fish in Fish Pond quests.
+
+References
+
+↑ See BobberBar::update in the game code.
+
+
+History
+1.4: Wild Bait now has a chance to catch two fish. Can now be obtained from fishing treasure chests once knowing the recipe. Can now be used in Tailoring. Can be requested in Fish Pond quests.
+1.5: Can now be found in artifact spots on Ginger Island.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Wild_Bait&oldid=143518"
+Category: Bait
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 13 November 2022, at 01:43.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,297 @@
+
+
+
+
+
+Galaxy Soul - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Galaxy Soul
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Galaxy Soul
+
+
+
+
+
+Forge 3 of these into a Galaxy weapon to unleash its final form.
+
+
+Information 
+
+
+Source:
+
+Qi's Walnut Room for  40Island Trader for  Radioactive Bar (10)The Mines (Shrine ON or during the "Danger in the Deep" Quest) and Skull Cavern (during the "Skull Cavern Invasion" Quest)
+
+
+Sell Price:
+
+5,000g
+
+
+The Galaxy Soul is an item used to upgrade Galaxy weapons in the Forge. Weapons forged using Galaxy Souls keep their enchantments and gem upgrades.
+
+Galaxy Souls can be purchased at Qi's Walnut Room for  40.
+After killing at least 50 Dangerous Monsters [1], Galaxy Souls can also be purchased from Island Trader on the last day of a season for  Radioactive Bar (10).
+After killing at least 50 Dangerous Monsters [2], Galaxy Souls can also be acquired as an enemy drop in the "Dangerous" Mines unlocked by Mr. Qi's Danger in the Deep quest, or in the Skull Cavern during Mr. Qi's Skull Cavern Invasion.
+Semi-transparent Big Slimes containing a Galaxy Soul can be seen in the "Dangerous" Mines unlocked by Mr. Qi's Danger in the Deep quest, or in the Skull Cavern during Mr. Qi's Skull Cavern Invasion.[3] The Galaxy Soul is dropped upon killing the Big Slime.
+Forge recipes
+See also: Forge
+The Galaxy Soul is used in the Forge to upgrade a Galaxy Weapon into an Infinity Weapon. You have to upgrade a Galaxy Weapon 3 times, consuming 3 Galaxy Souls and 60 Cinder Shards in total.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+
+
+
+Infinity Blade
+
+The true form of the Galaxy Sword.
+
+ Galaxy Sword (1) Galaxy Soul (3) Cinder Shard (60)
+
+
+
+
+Infinity Dagger
+
+The true form of the Galaxy Dagger.
+
+ Galaxy Dagger (1) Galaxy Soul (3) Cinder Shard (60)
+
+
+
+
+Infinity Gavel
+
+The true form of the Galaxy Hammer.
+
+ Galaxy Hammer (1) Galaxy Soul (3) Cinder Shard (60)
+
+References
+
+↑ See Locations.IslandNorth::getIslandMerchantTradeStock in the game code.
+
+↑ See GameLocation.monsterDrop in the game code.
+
+↑ See the constructor Monsters::BigSlime(Vector2, int) in the game code.
+
+
+History
+1.5: Introduced.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Galaxy_Soul&oldid=143276"
+Category: Special itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 18:44.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

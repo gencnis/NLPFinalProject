@@ -1,0 +1,523 @@
+
+
+
+
+
+Heavy Tapper - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Heavy Tapper
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Heavy Tapper
+
+
+
+
+
+Place on a maple, oak, or pine tree and wait for the reservoir to fill with product! Works twice as fast as a normal tapper.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Season:
+
+ All
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Crafting
+
+
+Recipe Source:
+
+Qi's Secret Walnut Room for  20
+
+
+Ingredients:
+
+ Hardwood (30) Radioactive Bar (1)
+
+
+The Heavy Tapper is a crafted item that works at twice the production rate of a regular Tapper. The recipe can be purchased in Mr. Qi's Secret Walnut Room on Ginger Island for  20.  It can be placed on a tree to produce Maple Syrup, Oak Resin, Pine Tar, or Sap. It can also be placed on a Mushroom Tree to produce different mushrooms, but the production rate is not increased compared to a regular Tapper.
+The Heavy Tapper can be removed from a tree by hitting it once with an axe or pickaxe. This leaves the Tapper intact and able to be reused.
+If the Heavy Tapper is on a tree when it is struck by lightning, both the Tapper and its contents are destroyed.
+Heavy Tappers placed on Maple Trees, Oak Trees, Pine Trees, or Mahogany Trees continue to produce during Winter.  Since Mushroom Trees turn to stumps in Winter, any tappers placed on them produce nothing during that season.
+
+Contents
+
+1 Products
+2 Types
+3 Bugs
+4 References
+5 History
+
+
+Products
+
+
+Image
+
+Name
+
+Description
+
+Source
+
+Time[1]
+
+Sell Price
+
+Restores
+
+
+
+
+Maple Syrup
+
+A sweet syrup with a unique flavor.
+
+Maple Tree
+
+ 4 Nights
+
+200g
+
+5022
+
+
+
+
+Oak Resin
+
+A sticky, fragrant substance derived from oak sap.
+
+Oak Tree
+
+ 3 Nights
+
+150g
+
+Inedible
+
+
+
+
+Pine Tar
+
+A pungent substance derived from pine sap.
+
+Pine Tree
+
+ 2 Nights
+
+100g
+
+Inedible
+
+
+
+
+Sap
+
+A fluid obtained from trees.
+
+Mahogany Tree
+
+ 1 Night
+
+2g
+
+ −2
+
+
+
+
+Common Mushroom
+
+Slightly nutty, with good texture.
+
+Mushroom Tree
+
+ Varies
+
+40g
+
+3817
+
+
+
+
+Red Mushroom
+
+A spotted mushroom sometimes found in caves.
+
+Mushroom Tree
+
+ Varies
+
+75g
+
+ −50
+
+
+
+
+Purple Mushroom
+
+A rare mushroom found deep in caves.
+
+Mushroom Tree
+
+ Varies
+
+250g
+
+12556
+
+Types
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Tapper
+
+Place on a maple, oak, or pine tree and wait for the reservoir to fill with product!
+
+ Wood (40) Copper Bar (2)
+
+ Foraging Level 3
+
+
+
+
+Heavy Tapper
+
+Place on a maple, oak, or pine tree and wait for the reservoir to fill with product! Works twice as fast as a normal tapper.
+
+ Hardwood (30) Radioactive Bar (1)
+
+Qi's Walnut Room for  20
+
+
+
+
+Bugs
+Common trees tapped with a Heavy Tapper instead of a regular Tapper can turn into Mushroom Trees in Fall.
+
+References
+
+↑ See Tree::UpdateTapperProduct in the game code. Tree type indexes can be deduced by looking at Tree::loadTexture and the Content\TerrainFeatures\ folder.
+
+
+History
+1.5: Introduced.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Heavy_Tapper&oldid=143256"
+Category: Craftable itemsHidden categories: SpoilersBugs tested in 1.5
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 18:26.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

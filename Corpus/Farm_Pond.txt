@@ -1,0 +1,242 @@
+
+
+
+
+
+Farm Pond - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Farm Pond
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+ Farm Pond with Crab Pots
+Farm Pond refers to any of the bodies of water found on the player's farm. 
+On all maps, Crab Pots may be placed in the Farm Pond and they will act as if placed in any other fresh water source.  All ponds can also be used to refill Watering Cans and to irrigate Rice Shoots or Taro Tubers.
+All other details of the pond are highly dependent upon the specific Farm Map:[1]
+
+On the Standard Farm, only trash can be caught when fishing in the pond.
+On the Riverland Farm:
+70% of the time, players will catch town river fish, i.e., fish that are found in Pelican Town.
+30% of the time, players will catch pond fish, i.e., fish that are found in the Cindersap Forest pond.
+On the Forest Farm:
+5% of the time (modified by daily Luck), players will catch Woodskip.
+45% of the time, players will catch pond fish, i.e., fish that are found in the Cindersap Forest pond.
+Otherwise, players will catch only trash.
+On the Hilltop Farm:
+50% of the time, players will catch forest river fish, i.e., fish that are found in the Cindersap Forest river.
+50% of the time, players will only catch trash.
+On the Wilderness Farm:
+35% of the time, players will catch lake fish, i.e., fish that are found in The Mountain lake.
+65% of the time, players will only catch trash.
+On the Four Corners Farm:
+The large pond in the southwest quadrant is similar to the Forest Farm pond: it provides a 50% chance to catch forest pond fish, i.e., fish that are found in the Cindersap Forest pond.
+Only trash can be caught in the small ponds in the other three quadrants.
+On the Beach Farm, only trash can be caught when fishing in either of the two ponds.
+References
+
+↑ The fish that can be caught on each of the farm maps are determined by Farm::getFish and Farm::getFishingLocation in the game code, as well as the standard farm map code in GameLocation::getFish and data file Content\Fish.xnb.
+
+
+
+
+Locations
+
+
+Locations
+
+Backwoods • Beach • Bus Stop • Calico Desert • Cindersap Forest • Farm • Farm Cave • Farm Pond •  Graveyard • Ginger Island • Minecart • Mines • Mountain • Mutant Bug Lair • Pelican Town • Quarry • Quarry Mine • Railroad • Secret Woods • Sewers • Skull Cavern • Summit • Tunnel • Volcano Dungeon • Witch's Swamp
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Farm_Pond&oldid=143476"
+Category: Locations
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 10 November 2022, at 04:13.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

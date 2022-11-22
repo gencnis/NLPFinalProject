@@ -1,0 +1,407 @@
+
+
+
+
+
+Jellies and Pickles - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jellies and Pickles
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+ For a detailed analysis of profit using the Preserves Jar, see Preserves Jar Productivity.
+Jellies and pickles can be produced by inserting either a fruit or a vegetable in a preserves jar, respectively. The value of a single jar of jelly or pickles is equal to (2 * Base Crop Value + 50).  Jelly and pickles are unaffected by the quality of the fruit or vegetable used.
+A preserves jar requires 4000 minutes, or 2-3 days, to produce pickles or jelly. [1]
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Preserves Jar
+
+Turns vegetables into pickles and fruit into jam.
+
+ Wood (50) Stone (40) Coal (8)
+
+ Farming Level 4
+
+
+Contents
+
+1 Products
+2 Gifting Jelly
+3 Gifting Pickles
+4 Bundles
+5 Tailoring
+6 Quests
+7 Trivia
+8 References
+9 History
+
+
+Products
+Quality of ingredients makes no difference to the finished product. The value of the finished product is determined using the base value (i.e., with no silver or gold star) of the fruit/vegetable. However, the preserved version is always more profitable than even gold star produce, although the profit margin is lower compared to normal produce.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Processing Time
+
+Sell Price
+
+Restores
+
+
+
+
+Pickles
+
+A jar of your home-made pickles.
+
+Any vegetable (1) or  Ginger (1)
+
+ 4000m (2-3 days)
+
+2 × Base Vegetable Price + 50
+
+Inedible
+
+
+
+
+Jelly
+
+Gooey.
+
+Any fruit (1)
+
+ 4000m (2-3 days)
+
+2 × Base Fruit Price + 50
+
+Inedible
+
+
+Gifting Jelly
+
+
+Villager Reactions
+
+
+Like
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Willy •  Wizard
+
+
+Hate
+
+ Sebastian
+
+Gifting Pickles
+
+
+Villager Reactions
+
+
+Love
+
+ Harvey
+
+
+Like
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Linus •  Marnie •  Pam •  Penny •  Pierre •  Robin •  Sandy •  Willy •  Wizard
+
+
+Dislike
+
+ Leo
+
+
+Hate
+
+ Jas •  Maru •  Sam •  Sebastian •  Shane •  Vincent
+
+Bundles
+Jelly is one of the options for the  Artisan Bundle in the Pantry.
+
+Tailoring
+Jelly is used in the spool of the Sewing Machine to create a Shirt. 
+Pickles are used in the spool of the Sewing Machine to create a Shirt. 
+Jelly can also be used as a red dye color at the dye pots in Emily's and Haley's house, located at 2 Willow Lane, and Pickles can be used as a green dye.
+
+Quests
+One Jelly (of any type) or one Pickles (of any type) may be requested by Catfish, Rainbow Trout, Spook Fish, Super Cucumber, or Sturgeon in Fish Pond quests.
+Trivia
+Jelly sold by the Traveling Cart will not be of any fruit type and will sell for 160g (224g with the Artisan Profession).
+Pickles sold by the Traveling Cart will not be of any vegetable type and will sell for 100g (140g with the Artisan Profession).
+The description of the Preserves Jar states that it makes Jam, but it actually produces Jelly.
+References
+
+↑ One hour = 60 minutes from 6am to 2am, but 1 hour = 100 minutes from 2am to 6am.
+
+
+History
+1.4: Jas & Vincent no longer hate Jelly, they like it.  Jellies and Pickles can now be used in Tailoring.  Can be requested in Fish Pond quests.
+
+
+Artisan Goods
+
+
+Bee House
+
+Honey
+
+
+Cask
+
+Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine
+
+
+Cheese Press
+
+Cheese • Goat Cheese
+
+
+Keg
+
+Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine
+
+
+Loom
+
+Cloth
+
+
+Mayonnaise Machine
+
+Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise
+
+
+Oil Maker
+
+Oil • Truffle Oil
+
+
+Preserves Jar
+
+Aged Roe • Caviar • Jellies and Pickles
+
+
+Misc
+
+Maple Syrup • Oak Resin • Pine Tar
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Jellies_and_Pickles&oldid=136675"
+Category: Artisan Goods
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 16 April 2022, at 07:34.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

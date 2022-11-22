@@ -1,0 +1,2607 @@
+
+
+
+
+
+Keg Productivity - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Keg Productivity
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+No Profession
+
+ Tiller
+
+ Artisan
+
+This page lists the productivity of processing Fruits, Vegetables, Coffee Beans, and Honey into Artisan Goods in a Keg.
+The products produced usually sell for more than the raw input items, so using a Keg is almost always profitable. Items that lose gold are highlighted in red, and items whose net increase in value is zero are highlighted in orange. The profit made from processing items is lowest when using iridium quality and highest when using regular quality items.  Beer, Mead, Pale Ale, and Wine can be aged in a Cask to further increase their profit.  The table below shows profit for regular quality processed items only.
+This table does not take into account the effects of Tiller or Artisan professions, which reduce and increase the profit from a Keg, respectively.  To view the profitability for those professions, use the links at the top of the page.
+Note that the processing times for a Keg vary, depending on the item used.  
+
+Beer = 1,750 minutes
+Coffee = 120 minutes
+Green Tea = 180 minutes
+Juice = 6,000 minutes
+Mead = 600 minutes
+Pale Ale = 2,250 minutes
+Wine = 10,000 minutes
+For items that take less than a day to process (e.g., Coffee), the table calculates maximum profit assuming the player continually harvests and refills the keg during a 1600 minute day. [1]
+Productivity (g/minute) = ([Processed Sell Price] - [Input Item Sell Price]) / Processing Time
+Approximate g/day = Productivity (g/minute) * 1600 [1]
+
+Note that you may click on a column header to sort the table by that column, then Shift+Click on a second column to perform a secondary sort.
+
+
+
+Input Item
+
+Quality
+
+Input Item Sell Price
+
+Processed Sell Price(Regular Quality)
+
+Increase in Value (g)
+
+Productivity (g/minute)
+
+Approximate g/day [1]
+
+
+ Amaranth
+
+Regular
+
+150
+337
+187
+0.031
+50
+
+
+ Amaranth
+
+ Silver
+
+187
+337
+150
+0.025
+40
+
+
+ Amaranth
+
+ Gold
+
+225
+337
+112
+0.019
+30
+
+
+ Amaranth
+
+ Iridium
+
+300
+337
+37
+0.006
+10
+
+
+ Ancient Fruit
+
+Regular
+
+550
+1650
+1100
+0.110
+176
+
+
+ Ancient Fruit
+
+ Silver
+
+687
+1650
+963
+0.096
+154
+
+
+ Ancient Fruit
+
+ Gold
+
+825
+1650
+825
+0.083
+133
+
+
+ Ancient Fruit
+
+ Iridium
+
+1100
+1650
+550
+0.055
+88
+
+
+ Apple
+
+Regular
+
+100
+300
+200
+0.020
+32
+
+
+ Apple
+
+ Silver
+
+125
+300
+175
+0.018
+29
+
+
+ Apple
+
+ Gold
+
+150
+300
+150
+0.015
+24
+
+
+ Apple
+
+ Iridium
+
+200
+300
+100
+0.010
+16
+
+
+ Apricot
+
+Regular
+
+50
+150
+100
+0.010
+16
+
+
+ Apricot
+
+ Silver
+
+62
+150
+88
+0.009
+14
+
+
+ Apricot
+
+ Gold
+
+75
+150
+75
+0.008
+13
+
+
+ Apricot
+
+ Iridium
+
+100
+150
+50
+0.005
+8
+
+
+ Artichoke
+
+Regular
+
+160
+360
+200
+0.033
+53
+
+
+ Artichoke
+
+ Silver
+
+200
+360
+160
+0.027
+43
+
+
+ Artichoke
+
+ Gold
+
+240
+360
+120
+0.020
+32
+
+
+ Artichoke
+
+ Iridium
+
+320
+360
+40
+0.007
+11
+
+
+ Banana
+
+Regular
+
+150
+450
+300
+0.030
+48
+
+
+ Banana
+
+ Silver
+
+187
+450
+263
+0.026
+42
+
+
+ Banana
+
+ Gold
+
+225
+450
+225
+0.023
+37
+
+
+ Banana
+
+ Iridium
+
+300
+450
+150
+0.015
+24
+
+
+ Beet
+
+Regular
+
+100
+225
+125
+0.021
+34
+
+
+ Beet
+
+ Silver
+
+125
+225
+100
+0.017
+27
+
+
+ Beet
+
+ Gold
+
+150
+225
+75
+0.013
+21
+
+
+ Beet
+
+ Iridium
+
+200
+225
+25
+0.004
+6
+
+
+ Blackberry
+
+Regular
+
+20
+60
+40
+0.004
+6
+
+
+ Blackberry
+
+ Silver
+
+25
+60
+35
+0.004
+6
+
+
+ Blackberry
+
+ Gold
+
+30
+60
+30
+0.003
+5
+
+
+ Blackberry
+
+ Iridium
+
+40
+60
+20
+0.002
+3
+
+
+ Blackberry with  Bear's Knowledge
+
+Regular
+
+60
+
+60
+
+0
+
+0
+
+0
+
+
+ Blackberry with  Bear's Knowledge
+
+ Silver
+
+75
+
+60
+
+-15
+
+-0.002
+
+-3
+
+
+ Blackberry with  Bear's Knowledge
+
+ Gold
+
+90
+
+60
+
+-30
+
+-0.003
+
+-5
+
+
+ Blackberry with  Bear's Knowledge
+
+ Iridium
+
+120
+
+60
+
+-60
+
+-0.006
+
+-10
+
+
+ Blueberry
+
+Regular
+
+50
+150
+100
+0.010
+16
+
+
+ Blueberry
+
+ Silver
+
+62
+150
+88
+0.009
+14
+
+
+ Blueberry
+
+ Gold
+
+75
+150
+75
+0.008
+13
+
+
+ Blueberry
+
+ Iridium
+
+100
+150
+50
+0.005
+8
+
+
+ Bok Choy
+
+Regular
+
+80
+180
+100
+0.017
+27
+
+
+ Bok Choy
+
+ Silver
+
+100
+180
+80
+0.013
+21
+
+
+ Bok Choy
+
+ Gold
+
+120
+180
+60
+0.010
+16
+
+
+ Bok Choy
+
+ Iridium
+
+160
+180
+20
+0.003
+5
+
+
+ Cactus Fruit
+
+Regular
+
+75
+225
+150
+0.015
+24
+
+
+ Cactus Fruit
+
+ Silver
+
+93
+225
+132
+0.013
+21
+
+
+ Cactus Fruit
+
+ Gold
+
+112
+225
+113
+0.011
+18
+
+
+ Cactus Fruit
+
+ Iridium
+
+150
+225
+75
+0.008
+13
+
+
+ Cauliflower
+
+Regular
+
+175
+393
+218
+0.036
+58
+
+
+ Cauliflower
+
+ Silver
+
+218
+393
+175
+0.029
+46
+
+
+ Cauliflower
+
+ Gold
+
+262
+393
+131
+0.022
+35
+
+
+ Cauliflower
+
+ Iridium
+
+350
+393
+43
+0.007
+11
+
+
+ Cherry
+
+Regular
+
+80
+240
+160
+0.016
+26
+
+
+ Cherry
+
+ Silver
+
+100
+240
+140
+0.014
+22
+
+
+ Cherry
+
+ Gold
+
+120
+240
+120
+0.012
+19
+
+
+ Cherry
+
+ Iridium
+
+160
+240
+80
+0.008
+13
+
+
+ Coconut
+
+Regular
+
+100
+300
+200
+0.020
+32
+
+
+ Coconut
+
+ Silver
+
+125
+300
+175
+0.018
+29
+
+
+ Coconut
+
+ Gold
+
+150
+300
+150
+0.015
+24
+
+
+ Coconut
+
+ Iridium
+
+200
+300
+100
+0.010
+16
+
+
+ Coffee Bean
+
+Regular
+
+75 [2]
+150
+75
+0.625
+1000
+
+
+ Coffee Bean
+
+ Silver
+
+90 [2]
+150
+60
+0.500
+800
+
+
+ Coffee Bean
+
+ Gold
+
+110 [2]
+150
+40
+0.333
+533
+
+
+ Coffee Bean
+
+ Iridium
+
+150 [2]
+
+150
+
+0
+
+0
+
+0
+
+
+ Corn
+
+Regular
+
+50
+112
+62
+0.010
+16
+
+
+ Corn
+
+ Silver
+
+62
+112
+50
+0.008
+13
+
+
+ Corn
+
+ Gold
+
+75
+112
+37
+0.006
+10
+
+
+ Corn
+
+ Iridium
+
+100
+112
+12
+0.002
+3
+
+
+ Cranberries
+
+Regular
+
+75
+225
+150
+0.015
+24
+
+
+ Cranberries
+
+ Silver
+
+93
+225
+132
+0.013
+21
+
+
+ Cranberries
+
+ Gold
+
+112
+225
+113
+0.011
+18
+
+
+ Cranberries
+
+ Iridium
+
+150
+225
+75
+0.008
+13
+
+
+ Crystal Fruit
+
+Regular
+
+150
+450
+300
+0.030
+48
+
+
+ Crystal Fruit
+
+ Silver
+
+187
+450
+263
+0.026
+42
+
+
+ Crystal Fruit
+
+ Gold
+
+225
+450
+225
+0.023
+37
+
+
+ Crystal Fruit
+
+ Iridium
+
+300
+450
+150
+0.015
+24
+
+
+ Eggplant
+
+Regular
+
+60
+135
+75
+0.013
+21
+
+
+ Eggplant
+
+ Silver
+
+75
+135
+60
+0.010
+16
+
+
+ Eggplant
+
+ Gold
+
+90
+135
+45
+0.008
+13
+
+
+ Eggplant
+
+ Iridium
+
+120
+135
+15
+0.003
+5
+
+
+ Fiddlehead Fern
+
+Regular
+
+90
+202
+112
+0.019
+30
+
+
+ Fiddlehead Fern
+
+ Silver
+
+112
+202
+90
+0.015
+24
+
+
+ Fiddlehead Fern
+
+ Gold
+
+135
+202
+67
+0.011
+18
+
+
+ Fiddlehead Fern
+
+ Iridium
+
+180
+202
+22
+0.004
+6
+
+
+ Garlic
+
+Regular
+
+60
+135
+75
+0.013
+21
+
+
+ Garlic
+
+ Silver
+
+75
+135
+60
+0.010
+16
+
+
+ Garlic
+
+ Gold
+
+90
+135
+45
+0.008
+13
+
+
+ Garlic
+
+ Iridium
+
+120
+135
+15
+0.003
+5
+
+
+ Grape
+
+Regular
+
+80
+240
+160
+0.016
+26
+
+
+ Grape
+
+ Silver
+
+100
+240
+140
+0.014
+22
+
+
+ Grape
+
+ Gold
+
+120
+240
+120
+0.012
+19
+
+
+ Grape
+
+ Iridium
+
+160
+240
+80
+0.008
+13
+
+
+ Green Bean
+
+Regular
+
+40
+90
+50
+0.008
+13
+
+
+ Green Bean
+
+ Silver
+
+50
+90
+40
+0.007
+11
+
+
+ Green Bean
+
+ Gold
+
+60
+90
+30
+0.005
+8
+
+
+ Green Bean
+
+ Iridium
+
+80
+90
+10
+0.002
+3
+
+
+ Honey - Blue Jazz
+
+Regular
+
+200
+
+200
+
+0
+
+0
+
+0
+
+
+ Honey - Fairy Rose
+
+Regular
+
+680
+
+200
+
+-480
+
+-0.800
+
+-1280
+
+
+ Honey - Poppy
+
+Regular
+
+380
+
+200
+
+-180
+
+-0.300
+
+-480
+
+
+ Honey - Summer Spangle
+
+Regular
+
+280
+
+200
+
+-80
+
+-0.133
+
+-213
+
+
+ Honey - Sunflower
+
+Regular
+
+260
+
+200
+
+-60
+
+-0.100
+
+-160
+
+
+ Honey - Tulip
+
+Regular
+
+160
+200
+40
+0.067
+107
+
+
+ Honey - Wild
+
+Regular
+
+100
+200
+100
+0.167
+267
+
+
+ Hops
+
+Regular
+
+25
+300
+275
+0.122
+195
+
+
+ Hops
+
+ Silver
+
+31
+300
+269
+0.120
+192
+
+
+ Hops
+
+ Gold
+
+37
+300
+263
+0.117
+187
+
+
+ Hops
+
+ Iridium
+
+50
+300
+250
+0.111
+178
+
+
+ Hot Pepper
+
+Regular
+
+40
+120
+80
+0.008
+13
+
+
+ Hot Pepper
+
+ Silver
+
+50
+120
+70
+0.007
+11
+
+
+ Hot Pepper
+
+ Gold
+
+60
+120
+60
+0.006
+10
+
+
+ Hot Pepper
+
+ Iridium
+
+80
+120
+40
+0.004
+6
+
+
+ Kale
+
+Regular
+
+110
+247
+137
+0.023
+37
+
+
+ Kale
+
+ Silver
+
+137
+247
+110
+0.018
+29
+
+
+ Kale
+
+ Gold
+
+165
+247
+82
+0.014
+22
+
+
+ Kale
+
+ Iridium
+
+220
+247
+27
+0.005
+8
+
+
+ Mango
+
+Regular
+
+130
+390
+260
+0.026
+42
+
+
+ Mango
+
+ Silver
+
+162
+390
+228
+0.023
+37
+
+
+ Mango
+
+ Gold
+
+195
+390
+195
+0.020
+32
+
+
+ Mango
+
+ Iridium
+
+260
+390
+130
+0.013
+21
+
+
+ Melon
+
+Regular
+
+250
+750
+500
+0.050
+80
+
+
+ Melon
+
+ Silver
+
+312
+750
+438
+0.044
+70
+
+
+ Melon
+
+ Gold
+
+375
+750
+375
+0.038
+61
+
+
+ Melon
+
+ Iridium
+
+500
+750
+250
+0.025
+40
+
+
+ Orange
+
+Regular
+
+100
+300
+200
+0.020
+32
+
+
+ Orange
+
+ Silver
+
+125
+300
+175
+0.018
+29
+
+
+ Orange
+
+ Gold
+
+150
+300
+150
+0.015
+24
+
+
+ Orange
+
+ Iridium
+
+200
+300
+100
+0.010
+16
+
+
+ Parsnip
+
+Regular
+
+35
+78
+43
+0.007
+11
+
+
+ Parsnip
+
+ Silver
+
+43
+78
+35
+0.006
+10
+
+
+ Parsnip
+
+ Gold
+
+52
+78
+26
+0.004
+6
+
+
+ Parsnip
+
+ Iridium
+
+70
+78
+8
+0.001
+2
+
+
+ Peach
+
+Regular
+
+140
+420
+280
+0.028
+45
+
+
+ Peach
+
+ Silver
+
+175
+420
+245
+0.025
+40
+
+
+ Peach
+
+ Gold
+
+210
+420
+210
+0.021
+34
+
+
+ Peach
+
+ Iridium
+
+280
+420
+140
+0.014
+22
+
+
+ Pineapple
+
+Regular
+
+300
+900
+600
+0.060
+96
+
+
+ Pineapple
+
+ Silver
+
+375
+900
+525
+0.053
+85
+
+
+ Pineapple
+
+ Gold
+
+450
+900
+450
+0.045
+72
+
+
+ Pineapple
+
+ Iridium
+
+600
+900
+300
+0.030
+48
+
+
+ Pomegranate
+
+Regular
+
+140
+420
+280
+0.028
+45
+
+
+ Pomegranate
+
+ Silver
+
+175
+420
+245
+0.025
+40
+
+
+ Pomegranate
+
+ Gold
+
+210
+420
+210
+0.021
+34
+
+
+ Pomegranate
+
+ Iridium
+
+280
+420
+140
+0.014
+22
+
+
+ Potato
+
+Regular
+
+80
+180
+100
+0.017
+27
+
+
+ Potato
+
+ Silver
+
+100
+180
+80
+0.013
+21
+
+
+ Potato
+
+ Gold
+
+120
+180
+60
+0.010
+16
+
+
+ Potato
+
+ Iridium
+
+160
+180
+20
+0.003
+5
+
+
+ Pumpkin
+
+Regular
+
+320
+720
+400
+0.067
+107
+
+
+ Pumpkin
+
+ Silver
+
+400
+720
+320
+0.053
+85
+
+
+ Pumpkin
+
+ Gold
+
+480
+720
+240
+0.040
+64
+
+
+ Pumpkin
+
+ Iridium
+
+640
+720
+80
+0.013
+21
+
+
+ Qi Fruit
+
+Regular
+
+1
+3
+2
+
+0
+
+0
+
+
+ Radish
+
+Regular
+
+90
+202
+112
+0.019
+30
+
+
+ Radish
+
+ Silver
+
+112
+202
+90
+0.015
+24
+
+
+ Radish
+
+ Gold
+
+135
+202
+67
+0.011
+18
+
+
+ Radish
+
+ Iridium
+
+180
+202
+22
+0.004
+6
+
+
+ Red Cabbage
+
+Regular
+
+260
+585
+325
+0.054
+86
+
+
+ Red Cabbage
+
+ Silver
+
+325
+585
+260
+0.043
+69
+
+
+ Red Cabbage
+
+ Gold
+
+390
+585
+195
+0.033
+53
+
+
+ Red Cabbage
+
+ Iridium
+
+520
+585
+65
+0.011
+18
+
+
+ Rhubarb
+
+Regular
+
+220
+660
+440
+0.044
+70
+
+
+ Rhubarb
+
+ Silver
+
+275
+660
+385
+0.039
+62
+
+
+ Rhubarb
+
+ Gold
+
+330
+660
+330
+0.033
+53
+
+
+ Rhubarb
+
+ Iridium
+
+440
+660
+220
+0.022
+35
+
+
+ Salmonberry
+
+Regular
+
+5
+15
+10
+0.001
+2
+
+
+ Salmonberry
+
+ Silver
+
+6
+15
+9
+0.001
+2
+
+
+ Salmonberry
+
+ Gold
+
+7
+15
+8
+0.001
+2
+
+
+ Salmonberry
+
+ Iridium
+
+10
+15
+5
+0.001
+2
+
+
+ Salmonberry with  Bear's Knowledge
+
+Regular
+
+15
+
+15
+
+0
+
+0
+
+0
+
+
+ Salmonberry with  Bear's Knowledge
+
+ Silver
+
+18
+
+15
+
+-3
+
+0
+
+0
+
+
+ Salmonberry with  Bear's Knowledge
+
+ Gold
+
+21
+
+15
+
+-6
+
+-0.001
+
+-2
+
+
+ Salmonberry with  Bear's Knowledge
+
+ Iridium
+
+30
+
+15
+
+-15
+
+-0.002
+
+-3
+
+
+ Spice Berry
+
+Regular
+
+80
+240
+160
+0.016
+26
+
+
+ Spice Berry
+
+ Silver
+
+100
+240
+140
+0.014
+22
+
+
+ Spice Berry
+
+ Gold
+
+120
+240
+120
+0.012
+19
+
+
+ Spice Berry
+
+ Iridium
+
+160
+240
+80
+0.008
+13
+
+
+ Starfruit
+
+Regular
+
+750
+2250
+1500
+0.150
+240
+
+
+ Starfruit
+
+ Silver
+
+937
+2250
+1313
+0.131
+210
+
+
+ Starfruit
+
+ Gold
+
+1125
+2250
+1125
+0.113
+181
+
+
+ Starfruit
+
+ Iridium
+
+1500
+2250
+750
+0.075
+120
+
+
+ Strawberry
+
+Regular
+
+120
+360
+240
+0.024
+38
+
+
+ Strawberry
+
+ Silver
+
+150
+360
+210
+0.021
+34
+
+
+ Strawberry
+
+ Gold
+
+180
+360
+180
+0.018
+29
+
+
+ Strawberry
+
+ Iridium
+
+240
+360
+120
+0.012
+19
+
+
+ Taro Root
+
+Regular
+
+100
+225
+125
+0.021
+34
+
+
+ Taro Root
+
+ Silver
+
+125
+225
+100
+0.017
+27
+
+
+ Taro Root
+
+ Gold
+
+150
+225
+75
+0.013
+21
+
+
+ Taro Root
+
+ Iridium
+
+200
+225
+25
+0.004
+6
+
+
+ Tea Leaves
+
+Regular
+
+50
+100
+50
+0.278
+445
+
+
+ Tomato
+
+Regular
+
+60
+135
+75
+0.013
+21
+
+
+ Tomato
+
+ Silver
+
+75
+135
+60
+0.010
+16
+
+
+ Tomato
+
+ Gold
+
+90
+135
+45
+0.008
+13
+
+
+ Tomato
+
+ Iridium
+
+120
+135
+15
+0.003
+5
+
+
+ Unmilled Rice
+
+Regular
+
+30
+67
+37
+0.006
+10
+
+
+ Unmilled Rice
+
+ Silver
+
+37
+67
+30
+0.005
+8
+
+
+ Unmilled Rice
+
+ Gold
+
+45
+67
+22
+0.004
+6
+
+
+ Unmilled Rice
+
+ Iridium
+
+60
+67
+7
+0.001
+2
+
+
+ Wheat
+
+Regular
+
+25
+200
+175
+0.100
+160
+
+
+ Wheat
+
+ Silver
+
+31
+200
+169
+0.097
+155
+
+
+ Wheat
+
+ Gold
+
+37
+200
+163
+0.093
+149
+
+
+ Wheat
+
+ Iridium
+
+50
+200
+150
+0.086
+138
+
+
+ Wild Plum
+
+Regular
+
+80
+240
+160
+0.016
+26
+
+
+ Wild Plum
+
+ Silver
+
+100
+240
+140
+0.014
+22
+
+
+ Wild Plum
+
+ Gold
+
+120
+240
+120
+0.012
+19
+
+
+ Wild Plum
+
+ Iridium
+
+160
+240
+80
+0.008
+13
+
+
+ Yam
+
+Regular
+
+160
+360
+200
+0.033
+53
+
+
+ Yam
+
+ Silver
+
+200
+360
+160
+0.027
+43
+
+
+ Yam
+
+ Gold
+
+240
+360
+120
+0.020
+32
+
+
+ Yam
+
+ Iridium
+
+320
+360
+40
+0.007
+11
+
+
+Notes
+Each day has 1600 minutes of processing time. From 2am to 6am, machines process at 100 minutes per hour. For the rest of the day, machines process at 60 minutes per hour.So, (4 × 100) + (20 × 60) = 1600 minutes of processing time per day.
+Making coffee requires 5 beans
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Keg_Productivity&oldid=130983"
+Category: Artisan Goods
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 25 November 2021, at 22:34.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

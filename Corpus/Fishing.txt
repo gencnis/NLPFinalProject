@@ -1,0 +1,2249 @@
+
+
+
+
+
+Fishing - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fishing
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Contents
+
+1 Overview & Controls
+2 Specific Mechanics
+
+2.1 Types of Fish
+2.2 Bar Size
+2.3 Casting Distance
+2.4 Fish Bite Time
+2.5 Fishing Zone
+2.6 Perfect Catches
+2.7 Fish Size & Quality
+2.8 Bubbles
+2.9 Energy
+2.10 Angled Casts
+2.11 Time
+
+
+3 Fishing Poles
+4 Fishing Skill
+5 Experience Points
+6 Food
+7 Treasure Chests
+8 Presents
+9 Achievements
+10 Bugs
+11 References
+12 History
+
+
+
+For a list of fish and their locations, see the Fish page.
+For an index to the completed fish collection, see the Fish Collection page.
+For the guide to catching all fish, see Fishing Strategy.
+See also: Tackle, Bait
+Fishing is a skill associated with catching fish with a fishing rod or by collecting items from crab pots.
+
+Overview & Controls
+ Fishing interface showing normal and Legendary Fish
+To cast a fishing rod into a body of water, hold down the Use Tool button ( on PC,  button on Xbox,  on Playstation,  on Switch). A meter appears, indicating how far the line will go. Release to cast. It is also possible to slightly alter the line's placement mid-cast with the movement keys (or controller stick), allowing for better control over aiming the cast and allowing to "cast diagonally" by 1 tile, which can make it possible to hit bubbles that would otherwise be unreachable.
+When a fish bites, the bobber wiggles and an exclamation point appears above the player character's head along with a distinct sound. Click the Use Tool button to start the mini-game.
+The mini-game display contains a movable green rectangle that indicates the area of effect for the fishing line. The goal of the fishing mini-game is to keep the small fish icon within the green rectangle until the progress bar to the right is completely filled. If the fish's icon moves above or below the green rectangle, the progress bar decreases, and the fish escapes if the progress bar reaches the bottom.
+The green rectangle can be raised by pressing the Use Tool button. Repeated pressing holds the green in place when it is not on the bottom, and holding the button raises it at increasing speed. Be careful moving it though, for it gathers momentum quickly and takes time to reverse, making it easy to overshoot the fish and drain the progress bar.
+Upon catching a fish, its name and size are displayed. Players can keep track of how many fish they have caught and their record lengths in their Collections menu.
+
+Specific Mechanics
+Types of Fish
+The types of fish that can be found is determined by:
+
+the season
+the weather (i.e., sunny or rainy)
+the body of water
+the time of day
+For example, the forest lake, the forest river, and the town river each contain their own types of fish, though there are some overlaps. The full list can be found on the Fishing Strategy page.
+Also note that the Legendary Fish can only be caught on specific water tiles, but in general, the specific water tile does not matter.
+
+Bar Size
+The green rectangle increases in size with higher fishing skill level. At Fishing level 0, the bar size has a length of 96 pixels. This is increased by 8 pixels for every increase in fishing level, so that at level 10, the bar size has a length of 176 pixels. The bar size can be further increased by using either the Cork Bobber or increasing the fishing level past level 10 by using an enchant at the Forge or with food buffs. The maximum possible bar size is therefore 248 pixels, which can be achieved with level 10 fishing, using the cork bobber, using the Master Enchant at the Forge, and eating Seafoam Pudding with Qi Seasoning. The total number of pixels of the entire rectangle is 568.
+The upgraded fishing rods (i.e., Fiberglass Rod and Iridium Rod) do not affect the bar size. However, using the Training Rod does affect the bar size; it sets the player's fishing skill equal to level 5 for the purposes of determining how big to make the green bar, if the player has not reached level 5 yet.
+
+Casting Distance
+The player's skill level determines the maximum possible casting distance.  At level 0, the maximum cast possible is 3 tiles to the south or north and 4 tiles to the east or west. The distance increases by 1 tile (in all directions) at levels 1, 4, 8 and 15.
+Reaching a skill level of 15 is possible with a combination of food, Qi Seasoning and/or a Fishing Pole enchanted with the Master enchant.
+The actual casting distance will be a fraction of the maximum distance, based on the fullness of the mini-game casting meter. Any cast that is more than 99% of the maximum distance is highlighted by the text "Max".[1] "Max" casts do not receive any special benefit.
+The length of the cast is less important than where the bobber lands.  Longer casts only improve fishing results if the bobber lands further from the shore, increasing the Fishing Zone.  Standing next to the water's edge allows casts to go further from land, as does avoiding locations with other nearby shores (e.g., try to fish where a river is as wide and straight as possible).
+
+Fish Bite Time
+The fish bite time measures the amount of time that passes before a fish bites once the fishing rod is in the water. This base time is a random number between 0.6 and 30 seconds. Each increase in fishing level decreases the maximum amount of time it takes for a fish to bite by 0.25 seconds.
+Using Bait decreases both the minimum and maximum amount of time it takes for a fish to bite by 50%. Wild Bait further decreases this by another 25%, for a total of a 62.5% decrease compared to no Bait. The minimum amount of time it takes for a fish to bite cannot drop below 0.5 seconds.
+
+Fishing Zone
+Every water tile is assigned a Fishing Zone of 0, 1, 2, 3, or 5[2] that controls many aspects of fishing. The further from land (in every direction), the better the zone. The game considers most walkable surfaces, including islands, piers, and stone bridges to be "land"; wooden footbridges are one exception.
+If the bobber lands at least 5 tiles away from any land, it is located in zone 5. Otherwise, the zone is one less than the distance (in tiles) from the nearest land. Maps of Fishing Zone are available in the Fishing Strategy section on Fishing Zones. Note, however, that fishing zones on iOS and Android are more complicated because of a bug.
+Higher fishing zone values provide several benefits:
+
+The chances of catching trash decrease.
+The size and quality (e.g., normal, silver, or gold) of the fish is on average better.
+The chances of hooking more difficult fish are slightly larger.
+Some treasure chest items have zone requirements. In particular, some valuable treasures can only be caught when the fishing zone is 5.
+Some Legendary Fish have zone requirements.
+Darker shades of blue indicate deeper water. However, the color of the water is not a reliable indicator of the fishing zone for a given location. In some cases, dark blue (deep) water can have a fishing zone of 0 (e.g., next to the pier at the Beach). Conversely, light blue (shallow) water can have a fishing zone of 5 (e.g., at the east end of the Beach).
+
+Perfect Catches
+The game displays a "Perfect!" catch if the fish never leaves the green rectangle. Perfect catches grant two benefits:
+
+If it is a silver or gold quality fish, the quality of the fish is increased by one. (i.e., a silver quality fish becomes a gold quality fish, a gold quality fish becomes an iridium quality fish).
+The amount of experience awarded for catching the fish is multiplied by 2.4.
+Fish Size & Quality
+The factors that influence fish size are fishing zone and level, with some randomness involved. This is controlled by a variable called fFishSize, which used to calculate variations in fish sizes: a value of 0.00 for fFishSize will result in the least possible fish size while 1.00 for fFishSize will result in the highest possible fish size.[3]
+The data for the minimum and maximum possible sizes for all fish can be found in Data\Fish.xnb for each fish. The final fish size is calculated by minFishSize + (maxFishSize - minFishSize) * fFishSize, rounded down. If the catch was perfect, this value increases by 1. If the catch was not perfect and the original calculation of the fish size was maxFishSize, this value decreases by 1. A consequence of this feature is that the maximum possible fish size observed in game is always 1 higher than the value for maxFishSize in Data\Fish.xnb. For Legendary Fish, due to the second adjustment for non-perfect catches, the minimum possible fish size will be 1 lower than the value for minFishSize in Data\Fish.xnb.[3]
+Base fish quality is directly determined by fFishSize: if fFishSize < 0.33 then the quality is normal, otherwise if fFishSize < 0.66 then the quality is silver, otherwise the quality is gold. This quality can be improved by one grade with the Quality Bobber. It can also be improved by one grade with a perfect catch as long as the fish was at least silver quality initially. These boosts stack with the Quality Bobber boost being considered before the Perfect Catch boost. Note that since the maximum base fish quality is gold, the only way to get an iridium quality fish is by either getting a perfect catch or using the Quality Bobber.[3]
+Note that using the Training Rod will cause all fish to be normal quality. This overrides the calculation mentioned above.
+Below is the table for the possible quality of the fish depending on the base fish quality and whether or not a Quality Bobber was used or the catch was perfect.
+
+
+
+Base Fish Quality
+
+With Quality Bobber
+
+With A Perfect Catch
+
+With Both
+
+
+Normal
+
+Silver
+
+Normal
+
+Gold
+
+
+Silver
+
+Gold
+
+Gold
+
+Iridium
+
+
+Gold
+
+Iridium
+
+Iridium
+
+Iridium
+
+Below is the table for the chances of getting certain fish sizes and base quality based on particular fishing zones and fishing levels. Note that this Base Fish Quality does not take into account improvements in quality from perfect catches or from the Quality Bobber; how those adjustments are made are described in the previous table.
+
+
+
+Fishing Zone
+
+Fishing Level
+
+fFishSize
+
+Base Fish Quality (% chance)
+
+Perfect Fish Size (inches)
+
+
+min
+
+max
+
+Normal
+
+Silver
+
+Gold
+
+Sardine
+
+Herring
+
+
+1
+0-1
+0.04
+0.22
+100
+0
+0
+2 - 4
+9 - 11
+
+
+1
+2-3
+0.07
+0.22
+100
+0
+0
+2 - 4
+9 - 11
+
+
+1
+4-5
+0.11
+0.22
+100
+0
+0
+3 - 4
+10 - 11
+
+
+1
+6-7
+0.14
+0.22
+100
+0
+0
+3 - 4
+10 - 11
+
+
+1
+8-9
+0.18
+0.22
+100
+0
+0
+3 - 4
+11
+
+
+1
+10-11
+0.22
+0.26
+100
+0
+0
+4
+11 - 12
+
+
+1
+12-13
+0.25
+0.31
+100
+0
+0
+4 - 5
+12
+
+
+1
+14-15
+0.29
+0.35
+67
+33
+0
+5
+12 - 13
+
+
+1
+16
+0.32
+0.40
+10
+90
+0
+5 - 6
+12 - 13
+
+
+2
+0-1
+0.07
+0.44
+73
+27
+0
+2 - 6
+9 - 14
+
+
+2
+2-3
+0.14
+0.44
+67
+33
+0
+3 - 6
+10 - 14
+
+
+2
+4-5
+0.22
+0.44
+56
+44
+0
+4 - 6
+11 - 14
+
+
+2
+6-7
+0.29
+0.44
+33
+67
+0
+5 - 6
+12 - 14
+
+
+2
+8-9
+0.36
+0.44
+0
+100
+0
+5 - 6
+13 - 14
+
+
+2
+10-11
+0.43
+0.53
+0
+100
+0
+6 - 7
+14 - 15
+
+
+2
+12-13
+0.50
+0.62
+0
+100
+0
+7 - 8
+15 - 16
+
+
+2
+14-15
+0.58
+0.70
+0
+67
+33
+8 - 9
+15 - 17
+
+
+2
+16
+0.65
+0.79
+0
+10
+90
+9 - 10
+16 - 18
+
+
+3
+0-1
+0.11
+0.66
+42
+57
+1
+3 - 9
+10 - 16
+
+
+3
+2-3
+0.22
+0.66
+27
+71
+1
+4 - 9
+11 - 16
+
+
+3
+4-5
+0.32
+0.66
+3
+95
+2
+5 - 9
+12 - 16
+
+
+3
+6-7
+0.43
+0.66
+0
+98
+2
+6 - 9
+14 - 16
+
+
+3
+8-9
+0.54
+0.66
+0
+95
+5
+7 - 9
+15 - 16
+
+
+3
+10-11
+0.65
+0.79
+0
+10
+90
+9 - 10
+16 - 18
+
+
+3
+12-13
+0.76
+0.92
+0
+0
+100
+10 - 12
+18 - 20
+
+
+3
+14-15
+0.86
+1.00
+0
+0
+100
+11 - 13
+19 - 21
+
+
+3
+16
+0.97
+1.00
+0
+0
+100
+13
+21
+
+
+5
+0-1
+0.18
+1.00
+20
+39
+41
+3 - 13
+11 - 21
+
+
+5
+2-3
+0.36
+1.00
+0
+49
+51
+5 - 13
+13 - 21
+
+
+5
+4-5
+0.54
+1.00
+0
+32
+68
+7 - 13
+15 - 21
+
+
+5
+6-7
+0.72
+1.00
+0
+0
+100
+9 - 13
+17 - 21
+
+
+5
+8-9
+0.90
+1.00
+0
+0
+100
+11 - 13
+19 - 21
+
+
+5
+10-11
+1.00
+1.00
+0
+0
+100
+13
+21
+
+
+5
+12-13
+1.00
+1.00
+0
+0
+100
+13
+21
+
+
+5
+14-15
+1.00
+1.00
+0
+0
+100
+13
+21
+
+
+5
+16
+1.00
+1.00
+0
+0
+100
+13
+21
+
+ Pool of Bubbles
+Bubbles
+Sometimes, a pool of bubbles appears in the water. Casting into them results in blue sparkles appearing. Bubbles grant two benefits:[4]
+
+Fish bite four times faster.
+When determining the type of fish that is hooked, the effective Fishing Zone is increased by 1, i.e., trash is less likely to be caught and difficult-to-catch are more likely; some Legendary Fish can be found closer to the shore when bubbles are present.
+This adjustment to the fishing zone only applies to the type of fish that is caught.  Bubbles have no effect on fish size or quality and have no effect on treasure chests.
+Energy
+At fishing skill level 0, casting a fishing pole consumes 8 energy. Each subsequent fishing level decreases the amount of energy used by 0.1. (While the game shows whole numbers, internally it does not round numbers.) Thus, on the 10th cast at level 1 fishing, the game shows an energy cost of only 7 instead of 8. At level 10 fishing, all casts take (and show) costs of 7 energy.
+
+Angled Casts
+It is possible to slightly alter the line's placement mid-cast with the movement keys, allowing better control over aiming the cast. Angling the cast is useful in two scenarios:
+
+In some non-standard fishing spots, it is necessary to angle the cast to get further from land.
+When bubbles spawn in an awkward location, it is sometimes necessary to angle the cast to get the bobber to land in them.
+Time
+In single-player:
+Time is paused while the mini-game is active.
+If the player is attacked (for example, by a slime while fishing in the Secret Woods), the slime will continue to attack and damage the player during the minigame, even though the clock is paused.
+Active buffs will wear out during the fishing minigame.
+Time is not paused during the animation when the casting bar is increasing.
+Time is not paused during the animation when the line is going out.
+Time is not paused during the animation when the fish is flying back towards the player.
+Time is not paused during the popup that shows the player what type of fish they have caught.
+If the player caught a treasure chest, time is paused while looking through the chest's inventory.
+In multiplayer, time is never paused.
+During the fishing minigame at the Stardew Valley Fair and the ice-fishing contest at the Festival of Ice, the contest timer is never paused.
+Fishing Poles
+
+
+Image
+
+Name
+
+Cost
+
+Improvements
+
+Location
+
+Requirements
+
+
+
+
+Training Rod
+
+25g
+
+Easier to use (only catches common Fish).
+
+Buy from Willy's Fish Shop
+
+
+
+
+
+
+Bamboo Pole
+
+500g
+
+
+
+Given to the player by WillyBuy from Willy's Fish Shop
+
+
+
+
+
+
+Fiberglass Rod
+
+1,800g
+
+Able to use bait.
+
+Buy from Willy's Fish Shop
+
+ Fishing Level 2(The player receives a letter the day after it becomes available)
+
+
+
+
+Iridium Rod
+
+7,500g
+
+Able to use bait & tackle.
+
+Buy from Willy's Fish Shop
+
+ Fishing Level 6(The player receives a letter the day after it becomes available)
+
+ Fishing Skill
+Fishing Skill is increased by catching Fish, Trash, Seaweed, Green Algae, or White Algae with a Fishing Rod/Pole, by harvesting Crab Pots, or by collecting items from Fish Ponds.
+Each level grants +1 Fishing Rod Proficiency, increases the minimum fish size (in/cm) and bobber bar height, and decreases the max amount of time before a fish bites by 0.25 seconds.
+
+
+
+Level 1
+
+Level 2
+
+Level 3
+
+Level 4
+
+Level 5
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting / Cooking Recipes:
+
+Crafting Recipes:
+
+Choose a Profession:
+
+
+Casting distance increased by one tile
+
+ BaitFiberglass Rod & Bait unlocked in Willy's Fish Shop
+
+ Crab Pot Dish O' The SeaCrab Pot unlocked in Willy's Fish Shop
+
+ Recycling MachineCasting distance increased by one tile
+
+ Fisher
+Fish worth 25% more.
+
+ Trapper
+Resources required to craft crab pots reduced.
+
+
+
+
+
+Level 6
+
+Level 7
+
+Level 8
+
+Level 9
+
+Level 10
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting / Cooking Recipes:
+
+Fisher:
+
+Trapper:
+
+
+ Spinner Trap BobberIridium Rod, Lead Bobber, Spinner, & Trap Bobber unlocked in Willy's Fish Shop
+
+ Cork Bobber Treasure HunterCork Bobber & Treasure Hunter unlocked in Willy's Fish Shop
+
+ Worm Bin Barbed Hook Dressed SpinnerBarbed Hook
+ & Dressed Spinner unlocked in Willy's Fish ShopCasting distance increased by one tile
+
+ Seafoam Pudding MagnetMagnet unlocked in Willy's Fish Shop
+
+ Angler
+Fish worth 50% more.
+
+ Mariner
+Crab pots no longer produce junk items.
+
+
+ Pirate
+Chance to find treasure doubled.
+
+ Luremaster
+Crab pots no longer require bait.
+
+Experience Points
+Trash, algae and seaweed caught with the fishing pole earn 3 XP each, and crab pots earn the player 5 XP each time the player collects from them, no matter what is collected. Otherwise, for each catch of fish, the amount of experience earned is as follows: [5]
+XP = ((Fish Quality + 1) * 3) + (Fish Difficulty / 3)
+
+Fish Quality = 0 for normal, 1 for silver, 2 for gold, or 4 for iridium
+Fish Difficulty is a number from 5-110, listed in the data file Fish.xnb.
+For example, a regular quality sardine (difficulty 30) would net the player (0 + 1) * 3 + (30 / 3) = 13 XP. Trash also follows this formula with a quality and difficulty of zero leaving only the base 3 XP.
+XP is multiplied by 2.2 if the player also catches a treasure chest, by 2.4 if the catch was "perfect" and by 5 if the catch was a Legendary fish.  These multiplications stack, and are performed in order (first treasure chest, then perfect, then Legendary). If at any point in the calculation the XP is not a whole number, the decimal part of the number is truncated off before performing the next calculation.
+For example, catching a perfect Sardine with a treasure chest would earn the player 13 * 2.2 =  28.6 (truncated to 28) XP, then 28 * 2.4 = 67.2 (truncated to 67) XP.
+A perfect catch will increase a silver quality fish to gold quality, and a gold quality fish to iridium quality, but it is the original quality that is used in the XP equation.
+For example, catching a perfect Iridium quality Sardine would use the original gold quality multiplier, so the player would earn ((2 + 1) * 3) + (30 / 3) * 2.4 = 45 XP.
+As another example, catching a perfect gold quality Crimsonfish (difficulty 95) with a treasure chest would net the player ((1 + 1) * 3) + (95 / 3) = 37.67 (truncated to 37) base XP; 37 * 2.2 = 81.4 (truncated to 81) XP; 81 * 2.4 = 194.4 (truncated to 194) XP; 194 * 5 = 970 XP.
+Experience level is increased immediately upon harvesting a Crab Pot or catching an item with a fishing pole, but the "level up" window doesn't appear until after going to sleep.
+The XP required for leveling up is the same as for all skills:
+
+
+
+Lvl
+
+TotalExperience
+
+Total Sardines(No stars)
+
+Total Gold Star Legend Fish(225XP)
+
+Total Crab Pot
+
+
+1
+
+100
+
+8
+
+1
+
+20*
+
+
+2
+
+380
+
+30
+
+2
+
+76
+
+
+3
+
+770
+
+60
+
+4
+
+154
+
+
+4
+
+1300
+
+100
+
+6
+
+260
+
+
+5
+
+2150
+
+166
+
+10
+
+430
+
+
+6
+
+3300
+
+254
+
+15
+
+660
+
+
+7
+
+4800
+
+370
+
+22
+
+960
+
+
+8
+
+6900
+
+531
+
+31
+
+1380
+
+
+9
+
+10000
+
+770
+
+45
+
+2000
+
+
+10
+
+15000
+
+1154
+
+67
+
+3000
+
+*Note: The first few levels of fishing cannot normally be completed with Crab Pots, because the player does not have access to Bait until level 2 and Crab Pots until level 3. However, the recipe for Wild Bait can be earned by befriending Linus and viewing his four heart cutscene.  Three crab pots can be earned at any Fishing Level by completing the  Crab Pot Bundle in the Fish Tank. Completing the bundle without playing the fishing mini-game (or using crab pots) requires 4 fish foraged from the beach and 1 crab obtained by killing crabs in the mines.
+Note that an alternative method of gaining Fishing XP is by using Fish Ponds.
+
+Food
+Certain cooked dishes will temporarily increase fishing level. Qi Seasoning can be applied to further increase the stat buff for dishes cooked by the player.
+
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Chowder
+
+A perfect way to warm yourself after a cold night at sea.
+
+ Clam (1) Milk (1)
+
+ 225 101
+
+ Fishing (+1)
+
+ 16m 47s
+
+ Willy (Mail - 3+ )
+
+135g
+
+
+
+
+Dish O' The Sea
+
+This'll keep you warm in the cold sea air.
+
+ Sardine (2) Hashbrowns (1)
+
+ 125 56
+
+ Fishing (+3)
+
+ 5m 35s
+
+ Fishing Level 3
+
+220g
+
+
+
+
+Escargot
+
+Butter-soaked snails cooked to perfection.
+
+ Snail (1) Garlic (1)
+
+ 225 101
+
+ Fishing (+2)
+
+ 16m 47s
+
+ Willy (Mail - 5+ )
+
+125g
+
+
+
+
+Fish Stew
+
+It smells a lot like the sea. Tastes better, though.
+
+ Crayfish (1) Mussel (1) Periwinkle (1) Tomato (1)
+
+ 225 101
+
+ Fishing (+3)
+
+ 16m 47s
+
+ Willy (Mail - 7+ )
+
+175g
+
+
+
+
+Fish Taco
+
+It smells delicious.
+
+ Tuna (1) Tortilla (1) Red Cabbage (1) Mayonnaise (1)
+
+ 165 74
+
+ Fishing (+2)
+
+ 7m
+
+ Linus (Mail - 7+ )
+
+500g
+
+
+
+
+Lobster Bisque
+
+This delicate soup is a secret family recipe of Willy's.
+
+ Lobster (1) Milk (1)
+
+ 225 101
+
+ Fishing (+3) Max Energy (+50)
+
+ 16m 47s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Winter, Year 2
+
+ Willy (Mail - 9+ )
+
+205g
+
+
+
+
+Maple Bar
+
+It's a sweet doughnut topped with a rich maple glaze.
+
+ Maple Syrup (1) Sugar (1) Wheat Flour (1)
+
+ 225 101
+
+ Farming (+1) Fishing (+1) Mining (+1)
+
+ 16m 47s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Summer, Year 2
+
+
+300g
+
+
+
+
+Seafoam Pudding
+
+This briny pudding will really get you into the maritime mindset!
+
+ Flounder (1) Midnight Carp (1) Squid Ink (1)
+
+ 175 78
+
+ Fishing (+4)
+
+ 3m 30s
+
+ Fishing (Level 9)
+
+300g
+
+
+
+
+Shrimp Cocktail
+
+A sumptuous appetizer made with freshly-caught shrimp.
+
+ Tomato (1) Shrimp (1) Wild Horseradish (1)
+
+ 225 101
+
+ Fishing (+1) Luck (+1)
+
+ 10m 2s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Winter, Year 2
+
+
+160g
+
+
+
+
+Trout Soup
+
+Pretty salty.
+
+ Rainbow Trout (1) Green Algae (1)
+
+ 100 45
+
+ Fishing (+1)
+
+ 4m 39s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Fall, Year 1
+
+
+100g
+
+
+Treasure Chests
+During the fishing mini-game, a treasure chest will occasionally appear inside the vertical bar. Treasure chests have their own progression bar, fillable by keeping the green bobber bar behind the treasure chest icon . If obtained, the player is awarded random bonus loot after catching the fish.  Losing the fish also loses the treasure chest.
+After successfully catching a treasure chest, after the fish is caught the treasure chest items will appear in a menu. In the case of successfully catching a fish and a treasure chest while inventory is full, the caught fish will appear in the treasure chest menu alongside any treasures caught. Dismissing the menu before putting all of the items into inventory will forfeit the rest of the items. 
+The base chance of finding a chest is 15%. The probability can be increased with the Magnet (+15%), the Treasure Hunter (+5%) and the Pirate profession (+15%) for a total of 50% chance. This is adjusted by half the value of daily luck, increasing by 5% at best or decreasing by 5% at worst, with the Special Charm adding 1.25%. Food/drink buffs add 0.5% for every point of Luck.
+Mutliple items can appear in a treasure chest. If multiple items appear in a chest, the same item can appear in multiple slots. The number of items specified in the table is the number that can appear in a single stack (e.g., at most one lost book appears in a stack, but two lost books are possible if each appears in a different stack).
+Luck has a small effect on a treasure chest's contents. Daily Luck slightly increases the chances that various special items appear (as indicated by ≈ in the following table). A Luck buff can increase the number of items in a stack (specifically, it increases the chance that a stack of resources or geodes will double in size). A luck buff also allows better rings to appear (Magnet Ring instead of Small Magnet Ring and Glow Ring instead of Small Glow Ring).
+The following is a list of all items that can be found inside Treasure Chests.[6] The "Chance" column provides the probability per treasure chest that the item will appear, if all requirements for the item are met.
+
+
+
+Item
+
+Number in Stack
+
+Fishing Level Required
+
+Notes
+
+Chance
+
+
+ Rice Shoot
+
+2-10
+
+
+Spring only, not at The Beach
+
+15%
+
+
+ Qi Bean
+
+1-4
+
+
+Only if the Qi's Crop Quest is active
+
+48%
+
+
+ Iridium Ore
+
+1-2
+
+
+Fishing Zone must be 5
+
+1.1%
+
+
+ Gold Ore
+
+1-24
+
+
+Fishing Zone must be 5
+
+9%
+
+
+ Iron Ore
+
+1-24
+
+
+Fishing Zone must be 3 or 5, More likely at Fishing Zone 3
+
+5-10%
+
+
+ Copper Ore
+
+1-24
+
+
+More likely at lower Fishing Zone values
+
+5-12%
+
+
+ Wood
+
+1-24
+
+
+More likely at lower Fishing Zone values
+
+5-6%
+
+
+ Stone
+
+1-24
+
+
+More likely at lower Fishing Zone values
+
+5-6%
+
+
+ Coal
+
+1-24
+
+
+
+
+9-61%
+
+
+ Dressed Spinner
+
+1
+6+
+
+Fishing Zone must be 5
+
+4%
+
+
+ Bait
+
+1-15
+
+
+
+
+24-37%
+
+
+ Wild Bait
+
+2-10
+
+
+Must know the recipe for Wild Bait
+There is an additional 73% chance of 2-4 Wild Bait appearing when two fish are caught simultaneously.
+
+
+8-9%
+
+
+ Lost Book
+
+1
+
+
+Only if at least 1 Lost Book has already been found, and the Museum's Library collection is not complete
+
+4%
+
+
+ Skeletal Tail
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+2.8-3.1%[7]
+
+
+ Nautilus Fossil
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+2.8-3.1%[7]
+
+
+ Amphibian Fossil
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+2.8-3.1%[7]
+
+
+ Ancient Doll
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Elvish Jewelry
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Chewing Stick
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Ornamental Fan
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Dinosaur Egg
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Rare Disc
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Ancient Sword
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Rusty Spoon
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Rusty Spur
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Rusty Cog
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Chicken Statue
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Ancient Seed
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Prehistoric Tool
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Dried Starfish
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Anchor
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Glass Shards
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Bone Flute
+
+1
+2+
+
+Only if at least 1 artifact has already been found
+
+0.7-0.8%[7]
+
+
+ Geode
+
+1-6
+
+
+
+
+2-49%
+
+
+ Magma Geode
+
+1-6
+
+
+Fishing Zone must be 5
+
+7%
+
+
+ Frozen Geode
+
+1-6
+
+
+Fishing Zone must be 3 or 5, More likely at Fishing Zone 3
+
+2-7%
+
+
+ Fire Quartz
+
+1-4
+2+
+
+Fishing Zone must be 5
+
+4%
+
+
+ Ruby
+
+1-4
+2+
+
+Fishing Zone must be 5
+
+4%
+
+
+ Emerald
+
+1-4
+2+
+
+Fishing Zone must be 5
+
+4%
+
+
+ Frozen Tear
+
+1-4
+2+
+
+Fishing Zone must be 3
+
+4%
+
+
+ Jade
+
+1-4
+2+
+
+Fishing Zone must be 3
+
+4%
+
+
+ Aquamarine
+
+1-4
+2+
+
+Fishing Zone must be 3
+
+4%
+
+
+ Earth Crystal
+
+1-4
+2+
+
+Fishing Zone must be 2 or less
+
+4%
+
+
+ Amethyst
+
+1-4
+2+
+
+Fishing Zone must be 2 or less
+
+4%
+
+
+ Topaz
+
+1-4
+2+
+
+Fishing Zone must be 2 or less
+
+4%
+
+
+ Diamond
+
+1-2
+2+
+
+More likely at higher Fishing Zone values
+
+4-5%
+
+
+ Mixed Seeds
+
+1-3
+<2
+
+
+
+12%
+
+
+ Neptune's Glaive
+
+1
+2+
+
+
+
+≈0.6%[8]
+
+
+ Broken Trident
+
+1
+2+
+
+
+
+≈0.6%[8]
+
+
+ Small Glow Ring
+
+1
+2+
+
+
+
+≈0.24-0.32%[8]
+
+
+ Glow Ring
+
+1
+2+
+
+Requires a Luck buff; chance increases with magnitude of buff
+
+≈0.03-0.09%[8]
+
+
+ Small Magnet Ring
+
+1
+2+
+
+
+
+≈0.24-0.32%[8]
+
+
+ Magnet Ring
+
+1
+2+
+
+Requires a Luck buff; chance increases with magnitude of buff
+
+≈0.03-0.09%[8]
+
+
+ Amethyst Ring
+
+1
+2+
+
+
+
+≈0.05%[8]
+
+
+ Topaz Ring
+
+1
+2+
+
+
+
+≈0.05%[8]
+
+
+ Aquamarine Ring
+
+1
+2+
+
+
+
+≈0.05%[8]
+
+
+ Jade Ring
+
+1
+2+
+
+
+
+≈0.05%[8]
+
+
+ Emerald Ring
+
+1
+2+
+
+
+
+≈0.05%[8]
+
+
+ Ruby Ring
+
+1
+2+
+
+
+
+≈0.05%[8]
+
+
+ Treasure Chest
+
+1
+2+
+
+
+
+≈0.24%[8]
+
+
+ Prismatic Shard
+
+1
+6+
+
+
+
+≈0.012%[8]
+
+
+ Strange Doll
+
+1
+2+
+
+Possible even if no artifacts previously found
+
+≈0.12%[8]
+
+
+ Strange Doll
+
+1
+2+
+
+Possible even if no artifacts previously found
+
+≈0.12%[8]
+
+
+ Iridium Band
+
+1
+2+
+
+
+
+≈0.12%[8]
+
+
+ Sneakers
+
+1 pair
+2+
+
+
+
+≈0.012%[8]
+
+
+ Rubber Boots
+
+1 pair
+2+
+
+
+
+≈0.012%[8]
+
+
+ Leather Boots
+
+1 pair
+2+
+
+
+
+≈0.012%[8]
+
+
+ Work Boots
+
+1 pair
+2+
+
+
+
+≈0.012%[8]
+
+
+ Combat Boots
+
+1 pair
+2+
+
+
+
+≈0.012%[8]
+
+
+ Tundra Boots
+
+1 pair
+2+
+
+
+
+≈0.012%[8]
+
+
+ Thermal Boots
+
+1 pair
+2+
+
+
+
+≈0.012%[8]
+
+
+ Dark Boots
+
+1 pair
+2+
+
+
+
+≈0.012%[8]
+
+
+ Firewalker Boots
+
+1 pair
+2+
+
+
+
+≈0.012%[8]
+
+
+ Genie Shoes
+
+1 pair
+2+
+
+
+
+≈0.012%[8]
+
+
+ Golden Egg
+
+1
+2+
+
+Requires achieving Perfection
+
+≈0.12%[8]
+
+Presents
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+By fishing in certain locations, gift boxes containing furniture or hats may be obtained. These include:
+
+
+
+Image
+
+Name
+
+Location
+
+
+
+
+'Boat'
+
+Fish at the southwest spot of the Beach Farm.
+
+
+
+
+Decorative Trash Can
+
+Fish in the fountain west of the Community Center in Pelican Town.  This item can also be found in the Furniture Catalogue.
+
+
+
+
+Foliage Print
+
+Fish in the river at the west of Ginger Island North.
+
+
+
+
+Frog Hat
+
+Fish in Gourmand Frog's cave on Ginger Island.
+
+
+
+
+Gourmand Statue
+
+Fish in the Pirate Cove on Ginger Island.
+
+
+
+
+Iridium Krobus
+
+Fish at the southernmost point of Cindersap Forest near the entrance to the Sewers with a fishing level of at least 15.
+
+
+
+
+Lifesaver
+
+Fish in the backroom of Willy's Fish Shop.
+
+
+
+
+'Physics 101'
+
+Fish in the Volcano Caldera.
+
+
+
+
+Pyramid Decal
+
+Fish in the southern pond in the Calico Desert.
+
+
+
+
+Squirrel Figurine
+
+Fish at the west edge of the river in an area on Ginger Island accessible through the volcano.
+
+
+
+
+'Vista'
+
+Fish in the pond outside the Spa to find a 'Vista' painting.  (Cannot be obtained in Winter.)
+
+
+
+
+Wall Basket
+
+Fish in the Secret Woods pond during any season.
+
+
+Achievements
+There are 4 Achievements related to Fishing.  Note that catching Green Algae, White Algae, or Seaweed counts towards these achievements.
+
+Fisherman (Catch 10 different fish)
+Ol' Mariner (Catch 24 different fish)
+Master Angler (Catch every fish)
+Mother Catch (Catch 100 fish)
+Bugs
+On iOS and Android, there is a bug that alters most the Fishing Zone at most locations. The fishing zone is effectively calculated as if the bobber were located one tile northwest of its actual location.  Therefore, casts to the south and east typically have a lower zone than they should; casts to the north and west typically have a better zone. This bug affects fish size/quality and treasure chest contents, but it does not affect the locations where Legendary Fish can be caught.
+References
+
+↑  See Tools/FishingRod::doStartCasting in the game code.
+
+↑ The fishing zone is calculated by the function FishingRod::distanceToLand; the value is assigned to the variable clearWaterDistance.
+
+↑ 3.0 3.1 3.2 The fish size and quality are determined by the functions FishingRod::startMinigameEndFunction, BobberBar::BobberBar, BobberBar::update, and FishingRod::doPullFishFromWater.
+
+↑ The effects of bubbles on fishing bite times is handled in FishingRod::DoFunction, specifically at if (location.fishSplashPoint != null).  The effect of bubbles on fish type is also in FishingRod::doFunction in the call to location.getFish, where the argument waterDepth is set to clearWaterDistance + (splashPoint ? 1 : 0).
+
+↑ See Tools/FishingRod::doPullFishFromWater in the game code.
+
+↑ The contents of a treasure chest are determined by FishingRod::openTreasureMenuEndFunction.
+
+↑ 7.00 7.01 7.02 7.03 7.04 7.05 7.06 7.07 7.08 7.09 7.10 7.11 7.12 7.13 7.14 7.15 7.16 7.17 7.18 7.19 The chance of an artifact appearing in a treasure chest is higher if Lost Books are not possible, e.g., after the Museum's collection is complete.
+
+↑ 8.00 8.01 8.02 8.03 8.04 8.05 8.06 8.07 8.08 8.09 8.10 8.11 8.12 8.13 8.14 8.15 8.16 8.17 8.18 8.19 8.20 8.21 8.22 8.23 8.24 8.25 8.26 8.27 The chance of a special item appearing in a treasure chest is adjusted by LuckModifier, which is set to (1 + DailyLuck) * FishingZone/5. This means that fishing zone is the most important factor, as special items are 5x more likely to be found when caught in a fishing zone of 5 instead of 1. Special items are only 1.25x more likely to be found with maximum daily luck (0.125) instead of minimum (-0.1). For example, the chance of finding a Broken Trident varies from 0.075% (DailyLuck=-0.1, FishingZone=1) to 0.469% (DailyLuck=0.125, FishingZone=5). The page lists the chance of finding special items with neutral luck and Zone=5.
+
+
+History
+1.4: Introduced Training Rod.  Removed exploit where clicking the journal icon would pause time but still allow fish to bite.
+1.5: Added fishing presents. Added Golden Eggs and Qi Beans to potential treasure chest rewards.
+
+
+Skills & Stats
+
+
+Skills
+
+Farming • Mining • Foraging • Fishing • Combat
+
+
+Stats
+
+Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Fishing&oldid=142990"
+Categories: FishingAchievementsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 15:41.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

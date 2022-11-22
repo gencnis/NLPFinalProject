@@ -1,0 +1,301 @@
+
+
+
+
+
+Oak Tree - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oak Tree
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Oak Tree
+
+
+
+
+
+Information
+
+
+Seed
+
+ Acorn
+
+
+Tapper Product
+
+ Oak Resin
+
+
+Growth Time
+
+Variable
+
+
+An Oak Tree is a common Tree that grows from an Acorn. It yields Oak Resin every 7-8 days when tapped. It can be chopped down with an axe, producing Wood, Sap, possible Acorns, and possible Hardwood (if the player is a Lumberjack).
+A planted Acorn grows through four stages before reaching maturity (with twice as much time spent at stage 4).  If fertilized, this takes five days (even in Winter).  Otherwise, there is a 20% chance per day of growth, except in winter when trees do not grow.  The median time to maturity is 24 days, although individual tree growth times will vary considerably.
+Chopping a stage 2–3 tree with an axe has a chance to drop one wood, depending on foraging level. This doesn't happen when cutting it with other tools.
+Oak Trees outside the farm (except in Pelican Town) can be chopped down or tapped.  These trees will respawn as Stage 3 saplings (20% chance each day) and grow as normal after that, as long as the stump is removed.
+
+Stages of Growth
+
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Stage 5 - Spring, Summer, Fall, Winter
+
+Stump - Spring, Summer, Fall, Winter
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+History
+1.4: Fixed bug that caused a stage 2-3 sapling to make a scythe sound when watered.  Fixed bug that prevented trees from dropping seeds and seeds disappearing when harvested if a Foraging level up occured during the day.  Planting tree seeds outside the farm no longer requires the spot to be tilled.  (This also prevents planting in non-tillable areas dug up by Artifact Spots in Winter).
+
+
+Trees
+
+
+Trees
+
+Mahogany Tree • Maple Tree • Oak Tree • Palm Tree • Pine Tree
+
+
+Fruit Trees
+
+Apple Tree • Apricot Tree • Banana Tree • Cherry Tree • Mango Tree • Orange Tree • Peach Tree • Pomegranate Tree
+
+
+Seeds
+
+Acorn • Mahogany Seed • Maple Seed • Mushroom Tree Seed • Pine Cone
+
+
+Fruit
+
+Apple • Apricot • Banana • Cherry • Mango • Orange • Peach • Pomegranate
+
+
+Misc
+
+Large Log • Large Stump • Mushroom Tree • Tea Bush
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Oak_Tree&oldid=132028"
+Category: Trees
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 December 2021, at 00:28.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

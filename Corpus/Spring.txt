@@ -1,0 +1,2151 @@
+
+
+
+
+
+Spring - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spring
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+Spring is the season when players first begin the game. It's followed by Summer and preceded by Winter.
+In Spring, the grass is green. Trees regain their leaves and bloom, and pink petals blow through the air on some days.  There is also a variety of crops, forageable items, and fish which only appear during this season. Salmonberry season lasts between the 15th-18th of Spring. When Spring starts, new logs, rocks and grass patches will spawn on the farm.
+
+Contents
+
+1 Events
+
+1.1 Festivals
+1.2 Other
+1.3 Birthdays
+
+
+2 Crops
+
+2.1 Single Harvest
+2.2 Multiple Harvests
+
+
+3 Forage
+4 Fish
+5 References
+
+
+Events
+
+
+
+
+
+
+Kent
+
+
+Lewis
+
+
+
+
+Vincent
+
+
+Egg Festival
+Haley
+
+
+
+
+
+Pam
+
+Shane
+
+
+
+
+
+Flower Dance
+
+Pierre
+Emily
+
+
+
+
+
+
+Festivals
+
+
+Day
+
+Name
+
+
+13
+ Egg Festival
+
+
+24
+ Flower Dance
+
+Other
+
+
+Day
+
+Event
+
+
+15-18
+Salmonberry Season
+
+
+
+
+
+Birthdays
+
+
+Day
+
+Villager
+
+
+04
+ Kent
+
+
+07
+ Lewis
+
+
+10
+ Vincent
+
+
+14
+ Haley
+
+
+18
+ Pam
+
+
+20
+ Shane
+
+
+26
+ Pierre
+
+
+27
+ Emily
+
+
+Crops
+Main article: Crops
+See also: Farming#Experience Points
+The following Crops can be grown in Spring.  Note that the "Seed Price" shown is the General Store price unless otherwise indicated.  "Maximum Harvests per Season" assumes no fertilizer is used and the Agriculturist profession is not chosen. "Gold/Day" assumes no fertilizer is used and the Tiller profession is not chosen.  See the Crops page for the full calculation.
+
+Single Harvest
+
+
+Crop
+Seed Price
+Daysto Grow
+Maximum Harvestsper Season
+Sells For
+Gold/Day
+
+
+ Blue Jazz
+30g
+7 days
+3
+50g
+≈2.86g
+
+
+ Cauliflower
+80g
+12 days
+2
+175g
+≈7.92g
+
+
+ Garlic
+40g
+4 days
+6
+60g
+5g
+
+
+ Kale
+70g
+6 days
+4
+110g
+≈6.67g
+
+
+ Parsnip
+20g
+4 days
+6
+35g
+3.75g
+
+
+ Potato
+50g
+6 days
+4
+80g
+5g
+
+
+ Rhubarb
+Oasis: 100g
+13 days
+2
+220g
+≈9.23g
+
+
+ Tulip
+20g
+6 days
+4
+30g
+≈1.67g
+
+
+ Unmilled Rice
+40g
+Irrigated: 6Unirrigated: 8
+43
+30g
+Irrigated: ≈-1.67gUnirrigated: -1.25g
+
+
+Multiple Harvests
+Note that each coffee plant produces 4 Coffee Beans at harvest.
+
+
+
+Crop
+Seed Price
+Daysto Grow
+Regrowth
+Maximum Harvestsper Season
+Sells For
+Gold/Day
+
+
+ Coffee Bean
+Traveling Cart: 2,500g
+10 days
+2 days
+Spring: 9Spring and Summer: 23
+15g (x4)
+Traveling Cart (2 seasons): -20.74gHarvested Coffee Bean/Dust Sprite (1 season): 20.77gHarvested Coffee Bean/Dust Sprite (2 seasons): 25.56g
+
+
+ Green Bean
+60g
+10 days
+3 days
+6
+40g
+7.2g
+
+
+ Strawberry
+Egg Festival: 100g
+8 days
+4 days
+Planted on 1st day of Spring: 5Planted on day of Egg Festival: 2
+120g
+Planted on 1st day of Spring: ≈20.83gPlanted on day of Egg Festival: ≈11.67g
+
+
+Forage
+Main article: Foraging
+The items shown below can be found while foraging during Spring. The percentages provided for each location are the percentage of all foraged items in the location that will (on average) be the specified item. [1]
+
+
+
+Image
+
+Name
+
+Description
+
+Found
+
+Sell Price
+
+Restores
+
+Used In
+
+
+
+
+Wild Horseradish
+
+A spicy root found in the spring.
+
+
+Secret Woods (52%)
+Cindersap Forest (50%)
+Backwoods (42%)
+Mountain (42%)
+Forest Farm (25%)
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+
+
+data-sort-value="0005"
+
+
+ 
+
+13
+
+5
+
+
+
+
+18
+
+8
+
+
+
+
+23
+
+10
+
+
+
+
+33
+
+14
+
+
+
+
+
+
+ Spring Foraging Bundle Spring Seeds Krobus (loved gift)
+
+
+
+
+Daffodil
+
+A traditional spring flower that makes a nice gift.
+
+
+Pelican Town (100%)
+Bus Stop (45%)
+Railroad (45%)
+
+
+
+
+
+
+30g
+
+
+
+
+37g
+
+
+
+
+45g
+
+
+
+
+60g
+
+
+
+
+data-sort-value="0000"
+
+
+ 
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+0
+
+0
+
+
+
+
+
+
+ Spring Foraging Bundle Spring Seeds Sandy (loved gift)
+
+
+
+
+Leek
+
+A tasty relative of the onion.
+
+
+Backwoods (58%)
+Mountain (58%)
+Forest Farm (25%)
+Bus Stop (20%)
+Railroad (20%)
+
+
+
+
+
+
+60g
+
+
+
+
+75g
+
+
+
+
+90g
+
+
+
+
+120g
+
+
+
+
+data-sort-value="0016"
+
+
+ 
+
+40
+
+18
+
+
+
+
+56
+
+25
+
+
+
+
+72
+
+32
+
+
+
+
+104
+
+46
+
+
+
+
+
+
+ Spring Foraging Bundle Spring Seeds Salad George (loved gift)
+
+
+
+
+Dandelion
+
+Not the prettiest flower, but the leaves make a good salad.
+
+
+Cindersap Forest (50%)
+Bus Stop (35%)
+Railroad (35%)
+Forest Farm (25%)
+
+
+
+
+
+
+40g
+
+
+
+
+50g
+
+
+
+
+60g
+
+
+
+
+80g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Spring Foraging Bundle Spring Seeds Salad
+
+
+
+
+Spring Onion
+
+These grow wild during the spring.
+
+
+Cindersap Forest
+
+
+
+
+
+
+8g
+
+
+
+
+10g
+
+
+
+
+12g
+
+
+
+
+16g
+
+
+
+
+data-sort-value="0005"
+
+
+ 
+
+13
+
+5
+
+
+
+
+18
+
+8
+
+
+
+
+23
+
+10
+
+
+
+
+33
+
+14
+
+
+
+
+
+
+
+
+
+
+
+Morel
+
+Sought after for its unique nutty flavor.
+
+
+Secret Woods (32%)
+Forest Farm (25%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+150g
+
+
+
+
+187g
+
+
+
+
+225g
+
+
+
+
+300g
+
+
+
+
+data-sort-value="0008"
+
+
+ 
+
+20
+
+9
+
+
+
+
+28
+
+12
+
+
+
+
+36
+
+16
+
+
+
+
+52
+
+23
+
+
+
+
+
+
+ Exotic Foraging Bundle Fried Mushroom Life Elixir
+
+
+
+
+Common Mushroom
+
+Slightly nutty, with good texture.
+
+
+Secret Woods (16%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+40g
+
+
+
+
+50g
+
+
+
+
+60g
+
+
+
+
+80g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Fall Foraging Bundle Fall Seeds Fried Mushroom Stir Fry Tom Kha Soup
+
+
+
+
+Salmonberry
+
+A spring-time berry with the flavor of the forest.
+
+
+On bushes during Salmonberry Season (Spring 15 - 18).
+Farm Cave (Fruit Bat option)
+
+
+
+
+
+
+5g
+
+
+
+
+6g
+
+
+
+
+7g
+
+
+
+
+10g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Jelly Wine
+
+
+
+Fish
+Main article: Fish
+There are a variety of fish which can only be caught during specific seasons.  Listed below are all fish catchable during Spring.  
+Fish that can be caught during all seasons are not listed.
+Note: Any Fish can be used for recipes with the tag "any fish" (i.e.,  Sashimi,  Maki Roll,  Quality Fertilizer).
+
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+ Fisher Profession (+25%)
+
+ Angler Profession (+50%)
+
+Location
+
+Time
+
+Season
+
+Weather
+
+Size (inches)
+
+Difficulty & Behavior
+
+Base XP
+
+Used In
+
+
+
+
+Anchovy
+
+A small silver fish found in the ocean.
+
+
+
+
+
+
+30g
+
+
+
+
+37g
+
+
+
+
+45g
+
+
+
+
+60g
+
+
+
+
+
+
+
+37g
+
+
+
+
+46g
+
+
+
+
+56g
+
+
+
+
+75g
+
+
+
+
+
+
+
+45g
+
+
+
+
+55g
+
+
+
+
+67g
+
+
+
+
+90g
+
+
+Ocean
+
+Anytime
+
+ Spring Fall
+
+Any
+
+1-17
+
+30 dart
+
+13
+
+
+
+
+
+
+Smallmouth Bass
+
+A freshwater fish that is very sensitive to pollution.
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+
+
+
+
+
+62g
+
+
+
+
+77g
+
+
+
+
+93g
+
+
+
+
+125g
+
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+River (Town)Forest Pond
+
+Anytime
+
+ Spring Fall
+
+Any
+
+12-25
+
+28 mixed
+
+12
+
+
+
+
+
+
+Catfish
+
+An uncommon fish found in streams.
+
+
+
+
+
+
+200g
+
+
+
+
+250g
+
+
+
+
+300g
+
+
+
+
+400g
+
+
+
+
+
+
+
+250g
+
+
+
+
+312g
+
+
+
+
+375g
+
+
+
+
+500g
+
+
+
+
+
+
+
+300g
+
+
+
+
+375g
+
+
+
+
+450g
+
+
+
+
+600g
+
+
+River (Town+Forest)Secret Woods PondWitch's Swamp
+
+6am – 12am
+
+ Spring Fall( Spring & Summer in Secret Woods Pond)
+
+ Rain
+
+12-73
+
+75 mixed
+
+28
+
+ River Fish Bundle Willy (loved gift)
+
+
+
+
+Sunfish
+
+A common river fish.
+
+
+
+
+
+
+30g
+
+
+
+
+37g
+
+
+
+
+45g
+
+
+
+
+60g
+
+
+
+
+
+
+
+37g
+
+
+
+
+46g
+
+
+
+
+56g
+
+
+
+
+75g
+
+
+
+
+
+
+
+45g
+
+
+
+
+55g
+
+
+
+
+67g
+
+
+
+
+90g
+
+
+River (Town+Forest)
+
+6am – 7pm
+
+ Spring Summer
+
+ Sun Wind
+
+5-16
+
+30 mixed
+
+13
+
+ River Fish Bundle Baked Fish
+
+
+
+
+Herring
+
+A common ocean fish.
+
+
+
+
+
+
+30g
+
+
+
+
+37g
+
+
+
+
+45g
+
+
+
+
+60g
+
+
+
+
+
+
+
+37g
+
+
+
+
+46g
+
+
+
+
+56g
+
+
+
+
+75g
+
+
+
+
+
+
+
+45g
+
+
+
+
+55g
+
+
+
+
+67g
+
+
+
+
+90g
+
+
+Ocean
+
+Anytime
+
+ Spring Winter
+
+Any
+
+8-21
+
+25 dart
+
+11
+
+
+
+
+
+
+Eel
+
+A long, slippery little fish.
+
+
+
+
+
+
+85g
+
+
+
+
+106g
+
+
+
+
+127g
+
+
+
+
+170g
+
+
+
+
+
+
+
+106g
+
+
+
+
+132g
+
+
+
+
+158g
+
+
+
+
+212g
+
+
+
+
+
+
+
+127g
+
+
+
+
+159g
+
+
+
+
+190g
+
+
+
+
+255g
+
+
+Ocean
+
+4pm – 2am
+
+ Spring Fall
+
+ Rain
+
+12-81
+
+70 smooth
+
+26
+
+ Night Fishing Bundle Fried Eel Spicy Eel
+
+
+
+
+Sardine
+
+A common ocean fish.
+
+
+
+
+
+
+40g
+
+
+
+
+50g
+
+
+
+
+60g
+
+
+
+
+80g
+
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+
+
+
+
+
+60g
+
+
+
+
+75g
+
+
+
+
+90g
+
+
+
+
+120g
+
+
+Ocean
+
+6am – 7pm
+
+ Spring Fall Winter
+
+Any
+
+1-13
+
+30 dart
+
+13
+
+ Ocean Fish Bundle Dish O' The Sea
+
+
+
+
+Shad
+
+Lives in a school at sea, but returns to the rivers to spawn.
+
+
+
+
+
+
+60g
+
+
+
+
+75g
+
+
+
+
+90g
+
+
+
+
+120g
+
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+
+
+
+90g
+
+
+
+
+112g
+
+
+
+
+135g
+
+
+
+
+180g
+
+
+River (Town+Forest)
+
+9am – 2am
+
+ Spring Summer Fall
+
+ Rain
+
+20-49
+
+45 smooth
+
+18
+
+ River Fish Bundle Quality Fish Bundle
+
+
+
+
+Flounder
+
+It lives on the bottom, so both eyes are on top of its head.
+
+
+
+
+
+
+100g
+
+
+
+
+125g
+
+
+
+
+150g
+
+
+
+
+200g
+
+
+
+
+
+
+
+125g
+
+
+
+
+156g
+
+
+
+
+187g
+
+
+
+
+250g
+
+
+
+
+
+
+
+150g
+
+
+
+
+187g
+
+
+
+
+225g
+
+
+
+
+300g
+
+
+Ocean, Ginger Island oceans
+
+6am – 8pm
+
+ Spring Summer(All Seasons on Ginger Island)
+
+Any
+
+4-17
+
+50 sinker
+
+19
+
+ Seafoam Pudding
+
+
+
+
+Halibut
+
+A flat fish that lives on the ocean floor.
+
+
+
+
+
+
+80g
+
+
+
+
+100g
+
+
+
+
+120g
+
+
+
+
+160g
+
+
+
+
+
+
+
+100g
+
+
+
+
+125g
+
+
+
+
+150g
+
+
+
+
+200g
+
+
+
+
+
+
+
+120g
+
+
+
+
+150g
+
+
+
+
+180g
+
+
+
+
+240g
+
+
+Ocean
+
+6am – 11am7pm – 2am
+
+ Spring Summer Winter
+
+Any
+
+10-34
+
+50 sinker
+
+19
+
+
+
+
+
+
+Legend
+
+The king of all fish! They said he'd never be caught.
+
+
+
+
+
+
+5,000g
+
+
+
+
+6,250g
+
+
+
+
+7,500g
+
+
+
+
+10,000g
+
+
+
+
+
+
+
+6,250g
+
+
+
+
+7,812g
+
+
+
+
+9,375g
+
+
+
+
+12,500g
+
+
+
+
+
+
+
+7,500g
+
+
+
+
+9,375g
+
+
+
+
+11,250g
+
+
+
+
+15,000g
+
+
+The Mountain Lake near the log. Requires level 10 fishing.
+
+Any
+
+ Spring
+
+ Rain
+
+49-51
+
+110 mixed
+
+195
+
+
+
+References
+
+↑ The foraged items that can spawn in a given location each season are determined by GameLocation::spawnObjects in the game code, using input from the data file Content\Locations.xnb.  The percentages provided here have been normalized to ensure that the percentages sum to 100% for each location. The data was normalized by:
+Calculating the sum of all percentages listed in Locations.xnb for Spring
+Dividing each percentage by the sum
+
+
+
+
+Seasons
+
+
+Seasons
+
+Spring • Summer • Fall • Winter
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Spring&oldid=141199"
+Category: Seasons
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 29 August 2022, at 18:20.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

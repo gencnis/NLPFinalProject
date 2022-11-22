@@ -1,0 +1,616 @@
+
+
+
+
+
+Blackberry - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blackberry
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Blackberry
+
+
+
+
+
+An early-fall treat.
+
+
+Information 
+
+
+Source:
+
+Foraging • Fall Seeds
+
+
+Season:
+
+ Fall
+
+
+Healing Effect
+
+
+
+
+
+
+
+25 Energy
+
+
+
+
+35 Energy
+
+
+
+
+45 Energy
+
+
+
+
+65 Energy
+
+
+
+
+
+
+
+11 Health
+
+
+
+
+15 Health
+
+
+
+
+20 Health
+
+
+
+
+29 Health
+
+
+
+Sell Prices
+
+
+Base Price:
+
+Bear's Knowledge:   (×3 Sell Price)
+
+
+
+
+
+
+
+20g
+
+
+
+
+25g
+
+
+
+
+30g
+
+
+
+
+40g
+
+
+
+
+
+
+
+60g
+
+
+
+
+75g
+
+
+
+
+90g
+
+
+
+
+120g
+
+
+
+ Tiller Profession      Sell Prices
+
+
+ (+10% Sell Price)
+
+ +          (×3.3 Sell Price)
+
+
+
+
+
+
+
+22g
+
+
+
+
+44g
+
+
+
+
+
+
+
+66g
+
+
+
+
+132g
+
+
+
+Artisan Sell Prices
+
+
+Base Price:
+
+Artisan Profession:   (+40% Sell Price)
+
+
+
+
+
+
+
+60g
+
+
+
+
+75g
+
+
+
+
+90g
+
+
+
+
+120g
+
+
+
+
+
+90g
+
+
+
+
+
+
+
+84g
+
+
+
+
+105g
+
+
+
+
+126g
+
+
+
+
+168g
+
+
+
+
+
+126g
+
+
+
+The Blackberry is a Fruit found via Foraging throughout Stardew Valley.  It can be found on the ground during Fall and on bushes during Blackberry Season (Fall 8-11).  It can also be grown from Wild Seeds (Fa) (also known as Fall Seeds), or found in the Farm Cave if the fruit bat option was selected.
+
+Contents
+
+1 Blackberry Bushes
+2 Gifting
+3 Bundles
+4 Recipes
+
+4.1 Cooking
+4.2 Crafting
+
+
+5 Tailoring
+6 Quests
+7 History
+
+
+Blackberry Bushes
+During blackberry season, the number of berries obtained from each blackberry bush increases as the player's Foraging Skill increases.  At Level 4, two berries will be harvested from each bush instead of one.  At Level 8, three berries will be harvested from each bush.  If Foraging Skill is temporarily increased to 12 or more with a Foraging Buff (by consuming food), then 4 berries will be harvested from each bush.
+Blackberries collected from bushes have several unusual characteristics:
+
+No Foraging XP is granted for collecting them.
+Unless the Botanist profession is chosen, bush berries are always normal quality, regardless of the player's Foraging skill. (Botanists always obtain iridium quality, as with all foraged items.)
+Bush berries benefit from the +10% Tiller profession price bonus when sold. If bush berries and standard foraged berries are combined into one stack, the entire stack receives the Tiller bonus.  The Tiller bonus will stack with Bear's Knowledge, allowing a maximum bonus of ×3.3.
+Gifting
+
+
+Villager Reactions
+
+
+Like
+
+ Demetrius •  Elliott •  Harvey •  Jodi •  Kent •  Leah •  Linus •  Pam •  Robin •  Sandy •  Shane
+
+
+Neutral
+
+ Alex •  Caroline •  Clint •  Dwarf •  Emily •  Evelyn •  George •  Gus •  Krobus •  Leo •  Lewis •  Marnie •  Penny •  Pierre •  Sam •  Sebastian •  Willy •  Wizard
+
+
+Dislike
+
+ Abigail •  Haley •  Jas •  Maru •  Vincent
+
+Bundles
+Blackberry is used in the  Fall Foraging Bundle in the Crafts Room.
+Fifty Blackberries are an option for the  Forager's Bundle on the Bulletin Board (Remixed).
+Recipes
+Cooking
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Recipe Source(s)
+Sell Price
+
+
+
+
+Blackberry Cobbler
+
+There's nothing quite like it.
+
+ Blackberry (2) Sugar (1) Wheat Flour (1)
+
+ 175 78
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Fall, Year 2
+
+
+260g
+
+
+Crafting
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+Sell Price
+
+
+
+
+Wild Seeds (Fa)
+
+An assortment of wild fall seeds.(Produces 10 Fall Seeds per craft)
+
+ Blackberry (1) Common Mushroom (1) Hazelnut (1) Wild Plum (1)
+
+ Foraging Level 6
+
+45g
+
+Tailoring
+Blackberry is used in the spool of the Sewing Machine to create a Shirt.  It can be used in dyeing, serving as a blue dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Quests
+The Blackberry may be randomly requested in Fall at the "Help Wanted" board outside Pierre's General Store for a reward of 60g and 150 Friendship points.
+History
+1.3.27: Added Bear's Knowledge.
+1.4: Blackberry Season is now announced on Livin' Off The Land on Fall 8 instead of Fall 4.  Blackberry can now be used in Tailoring. Fixed how Tiller bonus applies when foraged and non-foraged fruit are combined in one stack.
+
+
+Foraging
+
+
+Basic
+
+Sap
+
+
+Spring
+
+Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish
+
+
+Summer
+
+Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea
+
+
+Fall
+
+Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum
+
+
+Winter
+
+Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root
+
+
+The Beach
+
+Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed
+
+
+The Mines
+
+Cave Carrot • Purple Mushroom • Red Mushroom
+
+
+The Desert
+
+Cactus Fruit • Coconut
+
+
+Skull Cavern
+
+Dinosaur Egg • Fiddlehead Fern
+
+
+Ginger Island
+
+Ginger • Magma Cap
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Blackberry&oldid=143559"
+Categories: Fall ForageFall fruit
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 15 November 2022, at 13:19.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

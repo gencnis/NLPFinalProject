@@ -1,0 +1,345 @@
+
+
+
+
+
+Metal Head - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Metal Head
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Metal Head
+
+
+
+
+
+Information
+
+
+Spawns In:
+
+The Mines
+
+
+Floors:
+
+80-119
+
+
+Killable:
+
+Yes
+
+
+Base HP:
+
+40
+
+
+Base Damage:
+
+15
+
+
+Base Def:
+
+8
+
+
+Speed:
+
+2
+
+
+XP:
+
+6
+
+
+Variations:
+
+ Metal Head (dangerous) Hot Head
+
+
+Drops:
+
+ Coal (10%) Copper Ore (10%) Copper Ore (10%) Dwarf Scroll III (0.5%) Dwarf Scroll IV (0.1%) Iron Ore (10%) Iron Ore (10%) Solar Essence (65%) Squire's HelmetIf reached bottom of Mines: Diamond (0.05%) Prismatic Shard (0.05%)
+
+
+
+Metal Heads are an enemy found in the Mines. They have very high defense.
+
+Contents
+
+1 Behavior
+2 Strategy
+3 Squire's Helmet
+4 References
+5 History
+
+
+Behavior
+They have no special attacks.
+
+Strategy
+Due to the fact that they are resistant to knockbacks, you should back up after 2-3 swings.
+
+Squire's Helmet
+A Metal Head will drop a Squire's Helmet when the number of Metal Heads slain + the unique ID assigned to the save file can divide evenly by 100, with no remainder.  In the worst case scenario, 99 Metal Heads have to be slain to obtain the first Helmet. [1]
+
+References
+
+↑ See Monsters.MetalHead::getExtraDropItems in the game code.
+
+
+
+
+History
+1.0: Introduced.
+1.4: Added Squire's Helmet to drops.
+
+
+Monsters
+
+
+Mines
+
+Bats • Bug • Cave Fly • Duggy • Dust Sprite • Ghost • Grub • Lava Crab • Metal Head • Rock Crab • Shadow Brute • Shadow Shaman • Skeleton • Slimes • Squid Kid • Stone Golem
+
+
+Dangerous Mines
+
+Bat (dangerous) • Blue Squid • Bug (dangerous) • Carbon Ghost • Cave Fly (dangerous) • Duggy (dangerous) • Dust Sprite (dangerous) • Frost Bat (dangerous) • Grub (dangerous) • Haunted Skull (dangerous) • Lava Crab (dangerous) • Metal Head (dangerous) • Putrid Ghost • Rock Crab (dangerous) • Shadow Brute (dangerous) • Shadow Shaman (dangerous) • Shadow Sniper • Skeleton (dangerous) • Skeleton Mage • Slimes (dangerous) • Spider • Squid Kid (dangerous) • Stick Bug • Stone Golem (dangerous)
+
+
+Quarry Mine
+
+Copper Slime • Haunted Skull • Iron Slime
+
+
+Skull Cavern
+
+Armored Bug • Big Slime • Carbon Ghost • Iridium Bat • Iridium Crab • Lava Bat • Mummy • Pepper Rex • Purple Slime • Serpent
+
+
+Dangerous Skull Cavern
+
+Armored Bug (dangerous) • Mummy (dangerous) • Royal Serpent • Slime (dangerous)
+
+
+Bug Lair
+
+Mutant Fly • Mutant Grub
+
+
+The Farm
+
+Wilderness Golem
+
+
+Volcano Dungeon
+
+Dwarvish Sentry • False Magma Cap • Hot Head • Lava Lurk • Magma Duggy • Magma Sparker • Magma Sprite • Tiger Slime
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Metal_Head&oldid=142746"
+Category: Monsters
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 28 October 2022, at 17:51.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

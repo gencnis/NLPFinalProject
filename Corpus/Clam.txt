@@ -1,0 +1,525 @@
+
+
+
+
+
+Clam - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clam
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Clam
+
+
+
+
+
+Someone lived here once.
+
+
+Information
+
+
+
+
+Source
+
+
+ Crab Pot: Saltwater
+Foraging: The Beach
+
+
+Season
+
+ All
+
+
+Size (inches)
+
+1-5
+
+
+
+
+XP
+
+
+Crab Pot: 5 Fishing XP
+Foraging: 7 Foraging XP
+
+
+Energy
+
+Inedible
+
+
+Sell Price
+
+
+
+
+50g
+
+
+
+62g
+
+
+
+75g
+
+
+
+100g
+
+
+
+
+The Clam is an item that can be caught using a Crab Pot in any saltwater body of water. It can also be foraged from The Beach or randomly found at the Traveling Cart for 150-1,000g.
+Even though all other Crab Pot creatures are considered to be fish, Clams are not. Therefore, they cannot be used in recipes that call for any fish, cannot be placed in a Fish Pond, do not benefit from the Fisher or Angler professions, and do not count towards the four fishing achievements. They also appear in the collections tab under Items Shipped instead of the Fish section.
+
+Contents
+
+1 Gifting
+2 Bundles
+3 Recipes
+4 Buildings
+5 Tailoring
+6 Quests
+7 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+
+Hate
+
+ Evelyn
+
+Bundles
+Clam is an option for the  Crab Pot Bundle in the Fish Tank.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Chowder
+
+A perfect way to warm yourself after a cold night at sea.
+
+ Clam (1) Milk (1)
+
+ 225 101
+
+ Fishing (+1)
+
+ 16m 47s
+
+ Willy (Mail - 3+ )
+
+135g
+
+
+
+
+Speed-Gro
+
+Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil.
+
+ Pine Tar (1) Clam (1)
+
+N/A
+
+N/A
+
+N/A
+
+ Farming Level 3
+
+20g
+
+
+Buildings
+Ten clams are required to purchase the Water Obelisk from the Wizard's Tower.
+
+
+
+Image
+
+Name
+
+Description
+
+Cost
+
+Size
+
+
+
+
+Water Obelisk
+
+Warps you to the beach.
+
+500,000g Iridium Bar (5) Clam (10) Coral (10)
+
+3x2
+
+Tailoring
+Clam can be used in the spool of the Sewing Machine to create the dyeable Sailor Shirt.   It can be used in dyeing, serving as a blue dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Quests
+Two Clams may be requested by several ocean fish in a Fish Pond quest to increase the capacity of the pond from 5 to 7.
+History
+1.1: Used as a building material to the Water Obelisk.
+1.4: Can now be used in Tailoring. Can be requested in Fish Pond quests.
+
+
+Foraging
+
+
+Basic
+
+Sap
+
+
+Spring
+
+Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish
+
+
+Summer
+
+Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea
+
+
+Fall
+
+Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum
+
+
+Winter
+
+Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root
+
+
+The Beach
+
+Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed
+
+
+The Mines
+
+Cave Carrot • Purple Mushroom • Red Mushroom
+
+
+The Desert
+
+Cactus Fruit • Coconut
+
+
+Skull Cavern
+
+Dinosaur Egg • Fiddlehead Fern
+
+
+Ginger Island
+
+Ginger • Magma Cap
+
+
+
+
+Fish
+
+
+Legendary
+
+Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish
+
+
+The Beach
+
+Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna
+
+
+River
+
+Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye
+
+
+Mountain Lake
+
+Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye
+
+
+Cindersap Forest Pond
+
+Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye
+
+
+Secret Woods
+
+Carp • Catfish • Woodskip
+
+
+Mines
+
+Ghostfish • Ice Pip • Lava Eel • Stonefish
+
+
+Sewers
+
+Carp • Mutant Carp • Radioactive Carp
+
+
+Desert
+
+Sandfish • Scorpion Carp
+
+
+Mutant Bug Lair
+
+Carp • Slimejack
+
+
+Witch's Swamp
+
+Catfish • Void Salmon
+
+
+Night Market
+
+Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber
+
+
+Crab Pot
+
+Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail
+
+
+Ginger Island
+
+Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray •  Super Cucumber • Tilapia • Tuna
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Clam&oldid=142562"
+Categories: Crab pot fishOcean fishSpring fishSummer fishFall fishWinter fishBeach Forage
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 26 October 2022, at 03:25.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

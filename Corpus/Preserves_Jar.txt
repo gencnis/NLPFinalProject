@@ -1,0 +1,480 @@
+
+
+
+
+
+Preserves Jar - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preserves Jar
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Preserves Jar
+
+
+
+
+
+Turns vegetables into pickles and fruit into jam.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Crafting
+
+
+Recipe Source:
+
+ Farming (Level 4)
+
+
+Ingredients:
+
+ Wood (50) Stone (40) Coal (8)
+
+
+ For a detailed analysis of profit using the Preserves Jar, see Preserves Jar Productivity.
+The Preserves Jar is a type of Artisan Equipment used to make Artisan Goods.  Fruit makes Jelly, Vegetables make Pickles, Sturgeon Roe makes Caviar, and other fish Roe make their respective Aged Roe.
+A Preserves Jar is the reward for completing the  Quality Crops Bundle in the Pantry or the  Rare Crops Bundle in the Pantry (Remixed).
+
+Contents
+
+1 Products
+2 Preserves Jar vs. Keg
+3 Storage Options
+4 Trivia
+5 References
+6 History
+
+
+Products
+Quality of ingredients makes no difference to the finished product. The value of the finished product is determined using the base value (i.e., with no silver or gold star) of the item. However, the preserved version is always more profitable than even gold star produce, although the profit margin is lower compared to normal produce.
+Note that processing times are approximate, since time passes differently from 2am to 6am.  One hour = 60 minutes from 6am to 2am, but 1 hour = 100 minutes from 2am to 6am. One full day is 1600 minutes, where day is 1200 minutes and night is 400 minutes.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Processing Time[1]
+
+Sell Price
+
+Energy / Health
+
+
+
+
+Pickles
+
+A jar of your home-made pickles.
+
+Any vegetable (1) or  Ginger (1)
+
+ 4000m (2-3 days)
+
+2 × Base Vegetable Price + 50
+
+Inedible
+
+
+
+
+Jelly
+
+Gooey.
+
+Any fruit (1)
+
+ 4000m (2-3 days)
+
+2 × Base Fruit Price + 50
+
+Inedible
+
+
+
+
+Caviar
+
+The cured roe of a sturgeon fish. Considered to be a luxurious delicacy!
+
+ Sturgeon Roe (1)
+
+ 6000m (4 days)
+
+500g
+
+17578
+
+
+
+
+Aged Roe
+
+Fish eggs aged in salt to bring out the flavor.
+
+ Roe (1)
+
+ 4000m (2-3 days)
+
+2 × base Roe sell price
+
+10045
+
+
+Notes
+
+Items that have a 4000m processing time starting at 6:00am are done at 7:20pm two days later. Items starting between 12:40pm and 7:20pm are done at 6:00am three days later.
+If Caviar processing is started at 6am it finishes at 2am three days later, making it impossible to collect that day. It is ready four days later at the start of the day if processing begins before 12:40 pm.
+Preserves Jar vs. Keg
+See also: Preserves Jar Productivity, Keg Productivity
+The Preserves Jar increases the profit of a crop using the following equation: (2 × Base Crop Value + 50); while the Keg multiplies the base value of Fruits by 3, and Vegetables by 2.25. Because of this, low-value, high-yield crops like Corn or Tomatoes are more valuable in the preserves jar. The keg, on the other hand, favors crops with a much higher base value, such as Ancient Fruit or Melons. The breakpoint is 50g for fruits and 200g for vegetables.
+Below is a list of crops that are more beneficial to be put in the preserves jar, along with their raw base sell price.
+
+
+
+Vegetables
+
+Fruits
+
+
+
+ Amaranth (150g)
+ Artichoke (160g)
+ Beet (100g)
+ Bok Choy (80g)
+ Cauliflower (175g)
+ Corn (50g)
+ Eggplant (60g)
+ Fiddlehead Fern (90g)
+ Garlic (60g)
+ Green Bean (40g)
+ Kale (110g)
+ Parsnip (35g)
+ Potato (80g)
+ Radish (90g)
+ Taro Root (100g)
+ Tea Leaves (50g)
+ Tomato (60g)
+ Unmilled Rice (30g)
+ Yam (160g)
+
+
+ Apricot (50g)*
+ Blackberry (20g)
+ Blueberry (50g)*
+ Hot Pepper (40g)
+ Qi Fruit (1g)
+ Salmonberry (5g)
+
+*Wine and jelly each sell for 150g, but jelly processes faster than wine.
+It should be noted that these calculations only involve the value gained in terms of max profit; if looking at profit per day based on the time required, the preserves jar outpaces the keg regardless of the base value of the item (in every case except for Hops and Wheat) since the preserves jar has a much faster processing time.
+
+Storage Options
+See also: Keg storage options, Crafted goods outside the farm
+While Preserves Jars can be stored anywhere on the farm, it is more space efficient to store them inside farm buildings or outside the farm altogether.
+
+Trivia
+The description of the Preserves Jar states that it makes Jam, but it actually produces Jelly.
+The description of the Preserves Jar was not updated to include fish roe or caviar in version 1.4.
+References
+
+↑ See Object::performObjectDropInAction in the game code and Data/ObjectInformation.xnb for corresponding items IDs and categories.
+
+
+History
+1.4: Added ability to make Caviar and Aged Roe.  Adjusted processing time so that machines process 100 minutes from 2am to 6am, not every hour the player is asleep. Preserves Jars can now be stacked in a player's inventory and in chests.
+1.5: Pickled Ginger Added.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Preserves_Jar&oldid=142968"
+Category: Craftable items
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 15:10.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

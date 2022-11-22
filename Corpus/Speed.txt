@@ -1,0 +1,1070 @@
+
+
+
+
+
+Speed - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Speed
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+There are two distinct Speed statistics:  Weapon Speed refers to how long it takes to hit an enemy with a weapon;  Player Speed refers to how fast the player moves. Each can be affected in a variety of ways.
+
+Contents
+
+1 Weapon Speed
+
+1.1 Weapons
+1.2 Rings
+
+
+2 Player Speed
+
+2.1 Food and Drink
+2.2 Buffs
+2.3 Terrain
+
+
+
+
+ Weapon Speed
+Weapons
+The following Weapons swipe faster or slower than normal.
+
+
+
+Image
+
+Name
+
+Level
+
+Description
+
+Damage
+
+Stats
+
+Location
+
+Purchase Price
+
+Sell Price
+
+
+
+
+Steel Smallsword
+
+1
+
+A standard metal blade.
+
+04-08
+
+ Speed (+2)
+
+Chest at level 20 in The Mines.
+
+N/A
+
+100g
+
+
+
+
+Dark Sword
+
+9
+
+It's glowing with vampire energy.
+
+30-45
+
+ Speed (−5) Weight (+5)
+
+Haunted Skull drop
+
+N/A
+
+400g
+
+
+
+
+Pirate's Sword
+
+2
+
+It looks like a pirate owned this once.
+
+08-14
+
+ Speed (+2)
+
+Below level 20 in The Mines. Purchase at Adventurer's Guild after reaching level 30 in The Mines.
+
+850g
+
+100g
+
+
+
+
+Cutlass
+
+3
+
+A finely crafted blade.
+
+09-17
+
+ Speed (+2)
+
+Purchase at Adventurer's Guild after reaching level 25 in The Mines.
+
+1,500g
+
+150g
+
+
+
+
+Forest Sword
+
+3
+
+Made powerful by forest magic.
+
+08-18
+
+ Speed (+2)  Defense (+1)
+
+Rare drop levels 20-60 in The Mines.
+
+N/A
+
+150g
+
+
+
+
+Insect Head
+
+4
+
+Not very pleasant to wield.
+
+10-20
+
+ Speed (+2)
+
+Rare drop from bugs. Reward for killing 125 cave insects. Available for purchase at Adventurer's Guild after killing 125 bugs.
+
+10,000g
+
+200g
+
+
+
+
+Iron Edge
+
+3
+
+A heavy broadsword.
+
+12-25
+
+ Speed (−2) Defense (+1) Weight (+3)
+
+Below level 40 in The Mines.
+
+N/A
+
+150g
+
+
+
+
+Rapier
+
+4
+
+An elegant blade.
+
+15-25
+
+ Speed (+2)
+
+Unobtainable
+
+N/A
+
+200g
+
+
+
+
+Claymore
+
+5
+
+It's really heavy.
+
+20-32
+
+ Speed (−4) Defense (+2) Weight (+3)
+
+Purchase at Adventurer's Guild after reaching level 45 in The Mines.
+
+2,000g
+
+250g
+
+
+
+
+Neptune's Glaive
+
+5
+
+An heirloom from beyond the Gem Sea.
+
+18-35
+
+ Speed (−1) Defense (+2) Weight (+4)
+
+Fishing Treasure Chests
+
+N/A
+
+250g
+
+
+
+
+Obsidian Edge
+
+6
+
+It's incredibly sharp.
+
+30-45
+
+ Speed (−1) Crit. Power (+10)
+
+Chest at level 90 in The Mines.
+
+N/A
+
+300g
+
+
+
+
+Bone Sword
+
+5
+
+A very light piece of sharpened bone.
+
+20-30
+
+ Speed (+4) Weight (+2)
+
+Purchase at Adventurer's Guild after reaching level 75 in The Mines.
+
+6,000g
+
+250g
+
+
+
+
+Ossified Blade
+
+6
+
+A large, sharp blade formed from bone.
+
+26-42
+
+ Speed (−2) Defense (+1) Weight (+2)
+
+The Mines floor 90 chest reward (remixed mine rewards only)
+
+N/A
+
+300g
+
+
+
+
+Steel Falchion
+
+8
+
+Light and powerful.
+
+28-46
+
+ Speed (+4) Crit. Power (+20)
+
+Purchase at Adventurer's Guild after reaching level 90 in The Mines.
+
+9,000g
+
+400g
+
+
+
+
+Dwarf Sword
+
+13
+
+It's ancient, but the blade never dulls.
+
+65-75
+
+ Speed (+2) Defense (+4)
+
+Volcano Dungeon Chest
+
+N/A
+
+650g
+
+
+
+
+Galaxy Sword
+
+13
+
+It's unlike anything you've ever seen.
+
+60-80
+
+ Speed (+4)
+
+Bring a Prismatic Shard to the Three Pillars in the Desert; Holding the shard, enter the center tile between the three pillars (Only one). Purchase from Adventurer's Guild after obtaining at The Desert.
+
+50,000g
+
+650g
+
+
+
+
+Tempered Broadsword
+
+7
+
+It looks like it could withstand anything.
+
+29-44
+
+ Speed (−3) Defense (+3) Weight (+3)
+
+Skull Cavern
+
+N/A
+
+350g
+
+
+
+
+Infinity Blade
+
+17
+
+The true form of the Galaxy Sword.
+
+80-100
+
+ Speed (+4) Defense (+2)
+
+Combine the Galaxy Sword with  Galaxy Soul (3) and  Cinder Shard (60) in the Forge
+
+N/A
+
+850g
+
+
+
+
+Dwarf Dagger
+
+11
+
+It's ancient, but the blade never dulls.
+
+32-38
+
+ Speed (+1) Defense (+6) Crit. Chance (+2) Weight (+5)
+
+Volcano Dungeon Chest
+
+N/A
+
+550g
+
+
+
+
+Galaxy Dagger
+
+8
+
+It's unlike anything you've seen.
+
+30-40
+
+ Speed (+1) Crit. Chance (+1) Weight (+5)
+
+Adventurer's Guild (after obtaining the Galaxy Sword)
+
+35,000g
+
+400g
+
+
+
+
+Infinity Dagger
+
+16
+
+The true form of the Galaxy Dagger.
+
+50-70
+
+ Speed (+1) Defense (+3) Crit. Chance (+4) Weight (+5)
+
+Combine the Galaxy Dagger with  Galaxy Soul (3) in the Forge
+
+N/A
+
+800g
+
+
+
+
+Femur
+
+2
+
+An old, heavy bone caked in centuries of grime.
+
+6-11
+
+ Speed (+2)
+
+The Mines floor 10 chest reward (remixed mine rewards only)
+
+N/A
+
+100g
+
+
+
+
+Wood Mallet
+
+3
+
+The solid head packs a punch. Relatively light for a club.
+
+15-24
+
+ Speed (+2) Weight (+2)
+
+The Mines floor 60 chest reward (remixed mine rewards only)The Mines (Floors 41-79)Adventurer's Guild (after unlocking the Mines floor 40)
+
+2,000g
+
+150g
+
+
+
+
+Lead Rod
+
+4
+
+It's incredibly heavy.
+
+18-27
+
+ Speed (−4)
+
+The Mines (Floors 41-79)
+
+N/A
+
+200g
+
+
+
+
+Kudgel
+
+5
+
+A brute's companion.
+
+27-40
+
+ Speed (−1) Crit. Power (+4) Weight (+2)
+
+The Mines floor 80 chest reward (remixed mine rewards only)The Mines (Floors 101+)
+
+N/A
+
+250g
+
+
+
+
+The Slammer
+
+7
+
+An extremely heavy gavel that'll send foes flying.
+
+40-55
+
+ Speed (−2)
+
+The Mines floor 110 chest reward (remixed mine rewards only)The Mines (Floors 81-99)Skull Cavern
+
+N/A
+
+350g
+
+
+
+
+Galaxy Hammer
+
+12
+
+It's made from an ultra-light material you've never seen before.
+
+70-90
+
+ Speed (+2) Weight (+5)
+
+Adventurer's Guild (after obtaining the Galaxy Sword)
+
+75,000g
+
+600g
+
+
+
+
+Infinity Gavel
+
+17
+
+The true form of the Galaxy Hammer.
+
+100-120
+
+ Speed (+2) Defense (+1) Weight (+5)
+
+Combine the Galaxy Hammer with  Galaxy Soul (3) in the Forge
+
+N/A
+
+850g
+
+Rings
+The following rings increase Weapon Speed:
+
+
+
+Image
+
+Name
+
+Description
+
+Location
+
+Purchase Price
+
+Sell Price
+
+
+
+
+Emerald Ring
+
+Increases weapon speed by 10%.
+
+Purchase from Adventurer's Guild after reaching level 40 in The Mines
+
+5,000g
+
+300g
+
+ Player Speed
+The player's base speed is:
+
+2 when walking
+5 when running
+6.6 when riding a Horse
+A variety of positive and negative Buffs can change the player speed, as detailed under Food and Drink and Buffs. In theory, five speed-related buffs could be simultaneously active, three positive (maximum +4 Speed) and two negative (minimum -5 Speed).
+Finally, speed is also affected by some terrains, but not when riding a horse.
+Although terrain and/or debuffs may decrease a player speed, the speed is never decreased below 1.
+
+Food and Drink
+The following foods and drinks increase Player Speed. Only one drink-derived buff and one food-derived buff can be active at a given time, so +2 Speed is possible only if the +1 Speed from a drink (Coffee and Triple Shot Espresso) is stacked with the +1 Speed from one of the food items.
+Coffee is available at The Stardrop Saloon every day for 300g, but the other dishes may appear only randomly on Gus' menu.
+
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Magic Rock Candy
+
+A rare and powerful candy infused with the essence of the prismatic shard.
+
+N/A
+
+500225
+
+ Mining (+2) Luck (+5) Speed (+1) Defense (+5) Attack (+5)
+
+ 8m 24s
+
+N/A - Purchased, earned, or dropped by Haunted Skulls
+
+5,000g
+
+
+
+
+Coffee
+
+It smells delicious. This is sure to give you a boost.
+
+ Coffee Bean (5)
+
+31
+
+ Speed (+1)
+
+ 1m 23s
+
+N/A - Purchased or produced in a Keg
+
+150g
+
+
+
+
+Crab Cakes
+
+Crab, bread crumbs, and egg formed into patties then fried to a golden brown.
+
+ Crab (1) Wheat Flour (1) Egg (1) Oil (1)
+
+ 225 101
+
+ Speed (+1) Defense (+1)
+
+ 16m 47s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Fall, Year 2
+
+
+275g
+
+
+
+
+Pepper Poppers
+
+Spicy breaded peppers filled with cheese.
+
+ Hot Pepper (1) Cheese (1)
+
+ 130 58
+
+ Farming (+2) Speed (+1)
+
+ 7m
+
+ Shane (Mail - 3+ )
+
+200g
+
+
+
+
+Spicy Eel
+
+It's really spicy! Be careful.
+
+ Eel (1) Hot Pepper (1)
+
+ 115 51
+
+ Luck (+1) Speed (+1)
+
+ 7m
+
+ George (Mail - 7+ )
+
+175g
+
+
+
+
+Super Meal
+
+It's a really energizing meal.
+
+ Bok Choy (1) Cranberries (1) Artichoke (1)
+
+ 160 72
+
+ Max Energy (+40) Speed (+1)
+
+ 3m 30s
+
+ Kent (Mail - 7+ )
+
+220g
+
+
+
+
+Triple Shot Espresso
+
+It's more potent than regular coffee!
+
+ Coffee (3)
+
+ 8 3
+
+ Speed (+1)
+
+ 4m 12s
+
+ Stardrop Saloon for 5,000g
+
+450g
+
+
+Buffs
+The following Buffs decrease or increase the Player Speed.  All five of these special-effect buffs can be simultaneously active, and can stack on top of two +1 Speed buffs from food and drink.
+
+
+
+Image
+
+Name
+
+Effect
+
+Cause
+
+Duration
+
+
+
+
+Adrenaline Rush
+
+ Speed (+2)
+
+Killing an enemy while wearing a Savage Ring
+
+ 3s
+
+
+
+
+Slimed
+
+ Speed (−4)
+
+Being hit by a Slime
+
+ 2.5-3s
+
+
+
+
+Tipsy
+
+ Speed (−1)
+
+Consuming alcohol (Beer, Mead, Pale Ale, or Wine)
+
+ 30s
+
+
+
+
+Burnt
+
+ Attack (-3) Defense (-3) Speed (-2)
+
+Being hit by a Magma Sparker
+
+ 6s
+
+
+
+
+Frozen
+
+ Speed (-8)
+
+Being hit by a Skeleton Mage
+
+ 2s
+
+
+Terrain
+Three types of terrain can alter the player's speed, but only if the player is not riding a horse.
+
+Flooring has a +0.1 Speed boost, but only when located outside on The Farm.
+Grass has a -1 Speed penalty.
+Crops have a -1 Speed penalty, but only if the player is running.  Seeds do not count as crops.
+
+
+Skills & Stats
+
+
+Skills
+
+Farming • Mining • Foraging • Fishing • Combat
+
+
+Stats
+
+Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Speed&oldid=143363"
+Category: Buffs
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 7 November 2022, at 01:08.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

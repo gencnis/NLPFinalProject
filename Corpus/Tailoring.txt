@@ -1,0 +1,2960 @@
+
+
+
+
+
+Tailoring - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tailoring
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+ The sewing machine interface.
+For instructions on how to dye clothing using the Sewing Machine or Dye Pots, see Dyeing.
+Tailoring involves creating new shirts, pants, skirts, shorts, and hats at the sewing machine located inside Emily and Haley's house.  Boots and shoes can also be custom-tailored, which does not create a new item, but transfers the stats from one pair to another.
+Tailoring and Dyeing are unlocked in a cutscene the day after the player acquires at least 1 Cloth. Emily will appear in front of the player's house and tell them that they can tailor clothes using the sewing machine at her house.
+Each item requires Cloth in the feed and one other item on the spool.  Prismatic clothing is random, so Cloth + Prismatic Shard can produce any of the 5 prismatic clothing items (including duplicates).
+Shirts, Pants, and Hats cannot be sold anywhere in Stardew Valley.  Boots/Shoes can be sold to the Adventurer's Guild.
+
+Contents
+
+1 Shirts
+2 Pants
+3 Hats
+4 Boots
+5 Notes
+6 History
+
+
+Shirts
+Shirts chosen at character creation at the start of the game are not dyeable.  Their corresponding tailored versions may be dyeable, after being created at the sewing machine.
+The Oasis sells a random Shirt each day of the week for 1,000g.  Shirts that can be chosen at character creation but cannot be Tailored or obtained any other way may be sold at the Oasis.
+Note that there are three shirts called "Bandana Shirt", none of which are dyeable.  The non-dyeable "Sailor Shirt" chosen at character creation is visually nearly identical to the dyeable "Sailor Shirt" that can be created with a variety of fish, and has a dyeable neckerchief.
+For dyeable shirts that can be created with more than one item, the color depends on the item used to Tailor it.
+
+
+
+Image
+
+Name
+
+Description
+
+Dyeable
+
+Special Property / Notes
+
+Recipe (Cloth + )
+
+
+
+Classic Overalls
+A farming classic.
+No
+Can be chosen at character creation
+ Complete Breakfast
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Clay
+
+
+
+Mint Blouse
+A cute, light green blouse.
+No
+Can be chosen at character creation
+ Dandelion
+
+
+
+Dark Shirt
+A dark colored shirt.
+No
+Can be chosen at character creation
+ Bat Wing
+
+
+
+Skull Shirt
+A shirt with a menacing skull printed on it.
+No
+Can be chosen at character creation.Can be dropped by Haunted Skulls.
+ Prehistoric Skull
+
+
+
+Light Blue Shirt
+A light blue shirt.
+No
+Can be chosen at character creation
+ Mayonnaise
+
+
+
+Tan Striped Shirt
+A tan shirt with a white stripe going through the middle of it.
+No
+Can be chosen at character creation
+ Sap
+
+
+
+Green Overalls
+A slightly less popular farming classic.
+No
+Can be chosen at character creation
+ Fiddlehead Fern
+
+
+
+"Good Grief" Shirt
+A good ol' shirt...
+No
+Can be chosen at character creation
+ Wild Horseradish
+
+
+
+Aquamarine Shirt
+An aquamarine shirt.
+No
+Can be chosen at character creation
+ Duck Mayonnaise
+
+
+
+Suit Top
+A formal top for fancy events and celebrations.
+No
+Can be chosen at character creation
+ Bouquet
+
+
+
+Green Belted Shirt
+A green, belted shirt.
+No
+Can be chosen at character creation
+ Cave Carrot
+
+
+
+Lime Green Striped Shirt
+A lime green shirt with white stripes.
+No
+Can be chosen at character creation
+ Duck Feather
+
+
+
+Red Striped Shirt
+A red shirt with white stripes.
+No
+Can be chosen at character creation
+ Cranberry Candy
+
+
+
+Skeleton Shirt
+A shirt with a skeletal rib cage printed on it.
+No
+Can be chosen at character creation.Can be dropped by Haunted Skulls.
+ Prehistoric Rib Prehistoric Scapula Prehistoric Vertebra Skeletal Hand Skeletal Tail Bone Fragment Fossilized Skull Fossilized Spine Fossilized Tail Fossilized Leg Fossilized Ribs Snake Skull Snake Vertebrae Mummified Bat Mummified Frog
+
+
+
+Orange Shirt
+An orange shirt.
+No
+Can be chosen at character creation
+ Chanterelle
+
+
+
+Night Sky Shirt
+A shirt that reminds you of the night sky.
+No
+Can be chosen at character creation
+ Blueberry Tart
+
+
+
+Mayoral Suspenders
+A pair of suspenders that looks awfully familiar...
+No
+Can be chosen at character creation
+ Vegetable Medley
+
+
+
+Brown Jacket
+A nice, sturdy jacket made of brown material.
+No
+Can be chosen at character creation
+ Mudstone
+
+
+
+Sailor Shirt
+Reminds you of the open sea.
+No
+Can be chosen at character creation
+
+
+
+
+Green Vest
+A neat green vest over a shirt.
+No
+Can be chosen at character creation
+ Bean Hotpot
+
+
+
+Yellow and Green Shirt
+A yellow shirt with a green stripe.
+No
+Can be chosen at character creation
+ Omelet
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Goat Milk
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Large Goat Milk
+
+
+
+Light Blue Striped Shirt
+A light blue shirt with a white stripe.
+No
+Can be chosen at character creation
+ Rice Pudding
+
+
+
+Pink Striped Shirt
+A pink shirt with stripes.
+No
+Can be chosen at character creation
+ Bug Meat
+
+
+
+Heart Shirt
+Wear your heart on your sleeves with this extra soft garment.
+Yes (heart)
+Non-dyeable version can be chosen at character creation
+ Strange Bun
+
+
+
+Work Shirt
+For long days in the fields.
+No
+Can be chosen at character creation
+ Stone
+
+
+
+Store Owner's Jacket
+A jacket that looks like it'd be worn by a small town merchant.
+No
+Can be chosen at character creation
+ Fried Calamari
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Baked Fish
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Salmonberry
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Salad
+
+
+
+Green Tunic
+A shirt fit for an adventurer.
+No
+Can be chosen at character creation
+ Ancient Sword
+
+
+
+Fancy Red Blouse
+A bright red blouse adorned with shiny yellow buttons.
+No
+Can be chosen at character creation
+ Holly
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Sashimi
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Maki Roll
+
+
+Male version: Female version: 
+Plain Shirt
+A simple shirt.
+No
+Can be chosen at character creation
+ Wool
+
+
+
+Retro Rainbow Shirt
+A simple shirt with a faded rainbow pattern.
+No
+Can be chosen at character creation
+ Ice Cream
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Lime Green Tunic
+A bright green tunic with a belt.
+No
+Can be chosen at character creation
+ Leek
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Snow Yam
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Hardwood
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Coal
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Sweet Pea
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Pink Cake
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Lucky Lunch
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Roasted Hazelnuts
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Fried Eel
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Fire Quartz
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Blackberry Cobbler
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Pumpkin Soup
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Bread
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Opal
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Rhubarb Pie
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Crystal Fruit
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Artichoke Dip
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Cheese
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Daffodil
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Farmer's Lunch
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Algae Soup
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Fairy Stone
+
+
+
+White Overalls Shirt
+Classic overalls with a white shirt and belt.
+No
+Can be chosen at character creation
+ Milk
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Fruit Salad
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Thunder Egg
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Common Mushroom
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Wild Bait
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Cookie
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Crocus
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Blackberry
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Alamite
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Void Egg
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Ruby
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Slate
+
+
+
+Neat Bow Shirt
+A neat button down shirt with a prominent bow tie.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Parsnip Soup
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Amethyst
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Pickles (any)
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Jelly (any)
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Goat Cheese
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Earth Crystal
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Rabbit's Foot
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Slime
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Basalt
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Neptunite
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Purple Mushroom
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Celestine
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Bixite
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Limestone
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Ghost Crystal
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Geminite
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Joja Cola
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Battery Pack
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Nekoite
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+
+
+
+
+Shirt
+A wearable shirt.
+No
+Can be chosen at character creation
+ Crispy Bass
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Fried Mushroom
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Dolomite
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Eggplant Parmesan
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Aerinite
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Salmon Dinner
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Roots Platter
+
+
+
+Shirt
+A wearable shirt.
+No
+Randomly sold at the Oasis
+N/A
+
+
+
+Shirt
+A wearable shirt.
+No
+Randomly sold at the Oasis
+N/A
+
+
+
+Shirt
+A wearable shirt.
+No
+Randomly sold at the Oasis
+N/A
+
+
+
+Shirt
+A wearable shirt.
+No
+Randomly sold at the Oasis
+N/A
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Granite
+
+
+
+Shirt And Tie
+A white dress shirt and a tie.
+Yes (necktie)
+
+ Bruschetta
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Fish Stew
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Lobster Bisque
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Coleslaw
+
+
+
+Emily's Magic Shirt
+Made with love by Emily. Colored with all-natural dye!
+No
+Given in Emily's 14-heart event
+
+
+
+
+Striped Shirt
+It's a shirt with faint stripes on it.
+Yes
+
+ Corn
+
+
+Male version: Female version: 
+Tank Top
+A sleeveless shirt.
+Yes
+Sleeveless
+ Radish Red Cabbage
+
+
+
+Cowboy Poncho
+A legendary outfit from the old west.
+Yes (but it will have no effect unless the corresponding asset is fixed manually or with a mod)
+
+ Rusty Spur
+
+
+Male version: Female version: 
+Crop Tank Top
+A sleeveless shirt cut extra short on the bottom.
+Yes
+Sleeveless
+ Wheat
+
+
+
+Bikini Top
+A summer staple.
+Yes
+Sleeveless
+ Rainbow Shell
+
+
+
+Wumbus Shirt
+A shirt featuring a strange green guy.
+No
+
+ Strange Doll (green)
+
+
+Female version: Male version: 
+80's Shirt
+A gnarly t-shirt that sits off the shoulder.
+Yes
+
+ Cactus Fruit
+
+
+
+Letterman Jacket
+A jacket that's oozing with team spirit.
+Yes (The red on the jacket)
+
+ Energy Tonic
+
+
+
+Black Leather Jacket
+A cool jacket made of dark black leather.
+No
+
+ Beer Mead Pale Ale Wine (any) Piña Colada
+
+
+
+Strapped Top
+A top with a thin strap.
+Yes
+Sleeveless
+ Coral Nautilus Shell Sea Urchin
+
+
+
+Button Down Shirt
+A simple, clean shirt.
+Yes
+
+ Artichoke Beet Bok Choy Eggplant Pumpkin Yam
+
+
+
+Crop Top Shirt
+A shirt cut extra short on the bottom.
+Yes
+
+ Amaranth
+
+
+
+Tube Top
+A strapless top that wraps around the body.
+Yes
+Sleeveless
+ Sea Cucumber Super Cucumber
+
+
+
+Tye Die Shirt
+A shirt that was tied up and then dipped into multiple colored dyes.
+No
+
+Unobtainable
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Emerald
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Aquamarine
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Topaz
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Jade
+
+
+
+Steel Breastplate
+Decorative armor made from steel.
+No
+
+ Iron Bar
+
+
+
+Copper Breastplate
+Decorative armor made from copper.
+No
+
+ Copper Bar
+
+
+
+Gold Breastplate
+Decorative armor made from solid gold.
+No
+
+ Gold Bar
+
+
+
+Iridium Breastplate
+Decorative armor made from pure iridium.
+No
+
+ Iridium Bar
+
+
+
+Fake Muscles Shirt
+You could hit the gym, or you could just wear this instead.
+Yes
+
+ Muscle Remedy
+
+
+
+Flannel Shirt
+A nice thick button down shirt with a cross-hatch pattern. Perfect for cold winters.
+Yes
+
+ Coffee Bean
+
+
+
+Bomber Jacket
+A thick, sturdy jacket worn by fighter pilots long ago.
+No
+
+ Cherry Bomb Bomb Mega Bomb
+
+
+
+Caveman Shirt
+A stone-age classic!
+No
+Sleeveless
+ Prehistoric Handaxe Prehistoric Tool
+
+
+
+Fishing Vest
+Lots of pockets to store your tackle.
+No
+
+ Bullhead Carp Chub Largemouth Bass Lingcod Perch Pike Smallmouth Bass Sturgeon Walleye Woodskip
+
+
+
+Fish Shirt
+A shirt with a fish logo.
+Yes (fish)
+
+ Bream Catfish Dorado Ghostfish Rainbow Trout Sandfish Shad Sunfish Tiger Trout
+
+
+
+Shirt And Belt
+A plain shirt with a brown belt.
+Yes
+
+ Cauliflower Garlic Green Bean Hops Kale Parsnip Potato Taro Root Tea Leaves Unmilled Rice
+
+
+
+Gray Hoodie
+A sporty gray pullover with a hood.
+No
+
+ Geode
+
+
+
+Blue Hoodie
+A sporty blue pullover with a hood.
+No
+
+ Frozen Geode
+
+
+
+Red Hoodie
+A sporty red pullover with a hood.
+No
+
+ Magma Geode
+
+
+
+Denim Jacket
+A rugged jacket made from denim.
+No
+
+ Field Snack
+
+
+
+Track Jacket
+A light jacket made from elastic material.
+No
+
+ Pancakes
+
+
+
+White Gi
+A loose garment typically worn by martial artists.
+No
+
+ Pale Broth
+
+
+
+Orange Gi
+A loose garment typically worn by martial artists.
+Yes (blue portion)
+Sleeveless
+ Vinegar
+
+
+
+Gray Vest
+A gray vest over a white shirt.
+No
+
+ Quartz
+
+
+
+Kelp Shirt
+It looks like you just washed up on the beach. Smells like it, too.
+No
+Sleeveless
+ Seaweed
+
+
+
+Studded Vest
+A black vest studded with metal spikes.
+No
+Sleeveless
+ Obsidian
+
+
+
+Gaudy Shirt
+It's a therapeutic blue...
+No
+
+ Soapstone
+
+
+
+Oasis Gown
+The jewel of the desert.
+No
+Sleeveless
+ Tom Kha Soup
+
+
+
+Blacksmith Apron
+Handed down from one generation to the next.
+No
+
+ Fiddlehead Risotto
+
+
+
+Neat Bow Shirt
+A neat button down shirt with a prominent bow tie.
+Yes
+
+Unobtainable
+
+
+
+High-Waisted Shirt
+The high-waisted pants look, with a dyeable bottom.
+Yes (bottom)
+
+ Basic Fertilizer Basic Retaining Soil Speed-Gro Tree Fertilizer
+
+
+
+High-Waisted Shirt
+The high-waisted jeans look, with a dyeable top.
+Yes (top)
+
+ Deluxe Speed-Gro Quality Fertilizer Quality Retaining Soil
+
+
+Male version: Female version: 
+Basic Pullover
+It's a plain pullover.
+Yes
+
+ Fiber Wood
+
+
+
+Turtleneck Sweater
+Keep that neck piping hot.
+Yes
+
+ Copper Ore Iron Ore Gold Ore Radioactive Ore
+
+
+
+Iridium Energy Shirt
+Show off your iridium energy.
+No
+
+ Iridium Ore
+
+
+
+Tunnelers Jersey
+It's a jersey for the Zuzu City Tunnelers.
+No
+
+ Pepper Poppers
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Baryte
+
+
+
+Shirt
+A wearable shirt.
+No
+
+ Calcite
+
+
+
+Gray Suit
+It's a custom-tailored gray suit.
+No
+
+ Esperite
+
+
+
+Red Tuxedo
+An elegant top for formal events.
+No
+
+ Red Plate
+
+
+
+Navy Tuxedo
+An elegant top for formal events.
+No
+
+ Rare Disc
+
+
+
+Holiday Shirt
+Celebrate the Feast of the Winter Star.
+No
+
+ Pumpkin Pie
+
+
+
+Leafy Top
+Real leaves adorn this garment.
+No
+
+ Jagoite
+
+
+
+Goodnight Shirt
+A big baggy nightshirt with a detailed moon graphic.
+No
+
+ Lunarite
+
+
+
+Green Belted Shirt
+A green shirt with a belt.
+No
+
+ Malachite
+
+
+
+Happy Shirt
+It's the happiest shirt.
+No
+
+ Lemon Stone
+
+
+
+Shirt with Bow
+This shirt comes with a little bow around the neck.
+Yes
+
+ Orpiment
+
+
+
+Jester Shirt
+Put your inner clown on display.
+No
+
+ Pyrite
+
+
+
+Ocean Shirt
+The shirt looks like underwater ripples.
+No
+
+ Ocean Stone
+
+
+ 
+Dark Striped Shirt
+A dark shirt with colorful stripes.
+Yes (stripes)
+
+ Tigerseye
+
+
+
+Bandana Shirt
+A shirt with a bandana to keep your neck soft.
+No
+
+ Jasper
+
+
+
+Backpack Shirt
+A plain shirt with a canvas backpack.
+Yes
+
+ Sandstone
+
+
+
+Purple Blouse
+A stunning purple blouse.
+No
+
+ Fire Opal
+
+
+
+Vintage Polo
+It's faded from age and smells like old closet.
+No
+
+ Hematite
+
+
+
+Toga Shirt
+It's an old design, but the airflow is really nice!
+No
+Sleeveless
+ Marble
+
+
+
+Star Shirt
+The star is supposed to glow in the dark, but it doesn't.
+Yes (star)
+
+ Star Shards
+
+
+Male version: Female version: 
+Classy Top
+It feels like the softest velvet.
+No
+
+ Helvite
+
+
+
+Bandana Shirt
+A shirt with a bandana to shield your neck from harm.
+No
+
+ Kyanite
+
+
+
+Vacation Shirt
+It's a tourist shirt from the Fern Islands.
+No
+
+ Coconut
+
+
+
+Green Thumb Shirt
+It comes pre-rubbed with potting soil.
+No
+
+ Jamborite
+
+
+
+Bandana Shirt
+A shirt with a bandana to keep your neck soft.
+No
+
+ Fluorapatite
+
+
+
+Slime Shirt
+A shirt that looks like a big slime.
+No
+
+ Petrified Slime
+
+
+
+Excavator Shirt
+Look sharp while digging for fossils.
+No
+
+ Amphibian Fossil Nautilus Fossil Palm Fossil Trilobite
+
+
+
+Sports Shirt
+Knock it out of the park with this classic look.
+Yes (just the sleeves)
+
+ Juice (any)
+
+
+
+Dark Jacket
+A dark denim jacket lined with fleece.
+No
+
+ Frozen Tear
+
+
+
+Sunset Shirt
+A shirt inspired by the most evocative time of day.
+No
+
+ Glazed Yams
+
+
+
+Chef Coat
+The traditional uniform of a head chef.
+No
+
+ Escargot
+
+
+
+Shirt O' The Sea
+It smells like the brine of the sea.
+No
+
+ Dish O' The Sea
+
+
+
+Arcane Shirt
+You can feel a certain power from this garment.
+No
+
+ Void Essence
+
+
+
+Plain Overalls
+Classic overalls with a shirt that can be dyed.
+Yes (shirt)
+
+ Egg
+
+
+
+Sleeveless Overalls
+Classic overalls with a sleeveless shirt that can be dyed.
+Yes (shirt)
+Sleeveless
+ Large Milk
+
+
+
+Cardigan
+A soft button-up cardigan sweater.
+Yes
+
+ Large Egg
+
+
+
+Yoba Shirt
+A shirt featuring a prominent 'sign of the vessel'.
+No
+
+ Solar Essence
+
+
+
+Necklace Shirt
+A shirt with a gold necklace.
+Yes
+
+ Refined Quartz
+
+
+
+Belted Coat
+A velvety black coat with a prominent belt.
+No
+
+ Autumn's Bounty
+
+
+
+Gold Trimmed Shirt
+A shirt with a gold trim.
+Yes
+
+ Dwarf Scroll I Dwarf Scroll II Dwarf Scroll III Dwarf Scroll IV
+
+
+
+Prismatic Shirt
+It's shimmering with prismatic energy.
+No
+Prismatic (rectangle on front)
+ Prismatic Shard
+
+
+
+Pendant Shirt
+A shirt with a big pendant.
+Yes
+
+ Diamond
+
+
+
+High Heat Shirt
+The shirt almost looks like it's on fire!
+No
+
+ Torch
+
+
+
+Flames Shirt
+Look cool with hot flames.
+No
+
+ Spicy Eel
+
+
+
+Antiquity Shirt
+A shirt with an ancient pattern.
+No
+
+ Chipped Amphora
+
+
+
+Soft Arrow Shirt
+A soft-colored shirt with an upward arrow pattern.
+No
+
+ Arrowhead
+
+
+
+Doll Shirt
+A shirt featuring a strange ancient doll face.
+No
+
+ Ancient Doll
+
+
+
+Jewelry Shirt
+A shirt with a simple golden chain.
+No
+
+ Elvish Jewelry
+
+
+
+Canvas Jacket
+A brown jacket with a fleece lining.
+No
+
+ Chewing Stick
+
+
+
+Trash Can Shirt
+You're wearing a trash can.
+No
+Sleeveless
+ Broken CD Broken Glasses Driftwood Soggy Newspaper Trash (item)
+
+
+
+Rusty Shirt
+It's made to look like the shirt is full of rust.
+No
+
+ Rusty Spoon
+
+
+
+Circuitboard Shirt
+The shirt looks like an electronics circuitboard.
+No
+
+ Rusty Cog
+
+
+
+Fluffy Shirt
+It's fuzzy.
+No
+
+ Chicken Statue
+
+
+
+Sauce-Stained Shirt
+It's already covered in spaghetti sauce so you don't have to feel guilty about it!
+No
+
+ Spaghetti
+
+
+
+Brown Suit
+It's a standard brown business suit.
+No
+
+ Ancient Seed
+
+
+
+Golden Shirt
+It's a shiny golden shirt.
+No
+
+ Dried Starfish
+
+
+
+Captain's Uniform
+The classic uniform of a ship's captain.
+No
+
+ Anchor
+
+
+
+Officer Uniform
+The classic uniform for an officer of the law.
+No
+
+ Glass Shards
+
+
+
+Ranger Uniform
+The classic uniform for a park ranger.
+No
+
+ Trout Soup
+
+
+
+Blue Long Vest
+A long blue vest above a grey shirt.
+No
+Sleeveless
+ Bone Flute
+
+
+
+Regal Mantle
+A regal purple garment.
+No
+
+ Ancient Drum
+
+
+
+Relic Shirt
+I found a golden relic and I've got the shirt to prove it!
+No
+
+ Golden Relic
+
+
+
+Bobo Shirt
+A pink shirt featuring a strange-looking guy.
+No
+
+ Strange Doll (yellow)
+
+
+
+Fried Egg Shirt
+Wake up, it's time for eggs.
+No
+
+ Fried Egg
+
+
+
+Burger Shirt
+Wear what you eat!
+No
+
+ Survival Burger
+
+
+
+Collared Shirt
+A shirt with a starchy white collar.
+Yes
+
+ Green Algae White Algae
+
+
+
+Toasted Shirt
+It looks lightly toasted.
+No
+
+ Cheese Cauliflower
+
+
+
+Carp Shirt
+A big carp head adorns the front.
+No
+
+ Carp Surprise
+
+
+
+Red Flannel Shirt
+A flannel shirt with a red and blue pattern.
+No
+
+ Hashbrowns
+
+
+
+Tortilla Shirt
+A shirt that looks like the surface of a tortilla.
+No
+
+ Tortilla
+
+
+
+Warm Flannel Shirt
+A flannel shirt with a warm brown and rose color.
+No
+
+ Wheat Flour
+
+
+
+Sugar Shirt
+It's bursting with 'sweet energy'.
+No
+
+ Sugar
+
+
+
+Green Flannel Shirt
+A flannel shirt with a green and brown pattern.
+No
+
+ Super Meal
+
+
+
+Oil Stained Shirt
+It's already stained with oil for that greasy look.
+No
+Sleeveless
+ Oil
+
+
+
+Morel Shirt
+This shirt features the iconic spring mushroom.
+No
+
+ Morel
+
+
+
+Spring Shirt
+It's light, it's fresh, and it features the colors of spring.
+No
+
+ Spring Onion
+
+
+ 
+Sailor Shirt
+Reminds you of the open sea.
+Yes
+
+ Albacore Anchovy Eel Halibut Herring Pufferfish Red Mullet Red Snapper Sardine Squid Tilapia Tuna
+
+
+
+Rain Coat
+The classic yellow rain coat.
+No
+
+ Crayfish Periwinkle Snail
+
+
+ 
+Sailor Shirt
+Unlike most sailor shirts, this one has a dyeable body and a white collar.
+Yes
+
+ Clam Cockle Crab Lobster Mussel Oyster Shrimp
+
+
+ 
+Dark Bandana Shirt
+A dark shirt with a colorful bandana.
+Yes
+Can be dropped by Haunted Skulls
+ Truffle Truffle Oil
+
+
+ 
+Dark Highlight Shirt
+A dark shirt with bright highlights.
+Yes
+Can be dropped by Haunted Skulls
+ Life Elixir Oil of Garlic
+
+
+
+Omni Shirt
+It's speckled with rainbow flecks!
+No
+
+ Omni Geode
+
+
+
+Bridal Shirt
+A beautiful white top, perfect for a bride.
+No
+
+ Ornamental Fan
+
+
+
+Brown Overalls
+It's hard to see the dirt stains on this one.
+No
+
+ Hazelnut
+
+
+
+Orange Bow Shirt
+A striped orange shirt with a big white bow.
+No
+
+ Winter Root
+
+
+
+White Overalls
+A nice clean variant of the classic farmer look.
+No
+
+ Rice
+
+
+
+Pour-Over Shirt
+A familiar zig-zag pattern adorns this shirt. Ahhh... that smell.
+No
+
+ Coffee Triple Shot Espresso
+
+
+
+Green Jacket Shirt
+Inspired by the mallard's coat. The shirt can be dyed.
+Yes
+
+ Duck Egg
+
+
+ 
+Short Jacket
+A short dyeable jacket over a shirt.
+Yes
+
+ Plum Pudding
+
+
+
+Polka Dot Shirt
+A dark shirt with dyeable polka dots.
+Yes
+
+ Roe (any) Void Mayonnaise
+
+
+
+White Dot Shirt
+A dyeable shirt with white polka dots.
+Yes
+
+ Poppyseed Muffin
+
+
+
+Camo Shirt
+Helps you blend in with the surroundings.
+No
+
+ Stir Fry
+
+
+
+Dirt Shirt
+You'll fit right in on the farm!
+No
+
+ Maple Bar
+
+
+
+Crab Cake Shirt
+Pre-slathered with aioli for your enjoyment. Bon Appetit!
+No
+
+ Crab Cakes
+
+
+ 
+Silky Shirt
+It's made from a smooth silky substance.
+Yes
+
+ Radish Salad
+
+
+ 
+Blue Buttoned Vest
+It's a blue shirt with dyeable sleeves.
+Yes (just the sleeves)
+
+ Octopus
+
+
+
+Faded Denim Shirt
+It's a denim shirt with a dusty, faded look.
+No
+
+ Salmon
+
+
+ 
+Red Buttoned Vest
+It's a red shirt with dyeable sleeves.
+Yes (just the sleeves)
+
+Unobtainable
+
+
+ 
+Green Buttoned Vest
+It's a green shirt with dyeable sleeves.
+Yes (just the sleeves)
+
+ Rhubarb Spice Berry
+
+
+
+Tomato Shirt
+A shirt that answers the big question: 'Tomatoes are'... (but the rest is smudged).
+No
+Sleeveless
+ Tomato
+
+
+ 
+Fringed Vest
+A fringed brown vest over a sleeveless shirt.
+Yes
+Sleeveless
+ Chowder
+
+
+ 
+Globby Shirt
+It's got an indistinguishable glob pattern.
+Yes
+
+ Aged Roe
+
+
+
+Midnight Dog Jacket
+It's dyed a deep midnight blue from squid ink.
+No
+
+ Squid Ink
+
+
+
+Shrimp Enthusiast Shirt
+For those whose appetites demand a steady supply of shrimp.
+No
+
+ Shrimp Cocktail
+
+
+
+Tea Shirt
+A shirt inspired by the popular beverage.
+No
+
+ Green Tea
+
+
+ 
+Prismatic Shirt (white sleeves)
+It's shimmering with prismatic energy. Has white sleeves.
+No
+Prismatic
+ Prismatic Shard
+
+
+ 
+Prismatic Shirt (black sleeves)
+It's shimmering with prismatic energy. Has dark sleeves.
+No
+Prismatic
+ Prismatic Shard
+
+
+
+Trinket Shirt
+A shirt with large colored glass orbs attached to it.
+No
+
+ Artifact Trove
+
+
+
+Darkness Suit
+A black suit top with a faded red pocket square.
+No
+
+ Wilted Bouquet
+
+
+
+Mineral Dog Jacket
+It's infused with trace minerals from the ocean.
+No
+
+ Seafoam Pudding
+
+
+
+Magic Sprinkle Shirt
+A shirt with prismatic sprinkles.
+No
+Prismatic version of the Polka Dot Shirt
+ Magic Rock Candy
+
+
+
+Magenta Shirt
+This particular shade is unique to the magma cap mushroom.
+No
+
+ Magma Cap
+
+
+
+Ginger Overalls
+The color scheme is inspired by ginger ale.
+No
+
+ Ginger Ale
+
+
+
+Banana Shirt
+Consider this shirt, if you happen to love bananas.
+No
+
+ Banana Pudding
+
+
+
+Yellow Suit
+It's a bold statement to wear this suit.
+No
+
+ Mango Sticky Rice
+
+
+
+Hot Pink Shirt
+A silky shirt in tropical pink.
+No
+
+ Poi
+
+
+
+Tropical Sunrise Shirt
+This shirt smells like coconut.
+No
+
+ Tropical Curry
+
+
+
+Island Bikini
+A Fern Islands classic.
+Yes
+Sleeveless.
+ Golden Coconut
+
+
+Pants
+Note that image color does not necessarily reflect the color of the item upon first tailoring it.
+Gray Baggy Pants and Gray Relaxed Fit Pants may be dropped by Haunted Skulls.
+
+
+
+Image
+
+Name
+
+Description
+
+Dyeable
+
+Recipe (Cloth + )
+
+
+
+Farmer Pants
+Comfortable and durable for long hours in the field.
+Yes
+ Cranberries Pineapple Strawberry Wild Plum
+
+
+
+Shorts
+Perfect for a hot summer's day... your legs will thank you.
+Yes
+ Blueberry Grape Hot Pepper Melon
+
+
+
+Long Dress
+A long, flowy dress.
+Yes
+ Fairy Rose Sunflower
+
+
+
+Skirt
+A cute skirt.
+Yes
+ Blue Jazz Tulip
+
+
+
+Pleated Skirt
+A cute pleated skirt.
+Yes
+ Poppy Summer Spangle
+
+
+
+Dinosaur Pants
+These pants were thought to have gone extinct a long time ago!
+No
+ Dinosaur Mayonnaise
+
+
+
+Grass Skirt
+A skirt made of dried grass.
+No
+ Hay
+
+
+
+Genie Pants
+Pants that balloon out near the bottom. Your wish has been answered!
+Yes
+ Ancient Fruit Starfruit
+
+
+
+Baggy Pants
+A loose pair of pants.
+Yes
+ Slime Egg (any color)
+
+
+
+Simple Dress
+A soft, smooth, medium length dress.
+Yes
+ Honey (any)
+
+
+
+Relaxed Fit Pants
+These pants have a little more room for the legs.
+Yes
+ Apple Apricot Banana Cherry Mango Pomegranate
+
+
+
+Relaxed Fit Shorts
+These shorts have a little more room for the legs.
+Yes
+ Orange Peach
+
+
+
+Prismatic Pants
+Pants that shimmer with prismatic energy.
+No
+ Prismatic Shard
+
+
+
+Prismatic Genie Pants
+Pants that shimmer with prismatic energy.
+No
+ Prismatic Shard
+
+
+There is a secret pants item that can be created after obtaining Mayor Lewis' Lucky Purple Shorts.
+
+
+
+Details 
+
+
+Placing the shorts in the feed and a Gold Bar on the spool will produce  Trimmed Lucky Purple Shorts. They can also be obtained by placing a Staircase in the player's pants slot. This will consume the full stack of staircases.  These can be used to fulfill the Mayor's "Shorts" quest, placed in the Luau soup or Grange Display at the Stardew Valley Fair, or they can be worn by the player for an amusing reaction from Marnie and Lewis.
+
+Hats
+
+
+Image
+
+Name
+
+Description
+
+Recipe (Cloth + )
+
+
+
+Dinosaur Hat
+A hat fashioned to look like a small dinosaur.
+ Dinosaur Egg
+
+
+
+Totem Mask
+Don't worry, it won't warp your face...
+ Rain Totem Warp Totem: Beach Warp Totem: Desert Warp Totem: Farm Warp Totem: Island Warp Totem: Mountains
+
+
+
+Logo Cap
+A red cap with a logo on the front.
+ Lava Eel
+
+
+
+Wearable Dwarf Helm
+A slightly larger, human sized version of the helmets worn by dwarves.
+ Dwarf Gadget Dwarvish Helm
+
+
+
+Fashion Hat
+A fashionable hat with a feather in the brim.
+ Caviar
+
+
+
+Pumpkin Mask
+This must have been a pretty big pumpkin once...
+ Jack-O-Lantern
+
+
+
+Hair Bone
+A prehistoric version of the hair bow.
+ Prehistoric Tibia
+
+
+
+Spotted Headscarf
+A red polka-dot scarf tied around the head.
+ Red Mushroom
+
+
+
+Beanie
+A warm hat with a pretty tight fit.
+ Acorn Mahogany Seed Maple Seed Pine Cone
+
+
+
+Floppy Beanie
+A warm hat with a looser fit.
+ Maple Syrup Oak Resin Pine Tar
+
+
+
+Fishing Hat
+The wide brim keeps you shaded when you're fishing on the riverbank.
+ Ice Pip Midnight Squid Scorpion Carp Slimejack Spook Fish Stonefish Void Salmon
+
+
+
+Blobfish Mask
+Just as spongy as the real thing!
+ Blobfish
+
+
+
+Party Hat
+A goofy red hat that makes any celebration more fun.
+ Pizza
+
+
+
+Party Hat
+A goofy blue hat that makes any celebration more fun.
+ Chocolate Cake
+
+
+
+Party Hat
+A goofy green hat that makes any celebration more fun.
+ Fish Taco
+
+
+
+Pirate Hat
+A captain's hat with a horrible skull on the front.
+ Treasure Chest
+
+
+
+Flat Topped Hat
+An old style of hat once considered very fashionable.
+ Cranberry Sauce Stuffing
+
+
+
+White Turban
+A fine white silk turban with blue trim.
+ Sweet Gem Berry
+
+
+
+Golden Mask
+A faithful recreation of the Calico Desert relic!
+ Golden Mask
+
+
+
+Propeller Hat
+A goofy hat with a propeller on top.
+ Miner's Treat
+
+
+
+Bridal Veil
+The traditional headwear for a bride.
+ Pearl
+
+
+
+Witch Hat
+A pointy hat popular with witches.
+ Golden Pumpkin
+
+
+
+Radioactive Goggles
+Doesn't actually provide any protection from radiation.
+ Radioactive Bar
+
+
+
+Swashbuckler Hat
+The classic swashbuckler look.
+ Dragon Tooth
+
+
+
+Qi Mask
+???
+ Qi Fruit
+
+
+
+Star Helmet
+A red hat with stars on it.
+ Mushroom Tree Seed
+
+
+
+Sunglasses
+These give you a relaxed look.
+ Cinder Shard
+
+
+
+Goggles
+These will make you look very safe.
+ Bug Steak
+
+
+
+Forager's Hat
+It's a forager's delight.
+ Ginger
+
+
+
+Warrior Helmet
+An Ostrich eggshell repurposed into a helmet.
+ Ostrich Egg
+
+
+Boots
+Boots and shoes cannot be created, but the stats can be transferred from one pair to another.  To custom-tailor boots or shoes, place the item with the desired stats on the spool at the upper right and the item to be tailored in the feed at the lower left.  The item on the spool will be consumed in the process.  The resulting item in the feed will be called "Custom-tailored [name of shoe/boot]".
+
+Notes
+Some items that cannot be used to tailor clothing will not be greyed out until cloth is placed in the feed.  Similarly, invalid tailoring items placed on the spool will cause cloth to be greyed out.
+
+History
+1.4: Introduced, new shirts, hats, shorts, skirts, and pants added. Prior to 1.4, shirts and pants could only be selected on the new game character customization menu or at the Shrine of Illusions and were not separate items. Prior to 1.4, hats were only available from the Adventurer's Guild, at certain festivals, from the Abandoned House, and in a small number of other locations.
+1.5: Introduced new shirts, hats, and glasses.
+
+
+Clothing
+
+
+Footwear
+
+Cinderclown Shoes • Combat Boots • Cowboy Boots • Crystal Shoes • Dark Boots • Dragonscale Boots • Emily's Magic Boots • Firewalker Boots • Genie Shoes • Leather Boots • Leprechaun Shoes • Mermaid Boots • Rubber Boots • Sneakers • Space Boots • Thermal Boots • Tundra Boots • Work Boots
+
+
+Hats
+
+??? • Arcane Hat • Archer's Cap • Beanie • Blobfish Mask • Blue Bonnet • Blue Cowboy Hat • Bluebird Mask • Bowler Hat • Bridal Veil • Butterfly Bow • Cat Ears • Chef Hat • Chicken Mask • Cone Hat • Cool Cap • Copper Pan • Cowboy Hat • Cowgal Hat • Cowpoke Hat • Daisy • Dark Cowboy Hat • Delicate Bow • Deluxe Cowboy Hat • Deluxe Pirate Hat • Dinosaur Hat • Earmuffs • Elegant Turban • Emily's Magic Hat • Eye Patch • Fashion Hat • Fedora • Fishing Hat • Flat Topped Hat • Floppy Beanie • Forager's Hat • Frog Hat • Garbage Hat • Gnome's Cap • Goblin Mask • Goggles • Golden Helmet • Golden Mask • Good Ol' Cap • Green Turban • Hair Bone • Hard Hat • Hunter's Cap • Knight's Helmet • Living Hat • Logo Cap • Lucky Bow • Magic Cowboy Hat • Magic Turban • Mouse Ears • Mr. Qi's Hat • Mushroom Cap • Official Cap • Panda Hat • Party Hat (blue • green • red) • Pink Bow • Pirate Hat • Plum Chapeau • Polka Bow • Propeller Hat • Pumpkin Mask • Qi Mask • Radioactive Goggles • Red Cowboy Hat • Sailor's Cap • Santa Hat • Skeleton Mask • Small Cap • Sombrero • Sou'wester • Spotted Headscarf • Squire's Helmet • Star Helmet • Straw Hat • Sunglasses • Swashbuckler Hat • Tiara • Tiger Hat • Top Hat • Totem Mask • Tropiclip • Trucker Hat • Watermelon Band • Warrior Helmet • Wearable Dwarf Helm • White Turban • Witch Hat
+
+
+Rings
+
+Amethyst Ring • Aquamarine Ring • Burglar's Ring • Crabshell Ring • Emerald Ring • Glow Ring • Glowstone Ring • Hot Java Ring • Immunity Band • Iridium Band • Jade Ring • Jukebox Ring • Lucky Ring • Magnet Ring • Napalm Ring • Phoenix Ring • Protection Ring • Ring of Yoba • Ruby Ring • Savage Ring • Slime Charmer Ring • Small Glow Ring • Small Magnet Ring • Soul Sapper Ring • Sturdy Ring • Thorns Ring • Topaz Ring • Vampire Ring • Warrior Ring • Wedding Ring
+
+
+Other
+
+Dyeing • Tailoring • Luau Skirt
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Tailoring&oldid=136002"
+Category: Wearable itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 17 March 2022, at 14:24.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

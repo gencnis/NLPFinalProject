@@ -1,0 +1,395 @@
+
+
+
+
+
+Casino - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Casino
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Casino
+
+
+
+
+
+
+
+
+Open Hours:
+
+9:00am to 11:50pm
+
+
+Closed:
+
+Never
+
+
+Address:
+
+The Desert
+
+
+Occupants:
+
+ Mr. Qi
+
+
+The Casino is located in the Calico Desert accessed through the back door of the Oasis. Access is initially blocked by the Bouncer until "The Mysterious Qi" quest is completed.
+Mr. Qi is constantly present in the room. To his right is a machine to exchange gold for Qi coins, at a rate of 1,000g per 100, or 10g:1q value. Qi coins are used for both gambling and purchasing items inside the Casino, and aren't able to be converted back to gold.
+To the top-left of the room is a terminal that lists multiple statistics for the player.
+There are two forms of gambling available, slot machines and a variant of BlackJack, CalicoJack. There are two tables for CalicoJack, low stakes (100) to the left and high stakes (1,000) to the right.
+In the upper right corner of the room, to the right of the machine for exchanging Qi coins and next to a potted plant, stands a shady individual who offers to sell Statue of Endless Fortune for 1,000,000g.
+
+Store
+The store is located in the top right of the casino. 
+In some resolution settings, you may be unable to access the store without using the 'use button' or zooming out (go to menu, options). See this Steam forum post for resolution path details.
+
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+
+
+
+'Primal Motion'
+
+Can be placed inside your house.
+
+5,000
+
+
+
+
+'Burnt Offering'
+
+Can be placed inside your house.
+
+4,000
+
+
+
+
+'Highway 89'
+
+Can be placed inside your house.
+
+4,000
+
+
+
+
+'Spires'
+
+Can be placed inside your house.
+
+3,000
+
+
+
+
+Top Hat
+
+A gentleman's classic.
+
+8,000
+
+
+
+
+Rarecrow #3
+
+Collect them all! (3 of 8)
+
+10,000
+
+
+
+
+Hardwood Fence
+
+The most durable type of fence.
+
+100
+
+
+
+
+Magnet
+
+Increases the chance of finding treasures when fishing. However, fish aren't crazy about the taste.
+
+1,000
+
+
+
+
+Warp Totem: Farm
+
+Warp directly to your house. Consumed on use.
+
+500
+
+
+
+
+Modern Double Bed
+
+Can be placed inside your house.
+
+8,000
+
+Tips
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+Purchasing Warp Totems, deconstructing them and selling the resulting Honey is the most profitable way to convert Qi coins to gold, with a ratio of 10 to 2g (2.8g with the Artisan profession).
+If the player takes the extra time to turn the Honey into Mead, then the ratio is doubled to become 10 to 4g (5.6g with the Artisan profession).
+If the player does not have a Deconstructor, purchasing Hardwood Fences and selling them is the most profitable way to convert Qi coins to gold, with a ratio of 10 to 1g.
+History
+1.3.27: Fixed bug where crafting stats would be 0 if the player had not crafted an item the day of visiting the Casino.
+1.4: Casino minigames now slightly favor the player.  Random number generation fixed to prevent repeating patterns in Slot Machines.
+1.5: Store now stocks Modern Double Bed.
+
+
+Buildings
+
+
+Merchants
+
+Abandoned House • Adventurer's Guild • Blacksmith • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower
+
+
+Houses
+
+1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse
+
+
+Farm Buildings
+
+Farming
+
+Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Shed  • Silo • Slime Hutch • Stable • Well
+
+
+Special
+
+Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk
+
+
+Other Buildings
+
+Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Casino&oldid=140203"
+Categories: StoresDesert LocationsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 22 July 2022, at 11:32.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,540 @@
+
+
+
+
+
+Combat - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Combat
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Combat is the skill associated with fighting monsters, such as in The Mines or the Skull Cavern. Combat is increased by killing monsters, with more difficult monsters granting more experience.
+Each increase in Combat Level adds 5 HP (health points) to the player's health meter, with the exceptions of levels 5 and 10. Health points are only increased when levelling up to levels 5 or 10 if the Fighter and Defender professions are chosen. Level-ups may also add Crafting or Cooking recipes. Unlike other skills, there is no proficiency effect from this skill since weapons do not require energy.
+During the first few days in Stardew Valley, the Mines are closed due to an accident by Joja Corporation.  On or around day 5, the player will receive a letter in the mail from Joja Corp, explaining that the landslide blocking the mines has been cleared, and the mine entrance will be open.  At this point, combat becomes available to players. An exception is those who chose the Wilderness Farm, which starts with monsters at the first night.
+As with other skills, note that experience level is increased immediately upon slaying a monster, but the "level up" window doesn't appear until the player sleeps (or until all players sleep in multiplayer).
+Note that killing monsters on the Farm does not increase experience.[1]
+
+Contents
+
+1 Combat Skill
+2 Experience Points
+3 Substats
+
+3.1 Critical hit chance
+
+
+4 References
+
+
+ Combat Skill
+
+
+Level 1
+
+Level 2
+
+Level 3
+
+Level 4
+
+Level 5
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Cooking Recipes:
+
+Crafting Recipes:
+
+Choose a Profession:
+
+
+ Sturdy Ring Bug Steak
+
+ Life Elixir
+
+ Roots Platter
+
+ Warrior Ring
+
+ Fighter
+All attacks deal 10% more damage.
+(+15 HP)
+
+ Scout
+Critical strike chance increased by 50%.
+(+0 HP)
+(Note that the increase is multiplicative. The formula is: critChance = critChance * 1.5)
+
+
+
+
+
+
+Level 6
+
+Level 7
+
+Level 8
+
+Level 9
+
+Level 10
+
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting Recipes:
+
+Crafting / Cooking Recipes:
+
+Fighter:
+
+Scout:
+
+
+ Slime Egg-Press Oil of Garlic
+
+ Ring of Yoba Thorns Ring
+
+ Slime Incubator Explosive Ammo
+
+ Iridium Band Squid Ink Ravioli
+
+ Brute
+Deal 15% more damage.
+(+0 HP)
+(Stacks multiplicatively with Fighter)
+
+
+ Acrobat
+Cooldown on special moves cut in half.
+(+0 HP)
+
+
+ Defender
++25 HP.
+
+ Desperado
+Critical strikes are deadlier.
+(+0 HP)
+(2x Critical strike damage)
+
+
+Experience Points
+The following table lists the experience points gained for killing the indicated monster.  (This data can be found in Data\Monsters.xnb as well as the constructors for Grub and Fly in the game code. In the Quarry Mine and dungeon floors of the Mines, monster data are set by MineShaft.getMonsterForThisLevel and the constructor for Bat in the game code.)
+
+
+
+Monster
+
+Experience (XP)
+
+
+Green Slime
+
+3
+
+
+Dust Sprite
+
+2
+
+
+Bat
+
+3
+
+
+Frost Bat
+
+7
+
+
+Lava Bat
+
+15
+
+
+Iridium Bat
+
+22
+
+
+Stone Golem
+
+5
+
+
+Wilderness Golem
+
+5
+
+
+Grub
+
+2
+
+
+Cave Fly
+
+10
+
+
+Frost Jelly (i.e., Blue Slime)
+
+6
+
+
+Sludge (i.e., Red, Purple, Copper, or Iron Slime)
+
+10
+
+
+Ghost
+
+15
+
+
+Duggy
+
+10
+
+
+Rock Crab
+
+4
+
+
+Lava Crab
+
+12
+
+
+Iridium Crab
+
+20
+
+
+Squid Kid
+
+15
+
+
+Shadow Brute
+
+15
+
+
+Shadow Shaman
+
+15
+
+
+Skeleton
+
+8
+
+
+Metal Head
+
+6
+
+
+Bug
+
+1
+
+
+Mummy
+
+20
+
+
+Big Slime
+
+7
+
+
+Serpent
+
+20
+
+
+Mutant Grub
+
+6
+
+
+Mutant Fly
+
+10
+
+
+Pepper Rex
+
+7
+
+
+Haunted Skull
+
+15
+
+
+Tiger Slime
+
+20
+
+
+Substats
+Consuming certain foods or drinks, wearing particular Footwear or Rings, and choice of Weapon can all give Stat Bonuses that affect the player's Combat ability.
+
+ Attack affects how much damage the player does with each weapon strike.
+ Crit. Power adds additional damage when hitting a critical strike.
+ Defense affects how much damage the player takes from enemy strikes.
+ Immunity affects the chance to be afflicted with certain debuffs.
+The  Weight of a weapon affects how far an enemy will be knocked back when struck with the weapon.
+ Weapon Speed and  Player Speed are also a factor in successful Combat.
+Critical hit chance
+Critical hit chance is computed in the following order:
+
+Each weapon has a base critical hit chance. For example, the Galaxy Sword has a critical hit chance of 2% [2].
+In 1.5, the Aquamarine forging increases crit chance in an additive manner via the following formula: critChance += 0.046 * forgingLevel. For example, with 3 Aquamarine forged, the crit chance is increased by 13.8%. With the Galaxy Sword, this means the chance is 15.8% [3].
+If the weapon is a dagger critChance = (critChance + 0.005) * 1.12 [4].
+If a single aquamarine ring is used, critical hit chance is increased in a multiplicative manner by 10%. If two aquamarine rings are used, the critical hit chance is increased in a multiplicative manner by 20% [5].
+So with the galaxy sword and 1 ring and 3 forging: 15.8*1.1 = 17.38%.
+With 2 rings: 18.96%.
+The Scout Profession further increases critical hit chance in a multiplicative manner by 50% with the following formula: critChance = critChance * 1.5 [6]. For the galaxy sword with 2 rings and 3 forging, and the scout profession, the critChance is: 18.96 * 1.5 = 28.44%.
+Finally, every point of luck from food and rings increased crit chance in an additive manner by 2.5% with the following formula: critChance += LuckLevel * critChance / 40 [7].
+The Desperado profession increases the damage of critical hits again by 2x after all bonuses are applied. Further information about this is discussed in Crit. Power.
+
+References
+
+↑ In the game code, GameLocation::DamageMonster is the only place where combat XP is awarded. The conditions for this stipulate that the location is not the farm.
+
+↑ See weapons.xnb file in the game data.
+
+↑ See StardewValley::AquamarineEnchantment.
+
+↑ See StardewValley::Tools::MeleeWeapon.DoDamage; the dagger weapon type is 1.
+
+↑ See StardewValley::Tools::MeleeWeapon.DoDamage and StardewValley::Objects::Ring.
+
+↑ See StardewValley::GameLocation.damageMonster.
+
+↑ See StardewValley::GameLocation.damageMonster; the formula does not edit the crit chance but luck level is added in the if statement to check for a crit.
+
+
+
+
+Skills & Stats
+
+
+Skills
+
+Farming • Mining • Foraging • Fishing • Combat
+
+
+Stats
+
+Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Combat&oldid=141540"
+Category: Combat
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 7 September 2022, at 18:40.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

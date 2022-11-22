@@ -1,0 +1,1262 @@
+
+
+
+
+
+Fertilizer - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fertilizer
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+See also: Crop Growth Calendars
+Fertilizer is used to support crop and tree growth, assisting farming. There are three types of crop fertilizer, affecting respectively crop quality, speed growth and water retention. There is only one tree fertilizer type, affecting growth speed. A fertilizer is used by placing it on tilled soil or the desired tree. Some crop fertilizers must be placed before the planted seed sprouts, the other fertilizers can be used at any time during plant growth. Each crop fertilizer type has three tiers, and the tree fertilizer has only one tier. Crop fertilizers affect all crops, including crops grown from Wild Seeds.
+
+Contents
+
+1 Mechanics
+2 Types of Fertilizer
+3 Crop Quality Ratios
+
+3.1 Normal soil
+3.2 Soil with Basic Fertilizer
+3.3 Soil with Quality Fertilizer
+3.4 Soil with Deluxe Fertilizer
+
+
+4 Appearance
+5 Fertilizer Cost
+
+5.1 Cost for 5  Speed-Gro
+5.2 Cost for 5  Deluxe Speed-Gro
+
+
+6 Bugs
+7 History
+
+
+Mechanics
+All fertilizer can be crafted. Recipes for first tier fertilizers are learned once the required level of Farming or Foraging skill is reached. Second tier recipes are learned once the required level of Farming skill is reached. Third tier recipes are purchased on Ginger Island. First and second tier crop fertilizers can also be purchased at Pierre's General Store year-round, or at The Oasis on specific days of the week.
+Only one type of fertilizer may be used per soil tile. Fertilizer remains in the soil all season. When the season changes, fertilizer normally disappears. However, there are two exceptions in which fertilizer will remain in the soil:
+
+If a multi-season crop (i.e., Ancient Fruit, Coffee Bean, Corn, Sunflower, or Wheat) is planted in the fertilized tile, and the new season is one in which the crop grows, the fertilizer will remain.
+Fertilizer placed in the Greenhouse will remain in the soil unless it is un-tilled by a pickaxe.
+Note that crop quality is determined at harvest time and not at planting time. Prior to 1.5, fertilizer used in the Greenhouse on crops which would mature out of their normal growing season might disappear before harvest and have no effect.
+Speed gro affects only the growth and first harvest of a multi-harvest crop. Quality fertilizers (Basic Fertilizer, Quality Fertilizer, and Deluxe Fertilizer) affect all harvests of a multi-harvest crop.
+Removing a crop with a Tool like the axe does not remove the fertilizer.  A second hit with a tool, such as a Pickaxe is required to remove the fertilizer and make the tile fallow.
+
+Types of Fertilizer
+
+
+Image
+
+Name
+
+Description
+
+When to Use
+
+Pierre's
+
+Oasis
+
+Sell Price
+
+Ingredients
+
+# Produced per Craft
+
+Recipe Source
+
+
+
+
+Basic Fertilizer
+
+Improves soil quality a little, increasing your chance to grow quality crops. Mix into tilled soil.
+
+Before the seed sprouts
+
+100g(Spring 15, Year 1+)
+
+
+
+2g
+
+ Sap (2)
+
+1
+
+ Farming Level 1
+
+
+
+
+Quality Fertilizer
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+Before the seed sprouts
+
+150g(Year 2+)
+
+
+
+10g
+
+ Sap (2) Fish (1)
+
+1
+
+ Farming Level 9
+
+
+
+
+Deluxe Fertilizer
+
+Greatly improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+Before or after planting
+
+
+
+
+
+70g
+
+ Iridium Bar (1)  Sap (40)
+
+5
+
+Qi's Walnut Room for  Qi Gem (20)
+
+
+
+
+Basic Retaining Soil
+
+This soil has a chance of staying watered overnight. Mix into tilled soil.
+
+Before or after planting
+
+100g(Spring 15, Year 1+)
+
+
+
+4g
+
+ Stone (2)
+
+1
+
+ Farming Level 4
+
+
+
+
+Quality Retaining Soil
+
+This soil has a good chance of staying watered overnight. Mix into tilled soil.
+
+Before or after planting
+
+150g
+
+200g(Saturday only)
+
+5g
+
+ Stone (3) Clay (1)
+
+2
+
+ Farming Level 7
+
+
+
+
+Deluxe Retaining Soil
+
+This soil has a 100% chance of staying watered overnight. Mix into tilled soil.
+
+Before or after planting
+
+
+
+
+
+30g
+
+ Stone (5) Fiber (3) Clay (1)
+
+1
+
+ Island Trader for  Cinder Shard (50)
+
+
+
+
+Speed-Gro
+
+Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil.Note: Does not reduce time between harvests for multi-harvest crops.
+
+Before or after planting
+
+100g(Spring 15, Year 1+)
+
+
+
+20g
+
+ Pine Tar (1) Clam (1)
+
+5
+
+ Farming Level 3
+
+
+
+
+Deluxe Speed-Gro
+
+Stimulates leaf production. Guaranteed to increase growth rate by at least 25%. Mix into tilled soil.Note: Does not reduce time between harvests for multi-harvest crops.
+
+Before or after planting
+
+150g(Year 2+)
+
+80g(Thursday only)
+
+40g
+
+ Oak Resin (1) Coral (1)
+
+5
+
+ Farming Level 8
+
+
+
+
+Hyper Speed-Gro
+
+Greatly stimulates leaf production. Guaranteed to increase growth rate by at least 33%. Mix into tilled soil.Note: Does not reduce time between harvests for multi-harvest crops.
+
+Before or after planting
+
+
+
+
+
+70g
+
+ Radioactive Ore (1) Bone Fragment (3) Solar Essence (1)
+
+1
+
+Qi's Walnut Room for  Qi Gem (30)
+
+
+
+
+Tree Fertilizer
+
+Sprinkle on a wild tree to ensure rapid growth, even in winter. Doesn't work on fruit trees.
+
+After planting on tree seeds and saplings
+
+N/A
+
+
+
+10g
+
+ Fiber (5) Stone (5)
+
+1
+
+ Foraging Level 7
+
+Crop Quality Ratios
+Note that quality is determined at the time of harvest, and not at the time of planting.  For crops that produce multiples at harvest (i.e., Coffee Bean, Blueberry, Cranberries), Basic, Quality, and Deluxe fertilizers affect only the first crop produced.
+For the complete formula, please see Farming.
+
+Normal soil
+
+
+Farming level
+
+% Regular quality
+
+% Silver quality
+
+% Gold quality
+
+Average price
+
+
+0
+97%
+2%
+1%
+1.01
+
+
+1
+91%
+6%
+3%
+1.03
+
+
+2
+85%
+10%
+5%
+1.05
+
+
+3
+80%
+13%
+7%
+1.07
+
+
+4
+75%
+16%
+9%
+1.09
+
+
+5
+69%
+20%
+11%
+1.10
+
+
+6
+64%
+23%
+13%
+1.12
+
+
+7
+60%
+25%
+15%
+1.14
+
+
+8
+55%
+28%
+17%
+1.16
+
+
+9
+50%
+31%
+19%
+1.17
+
+
+10
+46%
+33%
+21%
+1.19
+
+
+11
+42%
+35%
+23%
+1.20
+
+
+12
+38%
+37%
+25%
+1.22
+
+
+13
+34%
+39%
+27%
+1.23
+
+
+14
+30%
+41%
+29%
+1.25
+
+Soil with Basic Fertilizer
+
+
+Farming level
+
+% Regular quality
+
+% Silver quality
+
+% Gold quality
+
+Average price
+
+
+0
+88%
+8%
+4%
+1.04
+
+
+1
+77%
+15%
+8%
+1.08
+
+
+2
+68%
+20%
+12%
+1.11
+
+
+3
+59%
+26%
+15%
+1.14
+
+
+4
+50%
+31%
+19%
+1.17
+
+
+5
+42%
+35%
+23%
+1.20
+
+
+6
+35%
+39%
+26%
+1.23
+
+
+7
+28%
+42%
+30%
+1.25
+
+
+8
+22%
+44%
+34%
+1.28
+
+
+9
+16%
+47%
+37%
+1.30
+
+
+10
+15%
+44%
+41%
+1.32
+
+
+11
+14%
+41%
+45%
+1.33
+
+
+12
+13%
+39%
+48%
+1.34
+
+
+13
+12%
+36%
+52%
+1.35
+
+
+14
+11%
+33%
+56%
+1.36
+
+Soil with Quality Fertilizer
+
+
+Farming level
+
+% Regular quality
+
+% Silver quality
+
+% Gold quality
+
+Average price
+
+
+0
+78%
+14%
+8%
+1.07
+
+
+1
+64%
+23%
+13%
+1.12
+
+
+2
+52%
+30%
+18%
+1.17
+
+
+3
+40%
+36%
+24%
+1.21
+
+
+4
+30%
+41%
+29%
+1.25
+
+
+5
+21%
+45%
+34%
+1.28
+
+
+6
+15%
+45%
+40%
+1.31
+
+
+7
+14%
+41%
+45%
+1.33
+
+
+8
+13%
+37%
+50%
+1.34
+
+
+9
+11%
+33%
+56%
+1.36
+
+
+10
+10%
+29%
+61%
+1.38
+
+
+11
+9%
+25%
+66%
+1.39
+
+
+12
+7%
+21%
+72%
+1.41
+
+
+13
+6%
+17%
+77%
+1.43
+
+
+14
+4%
+13%
+82%
+1.44
+
+Soil with Deluxe Fertilizer
+
+
+Farming level
+
+% Regular quality
+
+% Silver quality
+
+% Gold quality
+
+% Iridium Quality
+
+Average price
+
+
+0
+0%
+84%
+10%
+6%
+1.32
+
+
+1
+0%
+75%
+16%
+9%
+1.36
+
+
+2
+0%
+66%
+22%
+13%
+1.40
+
+
+3
+0%
+57%
+27%
+16%
+1.44
+
+
+4
+0%
+49%
+31%
+20%
+1.47
+
+
+5
+0%
+42%
+35%
+23%
+1.51
+
+
+6
+0%
+35%
+39%
+27%
+1.55
+
+
+7
+0%
+28%
+42%
+30%
+1.58
+
+
+8
+0%
+22%
+45%
+34%
+1.61
+
+
+9
+0%
+16%
+47%
+37%
+1.64
+
+
+10
+0%
+11%
+48%
+41%
+1.67
+
+
+11
+0%
+7%
+49%
+44%
+1.70
+
+
+12
+0%
+3%
+50%
+47%
+1.73
+
+
+13
+0%
+0%
+49%
+51%
+1.76
+
+
+14
+0%
+0%
+46%
+55%
+1.77
+
+Appearance
+Once used on tilled soil, each type of fertilizer has a unique appearance, allowing you to see what type of fertilizer has been used on a given tile.
+
+
+
+Name
+
+Unwatered
+
+Watered
+
+
+Basic Fertilizer
+
+
+
+
+
+
+Quality Fertilizer
+
+
+
+
+
+
+Deluxe Fertilizer
+
+
+
+
+
+
+Basic Retaining Soil
+
+
+
+
+
+
+Quality Retaining Soil
+
+
+
+
+
+
+Deluxe Retaining Soil
+
+
+
+
+
+
+Speed-Gro
+
+
+
+
+
+
+Deluxe Speed-Gro
+
+
+
+
+
+
+Hyper Speed-Gro
+
+
+
+
+
+Fertilizer Cost
+See also: When to turn fish into Quality Fertilizer
+With the exception of Quality Fertilizer, crafting Fertilizer is always cheaper than purchasing it.  
+Each time you craft Speed-Gro or Deluxe Speed-Gro, you receive 5 fertilizers.  Each time you craft Quality Retaining Soil, you receive 2 fertilizers, though crafting just one would still be cheaper than purchasing it.
+The tables below compare the cost of crafting Speed-Gro or Deluxe Speed-Gro against purchasing them at the Oasis or Pierre's.  The cost of crafting is the sell price of the constituent ingredients.
+
+
+
+
+Cost for 5  Speed-Gro
+
+
+
+
+ Clam Quality
+
+Crafting
+
+ Pierre's
+
+
+NoProfession
+
+Normal
+
+150g
+
+500g
+
+
+ Silver
+
+162g
+
+
+ Gold
+
+175g
+
+
+ Iridium
+
+200g
+
+
+ TapperProfession
+
+Normal
+
+175g
+
+
+ Silver
+
+187g
+
+
+ Gold
+
+200g
+
+
+ Iridium
+
+225g
+
+
+
+
+
+Cost for 5  Deluxe Speed-Gro
+
+
+
+
+ Coral Quality
+
+Crafting
+
+ Oasis
+
+ Pierre's
+
+
+NoProfession
+
+Normal
+
+230g
+
+400g
+
+750g
+
+
+ Silver
+
+250g
+
+
+ Gold
+
+270g
+
+
+ Iridium
+
+310g
+
+
+ TapperProfession
+
+Normal
+
+267g
+
+
+ Silver
+
+287g
+
+
+ Gold
+
+307g
+
+
+ Iridium
+
+347g
+
+
+Note: Technically it is not possible to find iridium quality clam/coral if you have chosen the Tapper Profession.
+
+Bugs
+Fertilizer used in a Garden Pot will disappear when harvesting the crop, especially if using seeds other than Wild Seeds.
+History
+1.4: The number of items per craft now shows in the crafting menu before items are in inventory.  Speed-Gro and Deluxe Speed-Gro now have an effect if used after planting.
+1.5: Added tier three fertilizers. Fertilizer placed in the Greenhouse now lasts until manually removed.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Fertilizer&oldid=140100"
+Category: FertilizerHidden categories: SpoilersBugs tested in 1.3.36
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 19 July 2022, at 17:09.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

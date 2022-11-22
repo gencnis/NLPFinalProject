@@ -1,0 +1,666 @@
+
+
+
+
+
+Luau - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luau
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+The Luau is a Festival that takes place on the 11th of every Summer. The player attends the Luau by entering The Beach between 9am and 2pm. The beach cannot be entered before 9am. When the Luau ends, the player will be returned to The Farm at 10pm.
+On the day of the Festival, every home and shop in Stardew Valley is "locked" and cannot be entered.
+A central feature of the Luau is the communal potluck soup, made with ingredients added by villagers.  The player may choose to add an ingredient to the soup, then the Governor tastes and judges it.  The soup-tasting begins by talking to Mayor Lewis and choosing "yes, let's start," at the dialogue option.
+The reaction of the Governor at the soup tasting depends upon what item the player has added to it, if any.  Friendship points with most villagers will also increase, decrease, or not change, depending on the item added to the soup.  Friendships with Sandy, the Wizard, Krobus, the player's Children, and the Dwarf are never affected.
+The Luau ends automatically after the Governor tastes the soup.
+
+Contents
+
+1 Shop
+2 Potluck
+
+2.1 Missing Something Response
+2.2 Best Response
+2.3 Good Response
+2.4 Neutral Response
+2.5 Bad Response
+2.6 Worst Response
+2.7 Secret Response
+
+
+3 Mail
+4 Gallery
+5 References
+6 History
+
+
+Shop
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+Pierre has a booth from which he sells the following items.
+
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+
+
+
+Wall Palm
+
+Can be placed inside your house.
+
+1,000g
+
+
+   
+
+Jungle Decal
+
+Can be placed inside your house.
+
+800g
+
+
+  
+
+Ceiling Leaves
+
+Can be placed inside your house.
+
+400g
+
+
+
+
+Totem Pole
+
+Can be placed as decoration.
+
+1,000g
+
+
+
+
+Starfruit (1)
+
+An extremely juicy fruit that grows in hot, humid weather. Slightly sweet with a sour undertone.
+
+3,000g
+
+
+
+
+Plain Torch
+
+Can be placed as decoration.
+
+700g
+
+
+Potluck
+When adding an item to the potluck soup, only edible, uncooked items are valid (although Life Elixir and Oil of Garlic are crafted and not cooked, the game considers them "cooked" items, so they are not eligible.  Magic Rock Candy and Piña Colada are considered "cooked" items as well, so they are not eligible.  Field Snack and Bug Steak, however, are eligible).  Note that the game does not inform the player before the event that the "potluck" is a soup, nor that cooked or inedible items are not valid.
+Before the soup-tasting, Mayor Lewis states, "I trust that you all put high-quality ingredients in the pot this year. We don't want the governor to regret his visit to the valley!"  At this point it is too late for the player to change the item already added to the soup.
+Note that item quality, base sell price, and edibility (healing effect) are the three determining factors of the Governor's reaction.  Profession bonuses that increase the sell price of items (such as Rancher, Angler, etc.) are not considered in the game's calculations.[1]
+There are 7 possible outcomes depending on the item added to the soup.  
+In a multiplayer game, all players must add an item to the soup, or the "Missing Something" response will occur. Following that, the final result is determined by the worst item added.
+
+Missing Something Response
+
+
+
+“
+
+“Hmmm... Well it's not bad, but it's missing something... Did everyone in town contribute an ingredient to the soup? I feel like it's missing someone's unique voice.”
+
+
+— Governor
+
+
+
+
+
+“
+
+“You're right... It's a little bland.”
+
+
+— Lewis
+
+
+The player neither earns nor loses friendship with the villagers if no item is used.
+
+Best Response
+
+
+
+“
+
+“Oh my... that's the best soup I've ever tasted!”
+
+
+— Governor
+
+
+
+
+
+“
+
+“You're right... It's delicious!”
+
+
+— Lewis
+
+
+The player earns 120 friendship points with the villagers if any of these items are used.
+
+
+
+Quality
+
+Eligible Items
+
+
+Normal
+
+Normal quality items are not eligible.
+
+
+Silver
+
+Ancient Fruit Wine • Apple Wine • Banana Wine • Blobfish • Coconut Wine • Crimsonfish • Crystal Fruit Wine • Goat Cheese • Golden Egg • Ice Pip • Large Goat Milk • Lava Eel • Legend • Legend II • Magma Cap • Mango Wine • Melon Wine • Orange Wine • Ostrich Egg • Pale Ale • Peach Wine • Pineapple Wine • Pomegranate Wine • Rhubarb Wine • Son of Crimsonfish • Starfruit • Starfruit Wine • Strawberry Wine • Wine (from Traveling Cart)
+
+
+Gold / Iridium*
+
+Ancient Fruit Wine • Angler • Apple Wine • Artichoke • Banana Wine • Beer • Blobfish • Cactus Fruit Wine • Catfish • Cauliflower • Chanterelle • Cheese • Cherry Wine • Coconut Wine • Cranberries Wine • Crimsonfish • Crystal Fruit Wine • Fairy Rose • Glacierfish • Glacierfish Jr. • Goat Cheese • Goat Milk • Golden Egg • Grape Wine • Ice Pip • Large Goat Milk • Large Milk • Lava Eel • Legend • Legend II • Magma Cap • Mango • Mango Wine • Mead • Melon • Melon Wine • Ms. Angler  • Mutant Carp • Orange Wine • Ostrich Egg • Pale Ale • Peach Wine • Pineapple • Pineapple Wine • Pomegranate Wine • Purple Mushroom • Radioactive Carp  • Red Cabbage • Rhubarb Wine • Son of Crimsonfish • Spice Berry Wine • Spook Fish • Starfruit • Starfruit Wine • Stingray • Strawberry Wine • Sturgeon • Super Cucumber • Truffle • Wild Plum Wine • Wine (from Traveling Cart) • Yam
+
+*For items that are available in gold and iridium qualities, either may be used.
+
+Good Response
+
+
+
+“
+
+“Ah... that's a very pleasant soup. The produce from this valley never disappoints!”
+
+
+— Governor
+
+
+
+
+
+“
+
+“Mmm... tasty. You all did very well today.”
+
+
+— Lewis
+
+
+The player earns 60 friendship points with the villagers if any of these items are used.
+
+
+
+Quality
+
+Eligible Items
+
+
+Normal
+
+Amaranth • Ancient Fruit Wine • Aged Roe (all kinds) • Angler • Apple • Apple Wine • Apricot Wine • Artichoke • Banana • Banana Wine • Beer • Beet • Blackberry Wine • Blobfish • Blue Discus • Blueberry Wine • Cactus Fruit • Cactus Fruit Wine • Catfish • Cauliflower • Caviar • Chanterelle • Cheese • Cherry Wine • Coconut Wine • Coffee • Cranberries Wine • Crimsonfish • Crystal Fruit • Crystal Fruit Wine • Dorado • Energy Tonic • Fairy Rose • Flounder • Glacierfish • Glacierfish Jr. • Goat Cheese • Goat Milk • Golden Egg • Grape Wine • Green Tea • Hot Pepper Wine • Ice Pip • Juice (any, including from the Traveling Cart) • Kale • Large Goat Milk • Large Milk • Largemouth Bass • Lava Eel • Legend • Legend II • Lingcod • Lionfish • Magma Cap • Mango • Mango Wine • Maple Syrup • Mead • Melon • Melon Wine • Midnight Carp • Midnight Squid • Milk • Morel • Ms. Angler  • Muscle Remedy • Mutant Carp • Oil • Orange • Orange Wine • Ostrich Egg • Pale Ale • Peach • Peach Wine • Pike • Pineapple • Pineapple Wine • Pomegranate • Pomegranate Wine • Poppy • Purple Mushroom • Radioactive Carp • Red Cabbage • Rhubarb Wine • Rice • Roe (all kinds) • Salmonberry Wine • Slimejack • Snow Yam • Son of Crimsonfish • Spice Berry Wine • Spook Fish • Stardrop • Starfruit • Starfruit Wine • Stingray • Strawberry • Strawberry Wine • Sturgeon • Super Cucumber • Taro Root • Tiger Trout • Truffle • Truffle Oil • Tuna • Vinegar • Void Salmon • Walleye • Wild Plum Wine • Wine (from Traveling Cart) • Yam
+
+
+Silver
+
+Albacore • Amaranth • Angler • Apple • Apricot Wine • Artichoke • Banana • Beer • Beet • Blackberry Wine • Blue Discus • Blueberry Wine • Bok Choy • Bullhead • Cactus Fruit • Cactus Fruit Wine • Catfish • Cauliflower • Chanterelle • Cheese • Cherry • Cherry Wine • Cranberries • Cranberries Wine • Crystal Fruit • Dorado • Duck Egg • Eel • Fairy Rose • Fiddlehead Fern • Flounder • Glacierfish • Glacierfish Jr. • Goat Milk • Grape • Grape Wine • Halibut • Hazelnut • Hot Pepper Wine • Kale • Large Egg (white/brown) • Large Milk • Largemouth Bass • Lingcod • Lionfish • Mango • Mead • Melon • Midnight Carp • Midnight Squid • Milk • Morel • Ms. Angler  • Mutant Carp • Orange • Peach • Pike • Pineapple • Pomegranate • Poppy • Potato • Purple Mushroom • Radioactive Carp • Radish • Red Cabbage • Red Mullet • Salmon • Salmonberry Wine • Sandfish • Slimejack • Snow Yam • Spice Berry • Spice Berry Wine • Spook Fish • Squid • Stingray • Strawberry • Sturgeon • Summer Spangle • Sunflower • Super Cucumber • Taro Root • Tiger Trout • Tilapia • Truffle • Tuna • Void Salmon • Walleye • Wild Plum • Wild Plum Wine • Winter Root • Woodskip • Yam
+
+
+Gold / Iridium*
+
+Albacore • Amaranth • Apple • Apricot Wine • Banana • Beet • Blackberry Wine • Blue Discus • Blueberry Wine • Bok Choy • Bullhead • Cactus Fruit • Cherry • Cranberries • Crystal Fruit • Dorado • Duck Egg • Eel • Fiddlehead Fern • Flounder • Grape • Halibut • Hazelnut • Hot Pepper Wine • Kale • Large Egg (white/brown) • Largemouth Bass • Lingcod • Lionfish •  Midnight Carp • Midnight Squid • Milk • Morel • Orange • Peach • Pike • Pomegranate • Poppy • Potato • Radish • Red Mullet • Salmon • Salmonberry Wine • Sandfish • Slimejack • Snow Yam • Spice Berry • Squid • Strawberry • Summer Spangle • Sunflower • Taro Root • Tiger Trout • Tilapia • Tuna • Void Salmon • Walleye • Wild Plum • Winter Root • Woodskip
+
+*For items that are available in gold and iridium qualities, either may be used.
+
+Neutral Response
+
+
+
+“
+
+“Hmm... I don't have much to say about this. It's an average soup.”
+
+
+— Governor
+
+
+
+
+
+“
+
+“He's right... It's nothing special. Not bad, though.”
+
+
+— Lewis
+
+
+The player neither earns nor loses friendship with the villagers if any of these items are used.
+
+
+
+Quality
+
+Eligible Items
+
+
+Normal
+
+Albacore • Apricot • Blue Jazz • Blueberry • Bok Choy • Bream • Bug Steak • Bullhead • Cave Carrot • Cherry • Chub • Common Mushroom • Corn • Cranberries • Dandelion • Duck Egg • Eel • Egg (white/brown) • Eggplant • Fiddlehead Fern • Garlic • Ghostfish • Ginger • Grape • Green Bean • Halibut • Hazelnut • Hops • Hot Pepper • Large Egg (white/brown) • Leek • Parsnip • Perch • Potato • Radish • Rainbow Trout • Red Mullet • Red Snapper • Salmon • Sandfish • Sardine • Shad • Smallmouth Bass • Spice Berry • Squid • Sugar • Summer Spangle • Sunflower • Tilapia • Tomato • Tulip • Void Egg • Wheat Flour • Wild Horseradish • Wild Plum • Winter Root • Woodskip
+
+
+Silver / Gold / Iridium*
+
+Apricot • Blue Jazz • Blueberry • Bream • Chub • Common Mushroom • Corn • Dandelion • Egg (white/brown) • Eggplant • Garlic • Ghostfish • Green Bean • Hops • Hot Pepper • Leek • Parsnip • Perch • Rainbow Trout • Red Snapper • Sardine • Shad • Smallmouth Bass • Tomato • Tulip • Void Egg • Wild Horseradish
+
+*Any available quality (silver, gold, or iridium) of these items will produce the Neutral Response.
+
+Bad Response
+
+
+
+“
+
+“Um... It's actually kind of disgusting. I think I'll pass on the soup this year.”
+
+
+— Governor
+
+
+
+
+
+“
+
+“Yuck. Someone must have ruined it with a poor-quality ingredient.”
+
+
+— Lewis
+
+
+The player loses 50 friendship points with the villagers if any of these items are used.
+
+
+
+Quality
+
+Eligible Items
+
+
+Any
+
+Anchovy • Blackberry • Carp • Crocus • Daffodil • Field Snack • Green Algae • Herring • Joja Cola • Qi Fruit • Qi Fruit Wine • Salmonberry • Seaweed • Spring Onion • Sunfish • Sweet Pea • Unmilled Rice • White Algae
+
+Worst Response
+
+
+
+“
+
+“Blech! This is vile! I think I'm going to be sick...”
+
+
+— Governor
+
+
+
+
+
+“
+
+“Good going, people... Whoever put that foul ingredient in the soup made the Governor pass out! I'm ashamed.”
+
+
+— Lewis
+
+
+The Governor passes out and the player loses 100 friendship points with the villagers if any of these items are used.
+
+
+
+Quality
+
+Eligible Items
+
+
+Any
+
+Holly • Pufferfish • Red Mushroom • Sap • Scorpion Carp • Sea Cucumber • Void Mayonnaise
+
+Secret Response
+
+
+Quote 
+
+
+
+
+
+“
+
+“Hmm... It's a bit tangy... but actually, the flavor is quite good! Just one minute... there's something in my bowl... what's this?”
+
+
+— Governor
+
+
+
+
+
+“
+
+“Whoever took part in this appalling act is truly reprehensible. Using my very private item for this sick purpose!
+And to ruin a perfectly good soup... unforgivable! I've never been more ashamed of this community... Truly disgusting.”
+
+
+
+— Lewis
+
+
+
+Adding Mayor Lewis' lucky purple shorts to the soup will result in a unique response from the Governor and Lewis. Friendship with villagers is unaffected in this scenario. If any player in a multiplayer game adds the shorts to the soup, the result will be the secret response, no matter what else is added.
+
+Mail
+
+
+Gallery
+
+
+
+
+Missing Something Response
+
+
+
+
+
+
+Best Response
+
+
+
+
+
+
+Good Response
+
+
+
+
+
+
+Neutral Response
+
+
+
+
+
+
+Bad Response
+
+
+
+
+
+
+Worst Response
+
+
+
+
+References
+
+↑ See StardewValley.Event::governorTaste in the game code.
+
+
+History
+1.2.31: Fixed grammar in Luau community soup text.
+1.3.27: All players in a multiplayer game can contribute to the soup. Mayor Lewis' shorts can be added to the soup.
+1.3.28: Fixed music not playing at the Luau festival.
+1.4: Fixed bug where NPCs would follow non-festival schedules after the festival.
+1.5: Added Pierre's shop. Fixed bug where a staircase could be added to the soup.
+
+
+Festivals
+
+
+Spring
+
+Egg Festival • Flower Dance
+
+
+Summer
+
+Luau • Dance of the Moonlight Jellies
+
+
+Fall
+
+Stardew Valley Fair • Spirit's Eve
+
+
+Winter
+
+Festival of Ice • Night Market • Feast of the Winter Star
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Luau&oldid=140973"
+Categories: Summer festivalsBugs fixed in 1.5Hidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 18 August 2022, at 19:18.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

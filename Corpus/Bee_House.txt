@@ -1,0 +1,432 @@
+
+
+
+
+
+Bee House - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bee House
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Bee House
+
+
+       
+
+
+Place outside and wait for delicious honey! (Except in Winter).
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Season:
+
+Spring • Summer • Fall
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Crafting
+
+
+Recipe Source:
+
+ Farming (Level 3)
+
+
+Ingredients:
+
+ Wood (40) Coal (8) Iron Bar (1) Maple Syrup (1)
+
+
+The Bee House is a type of Artisan Equipment used to make Honey. A Bee House is the reward for completing the  Fall Crops Bundle in the Pantry. 
+To make honey, place a Bee House on the farm during any season but winter, and wait 4 nights. Bee houses can be placed indoors (e.g., in the Greenhouse) but will not produce honey there. Bee houses placed outside the farm will produce wild honey every 4 days, but they will be destroyed if they are placed in a villager's path.
+A fully-grown and unharvested flower within 5 tiles of a Bee House will cause it to produce flower honey, which always sells for more than flowerless Wild Honey. Flowers that are normally foraged (i.e., Crocus and Sweet Pea) do not affect the honey. Additionally, a Dandelion or Daffodil will not affect the honey as these items are classified as forage rather than flowers. Flowers grown in Garden Pots will not cause Bee Houses to produce flower honey.
+The type of honey is established the moment it is harvested. If a Bee House has produced flower honey, but the flower is harvested before the honey, the honey will become wild honey. Similarly, if a Bee House has produced flowerless wild honey, but the honey is harvested after a flower bloomed in range, the harvested honey will be flower honey.
+If a Bee House is removed with a tool while it has flower honey ready for harvesting, the honey will go into inventory as "Wild Honey".
+
+Contents
+
+1 Products
+2 Range
+3 Tips
+4 References
+5 History
+
+
+Products
+
+
+Image
+
+Name
+
+Description
+
+Energy/Health
+
+Processing Time[1]
+
+Availability
+
+Base Sell Price
+
+
+
+
+Honey
+
+It's a sweet syrup produced by bees.
+
+Inedible
+
+ 4 Nights
+
+All but Winter
+
+Wild
+
+100g
+
+
+ Spring
+
+ Tulip
+
+160g
+
+
+ Blue Jazz
+
+200g
+
+
+ Summer
+
+ Sunflower
+
+260g
+
+
+ Summer Spangle
+
+280g
+
+
+ Poppy
+
+380g
+
+
+ Fall
+
+ Sunflower
+
+260g
+
+
+ Fairy Rose
+
+680g
+
+Range
+ Flower zone indicator for modified Honey.
+With the exception of Crocus and Sweet Pea, the Bee House can produce unique types of honey when it is within 5 tiles in any cardinal direction of a blooming flower. When there is more than one type of flower within range, the closest flower takes priority. At equal distances, the flower at the horizontal left takes priority, followed by the next clockwise flower.
+
+Tips
+Planting flowers near Bee Houses on Ginger Island will produce flavored Honey year-round.
+References
+
+↑ See Object::performDropDownAction, Object::DayUpdate, and Object::minutesElapsed in the game code. Bee House parentSheetIndex is 10, as specified in Content\Data\BigCraftablesInformation.xnb.
+
+
+History
+1.4: Added honey from Sunflowers. Fixed lopsided flower range. Bee Houses can now be stacked in a player's inventory and in chests.
+1.5: Fixed bug where processing time was affected by the time of day.
+1.5.2: Fixed bug where Honey could not be collected from Beehouses on Ginger Island farm in Winter.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Bee_House&oldid=143309"
+Categories: Craftable itemsBugs fixed in 1.5
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 19:11.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

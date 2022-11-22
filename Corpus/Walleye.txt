@@ -1,0 +1,676 @@
+
+
+
+
+
+Walleye - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Walleye
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Walleye
+
+
+
+
+
+A freshwater fish caught at night.
+
+
+Information
+
+
+
+
+Location
+
+River • Mountain Lake • Forest Pond • Forest Farm Pond
+
+
+Time
+
+12pm – 2am
+
+
+Season
+
+ Fall •  Winter with Rain Totem
+
+
+Weather
+
+ Rain
+
+
+Difficulty
+
+45
+
+
+Behavior
+
+Smooth
+
+
+Size (inches)
+
+10-41
+
+
+
+
+Fishing XP
+
+18    21    24    30
+
+
+Energy / Health
+
+
+
+
+
+
+30
+
+
+
+
+
+13
+
+
+
+
+42
+
+
+
+
+
+
+		18
+
+
+
+
+
+54
+
+
+
+
+
+24
+
+
+
+
+78
+
+
+
+
+
+35
+
+
+
+
+
+
+
+Sell Prices
+
+
+Base
+ Fisher(+25%)
+ Angler(+50%)
+
+
+
+
+
+
+105g
+
+
+
+131g
+
+
+
+157g
+
+
+
+210g
+
+
+
+
+
+
+
+131g
+
+
+
+163g
+
+
+
+196g
+
+
+
+262g
+
+
+
+
+
+
+
+157g
+
+
+
+196g
+
+
+
+235g
+
+
+
+315g
+
+
+
+
+
+
+
+
+
+
+Artisan Sell Prices
+
+
+Roe
+
+Aged Roe
+
+ Aged Roe (+40%)
+
+
+ 82g
+
+ 164g
+
+ 229g
+
+
+
+
+The Walleye is a fish that can be caught in the river (in Pelican Town or Cindersap Forest), the mountain Lake, and the Cindersap Forest pond during Fall when it is raining. It can also be caught in Winter if a Rain Totem is used. It can randomly be found in Garbage Cans during Fall and Winter, or at the Traveling Cart for 315-1,000g. If the player chooses the Riverland Farm or the Forest Farm, Walleye can also be caught in the farm pond.
+Walleye can be caught regardless of weather, time, or season using Magic Bait.
+Walleye is most common in the Cindersap Forest pond. Every cast in the pond during raining Fall days has a 32% chance of hooking a Walleye.
+
+Contents
+
+1 Map
+2 Gifting
+3 Bundles
+4 Recipes
+5 Tailoring
+6 Fish Pond
+7 Quests
+8 History
+
+
+Map
+Walleye can be found in the river, mountain lake, and forest pond during Fall when it is raining.
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Demetrius •  Elliott •  Leo •  Linus •  Pam •  Sebastian •  Willy
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Dwarf •  Emily •  George •  Gus •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Marnie •  Maru •  Penny •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Wizard
+
+
+Hate
+
+ Evelyn •  Haley •  Pierre
+
+Bundles
+Walleye is used in the  Night Fishing Bundle in the Fish Tank. Despite this, it can be caught at any time after midday, so long as it is raining.
+1 gold/iridium quality Walleye is used in the  Quality Fish Bundle in the Fish Tank (Remixed).
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Recipe Source(s)
+Sell Price
+
+
+
+
+Maki Roll
+
+Fish and rice wrapped in seaweed.
+
+ Any Fish (1) Seaweed (1) Rice (1)
+
+ 100 45
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 1
+
+ Stardrop Saloon for 300g
+
+220g
+
+
+
+
+Quality Fertilizer
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Sap (2) Any Fish (1)
+
+N/A
+
+ Farming Level 9
+
+10g
+
+
+
+
+Sashimi
+
+Raw fish sliced into thin pieces.
+
+ Any Fish (1)
+
+ 75 33
+
+ Linus (Mail - 3+ )
+
+75g
+
+
+Tailoring
+Walleye can be used in the spool of the Sewing Machine to create the Fishing Vest.   It can be used in dyeing, serving as a yellow dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Fish Pond
+Walleye can be placed in a Fish Pond, where they will reproduce every 3 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is yellow Walleye Roe.
+Quests
+
+
+
+Pond Capacity
+
+Quest Item
+
+Fishing XP Granted
+
+
+Before Quest
+
+After Quest
+
+
+3
+5
+3 Acorns, 10 Bug Meat, 3 Maple Seeds, or 3 Pine Cones
+35
+
+
+5
+7
+3 Gold Ore, 1 Maple Syrup, or 5 Mixed Seeds
+35
+
+
+7
+10
+1 Crayfish, 1 Honey, 2 Jade, or 1 Periwinkle
+35
+
+Produce
+
+
+
+Item(s) Produced
+
+Fishing XP Granted
+
+Population
+
+% of Items
+
+Overall Daily Chance
+
+
+ Roe (1)
+
+13
+
+1-10
+90%
+21-86%
+
+
+Nothing
+
+
+
+1-10
+10%
+79-14%
+
+Quests
+Item Delivery: One Walleye may be randomly requested in Fall or Winter at the "Help Wanted" board outside Pierre's General Store for a reward of 315g and 150 Friendship points.
+History
+1.4: Added iridium quality. Can now be used in Tailoring.
+1.5: Is now used in a remixed bundle.
+
+
+Fish
+
+
+Legendary
+
+Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish
+
+
+The Beach
+
+Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna
+
+
+River
+
+Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye
+
+
+Mountain Lake
+
+Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye
+
+
+Cindersap Forest Pond
+
+Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye
+
+
+Secret Woods
+
+Carp • Catfish • Woodskip
+
+
+Mines
+
+Ghostfish • Ice Pip • Lava Eel • Stonefish
+
+
+Sewers
+
+Carp • Mutant Carp • Radioactive Carp
+
+
+Desert
+
+Sandfish • Scorpion Carp
+
+
+Mutant Bug Lair
+
+Carp • Slimejack
+
+
+Witch's Swamp
+
+Catfish • Void Salmon
+
+
+Night Market
+
+Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber
+
+
+Crab Pot
+
+Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail
+
+
+Ginger Island
+
+Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray •  Super Cucumber • Tilapia • Tuna
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Walleye&oldid=143511"
+Categories: Pond fishFall fishLake fishRiver fish
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 13 November 2022, at 01:38.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

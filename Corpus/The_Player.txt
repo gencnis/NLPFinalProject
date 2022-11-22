@@ -1,0 +1,288 @@
+
+
+
+
+
+The Player - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Player
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+GettingStarted
+
+ThePlayer
+
+Options
+
+Controls
+
+MobileControls
+
+Health
+
+Energy
+
+Skills
+
+DayCycle
+
+The Player refers to the playable character in Stardew Valley.
+
+Contents
+
+1 Character customization
+2 Special Keys
+3 Notes
+4 Exploits
+5 See also
+6 History
+
+
+Character customization
+ The character creation screen.
+The following options are available at the beginning of a new game:
+
+Appearance - This includes 24 skin tones, 73 hairstyles, 112 shirts, 4 pants, and 20 accessories. All of them can be used by either gender, with the option to randomize appearance. This has no effect on gameplay, can be changed later, and can be augmented with additional shirts and pants, as well as hats, and boots.
+Name / Farm Name - These are limited to most of the ASCII printable characters, which are spaces, uppercase and lowercase letters, numbers, and `[email protected]#$%^&*()-=+[{]}\|;:'",<.>/?_. Although " is in the valid ASCII printable character range, the textbox does not accept this character. Name and Farm Name are sometimes used in dialogues during gameplay. The player's name can be changed later, but not the farm name.
+Both fields accept copied text (paste text using Ctrl + v).
+The length of the name is determined by the total pixel width, and the allowed maximum is restricted to the width of the textbox.
+The letter case used when the name is inputted will not change (e.g., if the name is inputted in all lowercase; the first letter will not be corrected to uppercase).
+Animal Preference - This determines the type of pet that arrives in Spring of year 1. There are six options; three dogs, three cats.
+Favorite Thing - This affects the text displayed after eating a Stardrop. The character limits are the same as the Name / Farm Name text boxes.
+Gender - This has minor effects on gameplay and can be changed later.
+Characters will use the appropriate pronoun in dialogue.
+Restriction to the men's or women's spa entrance. (Note: Alex sometimes works out in the men's locker room.)
+It is possible to marry an eligible NPC regardless of gender. In a different-gender marriage, the woman can become pregnant for 14 days (with no effect on speed or movement) and give birth to a child. In a same-gender marriage, children can be adopted.
+Female characters will receive letters from Dad, while male characters will receive letters from Mom.
+Special Keys
+When entering "Name", "Farm Name", or "Favorite Thing" on the Character Creation menu, certain keys produce special sounds and/or symbols.
+
+Pressing the following keys will produce special sounds.
+Pressing < produces a "ding" sound
+Pressing $ produces a "plink" sound
+Pressing * produces a "stone hit" sound
+Pressing = produces a "pop" sound
+Pressing + produces a "squish" sound
+Pressing the following keys will produce special characters.
+Pressing < produces ♡, a heart
+Pressing > produces ▷, a right triangular arrow
+Pressing @ produces ◁, a left triangular arrow
+Pressing $ produces ⌾, a double circle
+Pressing * produces 💢, the "anger" symbol common in Japanese media
+Pressing = produces ☆, a star
+
+Pressing controller buttons also produces special sounds and/or symbols.
+
+Notes
+Entering certain terms as the Favorite Thing triggers an Easter egg.
+There are no character traits in Stardew Valley.
+Choices in cutscenes and dialogues don't significantly impact the story. They may increase or decrease friendship points, or change a future cutscene or dialogue slightly.
+It is possible to befriend most NPCs and there are no mutually exclusive friendships. (Some NPCs like Gunther have no friendship status.)
+While NPCs have a breathing animation, the player does not.  Instead, the player's eyes blink.
+Exploits
+PC/Mobile only: naming the character using an internal object ID number in brackets will give the item that corresponds with the number whenever an NPC mentions the character by their name. For example, entering [645][499][163] will give an Iridium Sprinkler, Ancient Seeds, and a Legend. (This exploit also works with naming children and animals.)
+See also
+Friendship
+Marriage
+Skills
+History
+1.3: Removed item ID naming exploit from all but PC and Mobile versions.
+1.4: Added new hairstyles and different pants.
+1.5: Added the ability to change name and gender. Added new hairstyles. Removed obtaining the Error Item using the item ID naming exploit.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=The_Player&oldid=140209"
+Category: Playable characters
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 22 July 2022, at 13:45.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

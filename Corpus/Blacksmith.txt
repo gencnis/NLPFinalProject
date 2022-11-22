@@ -1,0 +1,545 @@
+
+
+
+
+
+Blacksmith - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blacksmith
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Blacksmith
+
+
+
+
+
+
+
+
+Open Hours:
+
+9:00am to 4:00pm
+
+
+Closed:
+
+Friday, after Community Center restored and at 10:30 AM Winter 16
+
+
+Address:
+
+Across the town's river, to the bottom right
+
+
+Occupants:
+
+ Clint
+
+
+This article is about the store and building. For the profession, see Mining#Mining Skill.
+Clint's Blacksmith shop provides multiple services primarily related to resources found in the mines. It chiefly serves as a location for upgrading tools, and breaking open geodes, although he also trades in coal and ores (copper, iron, & gold). Finally, the building is also Clint's home, and his bedroom is out the back of the shop floor.
+
+Contents
+
+1 Stock
+
+1.1 Selling
+
+
+2 Upgrade Tools
+3 Process Geodes
+4 Tips
+5 External Links
+6 History
+
+
+Stock
+The purchase prices of ore and coal increase in year 2+. The player will receive a letter in the mail on Spring 1 of year 2 saying "Notice: The price of raw materials at Robin's shop and Clint's shop has increased." The gold obtained by selling items to Clint (or through the shipping bin) does not increase.
+
+
+
+Item
+
+Name
+
+Description
+
+Year 1Price
+
+Year 2+Price
+
+
+
+
+Copper Ore
+
+A common ore that can be smelted into bars.
+
+75g
+
+150g
+
+
+
+
+Iron Ore
+
+A fairly common ore that can be smelted into bars.
+
+150g
+
+250g
+
+
+
+
+Coal
+
+A combustible rock that is useful for crafting and smelting.
+
+150g
+
+250g
+
+
+
+
+Gold Ore
+
+A precious ore that can be smelted into bars.
+
+400g
+
+750g
+
+Selling
+Similar to how it is possible to sell crops directly to Pierre, it is also possible to sell gems, minerals, ore, and bars directly to Clint. Note that Clint will not directly buy any kind of geodes (although it is possible to sell any ores they contain back to him).
+
+Upgrade Tools
+Clint can upgrade the four main tools and the Trash Can in the inventory menu incrementally. That is to say the previous quality of tool is required to upgrade it to the next level. It takes 2 days to upgrade a tool. While Clint is upgrading a tool, Blacksmith services are unavailable.  A notification will pop up on the left side of the screen on the morning a tool upgrade is ready.
+Note that even when Blacksmith's shopfront itself is closed on festival days (although the door will not be shut for the Dance of the Moonlight Jellies in the Summer, and the Spirit's Eve festival in the Fall), Clint will still work on tools. If a player drops off a tool off the day before a festival, it will be ready the day after the festival as normal.
+All Axe and Pickaxe upgrades reduce the number of hits necessary to remove trees and rocks.  In addition certain metal versions are able to break larger objects of their respective type (logs and stumps; or boulders and meteorites, respectively). Upgraded versions of the Watering Can and Hoe allow the player to water and till multiple squares of land in a single use (using click-and-hold). The trash can upgrades increase the autosell value of any objects placed into them up to 60%.
+
+
+
+Image
+
+Name
+
+Ingredient
+
+Cost
+
+
+   
+
+Copper Tool
+
+ Copper Bar (5)
+
+2,000g
+
+
+   
+
+Steel Tool
+
+ Iron Bar (5)
+
+5,000g
+
+
+   
+
+Gold Tool
+
+ Gold Bar (5)
+
+10,000g
+
+
+   
+
+Iridium Tool
+
+ Iridium Bar (5)
+
+25,000g
+
+
+
+Image
+
+Name
+
+Ingredient
+
+Cost
+
+
+
+
+Copper Trash Can
+
+ Copper Bar (5)
+
+1,000g
+
+
+
+
+Steel Trash Can
+
+ Iron Bar (5)
+
+2,500g
+
+
+
+
+Gold Trash Can
+
+ Gold Bar (5)
+
+5,000g
+
+
+
+
+Iridium Trash Can
+
+ Iridium Bar (5)
+
+12,500g
+
+Process Geodes
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+Clint can break open geodes for 25g.  Gems and Minerals can be found within, as well as common resources like Stone, Clay, and Coal.
+If the sell price of the item inside the geode is 75g or less, a "clink" sound will be heard when it is broken open.  Otherwise a short melody will be heard and the item will sparkle.
+Artifact Troves can be purchased from the Desert Trader for 5 Omni Geodes. Clint will break these open like a geode, but instead of minerals, artifacts or treasures can be found inside.
+
+
+
+Image
+
+Name
+
+Description
+
+Cost to Process
+
+
+
+
+Geode
+
+A blacksmith can break this open for you.
+
+25g
+
+
+
+
+Frozen Geode
+
+A blacksmith can break this open for you.
+
+25g
+
+
+
+
+Magma Geode
+
+A blacksmith can break this open for you.
+
+25g
+
+
+
+
+Omni Geode
+
+A blacksmith can break this open for you. These geodes contain a wide variety of Minerals.
+
+25g
+
+
+
+
+Artifact Trove
+
+A blacksmith can open this for you. These troves often contain ancient relics and curiosities.
+
+25g
+
+
+
+
+Golden Coconut
+
+This is one tough nut to crack, but a professional might be able to break it open.
+
+25g
+
+Tips
+To avoid missing a day of watering, water crops, then upgrade the Watering Can when the weather report indicates rain the next day. Crops will be watered the day the can is taken to the Blacksmith, the following day by the rain, and the can can be picked up the day after that. It can also be a good idea to upgrade the watering can near the end of a season, if there is nothing in the ground that will bear fruit until then.
+Regarding coal prices, during year 1, it's cheaper to buy wood from the Carpenter's Shop and use a Charcoal Kiln to make coal than it is to buy coal from the Blacksmith's.  Conversely, starting in year 2, the price of wood increases from 10g to 50g, so it is cheaper to purchase coal.
+At Mining Skill 7, it is cheaper to purchase Iron Ore, smelt Iron Bars, and use the Transmute (Au) recipe to create Gold Bars than it is to purchase Gold Ore and smelt it into Gold Bars.  This also cuts the smelting time from 5h to 2h per Furnace. This saves 350g per Gold Bar in the first year and 1,000g per Gold Bar in year 2+.
+The minecart to town leaves just to the right of his shop. This makes it easy to travel there for whatever reason without traversing the rest of Pelican Town.
+Although the door to the Blacksmith locks at 4pm, as long as the player is inside the building they can still interact with the counter after 4pm to make purchases, upgrade tools etc., even after Clint walks away from the counter at 5pm.
+External Links
+Users with access to their saved game files may find the "Stardew Predictor" utility helpful for predicting which items will be produced from breaking open geodes.  The utility is located at:  https://mouseypounds.github.io/stardew-predictor/
+
+History
+1.04:
+Price of Copper Ore increased from 50g to 75g
+Price of Iron Ore increased from 100g to 150g
+Price of Coal increased from 100g to 150g
+Price of Gold Ore increased from 300g to 400g
+1.3.27:
+Price of Copper Ore increases in year 2+ from 75g to 150g
+Price of Iron Ore increases in year 2+ from 150g to 250g
+Price of Coal increases in year 2+ from 150g to 250g
+Price of Gold Ore increases in year 2+ from 400g to 750g
+1.4: Added popup notification when upgraded tools are ready. Added Artifact Trove
+
+1.5: Added Golden Coconuts
+
+
+Buildings
+
+
+Merchants
+
+Abandoned House • Adventurer's Guild • Blacksmith • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower
+
+
+Houses
+
+1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse
+
+
+Farm Buildings
+
+Farming
+
+Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Shed  • Silo • Slime Hutch • Stable • Well
+
+
+Special
+
+Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk
+
+
+Other Buildings
+
+Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Blacksmith&oldid=140891"
+Categories: Town LocationsStoresHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 13 August 2022, at 06:44.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

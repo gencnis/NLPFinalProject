@@ -1,0 +1,446 @@
+
+
+
+
+
+Spring Onion - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spring Onion
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Spring Onion
+
+
+
+
+
+These grow wild during the spring.
+
+
+Information 
+
+
+Source:
+
+Foraging
+
+
+Found in:
+
+Cindersap Forest
+
+
+Season:
+
+ Spring
+
+
+Healing Effect
+
+
+
+
+
+
+
+13 Energy
+
+
+
+
+18 Energy
+
+
+
+
+23 Energy
+
+
+
+
+33 Energy
+
+
+
+
+
+
+
+5 Health
+
+
+
+
+8 Health
+
+
+
+
+10 Health
+
+
+
+
+14 Health
+
+
+
+Sell Prices
+
+
+Base Price:
+
+Spring Onion Mastery:   (×5 Sell Price)
+
+
+
+
+
+
+
+8g
+
+
+
+
+10g
+
+
+
+
+12g
+
+
+
+
+16g
+
+
+
+
+
+
+
+40g
+
+
+
+
+50g
+
+
+
+
+60g
+
+
+
+
+80g
+
+
+
+The Spring Onion is a foraged item found in Spring in Cindersap Forest, but only on the southeast island (i.e., north of the Sewers entrance).  Unlike other foraged items, spring onions are respawned daily: all unharvested onions are removed at the end of each day, and new onions appear. The Livin' Off The Land Television channel airs a tip about Spring Onions on day 4. Spring Onions may randomly appear in the Traveling Cart's stock for 100-1,000g.
+Harvesting a Spring Onion grants the player 3 Foraging XP. Only one onion can be harvested per plant; the Gatherer profession does not apply to spring onions.
+Once the player has earned 8 hearts of friendship with Jas and Vincent, Spring Onion Mastery can be obtained, which permanently increases the sell price of Spring Onions by 5×.
+
+Contents
+
+1 Gifting
+2 Bundles
+3 Recipes
+4 Tailoring
+5 Quests
+6 Bugs
+7 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Like
+
+ Harvey •  Leah •  Linus
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Jas •  Jodi •  Kent •  Krobus •  Leo •  Lewis •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Bundles
+Spring Onion is an option in the  remixed Spring Foraging Bundle in the Crafts Room.
+
+Recipes
+Spring Onion is not used in any recipes.
+
+Tailoring
+Spring Onion is used in the spool of the Sewing Machine to create the Spring Shirt.  
+
+Quests
+Spring Onion is not used in any quests.
+
+Bugs
+On rainy days a harvested Spring Onion will leave behind a tile of dry tilled soil, whereas other tilled soil will be wet.
+
+History
+1.3.27: Added Spring Onion Mastery.
+1.4: Spring Onions' quality is now determined at the start of the day.  This fixes an exploit where repeatedly clicking on a Spring Onion with a full inventory would harvest the Onion and change its quality to the quality of an Onion held in inventory.  Can now be used in Tailoring.
+
+
+Foraging
+
+
+Basic
+
+Sap
+
+
+Spring
+
+Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish
+
+
+Summer
+
+Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea
+
+
+Fall
+
+Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum
+
+
+Winter
+
+Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root
+
+
+The Beach
+
+Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed
+
+
+The Mines
+
+Cave Carrot • Purple Mushroom • Red Mushroom
+
+
+The Desert
+
+Cactus Fruit • Coconut
+
+
+Skull Cavern
+
+Dinosaur Egg • Fiddlehead Fern
+
+
+Ginger Island
+
+Ginger • Magma Cap
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Spring_Onion&oldid=143004"
+Category: Spring ForageHidden category: Bugs tested in 1.3.36
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 15:54.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

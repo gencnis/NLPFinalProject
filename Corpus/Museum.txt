@@ -1,0 +1,511 @@
+
+
+
+
+
+Museum - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Museum
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Stardew Valley Museum & Library
+
+
+
+
+
+
+
+
+Open Hours:
+
+8:00am to 6:00pm
+
+
+Closed:
+
+Town Festival days
+
+
+Address:
+
+East side of Pelican Town, south of the Blacksmith.
+
+
+Occupants:
+
+ Gunther
+
+
+The Museum can be found in the South-East corner of Pelican Town, south of the Blacksmith.
+The museum contains a library and a gallery for displaying the museum's collection. At the start of the game, the entire museum collection is empty. Gunther, the curator, will ask The Player to help by donating Artifacts and Minerals.
+Only a single copy of any particular item may be donated. Note that if an item has not yet been donated, its description in inventory or storage says: "Gunther can tell you more about this if you donate it to the museum". Items can be rearranged in the donation interface, or by clicking the small paper on the left side of Gunther's desk at any time.  Donated items may be examined by right-clicking on them. 
+Penny tutors Vincent and Jas in the library on Tuesday, Wednesday, and Friday.
+
+Contents
+
+1 Donation Rewards
+
+1.1 Total Donations
+1.2 Minerals Donated
+1.3 Artifacts Donated
+
+
+2 Books
+3 Achievements
+4 Villager Paths
+5 Notes
+6 History
+
+
+Donation Rewards
+Gunther offers rewards when the collection has grown to certain points, or for the donation of specific artifacts. 
+
+Total Donations
+There are 95 items that can be donated to the Museum.
+
+
+
+Items Donated
+
+Reward
+
+
+5
+
+ Cauliflower Seeds (9)
+
+
+10
+
+ Melon Seeds (9)
+
+
+15
+
+ Starfruit Seeds (1)
+
+
+20
+
+ 'A Night On Eco-Hill' Painting
+
+
+25
+
+ 'Jade Hills' Painting
+
+
+30
+
+ Lg. Futan Bear
+
+
+35
+
+ Pumpkin Seeds (9)
+
+
+40
+
+ Rarecrow #8 (+ Treasure Trove Achievement)
+
+
+50
+
+ Bear Statue
+
+
+60
+
+ Rusty Key (Gunther will deliver it the next day)
+
+
+70
+
+ Triple Shot Espresso (3)
+
+
+80
+
+ Warp Totem: Farm (5)
+
+
+90
+
+ Magic Rock Candy
+
+
+95 (all items)
+
+ Stardrop (+ A Complete Collection Achievement)
+
+Minerals Donated
+There are a total of 53 Minerals that can be donated.
+
+
+
+Minerals Donated
+
+Reward
+
+
+11
+
+ Standing Geode
+
+
+21
+
+ Singing Stone
+
+
+31
+
+ Obsidian Vase
+
+
+41
+
+ Crystal Chair
+
+
+50
+
+ Crystalarium
+
+Artifacts Donated
+There are a total of 42 Artifacts that can be donated.
+To receive the 'Burnt Offering' reward, at least 10 artifacts must have already been donated that include the Rare Disc and Dwarf Gadget.  The 11th (or later) donation that meets these conditions will earn the 'Burnt Offering.'
+
+
+
+Artifacts Donated
+
+Reward
+
+
+11 artifacts including: Rare Disc Dwarf Gadget
+
+ 'Burnt Offering'
+
+
+15 artifacts
+
+ Skeleton Statue
+
+
+20 artifacts
+
+ Rarecrow #7
+
+
+3 artifacts including: Ancient Drum
+
+ Drum Block
+
+
+ Ancient Seed
+
+ Ancient Seeds (1) + Crafting Recipe
+
+
+3 artifacts including: Bone Flute
+
+ Flute Block
+
+
+5 artifacts including: Chicken Statue
+
+ Chicken Statue
+
+
+ Dwarf Scroll I Dwarf Scroll II Dwarf Scroll III Dwarf Scroll IV
+
+ Dwarvish Translation Guide
+
+
+ Prehistoric Skull Skeletal Hand Prehistoric Scapula
+
+ Sloth Skeleton L
+
+
+ Prehistoric Rib Prehistoric Vertebra
+
+ Sloth Skeleton M
+
+
+ Prehistoric Tibia Skeletal Tail
+
+ Sloth Skeleton R
+
+Books
+See: Lost Books
+Achievements
+There are 2 Achievements associated with donating Artifacts or Minerals to the Museum.
+
+Treasure Trove (Donate 40 different items to the museum)
+A Complete Collection (Complete the museum collection)
+Villager Paths
+ Villager Paths in the Museum
+The Museum's main shelving area is quite busy but the area below that with the desks is safe for item placement (such as the three-part skeleton display).  
+Note: The main artifact display area is safe until/unless JojaMart closes, at which time Sam will start working as a janitor there instead.  He walks through the central paths to sweep the back corner, but the display-areas furthest to the right are still safe.
+
+
+Notes
+There is a total of 102 spaces available for donations to be placed but a total of only 95 available items to be donated. Six spaces in the center of the largest table cannot be reached to examine items placed on them, so it may be advisable to leave this area empty.
+If using a controller, any diagonal item may be unreachable for examination once donated.
+To move items inside the donation interface on Switch, go to "Options" and disable "Use Controller Style Menus".
+In iOS (and possibly other mobile versions) items on the bottom most row cannot be moved in the donation interface. However, if the character goes to the front desk one tile to the left of Gunther, they get the option to rearrange the collection (even without completing the collection). In this mode, all the items are moveable.
+
+
+
+
+Museum Interior with unreachable tiles shaded
+
+
+
+
+
+
+One example of an organized complete collection
+
+
+
+
+History
+1.3.32: Fixed inability to place donated items on the bottom two rows of the museum.
+1.4: Added donation rewards for 35, 70, 80, and 90 items donated. Added ability to rearrange the museum artifacts without having to donate a new one.  Fixed bug where movement of inventory inside donation screen would prevent donation of items. Fixed issue in multiplayer where rearranging the collection would result in the message that a new item was donated. Various other museum-donation related fixes.
+1.5: Museum donation interactions improved.
+
+
+Buildings
+
+
+Merchants
+
+Abandoned House • Adventurer's Guild • Blacksmith • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower
+
+
+Houses
+
+1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse
+
+
+Farm Buildings
+
+Farming
+
+Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Shed  • Silo • Slime Hutch • Stable • Well
+
+
+Special
+
+Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk
+
+
+Other Buildings
+
+Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Museum&oldid=142097"
+Categories: Town LocationsAchievements
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 October 2022, at 01:42.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

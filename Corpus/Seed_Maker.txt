@@ -1,0 +1,362 @@
+
+
+
+
+
+Seed Maker - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seed Maker
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Seed Maker
+
+
+
+
+
+Place crops inside to produce a varying amount of seeds. Doesn't work with fruit tree crops.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Crafting
+
+
+Recipe Source:
+
+ Farming (Level 9)
+
+
+Ingredients:
+
+ Wood (25) Gold Bar (1) Coal (10)
+
+
+The Seed Maker is a piece of Refining Equipment that produces seeds from a harvested crop or one of four foraged items: Wild Horseradish, Spice Berry, Common Mushroom, or Winter Root. It takes  20m to process seeds. [1]
+A Seed Maker can be crafted after reaching Farming Level 9.  One Seed Maker is the reward for completing the  Dye Bundle on the Bulletin Board. A Seed Maker may occasionally be found in a treasure room in the Skull Cavern.
+
+Contents
+
+1 Seeds per Crop
+2 Seedless Crops
+3 References
+4 History
+
+
+Seeds per Crop
+The Seed Maker can produce 1-3 seeds of the same variety as the input crop (97.51% chance, average of 2 seeds), 1-4 Mixed Seeds (1.99% chance), or 1 packet of Ancient Seeds (0.5% chance).
+To avoid buying new seeds, an average of 51% of harvests would need to be sacrificed (= 1 / (0.9751 * 2)) to obtain new seeds for the next growing cycle.
+The game creates a pseudo-random number to determine the type and number of seeds produced. Note that Luck does not have any effect:
+(# days played) + (unique game ID) / 2 + (X tileLocation of Seed Maker) + (Y tileLocation of Seed Maker) × 77 + (timeOfDay) [1]
+
+Seedless Crops
+The Seed Maker does not produce seeds from:
+
+ Blackberry
+ Coconut
+ Coffee Bean
+ Crocus
+ Crystal Fruit
+ Fiddlehead Fern
+ Fruit Tree Fruit
+ Salmonberry
+ Sweet Pea
+ Tea Leaves
+ Wild Plum
+Any item listed as "Forage" in-game (other than Wild Horseradish, Common Mushroom, and Winter Root)
+References
+
+↑ 1.0 1.1 See Object::performObjectDropInAction in the game code.
+
+
+History
+1.3.27: Cactus Fruit (both foraged and farmed) can be placed in the Seed Maker to produce Cactus Seeds.
+1.4: Can now be stacked in a player's inventory and in chests.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Seed_Maker&oldid=143001"
+Category: Craftable items
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 15:52.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

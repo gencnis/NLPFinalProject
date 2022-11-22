@@ -1,0 +1,752 @@
+
+
+
+
+
+Ostrich Egg - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ostrich Egg
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Ostrich Egg
+
+
+
+
+
+It may be the world's largest egg.
+
+
+Information 
+
+
+Source:
+
+Ostrich
+
+
+Healing Effect
+
+
+
+
+
+
+
+38 Energy
+
+
+
+
+53 Energy
+
+
+
+
+68 Energy
+
+
+
+
+98 Energy
+
+
+
+
+
+
+
+17 Health
+
+
+
+
+23 Health
+
+
+
+
+30 Health
+
+
+
+
+44 Health
+
+
+
+Sell Prices
+
+
+Base Price:
+
+Rancher Profession:   (+20% Sell Price)
+
+
+
+
+
+
+
+600g
+
+
+
+
+750g
+
+
+
+
+900g
+
+
+
+
+1,200g
+
+
+
+
+
+
+
+720g
+
+
+
+
+900g
+
+
+
+
+1,080g
+
+
+
+
+1,440g
+
+
+
+
+Artisan Sell Prices
+
+
+Base Price:
+
+Rancher:   (+20%)
+
+Artisan:   (+40%)
+
+
+
+
+
+
+
+190g
+
+
+
+
+237g
+
+
+
+
+285g
+
+
+
+
+380g
+
+
+
+
+
+
+
+228g
+
+
+
+
+284g
+
+
+
+
+342g
+
+
+
+
+456g
+
+
+
+
+
+
+
+266g
+
+
+
+
+331g
+
+
+
+
+399g
+
+
+
+
+532g
+
+
+
+
+
+
+
+Ostrich Eggs are animal products  obtained from Ostriches or by solving Journal Scrap #10 on Ginger Island. It can also be found in Volcano Dungeon rare chests.
+An Ostrich Egg can be placed in a Mayonnaise Machine to produce 10 Mayonnaise. The quality of the Mayonnaise will be equal to the quality of the Ostrich Egg used.
+Putting an Ostrich Egg into an Ostrich Incubator in a Barn will hatch an Ostrich in  15,000m (9.5d). This is cut to  7,500m (4.75d) with the Coopmaster Profession.
+
+Contents
+
+1 Gifting
+2 Artisan Goods
+3 Recipes
+4 Tailoring
+5 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Love
+
+ Leo
+
+
+Like
+
+ Alex •  Demetrius •  Jodi •  Kent •  Leah •  Linus •  Marnie •  Pierre •  Sam •  Shane
+
+
+Neutral
+
+ Caroline •  Clint •  Elliott •  Emily •  Evelyn •  George •  Gus •  Harvey •  Krobus •  Lewis •  Maru •  Penny •  Robin •  Sandy •  Willy
+
+
+Dislike
+
+ Abigail •  Dwarf •  Haley •  Jas •  Pam •  Vincent •  Wizard
+
+
+Hate
+
+ Sebastian
+
+Artisan Goods
+See also: Animal Products Profitability
+The quality of the Mayonnaise will be equal to the quality of the Ostrich Egg used.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredient
+
+Equipment
+
+Time
+
+Sell Price
+
+
+
+
+Mayonnaise (10)
+
+It looks spreadable.
+
+ Ostrich Egg (1)
+
+Mayonnaise Machine
+
+ 3 Hours
+
+ 190g
+
+Recipes
+Ostrich Eggs work the same as regular chicken eggs in all recipes.
+
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Fried Egg
+
+Sunny-side up.
+
+ Egg (1)
+
+ 50 22
+
+N/A
+
+N/A
+
+Upgraded farmhouse
+
+35g
+
+
+
+
+Omelet
+
+It's super fluffy.
+
+ Egg (1) Milk (1)
+
+ 100 45
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Spring, Year 1
+
+ Stardrop Saloon for 100g
+
+125g
+
+
+
+
+Pancakes
+
+A double stack of fluffy, soft pancakes.
+
+ Wheat Flour (1) Egg (1)
+
+ 90 40
+
+ Foraging (+2)
+
+ 11m 11s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Summer, Year 1
+
+ Stardrop Saloon for 100g
+
+80g
+
+
+
+
+Chocolate Cake
+
+Rich and moist with a thick fudge icing.
+
+ Wheat Flour (1) Sugar (1) Egg (1)
+
+ 150 67
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Winter, Year 1
+
+
+200g
+
+
+
+
+Pink Cake
+
+There's little heart candies on top.
+
+ Melon (1) Wheat Flour (1) Sugar (1) Egg (1)
+
+ 250 112
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 2
+
+
+480g
+
+
+
+
+Cookie
+
+Very chewy.
+
+ Wheat Flour (1) Sugar (1) Egg (1)
+
+ 90 40
+
+N/A
+
+N/A
+
+ Evelyn (4-heart event)
+
+140g
+
+
+
+
+Blueberry Tart
+
+It's subtle and refreshing.
+
+ Blueberry (1) Wheat Flour (1) Sugar (1) Egg (1)
+
+ 125 56
+
+N/A
+
+N/A
+
+ Pierre (Mail - 3+ )
+
+150g
+
+
+
+
+Crab Cakes
+
+Crab, bread crumbs, and egg formed into patties then fried to a golden brown.
+
+ Crab (1) Wheat Flour (1) Egg (1) Oil (1)
+
+ 225 101
+
+ Speed (+1) Defense (+1)
+
+ 16m 47s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Fall, Year 2
+
+
+275g
+
+
+Tailoring
+Ostrich Egg is used in the spool of the Sewing Machine to create the  Warrior Helmet.
+
+History
+1.5: Introduced.
+
+
+Animals and Produce
+
+
+Coop
+
+Chicken (Egg • Large Egg • Brown Egg • Large Brown Egg) • Dinosaur (Dinosaur Egg) • Duck (Duck Egg • Duck Feather) • Golden Chicken (Golden Egg) • Rabbit (Wool • Rabbit's Foot) • Void Chicken (Void Egg)
+
+
+Barn
+
+Cow (Milk • Large Milk) • Goat (Goat Milk • Large Goat Milk) • Sheep (Wool) • Ostrich (Ostrich Egg) • Pig (Truffle)
+
+
+Fish Pond
+
+Fish (Roe)
+
+
+Slime Hutch
+
+Slimes (Slime • Slime Ball • Slime Egg)
+
+
+Other
+
+Cat • Dog • Horse
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Ostrich_Egg&oldid=143279"
+Category: Animal ProductsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 18:45.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

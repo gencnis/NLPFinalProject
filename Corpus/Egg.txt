@@ -1,0 +1,713 @@
+
+
+
+
+
+Egg - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Egg
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Egg
+
+
+
+
+
+A regular white chicken egg.A regular brown chicken egg.
+
+
+Information 
+
+
+Source:
+
+Chicken
+
+
+Healing Effect
+
+
+
+
+
+
+
+25 Energy
+
+
+
+
+35 Energy
+
+
+
+
+45 Energy
+
+
+
+
+65 Energy
+
+
+
+
+
+
+
+11 Health
+
+
+
+
+15 Health
+
+
+
+
+20 Health
+
+
+
+
+29 Health
+
+
+
+Sell Prices
+
+
+Base Price:
+
+Rancher Profession:   (+20% Sell Price)
+
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+
+
+
+
+
+60g
+
+
+
+
+74g
+
+
+
+
+90g
+
+
+
+
+120g
+
+
+
+
+Artisan Sell Prices
+
+
+Base Price:
+
+Rancher:   (+20%)
+
+Artisan:   (+40%)
+
+
+
+
+
+
+
+190g
+
+
+
+
+
+
+
+228g
+
+
+
+
+
+
+
+266g
+
+
+
+
+
+
+
+The Egg and the Brown Egg are animal products  obtained from White, Brown, or Blue Chickens.  Marnie may also gift you 12 eggs at the Feast of the Winter Star.  
+Eggs can be hatched in an incubator, which comes with a Big or Deluxe Coop. 
+
+Contents
+
+1 Gifting
+2 Bundles
+3 Artisan Goods
+4 Recipes
+5 Tailoring
+6 Quests
+7 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Like
+
+ Alex •  Demetrius •  Jodi •  Kent •  Leah •  Linus •  Marnie •  Pierre •  Sam •  Shane
+
+
+Neutral
+
+ Caroline •  Clint •  Elliott •  Emily •  Evelyn •  George •  Gus •  Harvey •  Krobus •  Leo •  Lewis •  Maru •  Penny •  Robin •  Sandy •  Willy
+
+
+Dislike
+
+ Abigail •  Dwarf •  Haley •  Jas •  Pam •  Vincent •  Wizard
+
+
+Hate
+
+ Sebastian
+
+Bundles
+The Egg may be substituted for the Large Egg in the  remixed Animal Bundle in the Pantry.
+Ten of any type of egg are required for the  Home Cook's Bundle on the Bulletin Board (Remixed).
+Artisan Goods
+See also: Animal Products Profitability
+Eggs can be used to make the following Artisan Goods.  Note that regular eggs always produce regular quality Mayonnaise, while Large Eggs always produce gold-quality Mayonnaise.  The quality of the egg is not a factor.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredient
+
+Equipment
+
+Time
+
+Sell Price
+
+
+
+
+Mayonnaise
+
+It looks spreadable.
+
+ Egg (1) or Large Egg (1)
+
+Mayonnaise Machine
+
+ 3 Hours
+
+
+
+
+
+
+190g
+
+
+
+
+285g
+
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Fried Egg
+
+Sunny-side up.
+
+ Egg (1)
+
+ 50 22
+
+N/A
+
+N/A
+
+Upgraded farmhouse
+
+35g
+
+
+
+
+Omelet
+
+It's super fluffy.
+
+ Egg (1) Milk (1)
+
+ 100 45
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Spring, Year 1
+
+ Stardrop Saloon for 100g
+
+125g
+
+
+
+
+Pancakes
+
+A double stack of fluffy, soft pancakes.
+
+ Wheat Flour (1) Egg (1)
+
+ 90 40
+
+ Foraging (+2)
+
+ 11m 11s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Summer, Year 1
+
+ Stardrop Saloon for 100g
+
+80g
+
+
+
+
+Chocolate Cake
+
+Rich and moist with a thick fudge icing.
+
+ Wheat Flour (1) Sugar (1) Egg (1)
+
+ 150 67
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Winter, Year 1
+
+
+200g
+
+
+
+
+Pink Cake
+
+There's little heart candies on top.
+
+ Melon (1) Wheat Flour (1) Sugar (1) Egg (1)
+
+ 250 112
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 2
+
+
+480g
+
+
+
+
+Cookie
+
+Very chewy.
+
+ Wheat Flour (1) Sugar (1) Egg (1)
+
+ 90 40
+
+N/A
+
+N/A
+
+ Evelyn (4-heart event)
+
+140g
+
+
+
+
+Blueberry Tart
+
+It's subtle and refreshing.
+
+ Blueberry (1) Wheat Flour (1) Sugar (1) Egg (1)
+
+ 125 56
+
+N/A
+
+N/A
+
+ Pierre (Mail - 3+ )
+
+150g
+
+
+
+
+Crab Cakes
+
+Crab, bread crumbs, and egg formed into patties then fried to a golden brown.
+
+ Crab (1) Wheat Flour (1) Egg (1) Oil (1)
+
+ 225 101
+
+ Speed (+1) Defense (+1)
+
+ 16m 47s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Fall, Year 2
+
+
+275g
+
+
+Tailoring
+Egg is used in the spool of the Sewing Machine to create the dyeable Plain Overalls.  
+
+Quests
+The Egg may be randomly requested during any season at the "Help Wanted" board outside Pierre's General Store for a reward of 150g and 150 Friendship points.  An Egg will never be requested unless you own a White Chicken, Brown Chicken, or Duck.  (Owning a Duck will result in a chicken egg being requested.)
+History
+1.0: Introduced.
+1.1: Increased value from 40g to 50g.
+1.4: Can now be used in Tailoring.
+
+
+Animals and Produce
+
+
+Coop
+
+Chicken (Egg • Large Egg • Brown Egg • Large Brown Egg) • Dinosaur (Dinosaur Egg) • Duck (Duck Egg • Duck Feather) • Golden Chicken (Golden Egg) • Rabbit (Wool • Rabbit's Foot) • Void Chicken (Void Egg)
+
+
+Barn
+
+Cow (Milk • Large Milk) • Goat (Goat Milk • Large Goat Milk) • Sheep (Wool) • Ostrich (Ostrich Egg) • Pig (Truffle)
+
+
+Fish Pond
+
+Fish (Roe)
+
+
+Slime Hutch
+
+Slimes (Slime • Slime Ball • Slime Egg)
+
+
+Other
+
+Cat • Dog • Horse
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Egg&oldid=143575"
+Category: Animal Products
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 16 November 2022, at 16:51.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

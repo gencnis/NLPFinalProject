@@ -1,0 +1,607 @@
+
+
+
+
+
+Legend - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Legend
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Legend
+
+
+
+
+
+The king of all fish! They said he'd never be caught.
+
+
+Information
+
+
+
+
+Location
+
+Mountain Lake
+
+
+Time
+
+Any
+
+
+Season
+
+ Spring
+
+
+Weather
+
+ Rain
+
+
+Difficulty
+
+110
+
+
+Behavior
+
+Mixed
+
+
+Fishing Level Required
+
+10
+
+
+Size (inches)
+
+49-51
+
+
+
+
+Fishing XP
+
+195    210    225    255
+
+
+Energy / Health
+
+
+
+
+
+
+500
+
+
+
+
+
+225
+
+
+
+
+700
+
+
+
+
+
+
+		315
+
+
+
+
+
+900
+
+
+
+
+
+405
+
+
+
+
+1300
+
+
+
+
+
+585
+
+
+
+
+
+
+
+Sell Prices
+
+
+Base
+ Fisher(+25%)
+ Angler(+50%)
+
+
+
+
+
+
+5,000g
+
+
+
+6,250g
+
+
+
+7,500g
+
+
+
+10,000g
+
+
+
+
+
+
+
+6,250g
+
+
+
+7,812g
+
+
+
+9,375g
+
+
+
+12,500g
+
+
+
+
+
+
+
+7,500g
+
+
+
+9,375g
+
+
+
+11,250g
+
+
+
+15,000g
+
+
+
+
+
+
+
+See also: Legend II. For the achievement, see Achievements.
+The Legend is a Fish that can be caught during Spring in The Mountain lake during rainy weather. It is one of the five Legendary Fish, so it can only be caught once per save file, or once per player in Multiplayer.
+The special requirements necessary to hook a Legend are:[1]
+
+Fishing level 10, either naturally or using Fishing Buffs.
+The bobber must be located in water with a Fishing Zone of 5, i.e., it must be at least five tiles away from any land (including bridges) in every direction.
+The Legend can appear one tile closer to land (Zone=3) if the bobber lands in bubbles.
+The region of the lake near the large submerged log meets this requirement, as suggested in Secrets of the Legendary Fish. However, there are other locations in the lake that also work.
+When all of these requirements are met, each cast has a 10% chance of hooking a Legend (20% if using a Curiosity Lure). Contrary to the information provided by The Fisherman, Act II, none of the other Legendary Fish need to be caught first.
+The Legend can be caught regardless of weather or season using Magic Bait.
+
+Contents
+
+1 Map
+2 Gifting
+3 Bundles
+4 Recipes
+5 Dyeing
+6 Quests
+7 References
+8 History
+
+
+Map
+The Legend can be found in the mountain lake.
+
+
+ 
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Demetrius •  Elliott •  Leo •  Linus •  Pam •  Sebastian •  Willy
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Dwarf •  Emily •  George •  Gus •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Marnie •  Maru •  Penny •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Wizard
+
+
+Hate
+
+ Evelyn •  Haley •  Pierre
+
+Bundles
+The Legend is not used in any bundles.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Recipe Source(s)
+Sell Price
+
+
+
+
+Maki Roll
+
+Fish and rice wrapped in seaweed.
+
+ Any Fish (1) Seaweed (1) Rice (1)
+
+ 100 45
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 1
+
+ Stardrop Saloon for 300g
+
+220g
+
+
+
+
+Quality Fertilizer
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Sap (2) Any Fish (1)
+
+N/A
+
+ Farming Level 9
+
+10g
+
+
+
+
+Sashimi
+
+Raw fish sliced into thin pieces.
+
+ Any Fish (1)
+
+ 75 33
+
+ Linus (Mail - 3+ )
+
+75g
+
+
+Dyeing
+It can be used in dyeing, serving as a green dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Quests
+The Legend is not used in any quests.
+
+References
+
+↑ See Mountain::getFish in the game code.
+
+
+History
+1.4: Removed bug allowing it to be caught more than once per save file.  Added iridium quality.
+1.5: Chance of catching it can now be increased by using a Curiosity Lure.
+
+
+Fish
+
+
+Legendary
+
+Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish
+
+
+The Beach
+
+Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna
+
+
+River
+
+Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye
+
+
+Mountain Lake
+
+Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye
+
+
+Cindersap Forest Pond
+
+Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye
+
+
+Secret Woods
+
+Carp • Catfish • Woodskip
+
+
+Mines
+
+Ghostfish • Ice Pip • Lava Eel • Stonefish
+
+
+Sewers
+
+Carp • Mutant Carp • Radioactive Carp
+
+
+Desert
+
+Sandfish • Scorpion Carp
+
+
+Mutant Bug Lair
+
+Carp • Slimejack
+
+
+Witch's Swamp
+
+Catfish • Void Salmon
+
+
+Night Market
+
+Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber
+
+
+Crab Pot
+
+Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail
+
+
+Ginger Island
+
+Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray •  Super Cucumber • Tilapia • Tuna
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Legend&oldid=142587"
+Categories: Legendary fishSpring fishLake fish
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 26 October 2022, at 03:45.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

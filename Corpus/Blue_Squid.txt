@@ -1,0 +1,333 @@
+
+
+
+
+
+Blue Squid - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blue Squid
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Blue Squid
+
+
+
+
+
+Information
+
+
+Spawns In:
+
+The Dangerous Mines
+
+
+Floors:
+
+11-29 [1]
+
+
+Killable:
+
+Yes
+
+
+Base HP:
+
+310
+
+
+Base Damage:
+
+18
+
+
+Base Def:
+
+2
+
+
+Speed:
+
+3
+
+
+XP:
+
+15
+
+
+Variations:
+
+None
+
+
+Drops:
+
+ Bomb (10%) Dwarf Scroll III (0.5%) Dwarf Scroll IV (0.1%) Gold Bar (5%) Mega Bomb (5%) Solar Essence (75%) Squid Ink (20%)If reached bottom of Mines: Diamond (0.05%) Prismatic Shard (0.05%)
+
+
+
+Blue Squids are an enemy found in the Mines after activating the Shrine of Challenge or during the Danger In The Deep quest.
+
+Behavior
+Blue Squids will intermittently "swim" through walls towards the player, dealing damage on each hit, or may just stay still. There are many in their levels, meaning that they can easily swarm the player if they are not equipped with a strong enough weapon. They may also charge up a special attack, shooting an orb that will apply the  Weakness debuff, reducing the player's attack temporarily by 20.
+
+References
+
+↑ See MineShaft::spawnFlyingMonsterOffScreen in the game code.
+
+
+History
+1.5: Introduced.
+
+
+Monsters
+
+
+Mines
+
+Bats • Bug • Cave Fly • Duggy • Dust Sprite • Ghost • Grub • Lava Crab • Metal Head • Rock Crab • Shadow Brute • Shadow Shaman • Skeleton • Slimes • Squid Kid • Stone Golem
+
+
+Dangerous Mines
+
+Bat (dangerous) • Blue Squid • Bug (dangerous) • Carbon Ghost • Cave Fly (dangerous) • Duggy (dangerous) • Dust Sprite (dangerous) • Frost Bat (dangerous) • Grub (dangerous) • Haunted Skull (dangerous) • Lava Crab (dangerous) • Metal Head (dangerous) • Putrid Ghost • Rock Crab (dangerous) • Shadow Brute (dangerous) • Shadow Shaman (dangerous) • Shadow Sniper • Skeleton (dangerous) • Skeleton Mage • Slimes (dangerous) • Spider • Squid Kid (dangerous) • Stick Bug • Stone Golem (dangerous)
+
+
+Quarry Mine
+
+Copper Slime • Haunted Skull • Iron Slime
+
+
+Skull Cavern
+
+Armored Bug • Big Slime • Carbon Ghost • Iridium Bat • Iridium Crab • Lava Bat • Mummy • Pepper Rex • Purple Slime • Serpent
+
+
+Dangerous Skull Cavern
+
+Armored Bug (dangerous) • Mummy (dangerous) • Royal Serpent • Slime (dangerous)
+
+
+Bug Lair
+
+Mutant Fly • Mutant Grub
+
+
+The Farm
+
+Wilderness Golem
+
+
+Volcano Dungeon
+
+Dwarvish Sentry • False Magma Cap • Hot Head • Lava Lurk • Magma Duggy • Magma Sparker • Magma Sprite • Tiger Slime
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Blue_Squid&oldid=136065"
+Category: MonstersHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 21 March 2022, at 06:46.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

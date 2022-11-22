@@ -1,0 +1,1397 @@
+
+
+
+
+
+Skull Cavern - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skull Cavern
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+ Skull Cavern Entrance
+For ladder/shaft spawn rates, special monster drops, and the contents of crates and barrels, see The Mines.
+The Skull Cavern is located in the northwest area of the Desert. It is initially locked and requires the Skull Key to gain access.
+
+Contents
+
+1 Overview
+2 Time
+3 Strategy
+4 Monsters
+5 Prehistoric Floors
+6 Treasure Rooms
+7 Secret
+8 Trivia
+9 References
+10 History
+
+
+Overview
+ A shaft for faster descending
+There is no practical limit to the number of floors, or levels, in the Skull Cavern.[1] Similar to the Mines, the player advances through floors in the Skull Cavern by finding a ladder on each floor, either by mining rocks or defeating enemies. 
+The player can sometimes find a shaft, or hole, which makes it possible to skip 3-15 floors. There is a 20% chance for a rock to spawn a shaft instead of a ladder. The way this works is that a pseudo random integer x between 3 and 8 inclusive is chosen with a 90% chance that the player drops x levels and a 10% chance that the player drops 2x-1 levels. The amount of levels dropped is predetermined based on the mine level, game day, and game seed. In particular, Luck does not affect the chances of jumping down a certain number of levels. In addition, this means that if there are multiple shafts on a given level, they will all drop the player the same number of levels, so it does not matter which shaft is chosen. Jumping down the shaft causes Health damage equal to 3x the number of levels skipped (although jumping down a shaft will never reduce health to less than 1). Note that if a shaft above floor 100 is calculated to drop the player past floor 100, it will be modified to only drop the player to floor 100. [2]
+Unlike The Mines, there is no elevator to save progress, but on every floor there is a ladder at the starting point where the player can leave the Skull Cavern. Each visit must start again from the first floor. If the player runs out of health while exploring Skull Cavern, they will wake up sometime later on the same day in Harvey's Clinic. A fee of 1,000g will be deducted for emergency surgery. Some items may also be lost. Passing out at 2:00 am will cause the player to lose 1,000g or 10% of funds, whichever is less.
+Iridium
+The chance to find Iridium Ore increases steadily as the player descends into the Skull Cavern. The monsters in the Cavern also have a chance to drop ore and Iridium Bars, as well as special items. It can be a good idea to bring the Lava Katana or Galaxy Sword, as enemies are particularly strong. High Luck increases the frequency of ore veins and the appearance of ladders/holes. Rapid descent to floors with a higher chance of spawning Iridium Nodes is often more efficient for acquiring ore than through exploration. Staircases can be stacked, so a single inventory slot can hold 999 staircases. Even blindly placing staircases will take some time though; the lower the player descends with staircases, the less time they have to explore the caverns.
+Qi's Challenge
+After entering the Cavern for the first time, a letter is received on the following day from Mr. Qi. The letter begins the quest Qi's Challenge, which is completed by reaching floor 25 in the Skull Cavern. Completing the quest awards 10,000g, delivered by mail the following day. If the player reaches level 25 of the Skull Cavern during the first visit, the quest will automatically be fulfilled the next day.
+Qi's Hungry Challenge
+"Qi's Hungry Challenge" is a possible, repeatable Special Order, that may be accepted in Qi's Walnut Room on Ginger Island. It is completed by reaching floor 100 of the Skull Cavern within the given time limit. While this quest is active, no food or drink items can be consumed while the player is in the Skull Cavern. Buffs from food/drink before entering the Skull Cavern will stay active. While this quest is active, Big Slimes may occasionally have hearts that will give 10 health points when slain. Another strategy to regain health without eating is to equip one or more Vampire Rings or to use a weapon with the Vampiric enchantment. The use of staircases is permitted. Completing the quest awards  25 Qi Gems.
+Skull Cavern Invasion
+The "Skull Cavern Invasion" is a possible, repeatable Special Order, that may be accepted in Qi's Walnut Room on Ginger Island. It is completed by reaching floor 100 of the Skull Cavern within the given time limit. While the quest is active, stronger variations of monsters occupy the Cavern; similarly to the Dangerous Mines. The use of staircases is permitted. Radioactive nodes can spawn here, like the Dangerous Mines. Completing the quest awards  40 Qi Gems.
+
+Time
+Time runs more slowly in Skull Cavern than elsewhere in the game: whereas one hour of game time normally lasts 43 seconds, in Skull Cavern one hour lasts 54 seconds.  However, time reverts to normal 43-second hours in multiplayer games and on Prehistoric Floors.[3] This has two main implications:
+
+Players have more real-time available before the end of the day, and should be able to descend deeper than otherwise.
+The game-time duration of any buff is decreased.
+This adjustment in timing has no effect, however, upon other aspects of the game, such as equipment processing times.  For example, Honey placed in a Keg at noon is ready with Mead at 10 pm even if the player spends most of that time in the Skull Cavern.
+
+Strategy
+Food
+Shown below are foods with Buffs that are useful when exploring the Skull Cavern. Note that eating a food with buffs will wipe out any active buffs and replace them with the buffs from the newly eaten food. If the newly eaten food has no buffs, the existing buffs will remain in effect. Coffee, Triple Shot Espresso and Ginger Ale are an exception to this rule; they will stack with other food buffs (but not each other).
+
+
+
+Image
+
+Name
+
+Ingredients
+
+Restores
+
+Buff(s)
+
+Duration
+
+
+
+
+Autumn's Bounty
+
+ Yam (1) Pumpkin (1)
+
+22099
+
+ Foraging (+2) Defense (+2)
+
+ 7m 41s
+
+
+
+
+Coffee
+
+ Coffee Bean (5)
+
+31
+
+ Speed (+1)
+
+ 1m 23s
+
+
+
+
+Crab Cakes
+
+ Crab (1) Wheat Flour (1) Egg (1) Oil (1)
+
+225101
+
+ Speed (+1) Defense (+1)
+
+ 16m 47s
+
+
+
+
+Cranberry Sauce
+
+ Cranberries (1) Sugar (1)
+
+12556
+
+ Mining (+2)
+
+ 3m 30s
+
+
+
+
+Eggplant Parmesan
+
+ Eggplant (1) Tomato (1)
+
+17578
+
+ Mining (+1) Defense (+3)
+
+ 4m 39s
+
+
+
+
+Fried Eel
+
+ Eel (1) Oil (1)
+
+7533
+
+ Luck (+1)
+
+ 7m
+
+
+
+
+Fried Mushroom
+
+ Common Mushroom (1) Morel (1) Oil (1)
+
+13560
+
+ Attack (+2)
+
+ 7m
+
+
+
+
+Ginger Ale
+
+ Ginger (3) Sugar (1)
+
+6328
+
+ Luck (+1)
+
+ 5m
+
+
+
+
+Lucky Lunch
+
+ Sea Cucumber (1) Tortilla (1) Blue Jazz (1)
+
+10045
+
+ Luck (+3)
+
+ 11m 11s
+
+
+
+
+Magic Rock Candy
+
+N/A
+
+500225
+
+ Mining (+2) Luck (+5) Speed (+1) Defense (+5) Attack (+5)
+
+ 8m 24s
+
+
+
+
+Maple Bar
+
+ Maple Syrup (1) Sugar (1) Wheat Flour (1)
+
+225101
+
+ Farming (+1) Fishing (+1) Mining (+1)
+
+ 16m 47s
+
+
+
+
+Miner's Treat
+
+ Cave Carrot (2) Sugar (1) Milk (1)
+
+12556
+
+ Mining (+3) Magnetism (+32)
+
+ 5m 35s
+
+
+
+
+Pepper Poppers
+
+ Hot Pepper (1) Cheese (1)
+
+13058
+
+ Speed (+1) Farming (+2)
+
+ 7m
+
+
+
+
+Pumpkin Soup
+
+ Pumpkin (1) Milk (1)
+
+20090
+
+ Luck (+2) Defense (+2)
+
+ 7m 41s
+
+
+
+
+Roots Platter
+
+ Cave Carrot (1) Winter Root (1)
+
+12556
+
+ Attack (+3)
+
+ 5m 35s
+
+
+
+
+Spicy Eel
+
+ Eel (1) Hot Pepper (1)
+
+11551
+
+ Luck (+1) Speed (+1)
+
+ 7m
+
+
+
+
+Stuffing
+
+ Bread (1) Cranberries (1) Hazelnut (1)
+
+17076
+
+ Defense (+2)
+
+ 5m 35s
+
+
+
+
+Super Meal
+
+ Bok Choy (1) Cranberries (1) Artichoke (1)
+
+16072
+
+ Speed (+1) Max Energy (+40)
+
+ 3m 30s
+
+
+
+
+Triple Shot Espresso
+
+ Coffee (3)
+
+83
+
+ Speed (+1)
+
+ 4m 12s
+
+
+Explosives
+Bombs make quick work of densely-clustered stones and ore veins. They can also be used for permanently defeating Mummies.
+Bombs can be crafted, or purchased from Dwarf:
+
+
+
+Image
+Name
+Ingredients
+Purchase Price
+
+
+
+Cherry Bomb
+ Copper Ore (4) Coal (1)
+300g
+
+
+
+Bomb
+ Iron Ore (4) Coal (1)
+600g
+
+
+
+Mega Bomb
+ Gold Ore (4) Solar Essence (1) Void Essence (1)
+1,000g
+
+The Slingshot's Explosive Ammo is also effective in dealing with small groups of stones, Iridium Ore deposits, and incapacitated Mummies. Loading the Slingshot with Gold Ore deals substantial damage, making it potentially useful for dispatching tough targets. Explosive ammo can be crafted, or bought at the Adventurer's Guild for 300g.
+Staircases
+
+Staircases can be used for rapid descent or skipping troublesome floors. If the player has access to one or more Crystalariums, it can be considered to make them produce Jade which can be traded for Staircases with the Desert Trader on Sundays.
+Rings
+
+Several Rings may assist in exploring the Skull Cavern.  See the Rings page for full descriptions.
+Warp Totems
+
+A Warp Totem can be used to make a quick exit if supplies are running low or the day is almost over.
+A Warp Totem: Desert can also be used to access the Desert about 4 hours before Pam arrives there with the Bus.
+Monsters
+
+
+Image
+
+Monster
+
+HP
+
+Damage
+
+Notes
+
+
+
+
+Armored Bug
+
+1
+
+8
+
+Can only be killed while using a weapon with the bug killer enchantment.
+
+
+
+
+Big Slime
+
+60
+
+5
+
+A chance to split into smaller Slimes when killed. Big Slimes are purple in the Skull Cavern.
+
+
+
+
+Purple Slime
+
+410
+
+28
+
+Can drop Iridium Ore and Iridium Bars.
+
+
+
+
+Lava Bat
+
+80
+
+15
+
+Appears rarely on the first 50 floors; flies.
+
+
+
+
+Mummy
+
+260
+
+30
+
+Appears on Mummy levels. Needs to be finished with a bomb of any type after being knocked out with other weapons. If a bomb does enough damage to knock the Mummy out, it will also destroy it. Using a weapon with the Crusader enchantment stops them from reviving. Frequently drops Solar Essences when slain, and occasionally drops Cloth.
+
+
+
+
+Serpent
+
+150
+
+23
+
+Moves quickly; default flying enemy. Frequently drops Void Essence. Occasionally drops Spicy Eel and Bombs.
+
+
+
+
+Iridium Bat
+
+300
+
+30
+
+Appears at level 51+ and on prehistoric floors. Very high HP and Damage. Frequently drops Iridium Ore and Solar Essence.
+
+
+
+
+Iridium Crab
+
+240
+
+15
+
+Appears at level 26+. Can drop Iridium Ore and Crab Cakes.
+
+
+
+
+Carbon Ghost
+
+190
+
+25
+
+Can appear on Mummy levels. Frequently drop Omni Geodes. May occasionally drop Refined Quartz.
+
+
+
+
+Pepper Rex
+
+300
+
+15
+
+Appears mainly on prehistoric floors; breathes fire. Drops Dinosaur Egg or one of 3 prehistoric Artifacts.
+
+
+
+
+Mutant Fly
+
+66
+
+12
+
+Can appear on prehistoric floors.
+
+
+
+
+Armored Bug (dangerous)
+
+250
+
+20-27
+
+Only appears when the Skull Cavern is in a "dangerous" state.
+
+
+
+
+Mummy (dangerous)
+
+445
+
+38-55
+
+Only appears when the Skull Cavern is in a "dangerous" state.
+
+
+
+
+Royal Serpent
+
+300-1050
+
+32-48
+
+Only appears when the Skull Cavern is in a "dangerous" state.
+
+
+
+
+Purple Slime (dangerous)
+
+403
+
+20-30
+
+Only appears when the Skull Cavern is in a "dangerous" state.
+
+
+Prehistoric Floors
+ A Prehistoric Floor
+Prehistoric floors are a type of infested floor containing mainly Pepper Rex monsters. Mutant flies and Iridium Bats can also spawn and attack the player there. Dinosaur Eggs and Fiddlehead Ferns can be foraged on Prehistoric floors. Foliage on this floor has a chance to yield an Ancient Seed when cut down. Below floor 6 there is a ~2.2% chance to encounter a prehistoric floor.[4]
+Because prehistoric floors are infested, all enemies on this floor must be killed before a ladder appears.
+
+
+Treasure Rooms
+Small rooms containing treasure chests, similar to those in The Mines, can randomly appear at level 10+. Daily luck and Luck Buffs affect the chance to find Treasure Rooms. The probability of encountering one when entering a new floor equals to 0.01 + (Daily Luck / 10) + (Luck Buffs / 100)[4]. This means Treasure Rooms have a base chance of 1% to appear with daily Luck increasing the chance by 1% at best or decreasing by 1% at worst, with the Special Charm adding 0.25%, and food buffs adding 1% for every point of Luck. In multiplayer, the luck values taken into account are the average of luck stats of players present in the Skull Cavern. Floor 100 of the Skull Cavern is guaranteed to contain a treasure chest. The only exception is during the run where the player completes the secret.
+Below is a collapsible table of all possible treasures that can be randomly found inside Treasure Chests in the Skull Cavern.
+
+
+
+Image
+
+Name
+
+Number in Chest 
+
+Chance [5] 
+
+
+
+
+Mega Bomb
+
+5
+
+1/26
+
+
+
+
+Bomb
+
+10
+
+1/26
+
+
+
+
+Cactus Seeds
+
+15
+
+1/26
+
+
+
+
+Life Elixir
+
+2-4
+
+1/26
+
+
+
+
+Omni Geode
+
+5
+
+1/26
+
+
+
+
+Warp Totem: Farm
+
+5
+
+1/26
+
+
+
+
+Rain Totem
+
+1-3
+
+1/26
+
+
+
+
+Apple Sapling
+
+1
+
+1/156
+
+
+
+
+Apricot Sapling
+
+1
+
+1/156
+
+
+
+
+Cherry Sapling
+
+1
+
+1/156
+
+
+
+
+Orange Sapling
+
+1
+
+1/156
+
+
+
+
+Peach Sapling
+
+1
+
+1/156
+
+
+
+
+Pomegranate Sapling
+
+1
+
+1/156
+
+
+
+
+Iridium Sprinkler
+
+1-2
+
+1/26
+
+
+
+
+Quality Sprinkler
+
+4
+
+1/26
+
+
+
+
+Parsnip Seeds
+
+5-20
+
+1/702
+
+
+
+
+Bean Starter
+
+5-20
+
+1/702
+
+
+
+
+Cauliflower Seeds
+
+5-20
+
+1/702
+
+
+
+
+Potato Seeds
+
+5-20
+
+1/702
+
+
+
+
+Garlic Seeds
+
+5-20
+
+1/702
+
+
+
+
+Kale Seeds
+
+5-20
+
+1/702
+
+
+
+
+Rhubarb Seeds
+
+5-20
+
+1/702
+
+
+
+
+Melon Seeds
+
+5-20
+
+1/702
+
+
+
+
+Tomato Seeds
+
+5-20
+
+1/702
+
+
+
+
+Blueberry Seeds
+
+5-20
+
+1/702
+
+
+
+
+Pepper Seeds
+
+5-20
+
+1/702
+
+
+
+
+Wheat Seeds
+
+5-20
+
+1/702
+
+
+
+
+Radish Seeds
+
+5-20
+
+1/702
+
+
+
+
+Red Cabbage Seeds
+
+5-20
+
+1/702
+
+
+
+
+Starfruit Seeds
+
+5-20
+
+1/702
+
+
+
+
+Corn Seeds
+
+5-20
+
+1/702
+
+
+
+
+Eggplant Seeds
+
+5-20
+
+1/702
+
+
+
+
+Artichoke Seeds
+
+5-20
+
+1/702
+
+
+
+
+Pumpkin Seeds
+
+5-20
+
+1/702
+
+
+
+
+Bok Choy Seeds
+
+5-20
+
+1/702
+
+
+
+
+Yam Seeds
+
+5-20
+
+1/702
+
+
+
+
+Cranberry Seeds
+
+5-20
+
+1/702
+
+
+
+
+Beet Seeds
+
+5-20
+
+1/702
+
+
+
+
+Spring Seeds
+
+5-20
+
+1/702
+
+
+
+
+Summer Seeds
+
+5-20
+
+1/702
+
+
+
+
+Fall Seeds
+
+5-20
+
+1/702
+
+
+
+
+Winter Seeds
+
+5-20
+
+1/702
+
+
+
+
+Cherry Bomb
+
+15
+
+1/26
+
+
+
+
+Red Slime Egg
+
+1
+
+1/26
+
+
+
+
+Purple Slime Egg
+
+1
+
+1/26
+
+
+
+
+Energy Tonic
+
+2-4
+
+1/26
+
+
+
+
+Iridium Bar
+
+2-3
+
+1/26
+
+
+
+
+Autumn's Bounty
+
+5
+
+1/260
+
+
+
+
+Pumpkin Soup
+
+5
+
+1/260
+
+
+
+
+Super Meal
+
+5
+
+1/260
+
+
+
+
+Cranberry Sauce
+
+5
+
+1/260
+
+
+
+
+Stuffing
+
+5
+
+1/260
+
+
+
+
+Farmer's Lunch
+
+5
+
+1/260
+
+
+
+
+Survival Burger
+
+5
+
+1/260
+
+
+
+
+Dish O' The Sea
+
+5
+
+1/260
+
+
+
+
+Miner's Treat
+
+5
+
+1/260
+
+
+
+
+Roots Platter
+
+5
+
+1/260
+
+
+
+
+Prismatic Shard
+
+1
+
+1/26
+
+
+
+
+Crystalarium
+
+1
+
+1/26
+
+
+
+
+Seed Maker
+
+1
+
+1/26
+
+
+
+
+Auto-Grabber
+
+1
+
+1/26
+
+
+
+
+Auto-Petter
+
+1
+
+1/26
+
+
+
+
+Blue Cowboy Hat
+
+1
+
+1/26
+
+
+
+
+Red Cowboy Hat
+
+1
+
+1/26
+
+
+
+
+White Turban
+
+1
+
+1/26
+
+
+
+
+Dark Cowboy Hat
+
+1
+
+1/26
+
+Secret
+After reading Secret Note #10, the player will find Mr. Qi at level 100 of the Skull Cavern.  A cutscene ensues in which:
+
+
+
+Details 
+
+
+Mr. Qi will either congratulate the player for reaching level 100 while using 10 or fewer Staircases or say the player is "clever" but not "honorable" for using more than 10. In either case, he will award the player with Iridium Snake Milk, which permanently increases the player's health by 25 points.
+
+
+
+Trivia
+The plaques that can be occasionally found on the walls contain enciphered messages.
+To reach the integer limit, it would be required to bypass the Quarry Mine Floor, which has no ability to produce a ladder. (This floor is coded as 77377, and can be found at level 77257 of the Skull Cavern, which counts floor 1 as floor 121 internally.) [6]
+Starting at floor 880, Iridium Bats will become red bats and have double health and faster speed.[7]
+References
+
+↑ The integer limit is 2147483647. To reach that limit in one Stardew Valley day, the player would have to descend over 2 million levels per real-time second.
+
+↑ See MineShaft::enterMineShaft in the game code.
+
+↑ See MineShaft::getExtraMillisecondsPerInGameMinuteForThisLocation and Game1::UpdateGameClock in the game code.
+
+↑ 4.0 4.1 See MineShaft::loadLevel in the game code.
+
+↑ See MineShaft::getTreasureRoomItem in the game code.
+
+↑ See Locations.MineShaft::quarryMineShaft in the game code.
+
+↑ See StardewValley.Bats::Bat in the game code.
+
+
+History
+1.3.27: Added Carbon Ghost, Iridium Bat, Iridium Crab, Treasure Rooms, and encounter with Mr. Qi. Removed exploit that allowed the player to avoid bomb damage by consuming food after placing a bomb.
+1.4: Added Pepper Rex. Added White Turban to possible Treasure Room items. All players entering a shaft in Multiplayer now descend to the same level. Qi's challenge can now be completed during the first visit to the Skull Cavern. Shafts will no longer drop the player past level 100.
+1.5: Added Auto-Petter to possible Treasure Room items. Fixed chests spawned on certain floors being shifted down by 4 tiles. Fixed message appearing when opening a treasure room chest before opening the initial 15 Parsnip Seeds given by Mayor Lewis.
+1.5.2: Added Dark Cowboy Hat to possible Treasure Room items.
+1.5.5: Reaching level 100 will result in a guaranteed treasure chest, except when viewing the secret cutscene.
+
+
+Locations
+
+
+Locations
+
+Backwoods • Beach • Bus Stop • Calico Desert • Cindersap Forest • Farm • Farm Cave • Farm Pond •  Graveyard • Ginger Island • Minecart • Mines • Mountain • Mutant Bug Lair • Pelican Town • Quarry • Quarry Mine • Railroad • Secret Woods • Sewers • Skull Cavern • Summit • Tunnel • Volcano Dungeon • Witch's Swamp
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Skull_Cavern&oldid=141400"
+Category: Desert LocationsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 2 September 2022, at 22:55.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

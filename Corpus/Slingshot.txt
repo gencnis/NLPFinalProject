@@ -1,0 +1,399 @@
+
+
+
+
+
+Slingshot - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slingshot
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Slingshot
+
+
+
+
+
+Requires stones for ammo.
+
+
+Information
+
+
+Type:
+
+Slingshot
+
+
+Source:
+
+Chest at Level 40 of The Mines
+
+
+Damage:
+
+Depends on ammo used
+
+
+Critical Strike Chance:
+
+.02
+
+
+Adventurer's Guild
+
+
+Purchase Price:
+
+500g
+
+
+Sell Price:
+
+Cannot be sold
+
+
+The Slingshot is a slingshot weapon that can be obtained from the chest on level 40 of The Mines. After that, it can be purchased at the Adventurer's Guild for 500g. Despite its description, many items other than Stone can be used as Slingshot ammunition.
+Unlike most weapons, using a slingshot on a villager will decrease friendship with them by 30 points.  Using a slingshot on the cat or dog will produce a "hate" dialogue bubble, but will not decrease friendship. 
+
+Ammunition
+To equip a slingshot with ammunition, select the ammunition, then Right-Click on the slingshot.
+The type of ammunition used determines the damage dealt, according to the following formulas :
+
+Slingshot:
+Damage = AmmoMultiplier + random number between [-(AmmoMultiplier / 2), AmmoMultiplier + 1]
+Master Slingshot:
+Damage = 2 * (AmmoMultiplier + random number between [-(AmmoMultiplier / 2), AmmoMultiplier + 1])
+With the worst ammo (i.e., Fruits, Vegetables, or Eggs), a Slingshot can deal 1-3 and a Master Slingshot can deal 2-6 damage. With the best ammo, Iridium Ore, a Slingshot can deal 25-101 damage while a Master Slingshot can deal 50-202 damage.
+The following items can be used as ammunition:
+
+
+
+Item
+
+AmmoMultiplier
+
+Slingshot Damage
+
+Master Slingshot Damage
+
+
+All Fruits • All Vegetables • All Eggs
+
+1
+
+1-3
+
+2-6
+
+
+Coal
+
+15
+
+8-31
+
+16-62
+
+
+Copper Ore
+
+10
+
+5-21
+
+10-42
+
+
+Explosive Ammo
+
+20
+
+10-41
+
+20-82
+
+
+Gold Ore
+
+30
+
+15-61
+
+30-122
+
+
+Iridium Ore
+
+50
+
+25-101
+
+50-202
+
+
+Iron Ore
+
+20
+
+10-41
+
+20-82
+
+
+Stone
+
+5
+
+3-11
+
+6-22
+
+
+Wood
+
+2
+
+1-5
+
+2-10
+
+
+Notes
+The clipping glitch that allows the player to enter the normally unreachable space around a map area does not work with slingshots.
+History
+1.4: Slingshots can now be put in the inventory trash bin on computer and console (Mobile already had this ability).
+1.5: Can be purchased at the Adventurer's Guild after unlocking.
+
+
+
+
+Weapons
+
+
+Swords
+
+Bone Sword • Claymore • Cutlass • Dark Sword • Dragontooth Cutlass • Dwarf Sword • Forest Sword • Galaxy Sword • Infinity Blade • Insect Head • Iron Edge • Lava Katana • Neptune's Glaive • Obsidian Edge • Ossified Blade • Pirate's Sword • Rusty Sword • Silver Saber • Steel Falchion • Steel Smallsword • Tempered Broadsword • Templar's Blade • Wooden Blade • Yeti Tooth
+
+
+Daggers
+
+Broken Trident • Burglar's Shank • Carving Knife • Crystal Dagger • Dragontooth Shiv • Dwarf Dagger • Elf Blade • Galaxy Dagger • Infinity Dagger • Iridium Needle • Iron Dirk • Shadow Dagger • Wicked Kris • Wind Spire
+
+
+Clubs
+
+Dragontooth Club • Dwarf Hammer • Femur • Galaxy Hammer • Infinity Gavel • Lead Rod • Kudgel • The Slammer • Wood Club • Wood Mallet
+
+
+Slingshots
+
+Slingshot • Master Slingshot • Explosive Ammo
+
+
+Unobtainable Weapons
+
+Abby's Planchette • Alex's Bat • Elliott's Pencil • Galaxy Slingshot • Haley's Iron • Harvey's Mallet • Holy Blade • Leah's Whittler • Maru's Wrench • Penny's Fryer • Rapier • Sam's Old Guitar • Seb's Lost Mace
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Slingshot&oldid=132569"
+Category: Slingshots
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 17 December 2021, at 23:38.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

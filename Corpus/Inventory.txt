@@ -1,0 +1,247 @@
+
+
+
+
+
+Inventory - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inventory
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+The inventory consists of the contents of the player's backpack. It allows the player to carry items as they travel around the map.
+The inventory is organised into rows of 12, and the player starts with one row initially available. One row can be selected at a time to provide immediate access to items and equipment, and this subsection of the inventory is commonly referred to as the hotbar. It is possible to select different items in the hotbar for use by using pressing the number key associated with that slot, or using the scroll wheel.
+The game menu (press ESCAPE or E), displays the entire contents of the backpack in its leftmost tab. For this reason it is sometimes called the inventory menu. The hotbar is shown as the top row of this menu, and if upgraded the other rows will be shown below it. This menu gives the player the means to move items between the slots inside the backpack, or to split or combine stacks of items. To select one item in a stack using mouse & keyboard, right-click on it. To divide the stack in half, shift + right-click on it.  (See also: Controls, Mobile Controls.) Note that in singleplayer, opening the inventory menu pauses the clock.
+The inventory can be expanded twice in stages of 12 items each by purchasing backpack upgrades at Pierre's General Store. Extra slots from backpack extension do not grant direct access, but simply add to the number of items that can travel with the player. To gain immediate access, items must be moved from the lower row(s) into the upper row using the menu.
+Certain game activities that involve transferring items give the player access to the entire inventory. These include interacting with an open chest or a shop menu, or donating items at the Community Center or Museum. Items that cannot be sold to a shop or donated will be greyed out (note that Pierre and Willy will only buy back items pertaining to their respective type of shop). Controls change somewhat during these activities. Moving items within the inventory is often restricted, and a mouse click on an inventory item can sell it to a shopkeeper, so careful control is required for guaranteeing one's intended actions.
+
+Contents
+
+1 Inventory Screen
+2 Upgrades
+3 Tips
+4 History
+
+
+Inventory Screen
+
+Inventory Tab button
+Hotbar (quick-access items)
+Second and third rows of inventory; only shown while in the inventory menu
+Equipped wearable items
+Character's image
+Character's name
+Character's level and title, visible when hovering the mouse cursor over the image
+Farm Name
+Current Funds -- total Gold currently available to spend
+Total Earnings -- total Gold earned in the game to date
+Trash Can -- unwanted items can be permanently disposed of by dragging them here (most Tools cannot be trashed)
+Auto-Sort Button -- Sorts inventory items in game order (tools are not sorted)
+Golden Scroll Icon -- Click to view progress towards Community Center Bundles, once unlocked
+Close Menu Button
+Upgrades
+ Preview of available backpacks
+The player's inventory initially has 12 slots, but can be upgraded  to a total of 36 slots. The upgraded backpacks are available immediately at the start of the game and can be purchased at Pierre's General Store.
+The "Large Pack" (which is red) expands inventory to 24 slots and costs 2,000g.  The "Deluxe Pack" (which is blue) expands inventory to 36 slots and costs 10,000g. Once both backpack upgrades have been purchased, the "For Sale" sign on the shelf disappears.
+
+Tips
+Shift + Left-Click on an inventory item/stack in the bottom two rows to quickly move it to the top row of inventory.
+Hotbar keys can be reassigned through the Options menu.
+Inventory items can be selected and dragged outside the inventory menu, then released to be dropped.  If done near a body of water, the item may be permanently lost.
+Tab when in normal game play (PC) will cause the other available rows to scroll to the top row.
+History
+1.4: Character's image background changed.
+1.5: The auto-sort button no longer sorts tools.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Inventory&oldid=139392"
+Category: Gameplay
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 29 June 2022, at 13:55.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

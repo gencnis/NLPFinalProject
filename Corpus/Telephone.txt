@@ -1,0 +1,827 @@
+
+
+
+
+
+Telephone - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Telephone
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Telephone
+
+
+
+
+
+Can be used to check store hours and inventory.
+
+
+Information 
+
+
+Source:
+
+Carpenter's Shop for 2,000g
+
+
+Sell Price:
+
+Cannot be sold
+
+
+The Telephone is a piece of equipment that allows players to check store hours and inventory.[1] It can be purchased from the Carpenter's Shop for 2,000g. It may be placed anywhere in Stardew Valley, indoors or out.
+Phone calls that can be received include scam phone calls, calls from the bear from Bear's Knowledge, from Vincent, Lewis, or Pierre, from the hat mouse, or a message in a foreign language.[2]
+Calling a merchant does not affect friendship points and does not count as talking to that villager for the day.
+
+Contents
+
+1 Outgoing Calls
+
+1.1 Robin
+1.2 Clint
+1.3 Pierre
+1.4 Marnie
+1.5 Gus
+1.6 Marlon
+
+
+2 Incoming Calls
+3 Bugs
+4 References
+5 History
+
+
+Outgoing Calls
+ Answering Machine portraitMerchants (or their answering machine) will tell the player their hours for the day; the player can then select additional options depending on the shop. Answering machine messages will vary for days when a merchant is busy, festival days, etc.[3]
+Robin
+Call Robin to check the hours and stock at the Carpenter's Shop.
+
+Check store inventory
+Check house upgrade cost (also applies to cabins)
+Check building upgrade costs
+
+
+Quotes 
+
+
+
+Open
+
+
+
+
+“
+
+“Hello? Hey! Yes, I'm currently open for business... please swing by before 5PM if you need anything! *click*”
+
+
+
+
+
+“
+
+“Hello? Oh, hi [Player]! *BANG*... Um, one sec... (Muffled Voice: Honey, could you close the door? I'm trying to run a business here.)... Sorry! Yes, I'm open until 5pm today. See you later! *click*”
+
+
+Answering Machine
+
+
+
+
+“
+
+“Hey, it's Robin. My business hours are from 9AM to 5PM. Please come by then if you need anything! *beep*”
+
+
+
+
+
+“
+
+“Hey, it's Robin. I'm out of the house today for my weekly aerobics club... Sorry! *beep*”
+
+
+
+
+
+“
+
+“Hey, it's Robin. I'll be out of the house until tomorrow finishing up a project. *beep*”
+
+
+
+
+
+“
+
+“Hey, it's Robin. I'll be busy for the next few days working on a project. *beep* *beep*”
+
+
+
+
+
+“
+
+“Hey, it's Robin. I'm taking the day off today. Sorry for the inconvenience! *beep*”
+
+
+
+Clint
+Call Clint to check the hours at the Blacksmith.
+
+Check tool upgrade costs
+Note: ore prices cannot be checked by phone.
+
+
+Quotes 
+
+
+
+Open
+
+
+
+
+“
+
+“Hello? Oh, hey, [Player]. Yup, I'm open for business until 4PM. Er... Okay. Goodbye. *click*”
+
+
+
+
+
+“
+
+“Hello? Yes, yes, I'm open until 4pm. Gotta go. *click*”
+
+
+
+
+
+“
+
+“Hello? Oh... [Player]... Your voice sounds really nice over the phone... Uh... Okay. Understood. I'm open until 4pm. *slam*”
+
+
+Answering Machine
+
+
+
+
+“
+
+“You've reached Clint's answering machine. I'm not available right now... My business hours are from 9AM to 4PM. *beep*”
+
+
+
+
+
+“
+
+“Hey, this is Clint. I'm taking the day off today. *beep*”
+
+
+
+
+
+“
+
+“Hey... Your tool will be ready for pickup tomorrow. I gotta get back to work now. *clank* *clank* *click*”
+
+
+
+
+
+“
+
+“Hello? Yes? Your tool still needs a few more days of work. Check back with me later. *click*”
+
+
+
+
+
+Pierre
+Call Pierre to check the hours and stock at Pierre's General Store.
+
+Check store inventory
+
+
+Quotes 
+
+
+
+Open
+
+
+
+
+“
+
+“Pierre's General Store! Oh, hello, [Player]! Yes, I'm open until 5pm today. Please come by for great deals on seeds and produce! Goodbye. *click*”
+
+
+
+
+
+“
+
+“Abigail! Your guinea pig is loose again! Come here *right now* and take care of this! Oh! Uh... Hello? Thank you for calling. Y... Yes, we're open until 5PM. Goodbye. *click*”
+
+
+Answering Machine
+
+
+
+
+“
+
+“Thank you for calling Pierre's General Store. We're closed at the moment, but our hours are 9AM to 5PM. See you then! *beep*”
+
+
+
+
+
+“
+
+“Thank you for calling Pierre's General Store. We're closed today in observance of the festival. *beep*”
+
+
+
+Marnie
+Call Marnie to check the hours at Marnie's Ranch.
+
+Check livestock prices
+Note: supply store cannot be accessed by telephone.
+
+
+Quotes 
+
+
+
+Open
+
+
+
+
+“
+
+“Hello? Oh, hi [Player]! Yes, my shop is open until 4:00 PM today. Hope to see you soon! *click*”
+
+
+
+
+
+“
+
+“Lew...? Hah... Heyyy! Yup, I'm open right now. *bahhh*. That sound? Oh, it's one of my goats. Please come by if you need anything! *click*”
+
+
+Answering Machine
+
+
+
+
+“
+
+“Hello, you've reached Marnie's Ranch. My business hours are from 9AM to 4PM. Please come visit me then. *beep*”
+
+
+
+
+
+“
+
+“Hello, you've reached Marnie's Ranch. My shop is closed today.”
+
+
+
+Gus
+Call Gus to check the hours at the Stardrop Saloon.
+
+Find out the dish of the day.
+
+
+Quotes 
+
+
+
+Open
+
+
+
+
+“
+
+“Hello? Hi [Player]! Yes... today's special is: '[dish of the day]'! We're open right now, so feel free to come on in for a taste. *click*”
+
+
+
+
+
+“
+
+“(You hear slurping and chewing sounds on the other end...) *gulp* ... Uh.. Oh! Well, hello! Hahah... pardon me, I was just tasting today's special, '[dish of the day]'. It's delicious. Yes... Yes we're open right now. Come by if you want a taste! *click*”
+
+
+
+
+
+“
+
+“Hello? Hi [Player]! Yup, we're open right now. Hope to see you soon! *click*”
+
+
+Answering Machine
+
+
+
+
+“
+
+“Hello, this is Gus from the Stardrop Saloon. We're currently closed, but please come by later if you'd like to try our daily special, '[dish of the day]'! *beep*”
+
+
+
+
+
+“
+
+“Hello, this is Gus from the Stardrop Saloon. We're closed for the day. *beep*”
+
+
+
+
+
+“
+
+“Hello, this is Gus from the Stardrop Saloon. We're currently closed. Please stop in between 12PM and 12AM if you'd like some of our delicious food and drink. *beep*”
+
+
+
+Marlon
+Call Marlon to use the Item Recovery Service without having to go to the Adventurer's Guild. Marlon's number is only available after completing the Monster Eradication Goal for Magma Sprites and Magma Sparkers.
+
+
+
+Quotes 
+
+
+
+Open
+
+
+
+
+“
+
+“Marlon Speaking... Did you lose something in the mines again? Yes, yes... I'm willing to fetch it... for a price.”
+
+
+
+
+
+“
+
+“Hello?... Yep, I'm going to fetch your item tonight. You can relax. No need to keep calling! *click*”
+
+
+
+
+
+“
+
+“What's that? You haven't lost anything in the mines? Okay. Sounds like you don't need my help, then. Take care. *click*”
+
+
+
+Incoming Calls
+
+
+Vincent 
+
+
+
+
+
+
+“
+
+“Hello? Um... Uhhh... This is Vincent... Um... Do you have any piggies on your farm? ... Okay I gotta go! *click*”
+
+
+
+
+
+Robocaller 
+
+
+
+
+
+
+“
+
+“You hear a robotic voice on the other end: Congratulations. . . You. Have. A. 10,000g. JOJA. Rebate. Waiting. For. You. . . Please. Mail. Your. Credit. Card. Number. To. 133. N. Gunger St. Zuzu. City. To. Receive. Your. Rebate. . . *CLICK*”
+
+
+
+
+
+Pierre 
+
+
+
+
+
+
+“
+
+“Hey, [Player]. It's me, Pierre. How are you doing? Good? That's good. Well, I just wanted to say that I appreciate your business. And I'd like to remind you that Pierre's General Store carries *the finest* seeds and produce anywhere. I hope to see you in the store very soon. Bye! *click*”
+
+
+
+
+
+Lewis 
+
+
+
+Lewis calls to ask the player how everything is going on their farm.
+
+
+
+
+“
+
+“Hey, [Player]. I just wanted to check up on you and see if [farm name] Farm is doing well. How's everything going?”
+
+
+The player has multiple response choices.
+
+"Good! I really feel at home here." He responds "I think I can speak for everyone in saying that we really value your presence in the community. Your Grandfather would be really proud of what you've accomplished. Well, I'll let you get back to your work. Goodbye!"
+"Good! The farm is very productive." He responds "Your farm has really boosted the local economy, which is good for everyone. We all appreciate your hard work! I think it's safe to say that your Grandfather would be really proud of what you've accomplished. Well, I'll let you get back to your work. Goodbye!"
+"Not so good..." He responds "Oh... I'm sorry to hear that. *Uh... Keep working hard and I'm sure things will improve... Well... I'll let you get back to it, then... Okay? Talk to you later. Bye."
+"I know your secret, Lewis." He responds "What's that? I think the line cut out... I can't hear a thing. Alright, well I guess I'll hang up then. Bye."
+
+
+
+Hat Mouse 
+
+
+
+
+
+
+“
+
+“You hear a squeaky voice on the other end: Heyo poke! Me sell gud hats. Please come, n' bring coines, poke. Me like coines. *click*”
+
+
+
+
+
+Foreign 
+
+
+
+
+
+
+“
+
+“It's a pre-recorded message in a foreign language. You can't understand it at all.”
+
+
+
+
+
+Bear 
+
+
+
+The player will only receive this call if they have obtained the Bear's Knowledge.
+
+
+
+
+“
+
+“*sniff* *sniff* HoOoOoOoOoO!... Is that you? *grunt*... I have some of that good sauce still, friend. It's making me very, very happy. *snort* Just want to thank you... bye bye friend. *click*”
+
+
+
+
+
+Secret 
+
+
+
+The player will only receive this call if they have turned their children into doves.
+
+
+
+
+“
+
+“You place the receiver to your ear, and are met with a roiling, abrasive static. But wait... beneath it all, you can make out something else... an otherworldly voice... 'Y-O-U H-A-V-E F-O-R-S-A-K-E-N U-S'”
+
+
+
+Bugs
+If the player calls a merchant and checks the store stock while that merchant is away on Ginger Island, the store interface may use the merchant's island portrait.
+It is possible to use the phone to call a merchant while inside their own store. They will have no reaction to this.
+References
+
+↑ Outgoing call behavior is specified in StardewValley.Game1::ShowTelephoneMenu.
+
+↑  Incoming call behavior is specified in StardewValley.Objects.Phone::CanHearCall.
+
+↑ Quotes are specified in Content\Strings\Characters.xnb.
+
+
+History
+1.5: Introduced.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Telephone&oldid=143292"
+Category: Special itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 19:01.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

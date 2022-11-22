@@ -1,0 +1,345 @@
+
+
+
+
+
+Slime Egg - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slime Egg
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Slime Egg
+
+
+
+
+
+Can be hatched in a slime incubator.
+
+
+Information 
+
+
+Source:
+
+
+Slime Egg-Press
+Drop from Slimes
+Slimejack / Lionfish Fish Pond
+
+
+Healing Effect:
+
+
+
+
+Inedible
+
+
+
+Sell Price:
+
+
+ 1,000g
+
+ 1,750g
+ 2,500g
+
+ 5,000g
+ 8,000g
+
+
+
+Slime eggs can be obtained as rare drops from slimes or by putting 100 slime into a Slime Egg-Press.  Purple and red Slime Eggs can also be found in treasure rooms in the Skull Cavern. One Green Slime Egg may be produced daily in a Slimejack Fish Pond when the population of the pond reaches 9. A Tiger Slime Egg might drop when a Tiger Slime is killed in the Volcano Dungeon or West area of Ginger Island. One Tiger Slime Egg may be produced daily in a Lionfish Fish Pond when the population of the pond reaches 9.
+The color of egg produced from a Slime Egg-Press is random.  There is a 5% chance the egg will be purple, 9.5% chance of red, 21.375% chance of blue, and 64.125% chance of green.[1]
+Once a Slime Hutch is built on The Farm, there is a 1% chance that a slime (encountered anywhere) will drop a Slime Egg when slain.  Green slimes drop green eggs, blue slimes drop blue eggs, red slimes drop red eggs, purple slimes drop purple eggs, and Tiger Slimes drop tiger slime eggs.
+Slime Eggs can be sold at different prices depending on the color, or placed in a Slime Incubator.
+
+Contents
+
+1 Incubation
+2 Gifting
+3 Bundles
+4 Tailoring
+5 Quests
+6 References
+7 History
+
+
+Incubation
+The Slime egg can be hatched into a slime in a Slime Incubator. The incubation takes 4000 minutes in game time, which amounts to 3 entire days (6 am to 2 am) and 6 hours.  The Coopmaster Profession cuts this time in half. 
+Green eggs will hatch green slimes, blue eggs hatch blue slimes, red eggs hatch red slimes, purple eggs hatch purple slimes and tiger eggs hatch tiger slimes.
+The gender of the egg is completely random and can't be found out before hatching the egg.
+
+Gifting
+
+
+Villager Reactions
+
+
+Hate
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Bundles
+Slime Egg is not used in any bundles.
+
+Tailoring
+Slime Egg is used in the spool of the Sewing Machine to create the dyeable Baggy Pants. 
+Slime Eggs can also be used as a dye in the dye pots located in Haley's and Emily's house, 2 Willow Lane. The dye pots the eggs go into match their color, as follows:
+
+Green Slime Eggs are a green dye
+Blue Slime Eggs are a blue dye
+Red Slime Eggs are a red dye
+Purple Slime Eggs are a purple dye
+Tiger Slime Eggs are an orange dye
+Quests
+Slime Egg is not used in any quests.
+
+References
+
+↑ See Object::performObjectDropInAction in the game code.
+
+
+History
+1.0: Introduced.
+1.11: Increased sell price for all eggs.
+1.4: Can now be used in Tailoring. Can be produced by Fish Ponds.
+1.5: Tiger Slime eggs added.
+
+
+Animals and Produce
+
+
+Coop
+
+Chicken (Egg • Large Egg • Brown Egg • Large Brown Egg) • Dinosaur (Dinosaur Egg) • Duck (Duck Egg • Duck Feather) • Golden Chicken (Golden Egg) • Rabbit (Wool • Rabbit's Foot) • Void Chicken (Void Egg)
+
+
+Barn
+
+Cow (Milk • Large Milk) • Goat (Goat Milk • Large Goat Milk) • Sheep (Wool) • Ostrich (Ostrich Egg) • Pig (Truffle)
+
+
+Fish Pond
+
+Fish (Roe)
+
+
+Slime Hutch
+
+Slimes (Slime • Slime Ball • Slime Egg)
+
+
+Other
+
+Cat • Dog • Horse
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Slime_Egg&oldid=142817"
+Category: Special itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 30 October 2022, at 20:37.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

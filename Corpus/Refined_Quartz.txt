@@ -1,0 +1,447 @@
+
+
+
+
+
+Refined Quartz - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refined Quartz
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Refined Quartz
+
+
+
+
+
+A more pure form of quartz.
+
+
+Information 
+
+
+Source:
+
+Furnace
+
+
+Sell Price:
+
+50g
+
+
+Crafting
+
+
+Equipment:
+
+ Furnace
+
+
+Time to Craft:
+
+ 1.5h
+
+
+Ingredients:
+
+ Quartz (1) Coal (1)or Fire Quartz (1) Coal (1)
+
+
+Refined Quartz is created by smelting 1 Quartz in a furnace with 1 coal for fuel. 1 Fire Quartz can also be placed in a furnace with 1 coal to produce 3 Refined Quartz.  
+It can be sold for 50g. Until obtaining the Crystalarium it is a lot faster and easier to obtain Refined Quartz via the Recycling Machine than from quartz itself.
+
+Contents
+
+1 Locations
+2 Crafting
+3 Buildings
+4 Gifting
+5 Bundles
+6 Tailoring
+7 Quests
+8 History
+
+
+Locations
+Can very rarely be found in the Mines by breaking large crystals
+Can be created by smelting 1 Quartz in a furnace with 1 Coal. Smelting takes 1.5 in-game hours.
+Can be created by smelting 1 Fire Quartz in a furnace with 1 Coal (produces 3 Refined Quartz).
+Can be created by recycling a Broken CD or Broken Glasses
+Can occasionally be found in Garbage Cans after receiving the Furnace blueprints from Clint
+Can be a rare drop from Ghosts in The Mines (Floors 51-79)
+Can be dropped by Carbon Ghosts in the Skull Cavern (10% chance)
+Can be produced by Ghostfish Fish Ponds when the population reaches 9.
+Crafting
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Crystal Floor (5)
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Refined Quartz (1)
+
+ Krobus (500g)
+
+
+
+
+Crystal Path (5)
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Refined Quartz (1)
+
+ Carpenter's Shop (200g)
+
+
+
+
+Farm Computer
+
+Scans the farm and displays useful information.
+
+ Refined Quartz (10) Dwarf Gadget (1) Battery Pack (1)
+
+ Demetrius (Special Order)
+
+
+
+
+Garden Pot
+
+Grows crops from any season when indoors. Outdoors, it can only house seasonal crops.
+
+ Refined Quartz (1) Clay (1) Stone (10)
+
+ Evelyn cutscene after completing the Greenhouse
+
+
+
+
+Lightning Rod
+
+Collects energy from lightning storms and turns it into battery packs.
+
+ Refined Quartz (1) Bat Wing (5) Iron Bar (1)
+
+ Foraging Level 6
+
+
+
+
+Quality Sprinkler
+
+Waters the 8 adjacent tiles every morning.
+
+ Refined Quartz (1) Gold Bar (1) Iron Bar (1)
+
+ Farming Level 6
+
+
+
+
+Solar Panel
+
+Slowly generates batteries when left in the sun.
+
+ Refined Quartz (10) Iron Bar (5) Gold Bar (5)
+
+ Caroline (Special Order)
+
+Buildings
+
+
+Image
+
+Name
+
+Description
+
+Cost
+
+Size
+
+
+
+
+Slime Hutch
+
+Raise up to 20 slimes. Fill water troughs and slimes will create slime balls.
+
+10,000g Stone (500) Refined Quartz (10) Iridium Bar (1)
+
+11x6
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Clint
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+
+Hate
+
+ Sam
+
+Bundles
+5 Refined Quartz are used in the  Engineer's Bundle in the Boiler Room (Remixed).
+
+Tailoring
+Refined Quartz is used in the spool of the Sewing Machine to create the dyeable Necklace Shirt.   It can be used in dyeing, serving as a purple dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Quests
+Refined Quartz may be randomly requested during any season at the "Help Wanted" board outside Pierre's General Store for a reward of 150g and 150 Friendship points.  Refined Quartz will never be requested until you have the Furnace blueprints.
+Two, three, five, or ten Refined Quartz may be requested by several fish in Fish Pond quests.
+History
+1.3.27: Added ability to smelt with fire Quartz. Added Garden Pot recipe.
+1.4: Sturdy Ring does not use Refined Quartz to craft anymore. Refined Quartz can now be used in Tailoring. Can be requested in Fish Pond quests. Can be produced by Fish Ponds.
+1.5: Is now used in a remixed bundle. Used as an ingredient to the Solar Panel and Farm Computer recipes.
+
+
+Resources
+
+
+Basic
+
+Battery Pack • Bone Fragment • Cinder Shard • Clay • Coal • Fiber • Hardwood • Stone • Wood
+
+
+Ore
+
+Copper Ore • Iron Ore • Gold Ore • Iridium Ore • Radioactive Ore
+
+
+Bars
+
+Copper Bar • Iron Bar • Gold Bar • Iridium Bar • Radioactive Bar • Refined Quartz
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Refined_Quartz&oldid=142905"
+Category: ResourcesHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 14:41.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

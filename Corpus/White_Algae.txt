@@ -1,0 +1,342 @@
+
+
+
+
+
+White Algae - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+White Algae
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+White Algae
+
+
+
+
+
+It's super slimy.
+
+
+Information
+
+
+
+
+Source
+
+
+Fishing Pole
+Monster drops
+Fish Pond (Ghostfish)
+
+
+Location
+
+The Mines • The Sewers • Mutant Bug Lair • Witch's Swamp
+
+
+Season
+
+ All
+
+
+
+
+XP
+
+
+Fishing Pole: 3 Fishing XP
+Fish Pond: 20 Fishing XP
+
+
+Energy / Health
+
+
+
+
+
+
+20
+
+
+
+
+
+9
+
+
+
+
+Sell Price
+
+25g
+
+
+White Algae is an item which can be caught with a Fishing Pole during all seasons at any underground location (the Mines, the Sewers, the Mutant Bug Lair, or the Witch's Swamp).
+White Algae can also be dropped by several Monsters:  Grubs, Mutant Grubs, Flies, Mutant Flies, Bugs, and Red, Purple, Copper, and Iron Slimes.  A Ghostfish Fish Pond may produce 5 White Algae when the population of the pond reaches 9.
+White Algae is displayed in the Fish section of the collection tab, and counts towards the four fishing Achievements.[1]  However, it is otherwise not considered to be a fish, and therefore cannot be sold to Willy at the Fish Shop.
+
+Contents
+
+1 Gifting
+2 Bundles
+3 Recipes
+4 Tailoring
+5 Quests
+6 References
+7 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Hate
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Bundles
+White Algae is used in the  Wild Medicine Bundle in the Crafts Room (Remixed)
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Recipe Source(s)
+Sell Price
+
+
+
+
+Pale Broth
+
+A delicate broth with a hint of sulfur.
+
+ White Algae (2)
+
+ 125 56
+
+ Marnie (Mail - 3+ )
+
+150g
+
+
+Tailoring
+White Algae can be used in the spool of the Sewing Machine to create the dyeable Collared Shirt.  
+
+Quests
+Five White Algae are requested by Ghostfish in a Fish Pond quest to increase the capacity of the pond from 5 to 7.
+References
+
+↑ In the game data (ObjectInformation.xnb) the type assigned to White Algae is "Fish", but it is not assigned the Fish category (-4).  The label displayed in-game and most uses are controlled by the category.
+
+
+History
+1.4: Can now be used in Tailoring.  Can be requested in a Fish Pond quest. Can be produced by Fish Ponds.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=White_Algae&oldid=142573"
+Category: Fishing
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 26 October 2022, at 03:39.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

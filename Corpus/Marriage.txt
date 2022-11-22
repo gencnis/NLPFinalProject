@@ -1,0 +1,609 @@
+
+
+
+
+
+Marriage - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marriage
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+For marriage between players in a Multiplayer game, see Multiplayer and Wedding Ring.
+ Wedding ceremony with Abigail
+In singleplayer mode, Marriage is possible only with a villager who is marked as "single" in the Social tab.  
+Before proposing marriage, the player needs to earn 10 hearts of friendship with their intended partner, which requires them to have first given a bouquet at 8 hearts of friendship.  They will also need to upgrade the farmhouse at least once and have access to the Tide Pool area of The Beach. The lost book Marriage Guide for Farmers also explains this process.
+
+Contents
+
+1 Marriage Candidates
+
+1.1 Bachelors
+1.2 Bachelorettes
+
+
+2 Romance
+
+2.1 Dating
+2.2 Breaking Up
+2.3 Proposing Marriage
+2.4 The Wedding
+
+
+3 Married Life
+
+3.1 Spouse Chores
+3.2 Stardrop
+3.3 Spouse Rooms
+3.4 Spouse Outside Area
+3.5 Exhaustion
+3.6 Messy House
+3.7 Jealousy
+
+
+4 Children
+5 Divorce
+6 Bugs
+7 References
+8 History
+
+
+Marriage Candidates
+Bachelors
+
+
+
+
+Alex
+
+
+
+
+
+
+Elliott
+
+
+
+
+
+
+Harvey
+
+
+
+
+
+
+Sam
+
+
+
+
+
+
+Sebastian
+
+
+
+
+
+
+Shane
+
+
+
+
+Bachelorettes
+
+
+
+
+Abigail
+
+
+
+
+
+
+Emily
+
+
+
+
+
+
+Haley
+
+
+
+
+
+
+Leah
+
+
+
+
+
+
+Maru
+
+
+
+
+
+
+Penny
+
+
+
+
+Romance
+Romance can only begin once you have reached 8 hearts with a potential partner (where friendship levels freeze for marriage candidates).
+
+Dating
+The morning after you first reach 8 hearts with a marriage candidate, Pierre will mail you a message to let you know about the bouquet (200g at Pierre's General Store):
+
+
+
+
+“
+
+“It seems like you're starting to get close with some of the townspeople. If you want to show someone that you're romantically interested, you've got to give them one of my beautiful flower bouquets. I'm selling them now, for a very fair price! If you want to start a family someday, this is the first step!”
+
+
+— Pierre
+
+
+Giving the bouquet unfreezes the friendship level with that bachelor or bachelorette, allowing friendship to advance. Upon accepting the bouquet, their Social tab status also changes to "boyfriend" or "girlfriend". The bouquet can be given to multiple candidates, without regard to gender. There is no friendship penalty for giving bouquets to dating rivals, though there is a Group Heart event that may cause all girl/boyfriends to give you the "cold shoulder" for a week.
+
+Breaking Up
+Giving a marriage candidate a Wilted Bouquet ends the dating relationship.  The marriage candidate's friendship level will immediately drop to 5 hearts upon receiving one, and will have unique reactions to receiving it.
+
+Proposing Marriage
+The day after reaching 10 friendship hearts with a marriage candidate, the player receives a letter from Mayor Lewis:
+
+
+
+
+“
+
+“I'm going to give you this advice because I like you and I want you to stay in Pelican Town. If there comes a day that you want to ask for someone's hand in marriage, you'll need to give them a 'Mermaid's Pendant'. Don't worry, everyone in Pelican Town understands the significance of the amulet. It's an ancient tradition in this region. Good luck!”
+
+
+— Lewis
+
+
+To become engaged, the player must present a Mermaid's Pendant to their intended partner. They will need to buy it for 5,000g from the Old Mariner, who can be found on rainy days at the tidal pools on the beach (which can only be reached either by repairing the bridge for 300 wood or by purchasing the second community upgrade from Robin). During Winter, he will only appear if a Rain Totem is used. He will not sell the pendant unless the farmhouse has been upgraded at least once, the player is at 10 hearts with an eligible villager, and the player is not already married.
+After the Mermaid's Pendant is accepted, the Calendar will have a Mermaid's Pendant icon on the wedding day.
+
+The Wedding
+ The weather icon is replaced with a heart on the wedding day.
+The wedding ceremony takes place in the morning, 3 days after you propose. That is, if you propose on Monday the 1st, the marriage cutscene will take place as soon as you wake up on Thursday the 4th. When the ceremony is completed, you and your spouse appear at the farmhouse at 6am (on the porch, or if you have restarted or reloaded the game day, inside the house). The day then proceeds as it normally does when you are married. Friendship with your spouse can now rise to 14 hearts, but decays by 20 points per day whenever there is no contact between you two.
+The wedding ceremony does not take place on a day that another event takes place in the town square. In such cases, the wedding is delayed until there is a day without such an event.
+On the day of the wedding, the weather icon that appears between the date and time is replaced with a heart. The weather will also always be sunny on that day regardless of the Weather Report's forecast the day before.
+
+Married Life
+Once a villager has been married, they will move into the farmhouse. They will have a maximum of 14 hearts instead of 10, and keeping them happy will result in them helping around the farm. A happy spouse might make breakfast, feed animals, repair fences or water crops. They occasionally change the wallpaper or flooring of the Farmhouse, or add a piece of furniture to a room. Interacting with your spouse when no dialogue is available will result in an embrace.
+
+It is also possible to have children under certain circumstances.
+Once married, the gifting limit of twice a week is removed; however, the once a day limit still applies.
+
+Spouse Chores
+Watering all crops on the farm (in spring, summer, and fall).
+Feeding all animals.
+Watering the dog/cat bowl.
+Repairing broken fences.
+Giving gifts, including breakfast and dinner dishes.  (If inventory is full, the item will not be received.)
+Stardrop
+After reaching 12.5 Hearts (3125 friendship points) with your spouse, the player can receive a Stardrop as a token of their love.  In multiplayer games where two players marry each other, the Stardrop appears as a present in a small purple box next to each player's bed upon waking up in the morning.
+Only one Stardrop can be obtained in this manner per save file, or once per player in Multiplayer.
+
+Spouse Rooms
+Once married, the player's spouse will immediately set up a unique room inside the Farmhouse, located to the right of the bedroom.  Note that Emily's parrot will not be visible to anyone in multiplayer who has not completed her 4 heart event.
+
+
+
+
+
+Abigail
+
+
+
+
+
+
+Alex
+
+
+
+
+
+
+Elliott
+
+
+
+
+
+
+Emily
+
+
+
+
+
+
+Haley
+
+
+
+
+
+
+Harvey
+
+
+
+
+
+
+Leah
+
+
+
+
+
+
+Maru
+
+
+
+
+
+
+Penny
+
+
+
+
+
+
+Sam
+
+
+
+
+
+
+Sebastian
+
+
+
+
+
+
+Shane
+
+
+
+
+Spouse Outside Area
+In addition to their room inside the house, each spouse has a unique area behind the farmhouse.
+
+
+
+
+
+Abigail plays her flute.
+
+
+
+
+
+
+Alex lifts weights.
+
+
+
+
+
+
+Elliott, Harvey, and Penny will read a book in a potted plant garden.
+
+
+
+
+
+
+Emily meditates in a crystal garden.
+
+
+
+
+
+
+Haley takes pictures between two potted palm trees.
+
+
+
+
+
+
+Leah works on a sculpture.
+
+
+
+
+
+
+Maru works on a gadget.
+
+
+
+
+
+
+Sam does skateboard tricks on a half-pipe.
+
+
+
+
+
+
+Sebastian works on his bike.
+
+
+
+
+
+
+Shane stands by his chicken hutch holding his chicken Charlie.
+
+
+
+
+Exhaustion
+Kissing your spouse will remove exhaustion from your energy bar.  This works only with the first kiss of the day, when a heart appears over your heads.
+
+Messy House
+If an object is obstructing the path your spouse takes in the farmhouse, they will say, "You could have cleaned up in here a little while I was gone... It's not very nice to have to wade through a bunch of junk after a hard day's work."
+If your spouse cannot reach the kitchen, they will say, "You've got a bunch of your stuff blocking the kitchen... I guess you're not getting dinner tonight."
+If there are monsters inside, such as slimes, your spouse will ask, "Um... Honey? Why are there monsters in the house?"
+If there was no bed in the house the prior evening, your spouse will comment on their lack of sleep.
+
+"Where am I supposed to sleep...?"
+"I wasn't able to sleep well last night..."
+"I had to sleep on the floor last night..."
+"Did something happen to our bed...?"
+They will also turn with an annoyed expression when you try to kiss them.
+
+Jealousy
+If you give a gift that is not hated to one of the other marriage candidates when you are already married, there is a chance that your spouse will become jealous. This only happens if the villager receiving the gift has already accepted a bouquet from you, and is of the same gender as your spouse - i.e., if you married a bachelor, it only happens if you give a gift to another bachelor. It doesn't matter if the gift is liked or not, the only gift that is safe to give is a birthday gift. (Note that delivery quests do not count as gifts.) The chance that your spouse becomes jealous is between 20 and 40%, depending on daily luck. If your spouse becomes jealous, you get a 30 friendship point penalty, and the next time you speak to your spouse they will give an angry message mentioning your gift.[1]
+
+Children
+Main article: Children
+You can have children only if you have upgraded the Farmhouse for the second time, adding the nursery. After you go to bed for the night, your spouse might randomly ask if you want to have/adopt a child. You can answer "yes" or "not now." Same-gender couples will adopt children, and opposite-gender couples will have biological children.
+
+Divorce
+Players can visit the Mayor's Manor where a small book inside will give them the option to divorce their spouse. A divorce costs 50,000g. After filing for divorce, players have the option to cancel before the end of the day (until 10pm when Lewis' house closes). If they don't cancel, their spouse, spouse's room, and unique outside area will be gone the next morning, and their friendship level will return to 0 hearts. Under their name it will state "(ex)".
+After the divorce, the spouse will move back to their old residence, and will have negative interactions with the player, citing the failure of their marriage. They will also not accept any gifts from them.  (Note that the player can still enter the ex-spouse's bedroom or home, as if the player had 2 friendship hearts with the ex-spouse.)  Any children from the marriage will stay at the farmhouse.  Any items the player had placed in the ex's room will be collected and placed in a chest the day after the divorce. Divorced spouses neither attend the player's wedding nor treat them normally during Festivals.
+Players can visit the Witch's Hut in late game where they'll find a shrine which can erase all ex-spouses' memories for an offering of 30,000g (this will also wipe Krobus' memory if he is an ex-roommate). Afterward, all ex-spouses will have no memory of the previous marriage, allowing players to date and remarry them if they choose. Note that if the player decides to remarry they will not see the bachelor/bachelorette's previously seen heart events, as the heart events can only be seen once per save file, or once per player in Multiplayer. 
+Children from marriage can also be 'turned into doves' at the Witch's Hut in exchange for a Prismatic Shard. This permanently removes those children from the game, but further children can be had with another partner. (Note that if a divorce is filed and then canceled on the same day, more children can be had with the same partner.)
+If the player is expecting a child and gets a divorce, the child will not be born/delivered.
+
+Bugs
+In a Multiplayer game, your spouse may water the other Player's crops, but not your own.
+Occasionally a spouse's heart meter will drop overnight by approximately 2 hearts for reasons that are completely unknown.
+A divorced spouse may make a "Help Wanted" request. When fulfilling the quest, the spouse will express gratitude before going back to angry/hurt dialogue. Fulfilling a quest for an ex-spouse does not grant any friendship points with the ex-spouse.
+If the game is closed without saving during the wedding cutscene, the cutscene will not play after loading the save again. The farmer will wake up with the spouse already in the player's farmhouse.
+A spouse may react as if they cannot reach the kitchen when nothing is blocking the kitchen.
+If a torch is placed where a spouse stands on the porch after performing a farm task in the morning, it will be dropped on the floor when the farmer exits the farmhouse.
+If the player completes all bundles in a room in the Community Center the day before getting married, the Junimos' overnight cutscene will be skipped.
+References
+
+↑ See NPC::tryToReceiveActiveObject() in the game code
+
+
+History
+1.0: Introduced.
+1.1: Added Shane and Emily as marriage candidates. Added divorce option. Added different outside areas for each spouse.
+1.3.27: The Dwarf attends weddings for players who have reached the bottom of The Mines.
+1.4: Divorced spouses no longer attend weddings or treat their exes normally during festivals.  Changed jealousy of player's spouse to only apply to marriage candidates who have received a bouquet and doesn't include hated gifts.  Increased spouses' heart meter from 12 to 14.  Removed bug that allowed multiple bouquets to be given to raise friendship.
+1.4.4: Items placed in divorced spouses' rooms are now collected in a chest, instead of dropped like monster loot.
+1.5.6: The player's character wears their chosen outfit at the marriage ceremony. This was changed in an unknown previous version to a white dress or black suit.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Marriage&oldid=143527"
+Category: GameplayHidden category: Bugs tested in an unknown version
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 13 November 2022, at 13:02.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

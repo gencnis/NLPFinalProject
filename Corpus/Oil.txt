@@ -1,0 +1,666 @@
+
+
+
+
+
+Oil - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oil
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Oil
+
+
+
+
+
+All purpose cooking oil.
+
+
+Information 
+
+
+Source:
+
+Artisan Goods • Pierre's
+
+
+Healing Effect:
+
+
+
+
+
+
+13 Energy
+
+
+
+
+5 Health
+
+
+
+Sell Price:
+
+100g
+
+
+Artisan Goods
+
+
+Equipment:
+
+ Oil Maker
+
+
+Processing Time:
+
+ Varies by ingredient
+
+
+Ingredients:
+
+ Corn (1) or Sunflower (1) or Sunflower Seeds (1)
+
+
+Oil is a cooking ingredient made from the Oil Maker. It can also be obtained from Pierre's General Store for 200g. 2-4 Oil may occasionally be found in Supply Crates on the Beach Farm provided the player has upgraded the Farmhouse at least once.
+Oil is given no quality rating, so its sell price doesn't benefit from quality increases. It also does not benefit from the Artisan Profession. Its main benefit lies in its use as a cooking ingredient. Oil made from base quality sunflowers, grown sunflower seeds, and gold or lower qualities of corn is profitable, though corn is more profitable in the Keg, Preserves Jar, or Seed Maker.
+
+Contents
+
+1 Processing Times
+2 Recipes
+3 Gifting
+4 Tailoring
+5 Quests
+6 History
+
+
+Processing Times
+Note:  From 2am to 6am, machines process at 100 minutes per hour. For the rest of the day, machines process at 60 minutes per hour.
+
+
+
+Ingredient
+
+Time
+
+
+ Corn (1)
+
+ 1000m (16h 40m before 9:20am)(14h overnight)
+
+
+ Sunflower Seeds (1)
+
+ 3200m (2 days)
+
+
+ Sunflower (1)
+
+ 60m (1h)
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Bruschetta
+
+Roasted tomatoes on a crisp white bread.
+
+ Bread (1) Oil (1) Tomato (1)
+
+ 113 50
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Winter, Year 2
+
+
+210g
+
+
+
+
+Crab Cakes
+
+Crab, bread crumbs, and egg formed into patties then fried to a golden brown.
+
+ Crab (1) Wheat Flour (1) Egg (1) Oil (1)
+
+ 225 101
+
+ Speed (+1) Defense (+1)
+
+ 16m 47s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Fall, Year 2
+
+
+275g
+
+
+
+
+Crispy Bass
+
+Wow, the breading is perfect.
+
+ Largemouth Bass (1) Wheat Flour (1) Oil (1)
+
+ 90 40
+
+ Magnetism (+64)
+
+ 7m
+
+ Kent (Mail - 3+ )
+
+150g
+
+
+
+
+Fiddlehead Risotto
+
+A creamy rice dish served with sauteed fern heads. It's a little bland.
+
+ Oil (1) Fiddlehead Fern (1) Garlic (1)
+
+ 225 101
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Fall, Year 2
+
+
+350g
+
+
+
+
+Fried Calamari
+
+It's so chewy.
+
+ Squid (1) Wheat Flour (1) Oil (1)
+
+ 80 36
+
+N/A
+
+N/A
+
+ Jodi (Mail - 3+ )
+
+150g
+
+
+
+
+Fried Eel
+
+Greasy but flavorful.
+
+ Eel (1) Oil (1)
+
+ 75 33
+
+ Luck (+1)
+
+ 7m
+
+ George (Mail - 3+ )
+
+120g
+
+
+
+
+Fried Mushroom
+
+Earthy and aromatic.
+
+ Common Mushroom (1) Morel (1) Oil (1)
+
+ 135 60
+
+ Attack (+2)
+
+ 7m
+
+ Demetrius (Mail - 3+ )
+
+200g
+
+
+
+
+Hashbrowns
+
+Crispy and golden-brown!
+
+ Potato (1) Oil (1)
+
+ 90 40
+
+ Farming (+1)
+
+ 5m 35s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Spring, Year 2
+
+ Stardrop Saloon for 50g
+
+120g
+
+
+
+
+Oil of Garlic
+
+Drink this and weaker monsters will avoid you.
+
+ Garlic (10) Oil (1)
+
+ 200 89
+
+ Oil of Garlic Buff
+
+ 10m
+
+ Combat Level 6
+
+1,000g
+
+
+
+
+Radish Salad
+
+The radishes are so crisp!
+
+ Oil (1) Vinegar (1) Radish (1)
+
+ 200 90
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Spring, Year 1
+
+
+300g
+
+
+
+
+Stir Fry
+
+Julienned vegetables on a bed of rice.
+
+ Cave Carrot (1) Common Mushroom (1) Kale (1) Oil (1)
+
+ 200 90
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+7 Spring, Year 1
+
+
+335g
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+
+Hate
+
+ Leo
+
+Tailoring
+Oil is used in the spool of the Sewing Machine to create the Oil Stained Shirt.   It can be used in dyeing, serving as a yellow dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Quests
+Oil is not used in any quests.
+
+History
+1.4: Tooltip display no longer shows "Artisan Good".  Can now be used in Tailoring.
+1.5: Can now be found in Supply Crates on the Beach Farm.
+
+
+Artisan Goods
+
+
+Bee House
+
+Honey
+
+
+Cask
+
+Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine
+
+
+Cheese Press
+
+Cheese • Goat Cheese
+
+
+Keg
+
+Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine
+
+
+Loom
+
+Cloth
+
+
+Mayonnaise Machine
+
+Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise
+
+
+Oil Maker
+
+Oil • Truffle Oil
+
+
+Preserves Jar
+
+Aged Roe • Caviar • Jellies and Pickles
+
+
+Misc
+
+Maple Syrup • Oak Resin • Pine Tar
+
+
+
+
+Ingredients
+
+
+Ingredients
+
+Wheat Flour • Sugar • Rice • Oil • Vinegar
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Oil&oldid=143090"
+Categories: Artisan GoodsIngredients
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 16:19.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1390 @@
+
+
+
+
+
+Fruit Trees - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fruit Trees
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Contents
+
+1 Fruit Quality & Price
+2 Spring
+
+2.1 Apricot Tree
+2.2 Cherry Tree
+
+
+3 Summer
+
+3.1 Banana Tree
+3.2 Mango Tree
+3.3 Orange Tree
+3.4 Peach Tree
+
+
+4 Fall
+
+4.1 Apple Tree
+4.2 Pomegranate Tree
+
+
+5 Planting around the Greenhouse
+
+5.1 Notes
+
+
+6 Gallery
+7 Bugs
+8 References
+9 History
+
+
+
+ For trees that are chopped down for wood, see Trees.
+Fruit Trees require 28 days to mature, after which they produce one fruit per day when in season. Fruit can accumulate up to three days before harvesting. Fruit trees do not need to be watered, and will not die in the winter.  Fruit saplings will grow during any season, allowing players to plant and prepare for upcoming seasons to bear fruit.
+Each Fruit tree must be planted in the center of a clear 3x3 ground area, except that they may be placed next to a permanent structure (i.e., Farmhouse). "Clear" means free of objects, flooring/paths, and terrain features including grass, but not including artifact spots[1]. The 3x3 clear planting area also must not overlap the 3x3 area of another fruit tree. The game prevents planting fruit trees too close to each other, ensuring a minimum distance of two tiles between them in every direction. Fruit trees cannot be moved, and once planted, the expensive saplings cannot be retrieved.
+While a fruit tree sapling is immature, the 3x3 area around it must remain clear in order for the sapling to grow. If overnight debris spawns too close to it, the game pops up a message the next morning saying the fruit tree could not grow that night. Objects placed next to a sapling cause the same message and growth obstruction. Once a fruit tree is mature, growth is no longer an issue, and one fruit is produced each day in season. Then objects, including flooring/paths, may be placed next to the fruit tree without hindering production.
+A Fruit Tree is planted directly into untilled ground. Fruit trees can grow in the Greenhouse, in the center soil or around the border. Fruit trees planted in the greenhouse or on Ginger Island bear fruit every day after maturity, and will not change color according to the season.
+Fruit trees can be chopped down, and yield normal wood. Fruit trees can be struck by lightning, causing them to become burnt for 4 days. During this time, they will not produce fruit, but will instead produce coal. After the 4 days are up, they will return to normal.
+A complete set of all six fruit tree saplings costs a total of 25,400g if purchased from Pierre's General Store.
+
+Fruit Quality & Price
+A tree's fruit increases in quality by one star per year of tree age after reaching maturity. Fruit trees will produce silver star fruit after one year, gold after two years, and iridium after three.  Once the tree is fully grown, the surrounding area does not need to be kept clear for the tree's fruit to increase in quality.
+Fruit Tree fruit receives the Tiller Profession price bonus when sold, and jelly or wine made from fruit tree fruit receives the Artisan Profession price bonus when sold.
+
+Spring
+Apricot Tree
+
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Stage 5 - Spring, Summer, Fall, Winter
+
+Harvest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 Days
+
+7 Days
+
+7 Days
+
+7 Days
+
+Total: 28 Days
+
+ Spring
+
+
+
+Sapling
+
+ Pierre's Price
+
+ Traveling Cart Price
+
+Fruit
+
+Fruit Sell Price
+
+Fruit Restores
+
+Fruit Used In
+
+
+Apricot Sapling
+
+2,000g
+
+1,500-2,500g
+
+ Apricot
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Artisan Bundle Fruit Salad Fresh Fruit Quest
+
+Cherry Tree
+
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Stage 5 - Spring, Summer, Fall, Winter
+
+Harvest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 Days
+
+7 Days
+
+7 Days
+
+7 Days
+
+Total: 28 Days
+
+ Spring
+
+
+
+Sapling
+
+ Pierre's Price
+
+ Traveling Cart Price
+
+Fruit
+
+Fruit Sell Price
+
+Fruit Restores
+
+Fruit Used In
+
+
+Cherry Sapling
+
+3,400g
+
+2,550-4,250g
+
+ Cherry
+
+
+
+
+
+
+80g
+
+
+
+
+100g
+
+
+
+
+120g
+
+
+
+
+160g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Artisan Bundle
+
+Summer
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+Banana and Mango Trees will grow and produce fruit year-round on Ginger Island.  In the valley, they produce fruit only in Summer.
+Note that Bananas and Mangos are not considered "Fruit Tree Fruit" for gifting purposes, but instead follow the villager's preferences for "non-Fruit Tree Fruit".
+
+Banana Tree
+
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Stage 5 - Spring, Summer, Fall, Winter
+
+Harvest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 Days
+
+7 Days
+
+7 Days
+
+7 Days
+
+Total: 28 Days
+
+ Summer
+
+
+
+Sapling
+
+ Island Trader Price
+
+Fruit
+
+Fruit Sell Price
+
+Fruit Restores
+
+Fruit Used In
+
+
+Banana Sapling
+
+ Dragon Tooth (5)
+
+ Banana
+
+
+
+
+
+
+150g
+
+
+
+
+187g
+
+
+
+
+225g
+
+
+
+
+300g
+
+
+
+
+data-sort-value="0030"
+
+
+ 
+
+75
+
+33
+
+
+
+
+105
+
+47
+
+
+
+
+135
+
+60
+
+
+
+
+195
+
+87
+
+
+
+
+
+
+ Island Obelisk Banana Pudding
+
+Mango Tree
+
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Stage 5 - Spring, Summer, Fall, Winter
+
+Harvest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 Days
+
+7 Days
+
+7 Days
+
+7 Days
+
+Total: 28 Days
+
+ Summer
+
+
+
+Sapling
+
+ Island Trader Price
+
+Fruit
+
+Fruit Sell Price
+
+Fruit Restores
+
+Fruit Used In
+
+
+Mango Sapling
+
+ Mussel (75)
+
+ Mango
+
+
+
+
+
+
+130g
+
+
+
+
+162g
+
+
+
+
+195g
+
+
+
+
+260g
+
+
+
+
+data-sort-value="0040"
+
+
+ 
+
+100
+
+45
+
+
+
+
+140
+
+63
+
+
+
+
+180
+
+81
+
+
+
+
+260
+
+117
+
+
+
+
+
+
+ Leo (Loved Gift) Mango Sticky Rice
+
+Orange Tree
+
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Stage 5 - Spring, Summer, Fall, Winter
+
+Harvest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 Days
+
+7 Days
+
+7 Days
+
+7 Days
+
+Total: 28 Days
+
+ Summer
+
+
+
+Sapling
+
+ Pierre's Price
+
+ Traveling Cart Price
+
+Fruit
+
+Fruit Sell Price
+
+Fruit Restores
+
+Fruit Used In
+
+
+Orange Sapling
+
+4,000g
+
+3,000-5,000g
+
+ Orange
+
+
+
+
+
+
+100g
+
+
+
+
+125g
+
+
+
+
+150g
+
+
+
+
+200g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Artisan Bundle Gus (Loved Gift)
+
+Peach Tree
+
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Stage 5 - Spring, Summer, Fall, Winter
+
+Harvest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 Days
+
+7 Days
+
+7 Days
+
+7 Days
+
+Total: 28 Days
+
+ Summer
+
+
+
+Sapling
+
+ Pierre's Price
+
+ Traveling Cart Price
+
+Fruit
+
+Fruit Sell Price
+
+Fruit Restores
+
+Fruit Used In
+
+
+Peach Sapling
+
+6,000g
+
+4,500-7,500g
+
+ Peach
+
+
+
+
+
+
+140g
+
+
+
+
+175g
+
+
+
+
+210g
+
+
+
+
+280g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Artisan Bundle Robin (Loved Gift)
+
+Fall
+Apple Tree
+
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Stage 5 - Spring, Summer, Fall, Winter
+
+Harvest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 Days
+
+7 Days
+
+7 Days
+
+7 Days
+
+Total: 28 Days
+
+ Fall
+
+
+
+Sapling
+
+ Pierre's Price
+
+ Traveling Cart Price
+
+Fruit
+
+Fruit Sell Price
+
+Fruit Restores
+
+Fruit Used In
+
+
+Apple Sapling
+
+4,000g
+
+3,000-5,000g
+
+ Apple
+
+
+
+
+
+
+100g
+
+
+
+
+125g
+
+
+
+
+150g
+
+
+
+
+200g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Artisan Bundle Cranberry Candy Fodder Bundle
+
+Pomegranate Tree
+
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Stage 5 - Spring, Summer, Fall, Winter
+
+Harvest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7 Days
+
+7 Days
+
+7 Days
+
+7 Days
+
+Total: 28 Days
+
+ Fall
+
+
+
+Sapling
+
+ Pierre's Price
+
+ Traveling Cart Price
+
+Fruit
+
+Fruit Sell Price
+
+Fruit Restores
+
+Fruit Used In
+
+
+Pomegranate Sapling
+
+6,000g
+
+4,500-7,500g
+
+ Pomegranate
+
+
+
+
+
+
+140g
+
+
+
+
+175g
+
+
+
+
+210g
+
+
+
+
+280g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Artisan Bundle Enchanter's Bundle Elliott (Loved Gift)
+
+Planting around the Greenhouse
+If you intend to plant fruit trees to the east of the Greenhouse on the Standard Farm map, take extra care to plan your layout. In particular, the tile which is four tiles east of the Greenhouse* and three tiles south of the rock face** does not allow planting a fruit tree, despite that spot obeying the normal spacing rules, and despite that spot allowing non-fruit trees to be planted. The southern and eastern adjacent tiles do allow planting a fruit tree.
+
+Notes
+*In order to count this out, consider that there are two columns of untillable grass east of the Greenhouse, whereas the third and fourth are tillable farmland.
+**To count this out, consider that the north edge of the greenhouse sits on the third row south of the rock face, after one untillable row and one tillable row.
+
+Gallery
+Shown below are fruit trees after being struck by lightning.
+
+
+
+
+
+Apple Tree
+
+
+
+
+
+
+Apricot Tree
+
+
+
+
+
+
+Banana Tree
+
+
+
+
+
+
+Cherry Tree
+
+
+
+
+
+
+Mango Tree
+
+
+
+
+
+
+Orange Tree
+
+
+
+
+
+
+Peach Tree
+
+
+
+
+
+
+Pomegranate Tree
+
+
+
+
+Bugs
+It should be possible to plant a common tree seed (i.e., Acorn, Mahogany Seed, Maple Seed, or Pine Cone) and a Fruit Tree sapling (in either order) two tiles away from each other. A bug prevents the player from planting a common tree seed exactly two tiles away from an existing Fruit Tree sapling and from planting a Fruit Tree sapling two tiles away from a common tree seed. The common tree seed is treated as though it were another Fruit Tree sapling.
+
+References
+
+↑ See FruitTree:IsGrowthBlocked.
+
+
+History
+1.0: Introduced.
+1.1: Fruit trees can now produce iridium quality fruit. Trees increase fruit quality by 1 star per year of age after reaching maturity.
+1.4: Removed prior condition where fruits grown by fruit trees would not increase in quality if the trees' 3x3 grid was not kept clear of objects, flooring, and terrain features (including grass). Fruit trees are no longer blocked from growing by artifact spots. Common tree seeds can no longer be placed one or two tiles away from a fruit tree sapling.
+1.5: Added Banana Sapling and Mango Sapling.
+
+
+Trees
+
+
+Trees
+
+Mahogany Tree • Maple Tree • Oak Tree • Palm Tree • Pine Tree
+
+
+Fruit Trees
+
+Apple Tree • Apricot Tree • Banana Tree • Cherry Tree • Mango Tree • Orange Tree • Peach Tree • Pomegranate Tree
+
+
+Seeds
+
+Acorn • Mahogany Seed • Maple Seed • Mushroom Tree Seed • Pine Cone
+
+
+Fruit
+
+Apple • Apricot • Banana • Cherry • Mango • Orange • Peach • Pomegranate
+
+
+Misc
+
+Large Log • Large Stump • Mushroom Tree • Tea Bush
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Fruit_Trees&oldid=140268"
+Category: Fruit treesHidden categories: SpoilersBugs tested in 1.4
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 23 July 2022, at 10:30.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

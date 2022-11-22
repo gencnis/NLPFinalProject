@@ -1,0 +1,318 @@
+
+
+
+
+
+Day Cycle - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day Cycle
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+GettingStarted
+
+ThePlayer
+
+Options
+
+Controls
+
+MobileControls
+
+Health
+
+Energy
+
+Skills
+
+DayCycle
+
+ The in-game date/time display. This shows the day of month (Monday 1), weather (sunny), season (spring), time, and gold count.
+See also: Days of the Week
+The day cycle is a period of 20 hours in-game from 6am to 2am in which the player (farmer) is able to work and perform other activities around the Valley. The player will always wake up at the same time every day, but they are able to choose to go to bed whenever they like, which in turn ends the day.
+
+Contents
+
+1 Effects
+
+1.1 Passing out
+1.2 Darkness
+1.3 Villagers and locations
+1.4 Fishing
+1.5 Animals
+1.6 Night
+
+
+2 Passage of time
+3 References
+
+
+Effects
+The main effects of the day cycle on the player character are the processes of sleeping and saving that happen overnight. The player may choose to go to bed at any hour to sleep and progress time to the morning of the next day. This is done by moving into the area inside of any bed, and a dialogue will prompt them to confirm the decision. However as a reminder, as time passes midnight (12:00 am) the player's character will show that they are tired and in need of sleep.
+Sleep will restore the player's Energy and Health to full if they go to bed no later than midnight and are not exhausted, and to half if they pass out or are exhausted. The longer past midnight the player stays awake, the less energy they wake up with, with about 75% restored if they sleep at 1am, and 50% if they sleep right before 2am. Regardless of when the player sleeps, there will be no further impact on the next day – the player will wake up and become active at 6am as usual, even if they stay up late. Therefore even though the day will go on until 2am, there is no requirement to stay awake for the whole day; conversely there is also no immediate need to sleep as soon as the clock turns to midnight.
+The game saves only after the player has gone to sleep and the daily profit breakdown has been accepted, signaling the start of a new day.
+In multiplayer, it is possible to "nap" during the daytime when positioned inside a bed. The player will slowly regain energy and health as time passes, at 2 points per second[1], like at the Spa. Additionally, the chat will announce when a player tucks into bed for the first time and confirms that they want to end the day. There will be no additional messages if they choose to get up out of bed and later return to bed. Finally, note that in multiplayer, all players must sleep (or pass out) to progress to the overnight profit breakdown, and all players must also confirm the start of the next day to save. When in bed, a dialogue will indicate how many other players are also waiting to end the day.
+
+Passing out
+The player can stay awake until 2am, after which their character will pass out. This means the player is unable to be active after 2am, even if they have energy remaining. If the character passes out outside their Farmhouse or Cabin, they will wake up in bed, having been dragged there by either a JojaMart medical team, Linus, Marlon, or Dr. Harvey if they are not married to him. In each case 10% of the player's money, up to a maximum of 1,000g (or 2,500g in the Volcano Dungeon), will be lost. The details of this transaction will appear as a letter in the player's mailbox the next day, although Linus does not count the money lost (the amount is still stored in the save file). There is no penalty for falling asleep while inside a Farmhouse or Cabin. In a multiplayer game, any player that passes out will be announced in chat, even if they are inside the farmhouse.
+
+Darkness
+Depending on the season, nightfall is at different times. In spring and summer, it is 8pm, while in fall it is at 7pm and winter is 6pm. At nightfall, the background noise may change, and indoors the windows turn dark and lamps and sconces light up. Indoor locations also become dark at night (unless fully lit by light sources), but if nightfall happens while you are indoors it stays light until you exit and re-enter. At night outdoors, it does not immediately become full dark, but gradually becomes darker over time.
+
+Villagers and locations
+Villagers will move to different locations around the Valley depending on the time, combined with some additional influence from days of the week. The time of day also affects what locations are open, including shops according to their Shop Schedules. For example, most locations in Pelican Town generally open at 9am.
+
+Fishing
+Certain fish only appear at certain times of the day. For example, it is considered nighttime after 6pm, which makes it possible to catch some nighttime fish. However as an aside, it does not become dark until around 8pm, depending on the season. Other specific fish might only be active at certain hours during the daytime, such as a period during the morning or afternoon.
+
+Animals
+Animals will leave their coop or barn at the start of the day if it is possible to do so (the weather is sunny and the building's animal door is left open). This allows them to eat grass. In the evening they will return to the building to sleep.
+These animals will attempt to return to their coop or barn at 5pm on their own, will start going to sleep at 7pm, and will stop moving around the building by themselves at 8pm. After that time they will settle down and stay in one place. They normally cannot be interacted with while they are asleep, making it impossible to raise their heart level.  The heart level of cows and goats, however, is increased through successful milking, which can be done any time, including while they are sleeping. The advantage of milking after 8pm is that animals will never walk away and be out of range.
+Sometimes animals will refuse to go inside, moving around like they would during the day even at midnight. This can be fixed by leaving and re-entering the farm, and the animals will be automatically moved inside. Exiting the barn and re-entering is another option; the animals will change position randomly.
+
+Night
+For purposes of processing times of items like Kegs, Furnaces, Oil Makers, etc. a full day of 20 hours counts as 1200 minutes, but time passes differently from 2am to 6am, with each hour counting as 100 minutes.  This means that processing activities that normally take longer than 240 minutes (4 hours), but less than 400 minutes, like making oil (360 minutes) or smelting gold (300 minutes), will still be completed by 6am if started at 1:50am.  This also means that each full 24 hour time period counts as 1600 minutes instead of 1440 minutes.
+
+Passage of time
+Time normally passes at 0.7 real seconds per in-game minute. Multiplayer games will never pause, with some single-player exceptions only.
+For the single-player case, time will pause and the clock will also blink in grayed-out text while:
+
+the player is viewing a cutscene
+has a dialog or menu open (like the game menu, billboard, or quest journal)
+during certain animations (like reeling in a fish or jumping on/off a horse)
+In the Skull Cavern, note that single-player time passes at 0.9 seconds/minute instead.
+Based on the default 0.7 seconds/minute and ignoring pauses, in-game time maps to real time like so:
+
+
+
+game time
+
+real time
+
+
+10 minutes
+
+7.0 seconds
+
+
+1 hour
+
+42 seconds
+
+
+full day6am to 2am, 20 hours
+
+14 minutes
+
+
+season (full days)
+
+6 hours, 32 minutes
+
+
+year (full days)
+
+26 hours, 8 minutes
+
+References
+
+↑ See Farmer::Update in the game code.
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Day_Cycle&oldid=142733"
+Category: Game mechanics
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 28 October 2022, at 17:49.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,429 @@
+
+
+
+
+
+Bus Stop - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bus Stop
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Bus Stop
+
+
+
+
+
+
+
+
+Open Hours:
+
+10:00 am - 5:00 pm
+
+
+Address:
+
+Bus Stop
+
+
+Occupants:
+
+None
+
+
+The Bus Stop is an exterior map near the center of Stardew Valley, and is where you first arrive at the start of the game. The main path through this area connects The Farm to the west with Pelican Town to the east.  By following the road to the west you can also access the lower section of the Backwoods (the road cannot be followed to the east).
+The Minecart in the northwest corner of the map is initially broken; once repaired, it provides access to the Mines, Pelican Town near the Blacksmith, and the Quarry.
+
+Contents
+
+1 The Bus
+2 Foraging
+3 Artifacts
+4 Villager Paths
+5 Unused Content
+
+5.1 Dialogue
+5.2 Dobson
+
+
+6 Gallery
+7 Trivia
+8 References
+
+
+The Bus
+The bus is broken down after you arrive and remains so until repaired by the Junimos after purchasing all of the Vault Bundles for a total of 42,500g or by purchasing the Bus repair for 40,000g from the Joja Community Development Form.
+Pam becomes the Bus Driver once the bus is repaired. She arrives at the Bus Stop at 10:10am and will leave at 5:00pm every day, and tickets are available to purchase for 500g during this time.
+It is possible to get the bus earlier than 10am by waiting for Pam outside her trailer at 8.30am and standing in her way. Once she walks through The Player, she will walk significantly faster than usual and reach the bus stop at 9:30am, and a ticket can be purchased as soon as she arrives. Purchasing a ticket at the machine triggers the bus to take The Player to the Calico Desert. Tickets include the return trip from the Desert to the Bus Stop.
+It is not possible to take the bus to the Desert on Spring 25, due to Pam's appointment at Harvey's Clinic. You can use a Warp Totem: Desert or the Desert Obelisk to travel to the Desert.
+If you leave your horse by the bus stop, when you return from the desert a message will appear on-screen saying "Your loyal horse waits patiently for your return." or "[Horse's name] is wondering where you have been."
+
+Foraging
+ Locations at the Bus Stop where forageable items can spawn.
+Forageable items found on the ground at the Bus Stop are:[1]
+
+In Spring:  Daffodil (45%),  Dandelion (35%), and  Leek (20%)
+In Summer:  Sweet Pea (47%),  Spice Berry (27%), and  Grape (27%)
+In Fall:  Wild Plum (60%), and  Hazelnut (40%)
+In Winter:  Crocus (42%),  Holly (35%), and  Crystal Fruit (23%)
+Forageable items spawn at an average rate of 1.0 per night in spring; in summer, fall, and winter the rate is 0.8 per night.[2] The map shows the possible locations as red and magenta tiles; when the original trees are present, the magenta tiles have a 90% smaller chance of spawning items because they are identified as being behind the original trees.
+
+Artifacts
+Artifacts that can be found by digging up Artifact Spots at the Bus Stop are:
+
+ Prehistoric Vertebra (0.7% + 3-5%[3])
+ Prehistoric Handaxe (4%)
+ Prehistoric Tool (3%)
+ Ancient Doll (2.4%)
+ Arrowhead (1.6%)
+ Ancient Drum (0.7%)
+ Strange Doll (green) (0.07%)
+ Strange Doll (yellow) (0.07%)
+Other possible items are:
+
+1-3  Clay (17-34%[3])
+ Lost Book (20% + 4-8%[3]); once all Lost Books have been found, any potential Lost Book is replaced by  Mixed Seeds.
+Only in Winter:  Winter Root (20%)
+Only in Winter:  Snow Yam (14%)
+1-3  Stone (6-11%[3])
+1-3  Copper Ore (5-9%[3])
+Only in Spring: 2-5  Rice Shoots (4%)
+An unseen  Secret Note: up to 3% chance, only if the player has a Magnifying Glass.
+Artifact spots spawn at an average rate of 0.11 per night, except in winter when the average rate increases to 0.8 per night.[4]
+
+Villager Paths
+ Locations at the Bus Stop where villager paths can destroy items.
+Only two villagers walk through the Bus Stop map and have the potential to destroy items:
+
+Pam walks back and forth to the bus daily, only after the bus has been repaired.
+Abigail walks back and forth to the bush northeast of the bus on Tuesdays in the Fall.
+Unused Content
+The "Bus People" map area was an unused part of the game's introduction. The player was in control at this point, and could move around and interact with people and objects on the bus. This scene was removed from the game before its initial release, but some of the data related to this scene can still be found in the game's files. 
+
+
+Dialogue
+The source code file Content\Strings\StringsFromCSFiles.xnb contains messages that would have been displayed when the player interacted with the various elements of this scene.
+
+
+
+Details 
+
+
+
+(Pet cage next to old lady?) - "It doesn't look too happy in there..."
+(Bathroom Door?) - "Occupied"
+(Bus door?) - "The bus hasn't arrived yet..."
+Haley - "Oooo... My feet hurt from all that shopping. Hey. Could you ask the driver how long it'll be until we get to Stardew?"
+Haley (2) - "...well?"
+Man in Red Shirt - "Moustached Man: Don't worry, friend. I've got my eyes peeled for the valley."
+Old Lady - "Old Lady: You're liable to hurt someone, waltzing around on a moving bus!"
+Old Lady (2) - "Old Lady: Ah well, if my knees weren't so stiff I'd probably do the same. Hehee."
+Newspaper Man's Bag - "Man: Get your claws off my bag."
+Newspaper Man's Bag (2) - "Man: ...Did you hear me, kid? Scram!"
+Newspaper Man's Bag (3) - "Man: What are you, some kind of bum?"
+Newspaper Man's Bag (4) - "Man: ...*Sigh*... Kids these days..."
+Newspaper Man's Bag (5) - "Man: For the love of Yoba, get your filthy paws off my designer bag!"
+Newspaper Man's Bag (6) - "Man: That bag costs more than you'll make in ten years!"
+Newspaper Man's Bag (7) - "Man: Arghh!! Take this and leave me alone, you hooligan!" (followed by) "Received 1g."
+Newspaper Man's Bag (8) - "Man: ..."
+Skater Kid (player is male) - "...No response."
+Skater Kid (player is male, 2) - "Kid: 'Sup?"
+Skater Kid (player is female) - "Kid: 'Sup?"
+Skateboard (player is male) - "Kid: Dude, don't touch my board."
+Woman by child - "Lady: We just got back from the Zuzu City fun park... didn't we Simon?" (followed by) "Simon: *babble*... *slurp*"
+Woman by child (2) - "Lady: He's shy around strangers."
+Empty Seat - "Found 20g under the seat!"
+Girl with bow - "Girl: Hi! <" [sic]
+Bus Driver before talking to Haley - "Driver: Hey, you'd better take a seat."
+Bus Driver after talking to Haley - ("Dobson" event starts)
+
+Dobson
+When the player talks to the bus driver after talking to Haley, an event will start playing involving an unknown character named Dobson.  It's possible that "Dobson" was later replaced with the JojaMart manager, Morris. The source code file Locations\Bus.cs contains the actions and messages that would be take place if the event were able to play out.
+
+
+
+Details 
+
+
+
+"Driver: Huh? We're almost there. It should only be a few more minutes."
+(A door close sound effect plays, Dobson appears (from the bathroom?) and faces the player.)
+"Sir? Are you still there? Uh-huh... sorry to put you on hold, sir. I had some business to attend to."
+(Dobson moves) "That's right, sir... I'm on the bus right now, heading to Stardew Valley."
+(Dobson moves and faces a different direction) "I have to say, so far I've been quite unimpressed with the locals."
+(Dobson changes the direction he is looking) "They seem like a docile and unfashionable sort of people. The children look sickly, and all the young men are delinquents from what I've seen so far..."
+(Dobson moves and faces another direction (possibly at the Joja Mart sign?)) "Although, they are displaying our corporate logo, which you'll be pleased to hear, sir."
+(Dobson moves and faces another direction) "*snort* ... Yes, sir. It definitely won't be a problem to get these country rubes to sign the paperwork... We'll have that new Joja Hypermarket up and running in no time. Then maybe we can discuss that new-"
+"Moustached Man: Everyone, look!!"
+(The map tileset changes -- perhaps showing the bus coming to a stop in Stardew Valley?)
+"Moustached Man: There it is! Stardew Valley!"
+(Dobson faces the player.)
+(The scene ends.)
+
+Gallery
+The bus ticket shown below was never implemented in the released version of the game.  It was intended to appear in the Player's wallet.  In v1.3, the bus ticket image was replaced in game files with the Magnifying Glass image.
+
+
+
+
+
+The Bus repaired by the Junimos
+
+
+
+
+
+
+The Bus door prior to version 1.3 during the repairing cutscene
+
+
+
+
+
+
+The bus stop during the summer
+
+
+
+
+
+
+Bus Ticket
+
+
+
+
+
+
+Dobson portrait
+
+
+
+
+Trivia
+After repairing the bus, Lewis will say "...did you hear? It seems the old town bus started working again overnight!  That old thing has been dormant for decades... This is truly a great mystery."
+If the player warps to the Desert then takes the bus back before Pam arrives at the Bus Stop, the player will drive the bus.
+There is a video interpretation of the deleted content located at: https://www.youtube.com/watch?v=DmAqmihyooU
+If the player zooms out on mobile, they may see the bus coming in from the black space.
+References
+
+↑ For each forage item, the provided percentage is the average percentage of all forage items that will be the specified item for that season. The input data is Locations.xnb, which is processed by code in GameLocation::spawnObjects.
+
+↑ Of the 1050 total tiles at the Bus Stop, 89 (8%) are valid spawn locations for standard forage items. For more information on forage item spawning, see Foraging.
+
+↑ 3.0 3.1 3.2 3.3 3.4 The chance of finding extra items in Artifact Spots in season-dependent.  The maximum chance is in summer and fall.  In winter, the chance is 50% less; in spring it is 6% less.  See Artifact Spot for more information.
+
+↑ Of the 1050 total tiles at the Bus Stop, 47 (4%) are valid spawn locations for artifact spots in spring, summer, and fall.  245 (23%) are valid spawn locations in winter.  See Artifact Spot for more information.
+
+
+
+
+Locations
+
+
+Locations
+
+Backwoods • Beach • Bus Stop • Calico Desert • Cindersap Forest • Farm • Farm Cave • Farm Pond •  Graveyard • Ginger Island • Minecart • Mines • Mountain • Mutant Bug Lair • Pelican Town • Quarry • Quarry Mine • Railroad • Secret Woods • Sewers • Skull Cavern • Summit • Tunnel • Volcano Dungeon • Witch's Swamp
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Bus_Stop&oldid=140116"
+Categories: LocationsMethod of travel
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 20 July 2022, at 14:28.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

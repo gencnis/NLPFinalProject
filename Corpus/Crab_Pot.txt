@@ -1,0 +1,700 @@
+
+
+
+
+
+Crab Pot - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crab Pot
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Crab Pot
+
+
+
+
+
+Place it in the water, load it with bait, and check the next day to see if you've caught anything. Works in streams, lakes, and the ocean.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Sell Price:
+
+50g
+
+
+Crafting
+
+
+Recipe Source:
+
+ Fishing Level 3
+
+
+Ingredients:
+
+ Wood (40) Iron Bar (3)
+
+
+ Trapper Profession Ingredients:
+
+ Wood (25) Copper Bar (2)
+
+
+Crab pots are floated on the shores of bodies of water (lakes, ponds, rivers, or oceans) and primed with bait to catch fish.  Any type of bait can be used in a crab pot, but there is no benefit to using specialized types of bait. Players with the Luremaster profession don't need to add bait.
+Harvesting a crab pot gives 5 Fishing experience points, even if trash is caught or the item is normally a Beach forage item. Fish caught with crab pots also count towards the four fishing achievements (Fisherman, Ol' Mariner, Master Angler, and Mother Catch). 
+Crab pots can be crafted or purchased from Willy's Fish Shop for 1,500g after reaching Fishing level 3. Three crab pots are rewarded for completing the  Crab Pot Bundle in the Fish Tank.
+
+Contents
+
+1 Stages
+2 Catch
+
+2.1 Anywhere
+2.2 Saltwater
+2.3 Freshwater
+
+
+3 Gifting
+4 Dyeing
+5 Gold per Day
+6 Tips
+7 Notes
+8 References
+9 History
+
+
+Stages
+Crab pots have three stages, which can be distinguished visually:
+
+
+
+Image
+
+Description
+
+
+
+
+The crab pot is empty. Without the Luremaster profession, bait must be added before it will catch anything.
+
+
+
+
+The crab pot contains bait, and will catch something the next morning. (The 'empty' image will be seen instead with the Luremaster profession.)
+
+
+
+
+The crab pot caught something and can be harvested. An icon of what it contains will appear above the crab pot.
+
+Catch
+The day after placing a crab pot, the following items can be found in it:
+
+Anywhere
+Unless the player has the Mariner profession, the following trash items can be obtained by putting a crab pot in any type of water. The chance of trash appearing is 38% regardless of luck or fishing skill; all trash items are equally likely to appear.[1]  Trash can be recycled into useful items.
+
+
+
+Image
+
+Name
+
+Description
+
+Produced from Recycling
+
+
+
+
+Trash
+
+It's junk.
+
+ Stone (1-3)  49%
+
+
+ Coal (1-3)  30%
+
+
+ Iron Ore (1-3)  21%
+
+
+
+
+Driftwood
+
+A piece of wood from the sea.
+
+ Wood (1-3)  75%
+
+
+ Coal (1-3)  25%
+
+
+
+
+Soggy Newspaper
+
+This is trash.
+
+ Torch (3)  90%
+
+
+ Cloth (1)  10%
+
+
+
+
+Broken CD
+
+It's a JojaNet 2.0 trial CD. They must've made a billion of these things.
+
+ Refined Quartz (1)
+
+
+
+
+Broken Glasses
+
+It looks like someone lost their glasses. They're busted.
+
+ Refined Quartz (1)
+
+Saltwater
+The following creatures can be caught by putting a crab pot in any saltwater location.[1] Note that only normal quality fish or items can be caught with a crab pot.
+
+
+
+Image
+
+Name
+
+Description
+
+Sell Price
+
+Trap Chance
+
+Used In
+
+
+ Mariner
+
+Non-Mariner
+
+
+
+
+Lobster
+
+A large ocean-dwelling crustacean with a strong tail.
+
+120g
+
+14%
+
+4%
+
+ Lobster Bisque "Any fish" Recipes Crab Pot Bundle "Wanted Lobster" Quest Elliott (Loved Gift)
+
+
+
+
+Clam[2]
+
+Someone lived here once.
+
+50g
+
+14%
+
+9%
+
+ Chowder Speed-Gro Crab Pot Bundle
+
+
+
+
+Crab
+
+A marine crustacean with two powerful pincers.
+
+100g
+
+14%
+
+8%
+
+ Crab Cakes "Any fish" Recipes Crab Pot Bundle
+
+
+
+
+Cockle
+
+A common saltwater clam.
+
+50g
+
+14%
+
+12%
+
+ "Any fish" Recipes Crab Pot Bundle
+
+
+
+
+Mussel
+
+A common bivalve that often lives in clusters.
+
+30g
+
+14%
+
+10%
+
+ Fish Stew "Any fish" Recipes Crab Pot Bundle
+
+
+
+
+Shrimp
+
+A scavenger that feeds off the ocean floor. Widely prized for its meat.
+
+60g
+
+14%
+
+10%
+
+ Tom Kha Soup Shrimp Cocktail "Any fish" Recipes Crab Pot Bundle
+
+
+
+
+Oyster
+
+Constantly filters water to find food. In the process, it removes dangerous toxins from the environment.
+
+40g
+
+14%
+
+10%
+
+ "Any fish" Recipes Crab Pot Bundle
+
+Freshwater
+The following creatures can be caught by putting a crab pot into any freshwater location.[1] Note that only normal quality fish can be caught with a crab pot.
+Farm Ponds will yield Crab Pot Fish, even ponds where a Fishing Rod can only catch trash. Crab Pots also work in all underground locations (e.g., The Sewers). The pools found in the Mines are the only exceptions. While Crab Pots can be placed in the mine’s pools, they will vanish and be permanently lost after leaving the level. Crab Pots cannot be placed into fountains (e.g., in Pelican Town or outside the Spa).
+
+
+
+Image
+
+Name
+
+Description
+
+Sell Price
+
+Trap Chance
+
+Used In
+
+
+ Mariner
+
+Non-Mariner
+
+
+
+
+Crayfish
+
+A small freshwater relative of the lobster.
+
+75g
+
+33%
+
+21%
+
+ Fish Stew "Any fish" Recipes Crab Pot Bundle
+
+
+
+
+Snail
+
+A wide-ranging mollusc that lives in a spiral shell.
+
+65g
+
+33%
+
+20%
+
+ Escargot "Any fish" Recipes Crab Pot Bundle Vincent (loved Gift)
+
+
+
+
+Periwinkle
+
+A tiny freshwater snail that lives in a blue shell.
+
+20g
+
+33%
+
+21%
+
+ Strange Bun Fish Stew "Any fish" Recipes Crab Pot Bundle
+
+Gifting
+
+
+Villager Reactions
+
+
+Hate
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Dyeing
+Crab Pot can be used in dyeing, serving as an orange dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Gold per Day
+Crab pots make on average 47g/day in freshwater and 50.5g/day in the ocean, assuming all trash is recycled and sold. This number can be increased to about 75g/day for freshwater or 81.4g/day for the ocean if all fish that are worth less than 75g are converted into Sashimi and the Mariner profession is chosen. [3]
+
+Tips
+Because the freshwater catches sell for a low value and can be easily caught in large quantities, they're ideal choices for turning into Quality Fertilizer or Sashimi. It might be helpful to put a handful of crab pots in the farm's ponds (where they're easily accessible to harvest daily) to make fertilizer/sashimi out of their catches and gain some Fishing experience.
+When the Luremaster Profession is taken, it becomes very easy to accidentally pick up the crab pots. Since 1.5, this has become easier to avoid; simply target a crab pot that still contains its daily catch, and hold the collection button. As long as the button is held, the player can collect as many as they like without fear of accidentally picking up the crab pot.
+Without the profession, the easiest way is to have the bait selected as the crab pots are emptied, easily baiting the pot right away. Baited Crab Pots cannot be picked up.
+Without the Trapper profession, the total cost of buying materials to build a crab pot is 3,100g. With the profession, the total cost of materials is 1,300g. However, these prices more than double starting in Year 2 due to the rise in the cost of raw materials, while the purchase price from Willy's Fish Shop remains fixed at 1,500g. This makes it much more cost effective to buy crab pots from Willy's starting in Year 2 instead of buying the ingredients, even with the Trapper profession.
+Notes
+Since the game uses a unique beach map during festival days, items a player has placed on the Beach (Crab Pots, Chests, etc.) may disappear during the Night Market. These items should return on Winter 18.
+References
+
+↑ 1.0 1.1 1.2 Crab pot contents are determined by CrabPot::DayUpdate.  For mariners, there is no chance of junk, and all creatures are equally likely.  For non-mariners, there is a 20% chance of junk, then each creature is checked sequentially using the chances specified in Fish.xnb. One result of this algorithm is that the actual chance of finding a given creature is smaller than the value in the input file, because it can only be found if junk items and all previous creatures failed their tests. If no creature is found, the code falls back to trash; this adds 18% more chance of trash (for both ocean and freshwater crab pots).  Note that the order in which catches are checked is not the same as the order in the Data\Fish table (see Discussion for more details).
+
+↑ Clams are not categorized as Fish by the game. Therefore they cannot be used in Fish recipes, do not benefit from Fishing price bonuses, and do not count towards the four Fishing achievements.
+
+↑ See the calculations on the talk page.
+
+
+History
+1.0: Introduced.
+1.01: Fixed issues regarding placing and removing crab pots.
+1.02: Fixed more issues regarding crab pots.
+1.4: Moving the cursor over a crab pot while holding the action button no longer incorrectly picks it up. Fixed issue where the crab pot placement cursor was always green. Fixed bug where multiple "inventory full" messages would show when harvesting from a Crab Pot with a full inventory.
+1.4.4: Fixed issue where crab pots were rendered incorrectly in The Desert.
+1.5.2: Fixed crash that could occur in Multiplayer when crab pots were removed by a farmhand.
+1.5.3: Crab pots now check the professions of the player who refilled them. This fixes a case in multiplayer where a player's profession (such as Mariner) would appear to not work because the crab pot was originally placed in the water by someone else.
+
+
+Tools
+
+
+Basic
+
+Axes • Golden Scythe • Hoes • Pickaxes • Scythe • Trash Cans • Watering Cans
+
+
+Fishing
+
+Training Rod • Bamboo Pole • Fiberglass Rod • Iridium Rod • Crab Pot
+
+
+Other
+
+Auto-Grabber • Auto-Petter • Copper Pan • Hay Hopper • Heater • Incubator • Milk Pail • Ostrich Incubator • Shears
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Crab_Pot&oldid=143000"
+Category: Craftable items
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 15:52.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

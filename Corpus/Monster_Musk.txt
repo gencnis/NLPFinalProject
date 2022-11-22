@@ -1,0 +1,294 @@
+
+
+
+
+
+Monster Musk - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monster Musk
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Monster Musk
+
+
+
+
+
+Spray this on to draw more monsters out of hiding.
+
+
+Information 
+
+
+Source:
+
+Crafting
+
+
+Buff(s):
+
+ Monster Musk Buff
+
+
+Buff Duration:
+
+ 10m
+
+
+Sell Price:
+
+50g
+
+
+Crafting
+
+
+Recipe Source:
+
+ "Prismatic Jelly" Special Order
+
+
+Ingredients:
+
+ Slime (30) Bat Wing (30)
+
+
+Monster Musk is a crafted item used to encounter more monsters.  The recipe is earned after completing the Wizard's Special Order "Prismatic Jelly".
+Monster Musk has a duration of 10 Minutes. If any player has the Monster Musk buff, the number of enemies on a given floor of the Mines, Skull Cavern, or the Volcano Dungeon when entering the level is doubled. [1]
+It is a special-effect buff, meaning that drinking Monster Musk will not remove any buffs from consumed drinks or food, or vice-versa.
+
+Contents
+
+1 Gifting
+2 Dyeing
+3 References
+4 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Hate
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Dyeing
+Monster Musk can be used in dyeing, serving as a purple dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+References
+
+↑ See StardewValley.Locations.MineShaft::adjustLevelChances in the game code.
+
+
+History
+1.5: Introduced.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Monster_Musk&oldid=143273"
+Category: Craftable itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 18:41.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

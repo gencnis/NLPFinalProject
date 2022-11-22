@@ -1,0 +1,357 @@
+
+
+
+
+
+Railroad - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Railroad
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+The Railroad is an exterior region located north of The Mountain. It becomes accessible after an earthquake clears the blocked pass on the 3rd of Summer in the first year.
+
+Contents
+
+1 Trains
+
+1.1 Train Types
+
+
+2 Areas
+
+2.1 Train Platform
+2.2 The Spa
+2.3 Witch's Swamp
+2.4 The Summit
+
+
+3 Foraging
+4 Artifact Spots
+5 Villager Paths
+6 Gallery
+7 Notes
+8 External Links
+9 References
+10 History
+
+
+Trains
+ Front of Train Platform
+On random days between 9am and 6pm, a train can pass through the area. If the player is outdoors, a message will pop up saying "A train is passing through Stardew Valley" accompanied by a train whistle sound.
+While the train cars pass by, items such as Leprechaun Shoes, Stone, Coal, Iron Ore, Wood and Geodes may fall off and be acquired. The player need not be present when the train goes by, but dropped items will disappear overnight, so they must be collected the same day. The train will pass by and drop items even if the game is paused. If the player triggers a Railroad cutscene (e.g., the wizard's Dark Talisman quest) while a train is passing, the train will be invisible (but audible) except for smoke clouds from the locomotive.
+A player who stands in front of the train as it approaches or attacks the train with certain tools or weapons will suffer minor damage and be knocked back. The player can get stuck between the passing train and the platform, suffering damage repeatedly, losing all Health, and passing out.
+
+Train Types
+There are several different types of trains that can pass by. The most common type of train has cars containing various resources, such as wood, stone, or coal. It may also have a passenger car or have cars with graffiti on the sides.
+Other train occurrences can include...
+
+A dark grey train with Joja logos on the side of its cars.
+A passenger train comprised of only passenger cars.
+A normal resource train that moves at twice the speed of other trains.
+A blue train that moves at twice the speed of other trains and has barred windows.
+A red train with cars containing presents, but only during Winter.
+Areas
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+Train Platform
+The Train Platform is located north of the tracks. There is an empty box which is used for the "The Mysterious Qi" Quest. Harvey's 10 Heart Event also takes place here.
+
+The Spa
+In the southwest of the Railroad is the Spa. Standing still when in the pool causes energy and health to be quickly restored.
+There is a small pond against the outside of the spa. An Ornate Necklace can be caught there after reading Secret Note #25. A painting called 'Vista' can also be caught there. Neither of these items can be obtained during Winter as the water will be frozen.
+
+Witch's Swamp
+There's a passage to the Witch's Swamp through the cave northeast of the train platform. This cave will be unlocked by completing a series of quests given by the Wizard. A cutscene initiating the quests will start when the player first enters the Railroad area after completing either the Community Center bundles or Joja Community Development Form. After completing these quests players can use the cave to travel to the Witch's Swamp at anytime.
+
+The Summit
+The Summit can be accessed by a staircase in the north-west area of the railroad. Initially, the stairs are blocked by a boulder that the player can not move. The player can access the summit once Perfection is achieved.
+
+Foraging
+ Locations at the Railroad where forageable items can spawn.
+Forageable items found on the ground in the Railroad are:[1]
+
+In Spring:  Daffodil (45%),  Dandelion (35%), and  Leek (20%)
+In Summer:  Sweet Pea (47%),  Spice Berry (27%), and  Grape (27%)
+In Fall:  Wild Plum (37%),  Blackberry (37%), and  Hazelnut (25%)
+In Winter:  Crystal Fruit (50%), and  Crocus (50%)
+There are only 31 locations where forageable items can spawn, and initially they are mostly covered by weeds, sticks, and rocks.  Once the debris is cleared, items can spawn at an average rate of 0.1 per night.[2] The map shows the possible locations as red and magenta tiles; when the original trees are present, the magenta tiles have a 90% smaller chance of spawning items because they are identified as being behind the original trees.
+
+Artifact Spots
+The only Artifact that can be found by digging up Artifact Spots at the Railroad is:
+
+ Prehistoric Tibia (4-8%[3])
+Other possible items are:
+
+1-3  Clay (19-37%[3])
+ Lost Book (20% + 6-12%[3]); once all Lost Books have been found, any potential Lost Book is replaced by  Mixed Seeds.
+Only in Winter:  Winter Root (24%)
+Only in Winter:  Snow Yam (16%)
+1-3  Stone (6-12%[3])
+1-3  Copper Ore (5-11%[3])
+Only in Spring: 2-5  Rice Shoots (5%)
+An unseen  Secret Note: up to 3% chance, only if the player has a Magnifying Glass.
+Artifact spots spawn at an average rate of 0.25 per night, except in winter when the average rate increases to 0.4 per night.[4]
+
+Villager Paths
+ Villager Paths at the Railroad
+Most of the railroad map is safe from villagers destroying items placed on the map.  However, four villagers do enter the area:
+
+Abigail stands in front of the train platform on most days in Summer (not on Wednesday, Friday, or Sunday).
+Alex visits the Spa on most days in Winter.
+Linus stands next to the Spa on all non-rainy days in Fall; he enters the Spa every day in Winter.
+Sebastian walks the length of the train tracks on Thursdays.
+
+Gallery
+
+
+
+
+Train
+
+
+
+
+
+
+Present Train
+
+
+
+
+
+
+Joja Train
+
+
+
+
+Notes
+Standing in front of a train will cause damage to the player.  Standing inside the right side of the train tunnel will cause the player to get stuck, and eventually pass out if health is drained.
+External Links
+Users with access to their saved game files may find the "Stardew Predictor" utility helpful for predicting when trains will appear.  The utility is located at:  https://mouseypounds.github.io/stardew-predictor/
+
+References
+
+↑ For each forage item, the provided percentage is the average percentage of all forage items that will be the specified item for that season. The input data is Locations.xnb, which is processed by code in GameLocation::spawnObjects.
+
+↑ Of the 4340 total tiles at the Railroad, 39 (0.7%) are valid spawn locations for standard forage items. For more information on forage item spawning, see Foraging.
+
+↑ 3.0 3.1 3.2 3.3 3.4 The chance of finding extra items in Artifact Spots in season-dependent.  The maximum chance is in summer and fall.  In winter, the chance is 50% less; in spring it is 6% less.  See Artifact Spot for more information.
+
+↑ Of the 4340 total tiles at the Railroad, 445 (10%) are valid spawn locations for artifact spots in spring, summer, and fall.  570 (13%) are valid spawn locations in winter.  See Artifact Spot for more information.
+
+
+History
+1.0: Introduced.
+1.1: Added cave passage to Witch's Swamp.
+1.4: Trains now drop more items.
+1.5: Added access to the Summit. 'Vista' can now be caught in the pond against the outside of the spa when it's not Winter.
+
+
+Locations
+
+
+Locations
+
+Backwoods • Beach • Bus Stop • Calico Desert • Cindersap Forest • Farm • Farm Cave • Farm Pond •  Graveyard • Ginger Island • Minecart • Mines • Mountain • Mutant Bug Lair • Pelican Town • Quarry • Quarry Mine • Railroad • Secret Woods • Sewers • Skull Cavern • Summit • Tunnel • Volcano Dungeon • Witch's Swamp
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Railroad&oldid=135303"
+Category: Mountain LocationsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 18 February 2022, at 19:52.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,273 @@
+
+
+
+
+
+Weeds - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weeds
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Weeds
+
+
+
+
+
+...
+
+
+Information 
+
+
+Found in:
+
+The Farm • Pelican Town • Cindersap Forest • The Mines • Railroad • Mutant Bug Lair • Ginger Island
+
+
+Season:
+
+ Spring •  Summer •  Fall
+
+
+Healing Effect:
+
+
+
+
+Inedible
+
+
+
+Sell Price:
+
+Cannot be sold
+
+
+Weeds are wild plants which are spawned randomly and may spread if not cleared. Weeds have a 50% chance to drop 1 Fiber when cut with a Scythe, Axe, Pickaxe, Hoe, or Sword, or blown up by a bomb.  If a weed does not drop fiber, there is a 5% chance it will drop Mixed Seeds.
+There's also a 0.001% chance to find a Living Hat when cutting weeds.
+Any weeds above ground disappear in Winter.
+
+Contents
+
+1 Spawning and spread
+2 Special Weed
+3 Trivia
+4 History
+
+
+Spawning and spread
+Weeds don't spawn above-ground in Winter, but in any other season will appear randomly on The Farm and in The Mines. This is most common when the season changes, but may occur later in the season. They also spawn in specific areas of Pelican Town and Cindersap Forest at the start of the game, and each Spring 1. Weeds don't spawn on tiles that are already occupied by buildings, equipment, fences, or closed gates.
+If weeds aren't cleared, they may multiply and spread to any tillable tile.  Spreading weeds can destroy any item placed by the player, including crafted items and furniture.  Fences and chests are the only items placed by the player that cannot be destroyed.  Weeds also prevent the growth of Fruit Trees if they spawn or spread to the 3x3 grid around the tree.  If either of these events happens, a pop-up message will be displayed at the lower left of the screen when the player wakes up in the morning.  The message will indicate which fruit tree couldn't grow the previous night, or that the weeds have caused damage.  The message will not say exactly which item was destroyed.
+Only fences, trees, and grass stop the natural spread of weeds.
+
+Special Weed
+The weed shown below, which can be found only on the Forest and Four Corners maps, will always drop 1 Mixed Seeds when cut.
+
+ Special Weed(Spring, Summer, Fall)
+Trivia
+There's an unimplemented quest in the game code to destroy all weeds in Pelican Town.
+
+History
+1.4: Added Living Hat to drop pool. Removed bug that caused a weeds item to spawn when breaking a Mushroom Tree seed. Weeds (and other debris) now spawn in Cindersap Forest & Pelican Town each Spring 1.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Weeds&oldid=143205"
+Category: Foraging
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 17:37.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

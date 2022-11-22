@@ -1,0 +1,2553 @@
+
+
+
+
+
+Fall - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fall
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+Fall is the third season players play through. It is followed by Winter and preceded by Summer. Some of the most valuable crops can grow during Fall.
+
+Contents
+
+1 Events
+
+1.1 Festivals
+1.2 Other
+1.3 Birthdays
+
+
+2 Crops
+
+2.1 Single Harvest
+2.2 Multiple Harvests
+
+
+3 Forage
+4 Fish
+5 References
+
+
+Events
+
+
+
+
+Penny
+
+
+Elliott
+
+
+
+
+
+
+
+Jodi
+
+Abigail
+
+
+
+Sandy
+Stardew Valley Fair
+
+Marnie
+
+
+Robin
+
+
+
+
+George
+
+
+Spirit's Eve
+
+
+
+
+
+
+Festivals
+
+
+Day
+
+Name
+
+
+16
+ Stardew Valley Fair
+
+
+27
+ Spirit's Eve
+
+Other
+
+
+Day
+
+Event
+
+
+8-11
+Blackberry Season
+
+
+
+
+
+Birthdays
+
+
+Day
+
+Villager
+
+
+02
+ Penny
+
+
+05
+ Elliott
+
+
+11
+ Jodi
+
+
+13
+ Abigail
+
+
+15
+ Sandy
+
+
+18
+ Marnie
+
+
+21
+ Robin
+
+
+24
+ George
+
+
+Crops
+Main article: Crops
+See also: Farming#Experience Points
+The following Crops can be grown in Fall.  Note that the "Seed Price" shown is the General Store price, unless otherwise indicated.  "Maximum Harvests per Season" assumes no fertilizer is used and the Agriculturist profession is not chosen. "Gold/Day" assumes no fertilizer is used and the Tiller profession is not chosen.  See the Crops page for the full calculation.
+Artichoke Seeds are available from year 2+.
+
+Single Harvest
+
+
+Crop
+Seed Price
+Daysto Grow
+Maximum Harvestsper Season
+Sells For
+Gold/Day
+
+
+ Amaranth
+70g
+7 days
+3
+150g
+≈11.43g
+
+
+ Artichoke
+30g
+8 days
+3
+160g
+16.25g
+
+
+ Beet
+Oasis: 20g
+6 days
+4
+100g
+≈13.33g
+
+
+ Bok Choy
+50g
+4 days
+6
+80g
+7.5g
+
+
+ Fairy Rose
+200g
+12 days
+2
+290g
+7.5g
+
+
+ Pumpkin
+100g
+13 days
+2
+320g
+≈16.92g
+
+
+ Sunflower
+200g
+8 days
+Fall: 3Summer and Fall: 6
+80g
+-15g
+
+
+ Sweet Gem Berry
+Traveling Cart: 1,000g
+24 days
+1
+3,000g
+≈83.33g
+
+
+ Wheat
+10g
+4 days
+Fall: 6Summer and Fall: 13
+25g
+3.75g
+
+
+ Yam
+60g
+10 days
+2
+160g
+10g
+
+
+Multiple Harvests
+Note that each cranberry plant produces 2 Cranberries at harvest.
+
+
+
+Crop
+Seed Price
+Daysto Grow
+Regrowth
+Maximum Harvestsper Season
+Sells For
+Gold/Day
+
+
+ Corn
+150g
+14 days
+4 days
+Fall: 4  Summer and Fall: 11
+50g
+Fall only: ≈1.92gSummer and Fall: ≈7.41g
+
+
+ Cranberries
+240g
+7 days
+5 days
+5
+75g (x2)
+≈18.89g
+
+
+ Eggplant
+20g
+5 days
+5 days
+5
+60g
+≈11.2g
+
+
+ Grape
+60g
+10 days
+3 days
+6
+80g
+16.8g
+
+
+Forage
+Main article: Foraging
+The items shown below can be found while foraging during Fall. The percentages provided for each location are the percentage of all foraged items in the location that will (on average) be the specified item. [1]
+
+
+
+Image
+
+Name
+
+Description
+
+Found
+
+Sell Price
+
+Restores
+
+Used In
+
+
+
+
+Common Mushroom
+
+Slightly nutty, with good texture.
+
+
+Cindersap Forest (50%)
+Secret Woods (46%)
+Forest Farm (25%)
+Mountain (24%)
+Backwoods (24%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+40g
+
+
+
+
+50g
+
+
+
+
+60g
+
+
+
+
+80g
+
+
+
+
+data-sort-value="0015"
+
+
+ 
+
+38
+
+17
+
+
+
+
+53
+
+23
+
+
+
+
+68
+
+30
+
+
+
+
+98
+
+44
+
+
+
+
+
+
+ Fall Foraging Bundle Fall Seeds Fried Mushroom Tom Kha Soup Stir Fry
+
+
+
+
+Wild Plum
+
+Tart and juicy with a pungent aroma.
+
+
+Bus Stop (60%)
+Railroad (38%)
+Backwoods (24%)
+Mountain (24%)
+Farm Cave (Fruit Bat option)
+
+
+
+
+
+
+80g
+
+
+
+
+100g
+
+
+
+
+120g
+
+
+
+
+160g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Fall Foraging Bundle Fall Seeds Plum Pudding Jelly Wine
+
+
+
+
+Hazelnut
+
+That's one big hazelnut!
+
+
+Backwoods (53%)
+Mountain (53%)
+Bus Stop (40%)
+Railroad (25%)
+Shaking Maple Trees on or after Fall 14
+
+
+
+
+
+
+90g
+
+
+
+
+112g
+
+
+
+
+135g
+
+
+
+
+180g
+
+
+
+
+data-sort-value="0012"
+
+
+ 
+
+30
+
+13
+
+
+
+
+42
+
+18
+
+
+
+
+54
+
+24
+
+
+
+
+78
+
+35
+
+
+
+
+
+
+ Fall Foraging Bundle Fall Seeds Roasted Hazelnuts Stuffing
+
+
+
+
+Blackberry
+
+An early-fall treat.
+
+
+Pelican Town (100%)
+Cindersap Forest (50%)
+Railroad (38%)
+On bushes during Blackberry Season (Fall 8 - 11)
+Farm Cave (Fruit Bat option)
+
+
+
+
+
+
+20g
+
+
+
+
+25g
+
+
+
+
+30g
+
+
+
+
+40g
+
+
+
+
+data-sort-value="0010"
+
+
+ 
+
+25
+
+11
+
+
+
+
+35
+
+15
+
+
+
+
+45
+
+20
+
+
+
+
+65
+
+29
+
+
+
+
+
+
+ Fall Foraging Bundle Fall Seeds Blackberry Cobbler Jelly Wine
+
+
+
+
+Chanterelle
+
+A tasty mushroom with a fruity smell and slightly peppery flavor.
+
+
+Secret Woods (38%)
+Forest Farm (25%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+160g
+
+
+
+
+200g
+
+
+
+
+240g
+
+
+
+
+320g
+
+
+
+
+data-sort-value="0030"
+
+
+ 
+
+75
+
+33
+
+
+
+
+105
+
+47
+
+
+
+
+135
+
+60
+
+
+
+
+195
+
+87
+
+
+
+
+
+
+ Life Elixir
+
+
+
+
+Red Mushroom
+
+A spotted mushroom sometimes found in caves.
+
+
+Forest Farm (25%)
+Secret Woods (15%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+data-sort-value="0-20"
+
+
+ 
+
+−50
+
+
+
+
+−70
+
+
+
+
+−90
+
+
+
+
+−130
+
+
+
+
+
+
+ Exotic Foraging Bundle Dye Bundle Life Elixir
+
+
+
+
+Purple Mushroom
+
+A rare mushroom found deep in caves.
+
+
+Forest Farm (25%)
+Farm Cave (Mushroom option)
+
+
+
+
+
+
+250g
+
+
+
+
+312g
+
+
+
+
+375g
+
+
+
+
+500g
+
+
+
+
+data-sort-value="0050"
+
+
+ 
+
+125
+
+56
+
+
+
+
+175
+
+78
+
+
+
+
+225
+
+101
+
+
+
+
+325
+
+146
+
+
+
+
+
+
+ Exotic Foraging Bundle Field Research Bundle Life Elixir Wizard (loved gift)
+
+
+
+Fish
+Main article: Fish
+There are a variety of fish which can only be caught during specific seasons.  Listed below are all fish catchable during Fall.  
+Fish that can be caught during all seasons are not listed.
+Note: Any Fish can be used for recipes with the tag "any fish" (i.e.,  Sashimi,  Maki Roll,  Quality Fertilizer).
+
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+ Fisher Profession (+25%)
+
+ Angler Profession (+50%)
+
+Location
+
+Time
+
+Season
+
+Weather
+
+Size (inches)
+
+Difficulty & Behavior
+
+Base XP
+
+Used In
+
+
+
+
+Anchovy
+
+A small silver fish found in the ocean.
+
+
+
+
+
+
+30g
+
+
+
+
+37g
+
+
+
+
+45g
+
+
+
+
+60g
+
+
+
+
+
+
+
+37g
+
+
+
+
+46g
+
+
+
+
+56g
+
+
+
+
+75g
+
+
+
+
+
+
+
+45g
+
+
+
+
+55g
+
+
+
+
+67g
+
+
+
+
+90g
+
+
+Ocean
+
+Anytime
+
+ Spring Fall
+
+Any
+
+1-17
+
+30 dart
+
+13
+
+
+
+
+
+
+Sardine
+
+A common ocean fish.
+
+
+
+
+
+
+40g
+
+
+
+
+50g
+
+
+
+
+60g
+
+
+
+
+80g
+
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+
+
+
+
+
+60g
+
+
+
+
+75g
+
+
+
+
+90g
+
+
+
+
+120g
+
+
+Ocean
+
+6am – 7pm
+
+ Spring Fall Winter
+
+Any
+
+1-13
+
+30 dart
+
+13
+
+ Ocean Fish Bundle Dish O' The Sea
+
+
+
+
+Smallmouth Bass
+
+A freshwater fish that is very sensitive to pollution.
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+
+
+
+
+
+62g
+
+
+
+
+77g
+
+
+
+
+93g
+
+
+
+
+125g
+
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+River (Town)Forest Pond
+
+Anytime
+
+ Spring Fall
+
+Any
+
+12-25
+
+28 mixed
+
+12
+
+
+
+
+
+
+Salmon
+
+Swims upstream to lay its eggs.
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+
+
+
+93g
+
+
+
+
+116g
+
+
+
+
+140g
+
+
+
+
+187g
+
+
+
+
+
+
+
+112g
+
+
+
+
+139g
+
+
+
+
+168g
+
+
+
+
+225g
+
+
+River (Town+Forest)
+
+6am – 7pm
+
+ Fall
+
+Any
+
+24-66
+
+50 mixed
+
+19
+
+ Salmon Dinner
+
+
+
+
+Walleye
+
+A freshwater fish caught at night.
+
+
+
+
+
+
+105g
+
+
+
+
+131g
+
+
+
+
+157g
+
+
+
+
+210g
+
+
+
+
+
+
+
+131g
+
+
+
+
+163g
+
+
+
+
+196g
+
+
+
+
+262g
+
+
+
+
+
+
+
+157g
+
+
+
+
+196g
+
+
+
+
+235g
+
+
+
+
+315g
+
+
+River (Town+Forest)Forest PondMountain Lake
+
+12pm – 2am
+
+ Fall Winter with Rain Totem
+
+ Rain
+
+10-41
+
+45 smooth
+
+18
+
+ Night Fishing Bundle Quality Fish Bundle
+
+
+
+
+Catfish
+
+An uncommon fish found in streams.
+
+
+
+
+
+
+200g
+
+
+
+
+250g
+
+
+
+
+300g
+
+
+
+
+400g
+
+
+
+
+
+
+
+250g
+
+
+
+
+312g
+
+
+
+
+375g
+
+
+
+
+500g
+
+
+
+
+
+
+
+300g
+
+
+
+
+375g
+
+
+
+
+450g
+
+
+
+
+600g
+
+
+River (Town+Forest)Secret Woods PondWitch's Swamp
+
+6am – 12am
+
+ Spring Fall( Spring & Summer in Secret Woods Pond)
+
+ Rain
+
+12-73
+
+75 mixed
+
+28
+
+ River Fish Bundle Willy (loved gift)
+
+
+
+
+Eel
+
+A long, slippery little fish.
+
+
+
+
+
+
+85g
+
+
+
+
+106g
+
+
+
+
+127g
+
+
+
+
+170g
+
+
+
+
+
+
+
+106g
+
+
+
+
+132g
+
+
+
+
+158g
+
+
+
+
+212g
+
+
+
+
+
+
+
+127g
+
+
+
+
+159g
+
+
+
+
+190g
+
+
+
+
+255g
+
+
+Ocean
+
+4pm – 2am
+
+ Spring Fall
+
+ Rain
+
+12-81
+
+70 smooth
+
+26
+
+ Night Fishing Bundle Fried Eel Spicy Eel
+
+
+
+
+Red Snapper
+
+A popular fish with a nice red color.
+
+
+
+
+
+
+50g
+
+
+
+
+62g
+
+
+
+
+75g
+
+
+
+
+100g
+
+
+
+
+
+
+
+62g
+
+
+
+
+77g
+
+
+
+
+93g
+
+
+
+
+125g
+
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+Ocean
+
+6am – 7pm
+
+ Summer Fall Winter with Rain Totem
+
+ Rain
+
+8-26
+
+40 mixed
+
+16
+
+ Ocean Fish Bundle
+
+
+
+
+Sea Cucumber
+
+A slippery, slimy creature found on the ocean floor.
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+
+
+
+93g
+
+
+
+
+116g
+
+
+
+
+140g
+
+
+
+
+187g
+
+
+
+
+
+
+
+112g
+
+
+
+
+139g
+
+
+
+
+168g
+
+
+
+
+225g
+
+
+Ocean
+
+6am – 7pm
+
+ Fall Winter
+
+Any
+
+3-21
+
+40 sinker
+
+16
+
+ Lucky Lunch Willy (loved gift)
+
+
+
+
+Super Cucumber
+
+A rare, purple variety of sea cucumber.
+
+
+
+
+
+
+250g
+
+
+
+
+312g
+
+
+
+
+375g
+
+
+
+
+500g
+
+
+
+
+
+
+
+312g
+
+
+
+
+390g
+
+
+
+
+468g
+
+
+
+
+625g
+
+
+
+
+
+
+
+375g
+
+
+
+
+468g
+
+
+
+
+562g
+
+
+
+
+750g
+
+
+Ocean, Ginger Island oceans
+
+6pm – 2am
+
+ Summer Fall(All Seasons on Ginger Island)
+
+Any
+
+12-37
+
+80 sinker
+
+29
+
+ Wizard (loved gift)
+
+
+
+
+Tiger Trout
+
+A rare hybrid trout that cannot bear offspring of its own.
+
+
+
+
+
+
+150g
+
+
+
+
+187g
+
+
+
+
+225g
+
+
+
+
+300g
+
+
+
+
+
+
+
+187g
+
+
+
+
+233g
+
+
+
+
+281g
+
+
+
+
+375g
+
+
+
+
+
+
+
+225g
+
+
+
+
+280g
+
+
+
+
+337g
+
+
+
+
+450g
+
+
+River (Town+Forest)
+
+6am – 7pm
+
+ Fall Winter
+
+Any
+
+10-21
+
+60 dart
+
+23
+
+ River Fish Bundle
+
+
+
+
+Tilapia
+
+A primarily vegetarian fish that prefers warm water.
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+
+
+
+93g
+
+
+
+
+116g
+
+
+
+
+140g
+
+
+
+
+187g
+
+
+
+
+
+
+
+112g
+
+
+
+
+139g
+
+
+
+
+168g
+
+
+
+
+225g
+
+
+Ocean, Ginger Island rivers
+
+6am – 2pm
+
+ Summer Fall(All Seasons on Ginger Island)
+
+Any
+
+11-31
+
+50 mixed
+
+19
+
+ Ocean Fish Bundle
+
+
+
+
+Albacore
+
+Prefers temperature "edges" where cool and warm water meet.
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+
+
+
+93g
+
+
+
+
+116g
+
+
+
+
+140g
+
+
+
+
+187g
+
+
+
+
+
+
+
+112g
+
+
+
+
+139g
+
+
+
+
+168g
+
+
+
+
+225g
+
+
+Ocean
+
+6am – 11am6pm – 2am
+
+ Fall Winter
+
+Any
+
+20-41
+
+60 mixed
+
+23
+
+ "Fish Stew" Quest
+
+
+
+
+Midnight Carp
+
+This shy fish only feels comfortable at night.
+
+
+
+
+
+
+150g
+
+
+
+
+187g
+
+
+
+
+225g
+
+
+
+
+300g
+
+
+
+
+
+
+
+187g
+
+
+
+
+233g
+
+
+
+
+281g
+
+
+
+
+375g
+
+
+
+
+
+
+
+225g
+
+
+
+
+280g
+
+
+
+
+337g
+
+
+
+
+450g
+
+
+Mountain Lake,Cindersap Forest pond,Ginger Island pond and river
+
+10pm – 2am
+
+ Fall Winter(All Seasons on Ginger Island)
+
+Any
+
+12-53
+
+55 mixed
+
+21
+
+ Seafoam Pudding
+
+
+
+
+Shad
+
+Lives in a school at sea, but returns to the rivers to spawn.
+
+
+
+
+
+
+60g
+
+
+
+
+75g
+
+
+
+
+90g
+
+
+
+
+120g
+
+
+
+
+
+
+
+75g
+
+
+
+
+93g
+
+
+
+
+112g
+
+
+
+
+150g
+
+
+
+
+
+
+
+90g
+
+
+
+
+112g
+
+
+
+
+135g
+
+
+
+
+180g
+
+
+River (Town+Forest)
+
+9am – 2am
+
+ Spring Summer Fall
+
+ Rain
+
+20-49
+
+45 smooth
+
+18
+
+ River Fish Bundle Quality Fish Bundle
+
+
+
+
+Angler
+
+Uses a bioluminescent dangler to attract prey.
+
+
+
+
+
+
+900g
+
+
+
+
+1,125g
+
+
+
+
+1,350g
+
+
+
+
+1,800g
+
+
+
+
+
+
+
+1,125g
+
+
+
+
+1,406g
+
+
+
+
+1,687g
+
+
+
+
+2,250g
+
+
+
+
+
+
+
+1,350g
+
+
+
+
+1,687g
+
+
+
+
+2,025g
+
+
+
+
+2,700g
+
+
+North of JojaMart on the wooden plank bridge. Requires level 3 fishing.
+
+Any
+
+ Fall
+
+Any
+
+17-19
+
+85 smooth
+
+155
+
+
+
+References
+
+↑ The foraged items that can spawn in a given location each season are determined by GameLocation::spawnObjects in the game code, using input from the data file Content\Locations.xnb.  The percentages provided here have been normalized to ensure that the percentages sum to 100% for each location. The data was normalized by:
+Calculating the sum of all percentages listed in Locations.xnb for Fall
+Dividing each percentage by the sum
+
+
+
+
+Seasons
+
+
+Seasons
+
+Spring • Summer • Fall • Winter
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Fall&oldid=141202"
+Category: Seasons
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 29 August 2022, at 18:20.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

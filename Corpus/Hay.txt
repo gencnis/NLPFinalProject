@@ -1,0 +1,297 @@
+
+
+
+
+
+Hay - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hay
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Hay
+
+
+
+
+
+Dried grass used as animal food.
+
+
+Information 
+
+
+Source:
+
+Grass • Wheat • Marnie's Ranch • Desert Trader
+
+
+Found in:
+
+The Farm
+
+
+Season:
+
+ Spring •  Summer •  Fall
+
+
+Healing Effect:
+
+
+
+
+Inedible
+
+
+
+Sell Price:
+
+0g
+
+
+Hay comes from dried plants and is used to feed farm animals.
+Hay can be harvested from Grass or Wheat using a Scythe or Golden Scythe. It can only be harvested from Grass if there is an unfilled Silo on the farm. For grass, when using a Scythe, there is a 50% chance of producing 1 Hay each time a tile is completely cleared of Grass; using a Golden Scythe, the chance is 75%; and using either scythe on wheat, 40%. Note that although Grass can also be cleared using any Weapon or Bomb, no Hay is produced in these cases. All Hay harvested from Grass is immediately placed directly into the farm's Silos. When harvesting Wheat using either scythe there is a 40% chance that each harvested Wheat will drop one unit of Hay, which in this case added to the player's inventory (or the Junimo Hut storage, if harvested by Junimos). Hay from Wheat does not go directly into Silos.
+Hay may also be obtained by cutting weeds with a weapon with the Haymaker enchantment, which gives a 1/3 chance for each cut weed to produce a Hay. Hay obtained this way goes directly into Silos if cut on the farm, and into the player's inventory if outside of the farm.
+Each Silo can store up to 240 pieces of Hay. Hay stored in Silos can only be withdrawn using the Hoppers found in Coops and Barns. When right-clicked, a Hopper will dispense Hay equal to the number of animals living in the building — but no more than the number of empty slots in the building's Feeding Bench. Therefore, it becomes impossible to withdraw Hay from a Hopper in deluxe Coops and Barns where the autofeeder always keeps the feeding bench full (see Tip). Right-clicking on a Hopper if Hay is the active item in the player's inventory will transfer the entire stack of Hay into the Silos. Once retrieved from the hopper, hay can be transferred to chests for storage from the inventory, bypassing the need for multiple silos.
+Hay can be purchased, either from Marnie's Ranch for 50g or from the Desert Trader who sells 3 Hay in exchange for 1 Omni Geode on Mondays. Marnie may randomly send the player 30 Hay in the mail.
+
+Contents
+
+1 Feeding Animals
+2 Gifting
+3 Quests
+4 Bundles
+5 Tailoring
+6 Tip
+7 History
+
+
+Feeding Animals
+ The interior of a basic Coop showing the locations of the Hopper and feeding bench.
+All Coop-dwelling and Barn-dwelling Animals eat 1 Hay per day as food whenever there is no fresh Grass available. This Hay must be placed on the feeding bench in the animal's home building; the Hopper in the building facilitates withdrawing Hay from the Silos to place on the bench, although the Hay can come from any source. The autofeeder in Deluxe Barns and Coops automatically fills the feeding bench. If unfed, animals will not die, but they will be unhappy.
+Given that all Grass on the farm disappears on Winter 1, it is advisable to Harvest as much Hay as possible by Fall 28 in preparation for the winter. Building multiple Silos may be necessary to provide sufficient storage capacity for Winter. Alternatively, Hay can be withdrawn via a Hopper and placed into Chests. If the farm runs out of stored Hay during the winter, the only ways to feed animals are by purchasing Hay, or by growing Wheat in the Greenhouse or the Ginger Island Farm.
+
+Gifting
+
+
+Villager Reactions
+
+
+Hate
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Quests
+Hay is not used in any quests.
+
+Bundles
+10 Hay are used in the  Fodder Bundle on the Bulletin Board.
+
+Tailoring
+Hay is used in the spool of the Sewing Machine to create a Grass Skirt.  It can be used in dyeing, serving as a yellow dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Tip
+The only way to remove Hay from a Feeding Bench is to use a Bomb. This makes it possible to withdraw Hay from the building's Hopper when it is otherwise impossible, for example, if all buildings contain Autofeeders or if the player's Spouse has fed the animals.
+History
+1.4: Added Golden Scythe. Added chance for Wheat to drop Hay. Added purchase from Desert Trader. Can now be used in Tailoring.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Hay&oldid=143166"
+Category: Special items
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 17:06.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1330 @@
+
+
+
+
+
+Slimes - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slimes
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Slimes
+
+
+
+
+
+Information
+
+
+Spawns In:
+
+The Mines, Skull Cavern, Quarry Mine, and  Secret Woods
+
+
+Floors:
+
+All
+
+
+Killable:
+
+Yes
+
+
+Base HP:
+
+Varies
+
+
+Base Damage:
+
+Varies
+
+
+Base Def:
+
+Varies
+
+
+Speed:
+
+Varies
+
+
+XP:
+
+Varies
+
+
+Variations:
+
+Several
+
+
+Drops:
+
+ Sap (all but Big Slime) Slime (all Slimes)See tables for specific drops.If reached bottom of Mines: Diamond (0.05%) Prismatic Shard (0.05%)
+
+
+
+This article is about the monster. For the drop, see Slime.
+Slimes are enemies that can be found in various locations, including The Mines and the Secret Woods. They come in five different variations, all based on the same sprite and code (a color hue is added to the grey sprite found in data files). You need to kill 1000 Slimes of any color for Monster Eradication Goals. All Slimes in the game count towards this goal (e.g., in the Secret Woods) except for Big Slimes and Slimes raised in a Slime Hutch (by means of a Slime Incubator or Mating).  Slimes spawned by killing a Big Slime do count towards the goal.
+Each color of slime has a unique stat set.
+
+Contents
+
+1 Attacks
+2 Strategy
+3 Male Slimes
+4 Mating
+
+4.1 Mating Color Results
+
+
+5 Variations
+
+5.1 Special Slimes
+5.2 Big Slimes
+5.3 Prismatic Slime
+5.4 Dangerous Slimes
+
+
+6 Color Based Drops
+7 References
+8 History
+
+
+Attacks
+ Slime attack zone
+All colors of slimes, both male and female, have an attack zone of 4 tiles in all directions.  If the player enters this zone, the slime will attack.
+Slimes attack in two ways. Either they bounce slowly at the player, or they "charge" to jump at the player from a distance. The charging animation resembles the slime becoming almost flat to the ground. If there is an obstacle in the way, the charge jump will cause them to bounce off the object (sometimes multiple times if they're in a tight spot). Occasionally slimes will enter a state of rage after being attacked, causing them to move significantly faster and have red eyes.
+Being hit by a slime reduces health and may cause the Slimed debuff. These effects can be prevented by equipping a Slime Charmer Ring.
+
+
+
+Image
+
+Name
+
+Effect
+
+Cause
+
+Duration
+
+
+
+
+Slimed
+
+ Speed (-4)
+
+Being hit by a Slime.
+
+ 2.5-3s
+
+Strategy
+When a slime is hit, it will be knocked back a short distance, out of range of melee weapons. The best strategy to kill slimes is to quickly move into striking distance to prevent their charge attack and corner them against a wall or, ideally, in a corner (of walls, rocks, or both). Both the charged and regular attacks may be avoided by using a defensive move (such as the block of the regular sword). Timing a block with a sword well can allow the player to get a decent amount of damage. Otherwise, offense is the best defense.
+The Slime Charmer Ring prevents all damage from Slimes. This ring is obtained as a reward for killing 1000 slimes for the Adventurer's Guild.
+
+Male Slimes
+Any slimes have a 49% chance to be male and will retain its original properties such as being special. Male slimes have a pom-pom like antenna dangling above their "heads", 25% more health over the base HP, and 1 more damage. When it is passive and is attacked, male slimes have a 2.5% chance to increase its damage by 50% and do a shaking animation.
+
+
+ Male Green Slime
+ Male Yellow Slime
+ Male Frost Jelly
+ Male Purple Slime
+ Male Red Sludge
+ Male Black Slime
+ Male Copper Slime
+ Male Iron Slime
+ Male Tiger Slime
+
+Mating
+ Iron Slimes mating in the Quarry Mine
+In a Slime Hutch or (less commonly) The Mines, Secret Woods, Skull Cavern, Tiger Slime Grove, or Quarry Mine, male and female slimes may mate to produce a small slime that will grow into either a male or female adult slime. This can also occur on the farm if monster spawns are enabled at the Dark Shrine of Night Terrors or the Wilderness farm. If so, the resulting child slimes will not despawn overnight, theoretically enabling slime farming without a Slime Incubator.
+
+Mating Color Results
+The game generates a random pick from the following table. Each of the red, green, and blue color components of the slime is calculated independently of the other colors using the values from the parent Slimes. The most likely pick has a random chance of two outcomes per color component, also calculated independently of the other components. [1]
+
+
+
+Chance
+Each Color Component (Red, Green, or Blue)
+
+
+25%
+Male Parent Component +/- random 25%
+
+
+25%
+Female Parent Component +/- random 25%
+
+
+50%
+50%: Maximum of (Male Parent Component or Female Parent Component)50%: Average of (Male Parent Component and Female Parent Component)
+
+
+
+
+Variations
+Note: Once a Slime Hutch has been built on The Farm, any Green, Blue, Red, Purple, or Tiger slimes encountered anywhere may drop a Slime Egg. [2]
+
+
+
+Green Slime
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops [3]
+
+
+24
+
+5
+
+1
+
+2
+
+3
+
+The Mines(Floors 1-29),Secret Woods
+
+ Amethyst (1.5%) Dwarf Scroll I (0.5%) Dwarf Scroll IV (0.1%) Green Algae (10%) Green Slime Egg (1%, only if a Slime Hutch has been built) Mahogany Seed (10%, only in Secret Woods) Sap (15%) Slime (75%) Slime (5%)
+
+
+Blue Slime (Frost Jelly)
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops [3]
+
+
+106
+
+7
+
+0
+
+2
+
+6
+
+The Mines(Floors 41-79, but can sometimes be found on other Floors),Secret Woods
+
+ Blue Slime Egg (1%, only if a Slime Hutch has been built) Dwarf Scroll II (0.5%) Dwarf Scroll III (1.5%) Dwarf Scroll IV (0.1%) Jade (2%) Mahogany Seed (10%, only in Secret Woods) Sap (50%) Slime (75%) Winter Root (8%)
+
+
+Notes:
+
+Each attack slightly increases the chance to start glowing and increase its speed by 2
+
+
+Red Slime (Sludge)
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops [3]
+
+
+205
+
+16
+
+0
+
+2
+
+10
+
+The Mines(Floors 81-119)
+
+ Coal (1-3, 10%) Diamond (1%) Dwarf Scroll III (0.5%) Dwarf Scroll IV (0.1%) Red Slime Egg (1%, only if a Slime Hutch has been built) Sap (50%) Slime (80%) White Algae (10%)Color based drops (see table below)
+
+
+Purple Slime (Sludge)
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops [3]
+
+
+410
+
+16
+
+0
+
+2
+
+10
+
+Skull Cavern (1%)
+
+ Coal (1-3, 10%) Diamond (1%) Dwarf Scroll III (0.5%) Dwarf Scroll IV (0.1%) Iridium Bar (0.9%) Iridium Ore (repeats a random 8% chance to drop until fail) Purple Slime Egg (1%, only if a Slime Hutch has been built) Red Cabbage Seeds (0.125%, first generation only) Sap (50%) Slime (80%) White Algae (10%)Color based drops (see table below)
+
+
+Notes:
+
+These are the most powerful slimes, found only in the Skull Cavern.
+
+
+Yellow Slime
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops [3]
+
+
+3 × original slime
+
+2 × original slime
+
+Varies
+
+2
+
+Varies
+
+The Mines,Skull Cavern
+
+Original slime's dropsColor based drops (see table below)
+
+
+Notes:
+
+0.1% chance to recolor any slime (including special and male), will keep all the original slime's properties other than HP and Damage.
+
+
+Black Slime
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops [3]
+
+
+Varies
+
+Varies
+
+Varies
+
+2
+
+Varies
+
+Slime Hutch
+
+Original slime's dropsColor based drops (see table below)
+
+
+Notes:
+
+In a Random Event after you sleep, the Witch will fly over your Slime Hutch, she will turn Slimes inside into Black Slimes. They keep the original slime's special properties and stats.
+
+
+Copper Slime
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops [3]
+
+
+102
+
+16
+
+0
+
+4
+
+10
+
+Quarry Mine,Random dungeon Floors in The Mines
+
+ Copper Ore (repeats a random 33% chance to drop until fail) Diamond (1%) Dwarf Scroll III (0.5%) Dwarf Scroll IV (0.1%) Sap (50%) Slime (80%) White Algae (10%)
+
+
+Iron Slime
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops [3]
+
+
+205
+
+16
+
+0
+
+1
+
+10
+
+Quarry Mine,Random dungeon Floors in The Mines
+
+ Diamond (1%) Dwarf Scroll III (0.5%) Dwarf Scroll IV (0.1%) Iron Ore (repeats a random 33% chance to drop until fail) Sap (50%) Slime (80%) White Algae (10%)Color based drops for gray slime (see table below)
+
+
+Tiger Slime
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops [3]
+
+
+415
+
+23
+
+0
+
+2
+
+20
+
+Tiger Slime GroveVolcano Dungeon
+
+ Diamond (1%) Dwarf Scroll III (0.5%) Dwarf Scroll IV (0.1%) Ginger (9%) Jade (2%) Mango Sapling (0.5%) Pineapple Seeds (1.6%) Sap (50%) Slime (80%) Taro Tuber (10% for first, repeats a 50% for each one after until fail) Tiger Hat (0.1%) Tiger Slime Egg (1%, only if a Slime Hutch has been built) White Algae (10%)
+
+
+Special Slimes
+Special Slimes have a very small chance to replace any normal Slime. They can be identified by their antenna with a small yellow star.
+Special Slimes have 3 times more health than normal Slimes and will deal twice as much damage per attack. They can drop special items.
+
+
+
+Special Green Slime
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops
+
+
+72
+
+10
+
+1
+
+2
+
+3
+
+The Mines(Floors 1-40)
+
+
+Regular Slime drops
+Special items
+
+
+Notes:
+
+0.175% chance to replace any Slime between floors 1-40. [4]
+
+
+Special Dark Green Slime
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops
+
+
+72
+
+10
+
+1
+
+2
+
+3
+
+The Mines(Floors 2-39)
+
+
+Regular Slime drops
+Special items
+
+
+Notes:
+
+1% chance to replace any Slime on floors 2-39, excluding floors ending in 0, 1, 5, or 6. [5]
+
+
+Special Blue Slime (Frost Jelly)
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops
+
+
+318
+
+14
+
+0
+
+2
+
+6
+
+The Mines(Floors 40-80)
+
+
+Regular Slime drops
+Special items
+
+
+Notes:
+
+0.175% chance to replace any Slime between floors 40-80. [4]
+
+
+Special Black/Transparent Slime
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops
+
+
+Varies
+
+Varies
+
+0
+
+2
+
+Varies
+
+The Mines(Floors 42-79)
+
+
+Regular Slime drops
+Blue Slime Egg (1%, only if Slime Hutch has been built)
+Special items on Floors 42-59, 69, and 79
+
+
+Notes:
+
+1% chance to replace any Slime on floors 42-79, excluding floors ending in 0, 1, 5, or 6. [5]
+
+
+Special Red Slime (Sludge)
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops
+
+
+615
+
+32
+
+0
+
+2
+
+10
+
+The Mines(Floors 80-120)
+
+
+Regular Slime drops
+Special items
+
+
+Notes:
+
+0.175% chance to replace any Slime between floors 80-120. [4]
+
+
+Special Purple Slime (Sludge)
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops
+
+
+1230
+
+32
+
+0
+
+2
+
+10
+
+The Mines(Floors 82-119)
+
+
+Regular Slime drops
+Special items
+
+
+Notes:
+
+0.175% chance to replace any Purple Slime. [4]
+
+
+Special Copper Slime
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops
+
+
+306
+
+32
+
+0
+
+4
+
+10
+
+Quarry Mine, Random dungeon floors in The Mines
+
+
+Regular Slime drops
+Special items
+
+
+Notes:
+
+0.175% chance to replace any Copper Slime. [4]
+
+
+Special Iron Slime
+
+
+
+
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+EXP
+
+Location
+
+Drops
+
+
+615
+
+32
+
+0
+
+1
+
+10
+
+Quarry Mine, Random dungeon floors in The Mines
+
+
+Regular Slime drops
+Special items
+
+
+Notes:
+
+0.175% chance to replace any Iron Slime. [4]
+
+
+Big Slimes
+Big Slimes have similar attack behavior to the smaller slimes. When killed they have a 75% chance to split into 2-4 smaller slimes which will attack the player. Those small slimes give XP as the regular slimes above do. 
+Big Slimes are most common as Big Purple Sludges in the Skull Cavern. They can also appear on slime-infested floors of the Mines in the color for that section of the Mines.
+During Mr. Qi's "Skull Cavern Invasion" Special Order, Big Purple Slimes in the Skull Cavern may drop a Qi Gem (10% chance) or Galaxy Soul (0.45% chance).
+[6]
+During Mr. Qi's "Qi's Hungry Challenge" Special Order, Big Purple Slimes in the Skull Cavern may drop a heart that heals 10 HP.
+
+
+
+Color
+
+HP
+
+Damage
+
+Defense
+
+Speed
+
+XP
+
+Location
+
+Drops
+
+Special Drops
+
+
+
+
+60
+
+6
+
+0
+
+2
+
+7
+
+The Mines
+
+
+ Dwarf Scroll IV (0.1%) Slime (99%) Slime (90%) Slime (40%)
+
+
+ Pink Cake (0.1%) at floor ≥ 40 in The Mines (and any floor in the Skull Cavern) [6]
+
+
+
+
+120
+
+5
+
+0
+
+2
+
+14
+
+
+
+
+180
+
+10
+
+0
+
+2
+
+21
+
+
+
+
+240
+
+15
+
+0
+
+2
+
+21
+
+Skull Cavern
+
+
+Prismatic Slime
+ Prismatic Slime
+The Prismatic Slime is a special monster that can be found in the Mines, Quarry Mine, or Skull Cavern on any level, after accepting the Wizard's Special Order "Prismatic Jelly". It looks like a regular slime that changes color over time. The Prismatic Slime can appear when the mines are in a "dangerous" or normal state.
+A Prismatic Slime will always drop the Prismatic Jelly that must be delivered to the Wizard in order to complete the Special Order.
+While the special order is active, each slime spawned in The Mines, Quarry Mine, or Skull Cavern has around a 1.2% chance to be replaced with a Prismatic Slime, depending on daily luck.  The exact chance is 0.012 + Daily Luck / 10.0 [4].
+Note that a Prismatic Slime has very high HP (1000) and damage (35), and is thus considerably stronger than the slime it replaces.
+
+Dangerous Slimes
+ A Green Dangerous Slime
+Dangerous Slimes are a variation that can be found in the Mines or Skull Cavern on any level after accepting Mr. Qi's challenge "Danger in the Deep" or "Skull Cavern Invasion", or after activating the Shrine of Challenge. They replace regular slimes and appear as a larger slime with sunglasses and a smile. They are relatively stronger than their normal variations, with 2x health and attack. 
+Sometimes these slimes will appear stacked on top of each other. This variation is called a Stacked Slime. When hit with a weapon, the top slime will come flying off similar to a Squid Kid projectile. The Slime Charmer Ring does not grant immunity to this attack. After all slimes are knocked off, the bottom one works as a normal slime.
+
+Color Based Drops
+In addition to the drops list above, the color of each variation is random and may have additional drops depending on the color range chosen. [2]
+Color groups are mutually exclusive and listed in the order the game tests for them.  (For example, a slime may fall into the White and Gray categories, but White is tested for first, so the slime would drop Iron Ore and not Stone).
+The background color of the "RGB Values" column in the table below shows the color range that a slime can be to receive the drop.
+
+
+
+Color
+
+RGB Values
+
+Drops
+
+
+Black
+
+Red < 80, Green < 80, Blue < 80
+
+ Coal (100%),  Neptunite (5%),  Bixite (5%)
+
+
+Yellow
+
+Red > 200, Green > 180, Blue < 50
+
+ Gold Ore (100%)
+
+
+Red
+
+Red > 220, Green > 90 and < 150, Blue < 50
+
+ Copper Ore (100%)
+
+
+White
+
+Red > 230, Green > 230, Blue > 230
+
+ Refined Quartz (one if the red value is even, a second if the green value is also even),  Iron Ore (if refined quartz was not dropped),  Diamond (100% if all red, green, and blue values are even numbers OR if red, green and blue values are all 255)
+
+
+Gray
+
+Red > 150, Green > 150, Blue > 150
+
+ Stone (100%)
+
+
+Purple
+
+Red > 150, Green < 50, Blue > 180
+
+ Iridium Ore ((x2) 25% first generation, 50% subsequent generations)
+
+References
+
+↑ See GreenSlime::mateWith in the game code.
+
+↑ 2.0 2.1 See StardewValley.Monsters.GreenSlime::getExtraDropItems in the game code.
+
+↑ 3.0 3.1 3.2 3.3 3.4 3.5 3.6 3.7 3.8 Most slime drops are specified in the data file Content\Data\Monsters.xnb.  The chance for a Purple Slime to drop Iridium Ore/Bars is set in the constructor for GreenSlime in the game code.  The chance for Copper/Iron Slimes to drop ore is set in StardewValley.Locations.MineShaft::getMonsterForThisLevel.
+
+↑ 4.0 4.1 4.2 4.3 4.4 4.5 4.6 See MineShaft::populateLevel in the game code.
+
+↑ 5.0 5.1 See the GreenSlime constructor in StardewValley.Monsters.
+
+↑ 6.0 6.1 See the constructor for BigSlime in the game code.
+
+
+History
+1.0: Introduced.
+1.3.32: Fixed bug causing slimes to pounce incorrectly.
+1.4: Copper and iron slimes introduced.
+1.5: Tiger and prismatic slimes introduced, Secret Woods slimes now drop Mahogany Seeds, diamond drop conditions for white slimes changed. Refined quartz added to white slime drops.
+1.5.3: Made Prismatic Slimes a little more common (0.75% to 1.2% chance on average) and also made Luck modify the chances of encountering it. Fixed bug preventing Prismatic Slimes from not dropping Prismatic Jelly in rare cases.
+
+
+Monsters
+
+
+Mines
+
+Bats • Bug • Cave Fly • Duggy • Dust Sprite • Ghost • Grub • Lava Crab • Metal Head • Rock Crab • Shadow Brute • Shadow Shaman • Skeleton • Slimes • Squid Kid • Stone Golem
+
+
+Dangerous Mines
+
+Bat (dangerous) • Blue Squid • Bug (dangerous) • Carbon Ghost • Cave Fly (dangerous) • Duggy (dangerous) • Dust Sprite (dangerous) • Frost Bat (dangerous) • Grub (dangerous) • Haunted Skull (dangerous) • Lava Crab (dangerous) • Metal Head (dangerous) • Putrid Ghost • Rock Crab (dangerous) • Shadow Brute (dangerous) • Shadow Shaman (dangerous) • Shadow Sniper • Skeleton (dangerous) • Skeleton Mage • Slimes (dangerous) • Spider • Squid Kid (dangerous) • Stick Bug • Stone Golem (dangerous)
+
+
+Quarry Mine
+
+Copper Slime • Haunted Skull • Iron Slime
+
+
+Skull Cavern
+
+Armored Bug • Big Slime • Carbon Ghost • Iridium Bat • Iridium Crab • Lava Bat • Mummy • Pepper Rex • Purple Slime • Serpent
+
+
+Dangerous Skull Cavern
+
+Armored Bug (dangerous) • Mummy (dangerous) • Royal Serpent • Slime (dangerous)
+
+
+Bug Lair
+
+Mutant Fly • Mutant Grub
+
+
+The Farm
+
+Wilderness Golem
+
+
+Volcano Dungeon
+
+Dwarvish Sentry • False Magma Cap • Hot Head • Lava Lurk • Magma Duggy • Magma Sparker • Magma Sprite • Tiger Slime
+
+
+
+Animals and Produce
+
+
+Coop
+
+Chicken (Egg • Large Egg • Brown Egg • Large Brown Egg) • Dinosaur (Dinosaur Egg) • Duck (Duck Egg • Duck Feather) • Golden Chicken (Golden Egg) • Rabbit (Wool • Rabbit's Foot) • Void Chicken (Void Egg)
+
+
+Barn
+
+Cow (Milk • Large Milk) • Goat (Goat Milk • Large Goat Milk) • Sheep (Wool) • Ostrich (Ostrich Egg) • Pig (Truffle)
+
+
+Fish Pond
+
+Fish (Roe)
+
+
+Slime Hutch
+
+Slimes (Slime • Slime Ball • Slime Egg)
+
+
+Other
+
+Cat • Dog • Horse
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Slimes&oldid=142750"
+Category: MonstersHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 28 October 2022, at 17:51.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3589 @@
+
+
+
+
+
+Preserves Jar Productivity - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preserves Jar Productivity
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+No Profession
+
+ Tiller
+
+ Artisan
+
+This page lists the productivity of processing Fruits, Vegetables, and Ginger into Jellies and Pickles and Roe into Aged Roe or Caviar in a Preserves Jar. 
+The products produced always sell for more than the raw input items (except in the case of gold or iridium Blackberries after learning the Bear's Knowledge), so using a Preserves Jar is almost always profitable.  Jellies and Pickles are always regular quality, so the profit made from processing items is lowest when using iridium quality and highest when using regular quality items.
+This table does not take into account the effects of Tiller or Artisan professions, which reduce and increase the profit from a Preserves Jar, respectively. To view the profitability for those professions, use the links at the top of the page.
+Note that the processing time for a Preserves Jar is always 4000 minutes, with one exception:  Sturgeon Roe produces Caviar in 6000 minutes rather than 4000. 
+Productivity (g/minute) = ([Processed Sell Price] - [Input Item Sell Price]) / [Processing time]
+Approximate g/day = Productivity (g/minute) * 1600 [1]
+
+Note that you may click on a column header to sort the table by that column, then Shift+Click on a second column to perform a secondary sort.
+
+
+
+Input Item
+
+Type
+
+Quality
+
+Input Item Sell Price
+
+Processed Sell Price
+
+Increase in Value (g)
+
+Productivity (g/minute)
+
+Approximate g/day [1]
+
+
+ Amaranth
+
+Veg
+
+Regular
+
+150
+350
+200
+0.050
+80
+
+
+ Amaranth
+
+Veg
+
+ Silver
+
+187
+350
+163
+0.041
+66
+
+
+ Amaranth
+
+Veg
+
+ Gold
+
+225
+350
+125
+0.031
+50
+
+
+ Amaranth
+
+Veg
+
+ Iridium
+
+300
+350
+50
+0.013
+21
+
+
+ Ancient Fruit
+
+Fruit
+
+Regular
+
+550
+1150
+600
+0.150
+240
+
+
+ Ancient Fruit
+
+Fruit
+
+ Silver
+
+687
+1150
+463
+0.116
+186
+
+
+ Ancient Fruit
+
+Fruit
+
+ Gold
+
+825
+1150
+325
+0.081
+130
+
+
+ Ancient Fruit
+
+Fruit
+
+ Iridium
+
+1100
+1150
+50
+0.013
+21
+
+
+ Apple
+
+Fruit
+
+Regular
+
+100
+250
+150
+0.038
+61
+
+
+ Apple
+
+Fruit
+
+ Silver
+
+125
+250
+125
+0.031
+50
+
+
+ Apple
+
+Fruit
+
+ Gold
+
+150
+250
+100
+0.025
+40
+
+
+ Apple
+
+Fruit
+
+ Iridium
+
+200
+250
+50
+0.013
+21
+
+
+ Apricot
+
+Fruit
+
+Regular
+
+50
+150
+100
+0.025
+40
+
+
+ Apricot
+
+Fruit
+
+ Silver
+
+62
+150
+88
+0.022
+35
+
+
+ Apricot
+
+Fruit
+
+ Gold
+
+75
+150
+75
+0.019
+30
+
+
+ Apricot
+
+Fruit
+
+ Iridium
+
+100
+150
+50
+0.013
+21
+
+
+ Artichoke
+
+Veg
+
+Regular
+
+160
+370
+210
+0.053
+85
+
+
+ Artichoke
+
+Veg
+
+ Silver
+
+200
+370
+170
+0.043
+69
+
+
+ Artichoke
+
+Veg
+
+ Gold
+
+240
+370
+130
+0.033
+53
+
+
+ Artichoke
+
+Veg
+
+ Iridium
+
+320
+370
+50
+0.013
+21
+
+
+ Banana
+
+Fruit
+
+Regular
+
+150
+350
+200
+0.050
+80
+
+
+ Banana
+
+Fruit
+
+ Silver
+
+187
+350
+163
+0.041
+66
+
+
+ Banana
+
+Fruit
+
+ Gold
+
+225
+350
+125
+0.031
+50
+
+
+ Banana
+
+Fruit
+
+ Iridium
+
+300
+350
+50
+0.013
+21
+
+
+ Beet
+
+Veg
+
+Regular
+
+100
+250
+150
+0.038
+61
+
+
+ Beet
+
+Veg
+
+ Silver
+
+125
+250
+125
+0.031
+50
+
+
+ Beet
+
+Veg
+
+ Gold
+
+150
+250
+100
+0.025
+40
+
+
+ Beet
+
+Veg
+
+ Iridium
+
+200
+250
+50
+0.013
+21
+
+
+ Blackberry
+
+Fruit
+
+Regular
+
+20
+90
+70
+0.018
+29
+
+
+ Blackberry
+
+Fruit
+
+ Silver
+
+25
+90
+65
+0.016
+26
+
+
+ Blackberry
+
+Fruit
+
+ Gold
+
+30
+90
+60
+0.015
+24
+
+
+ Blackberry
+
+Fruit
+
+ Iridium
+
+40
+90
+50
+0.013
+21
+
+
+ Blackberry with  Bear's Knowledge
+
+Fruit
+
+Regular
+
+60
+90
+30
+0.008
+13
+
+
+ Blackberry with  Bear's Knowledge
+
+Fruit
+
+ Silver
+
+75
+90
+15
+0.004
+6
+
+
+ Blackberry with  Bear's Knowledge
+
+Fruit
+
+ Gold
+
+90
+90
+
+0
+
+0
+
+0
+
+
+ Blackberry with  Bear's Knowledge
+
+Fruit
+
+ Iridium
+
+120
+90
+
+-30
+
+-0.008
+
+-13
+
+
+ Blueberry
+
+Fruit
+
+Regular
+
+50
+150
+100
+0.025
+40
+
+
+ Blueberry
+
+Fruit
+
+ Silver
+
+62
+150
+88
+0.022
+35
+
+
+ Blueberry
+
+Fruit
+
+ Gold
+
+75
+150
+75
+0.019
+30
+
+
+ Blueberry
+
+Fruit
+
+ Iridium
+
+100
+150
+50
+0.013
+21
+
+
+ Bok Choy
+
+Veg
+
+Regular
+
+80
+210
+130
+0.033
+53
+
+
+ Bok Choy
+
+Veg
+
+ Silver
+
+100
+210
+110
+0.028
+45
+
+
+ Bok Choy
+
+Veg
+
+ Gold
+
+120
+210
+90
+0.023
+37
+
+
+ Bok Choy
+
+Veg
+
+ Iridium
+
+160
+210
+50
+0.013
+21
+
+
+ Cactus Fruit
+
+Fruit
+
+Regular
+
+75
+200
+125
+0.031
+50
+
+
+ Cactus Fruit
+
+Fruit
+
+ Silver
+
+93
+200
+107
+0.027
+43
+
+
+ Cactus Fruit
+
+Fruit
+
+ Gold
+
+112
+200
+88
+0.022
+35
+
+
+ Cactus Fruit
+
+Fruit
+
+ Iridium
+
+150
+200
+50
+0.013
+21
+
+
+ Cauliflower
+
+Veg
+
+Regular
+
+175
+400
+225
+0.056
+90
+
+
+ Cauliflower
+
+Veg
+
+ Silver
+
+218
+400
+182
+0.046
+74
+
+
+ Cauliflower
+
+Veg
+
+ Gold
+
+262
+400
+138
+0.035
+56
+
+
+ Cauliflower
+
+Veg
+
+ Iridium
+
+350
+400
+50
+0.013
+21
+
+
+ Cherry
+
+Fruit
+
+Regular
+
+80
+210
+130
+0.033
+53
+
+
+ Cherry
+
+Fruit
+
+ Silver
+
+100
+210
+110
+0.028
+45
+
+
+ Cherry
+
+Fruit
+
+ Gold
+
+120
+210
+90
+0.023
+37
+
+
+ Cherry
+
+Fruit
+
+ Iridium
+
+160
+210
+50
+0.013
+21
+
+
+ Coconut
+
+Fruit
+
+Regular
+
+100
+250
+150
+0.038
+61
+
+
+ Coconut
+
+Fruit
+
+ Silver
+
+125
+250
+125
+0.031
+50
+
+
+ Coconut
+
+Fruit
+
+ Gold
+
+150
+250
+100
+0.025
+40
+
+
+ Coconut
+
+Fruit
+
+ Iridium
+
+200
+250
+50
+0.013
+21
+
+
+ Corn
+
+Veg
+
+Regular
+
+50
+150
+100
+0.025
+40
+
+
+ Corn
+
+Veg
+
+ Silver
+
+62
+150
+88
+0.022
+35
+
+
+ Corn
+
+Veg
+
+ Gold
+
+75
+150
+75
+0.019
+30
+
+
+ Corn
+
+Veg
+
+ Iridium
+
+100
+150
+50
+0.013
+21
+
+
+ Cranberries
+
+Fruit
+
+Regular
+
+75
+200
+125
+0.031
+50
+
+
+ Cranberries
+
+Fruit
+
+ Silver
+
+93
+200
+107
+0.027
+43
+
+
+ Cranberries
+
+Fruit
+
+ Gold
+
+112
+200
+88
+0.022
+35
+
+
+ Cranberries
+
+Fruit
+
+ Iridium
+
+150
+200
+50
+0.013
+21
+
+
+ Crystal Fruit
+
+Fruit
+
+Regular
+
+150
+350
+200
+0.050
+80
+
+
+ Crystal Fruit
+
+Fruit
+
+ Silver
+
+187
+350
+163
+0.041
+66
+
+
+ Crystal Fruit
+
+Fruit
+
+ Gold
+
+225
+350
+125
+0.031
+50
+
+
+ Crystal Fruit
+
+Fruit
+
+ Iridium
+
+300
+350
+50
+0.013
+21
+
+
+ Eggplant
+
+Veg
+
+Regular
+
+60
+170
+110
+0.028
+45
+
+
+ Eggplant
+
+Veg
+
+ Silver
+
+75
+170
+95
+0.024
+38
+
+
+ Eggplant
+
+Veg
+
+ Gold
+
+90
+170
+80
+0.020
+32
+
+
+ Eggplant
+
+Veg
+
+ Iridium
+
+120
+170
+50
+0.013
+21
+
+
+ Fiddlehead Fern
+
+Veg
+
+Regular
+
+90
+230
+140
+0.035
+56
+
+
+ Fiddlehead Fern
+
+Veg
+
+ Silver
+
+112
+230
+118
+0.030
+48
+
+
+ Fiddlehead Fern
+
+Veg
+
+ Gold
+
+135
+230
+95
+0.024
+38
+
+
+ Fiddlehead Fern
+
+Veg
+
+ Iridium
+
+180
+230
+50
+0.013
+21
+
+
+ Garlic
+
+Veg
+
+Regular
+
+60
+170
+110
+0.028
+45
+
+
+ Garlic
+
+Veg
+
+ Silver
+
+75
+170
+95
+0.024
+38
+
+
+ Garlic
+
+Veg
+
+ Gold
+
+90
+170
+80
+0.020
+32
+
+
+ Garlic
+
+Veg
+
+ Iridium
+
+120
+170
+50
+0.013
+21
+
+
+ Ginger
+
+Forage
+
+Regular
+
+60
+170
+110
+0.028
+45
+
+
+ Grape
+
+Fruit
+
+Regular
+
+80
+210
+130
+0.033
+53
+
+
+ Grape
+
+Fruit
+
+ Silver
+
+100
+210
+110
+0.028
+45
+
+
+ Grape
+
+Fruit
+
+ Gold
+
+120
+210
+90
+0.023
+37
+
+
+ Grape
+
+Fruit
+
+ Iridium
+
+160
+210
+50
+0.013
+21
+
+
+ Green Bean
+
+Veg
+
+Regular
+
+40
+130
+90
+0.023
+37
+
+
+ Green Bean
+
+Veg
+
+ Silver
+
+50
+130
+80
+0.020
+32
+
+
+ Green Bean
+
+Veg
+
+ Gold
+
+60
+130
+70
+0.018
+29
+
+
+ Green Bean
+
+Veg
+
+ Iridium
+
+80
+130
+50
+0.013
+21
+
+
+ Hops
+
+Veg
+
+Regular
+
+25
+100
+75
+0.019
+30
+
+
+ Hops
+
+Veg
+
+ Silver
+
+31
+100
+69
+0.017
+27
+
+
+ Hops
+
+Veg
+
+ Gold
+
+37
+100
+63
+0.016
+26
+
+
+ Hops
+
+Veg
+
+ Iridium
+
+50
+100
+50
+0.013
+21
+
+
+ Hot Pepper
+
+Fruit
+
+Regular
+
+40
+130
+90
+0.023
+37
+
+
+ Hot Pepper
+
+Fruit
+
+ Silver
+
+50
+130
+80
+0.020
+32
+
+
+ Hot Pepper
+
+Fruit
+
+ Gold
+
+60
+130
+70
+0.018
+29
+
+
+ Hot Pepper
+
+Fruit
+
+ Iridium
+
+80
+130
+50
+0.013
+21
+
+
+ Kale
+
+Veg
+
+Regular
+
+110
+270
+160
+0.040
+64
+
+
+ Kale
+
+Veg
+
+ Silver
+
+137
+270
+133
+0.033
+53
+
+
+ Kale
+
+Veg
+
+ Gold
+
+165
+270
+105
+0.026
+42
+
+
+ Kale
+
+Veg
+
+ Iridium
+
+220
+270
+50
+0.013
+21
+
+
+ Mango
+
+Fruit
+
+Regular
+
+130
+310
+180
+0.045
+72
+
+
+ Mango
+
+Fruit
+
+ Silver
+
+162
+310
+148
+0.037
+59
+
+
+ Mango
+
+Fruit
+
+ Gold
+
+195
+310
+115
+0.029
+46
+
+
+ Mango
+
+Fruit
+
+ Iridium
+
+260
+310
+50
+0.013
+21
+
+
+ Melon
+
+Fruit
+
+Regular
+
+250
+550
+300
+0.075
+120
+
+
+ Melon
+
+Fruit
+
+ Silver
+
+312
+550
+238
+0.060
+96
+
+
+ Melon
+
+Fruit
+
+ Gold
+
+375
+550
+175
+0.044
+70
+
+
+ Melon
+
+Fruit
+
+ Iridium
+
+500
+550
+50
+0.013
+21
+
+
+ Orange
+
+Fruit
+
+Regular
+
+100
+250
+150
+0.038
+61
+
+
+ Orange
+
+Fruit
+
+ Silver
+
+125
+250
+125
+0.031
+50
+
+
+ Orange
+
+Fruit
+
+ Gold
+
+150
+250
+100
+0.025
+40
+
+
+ Orange
+
+Fruit
+
+ Iridium
+
+200
+250
+50
+0.013
+21
+
+
+ Parsnip
+
+Veg
+
+Regular
+
+35
+120
+85
+0.021
+34
+
+
+ Parsnip
+
+Veg
+
+ Silver
+
+43
+120
+77
+0.019
+30
+
+
+ Parsnip
+
+Veg
+
+ Gold
+
+52
+120
+68
+0.017
+27
+
+
+ Parsnip
+
+Veg
+
+ Iridium
+
+70
+120
+50
+0.013
+21
+
+
+ Peach
+
+Fruit
+
+Regular
+
+140
+330
+190
+0.048
+77
+
+
+ Peach
+
+Fruit
+
+ Silver
+
+175
+330
+155
+0.039
+62
+
+
+ Peach
+
+Fruit
+
+ Gold
+
+210
+330
+120
+0.030
+48
+
+
+ Peach
+
+Fruit
+
+ Iridium
+
+280
+330
+50
+0.013
+21
+
+
+ Pineapple
+
+Fruit
+
+Regular
+
+300
+650
+350
+0.088
+141
+
+
+ Pineapple
+
+Fruit
+
+ Silver
+
+375
+650
+275
+0.069
+110
+
+
+ Pineapple
+
+Fruit
+
+ Gold
+
+450
+650
+200
+0.050
+80
+
+
+ Pineapple
+
+Fruit
+
+ Iridium
+
+600
+650
+50
+0.013
+21
+
+
+ Pomegranate
+
+Fruit
+
+Regular
+
+140
+330
+190
+0.048
+77
+
+
+ Pomegranate
+
+Fruit
+
+ Silver
+
+175
+330
+155
+0.039
+62
+
+
+ Pomegranate
+
+Fruit
+
+ Gold
+
+210
+330
+120
+0.030
+48
+
+
+ Pomegranate
+
+Fruit
+
+ Iridium
+
+280
+330
+50
+0.013
+21
+
+
+ Potato
+
+Veg
+
+Regular
+
+80
+210
+130
+0.033
+53
+
+
+ Potato
+
+Veg
+
+ Silver
+
+100
+210
+110
+0.028
+45
+
+
+ Potato
+
+Veg
+
+ Gold
+
+120
+210
+90
+0.023
+37
+
+
+ Potato
+
+Veg
+
+ Iridium
+
+160
+210
+50
+0.013
+21
+
+
+ Pumpkin
+
+Veg
+
+Regular
+
+320
+690
+370
+0.093
+149
+
+
+ Pumpkin
+
+Veg
+
+ Silver
+
+400
+690
+290
+0.073
+117
+
+
+ Pumpkin
+
+Veg
+
+ Gold
+
+480
+690
+210
+0.053
+85
+
+
+ Pumpkin
+
+Veg
+
+ Iridium
+
+640
+690
+50
+0.013
+21
+
+
+ Qi Fruit
+
+Fruit
+
+Regular
+
+1
+52
+51
+0.013
+21
+
+
+ Radish
+
+Veg
+
+Regular
+
+90
+230
+140
+0.035
+56
+
+
+ Radish
+
+Veg
+
+ Silver
+
+112
+230
+118
+0.030
+48
+
+
+ Radish
+
+Veg
+
+ Gold
+
+135
+230
+95
+0.024
+38
+
+
+ Radish
+
+Veg
+
+ Iridium
+
+180
+230
+50
+0.013
+21
+
+
+ Red Cabbage
+
+Veg
+
+Regular
+
+260
+570
+310
+0.078
+125
+
+
+ Red Cabbage
+
+Veg
+
+ Silver
+
+325
+570
+245
+0.061
+98
+
+
+ Red Cabbage
+
+Veg
+
+ Gold
+
+390
+570
+180
+0.045
+72
+
+
+ Red Cabbage
+
+Veg
+
+ Iridium
+
+520
+570
+50
+0.013
+21
+
+
+ Rhubarb
+
+Fruit
+
+Regular
+
+220
+490
+270
+0.068
+109
+
+
+ Rhubarb
+
+Fruit
+
+ Silver
+
+275
+490
+215
+0.054
+86
+
+
+ Rhubarb
+
+Fruit
+
+ Gold
+
+330
+490
+160
+0.040
+64
+
+
+ Rhubarb
+
+Fruit
+
+ Iridium
+
+440
+490
+50
+0.013
+21
+
+
+ Salmonberry
+
+Fruit
+
+Regular
+
+5
+60
+55
+0.014
+22
+
+
+ Salmonberry
+
+Fruit
+
+ Silver
+
+6
+60
+54
+0.014
+22
+
+
+ Salmonberry
+
+Fruit
+
+ Gold
+
+7
+60
+53
+0.013
+21
+
+
+ Salmonberry
+
+Fruit
+
+ Iridium
+
+10
+60
+50
+0.013
+21
+
+
+ Salmonberry with  Bear's Knowledge
+
+Fruit
+
+Regular
+
+15
+60
+45
+0.011
+18
+
+
+ Salmonberry with  Bear's Knowledge
+
+Fruit
+
+ Silver
+
+18
+60
+42
+0.011
+18
+
+
+ Salmonberry with  Bear's Knowledge
+
+Fruit
+
+ Gold
+
+21
+60
+39
+0.010
+16
+
+
+ Salmonberry with  Bear's Knowledge
+
+Fruit
+
+ Iridium
+
+30
+60
+30
+0.008
+13
+
+
+ Spice Berry
+
+Fruit
+
+Regular
+
+80
+210
+130
+0.033
+53
+
+
+ Spice Berry
+
+Fruit
+
+ Silver
+
+100
+210
+110
+0.028
+45
+
+
+ Spice Berry
+
+Fruit
+
+ Gold
+
+120
+210
+90
+0.023
+37
+
+
+ Spice Berry
+
+Fruit
+
+ Iridium
+
+160
+210
+50
+0.013
+21
+
+
+ Starfruit
+
+Fruit
+
+Regular
+
+750
+1550
+800
+0.200
+320
+
+
+ Starfruit
+
+Fruit
+
+ Silver
+
+937
+1550
+613
+0.153
+245
+
+
+ Starfruit
+
+Fruit
+
+ Gold
+
+1125
+1550
+425
+0.106
+170
+
+
+ Starfruit
+
+Fruit
+
+ Iridium
+
+1500
+1550
+50
+0.013
+21
+
+
+ Strawberry
+
+Fruit
+
+Regular
+
+120
+290
+170
+0.043
+69
+
+
+ Strawberry
+
+Fruit
+
+ Silver
+
+150
+290
+140
+0.035
+56
+
+
+ Strawberry
+
+Fruit
+
+ Gold
+
+180
+290
+110
+0.028
+45
+
+
+ Strawberry
+
+Fruit
+
+ Iridium
+
+240
+290
+50
+0.013
+21
+
+
+ Taro Root
+
+Veg
+
+Regular
+
+100
+250
+150
+0.038
+61
+
+
+ Taro Root
+
+Veg
+
+ Silver
+
+125
+250
+125
+0.031
+50
+
+
+ Taro Root
+
+Veg
+
+ Gold
+
+150
+250
+100
+0.025
+40
+
+
+ Taro Root
+
+Veg
+
+ Iridium
+
+200
+250
+50
+0.013
+21
+
+
+ Tea Leaves
+
+Veg
+
+Regular
+
+50
+150
+100
+0.025
+40
+
+
+ Tomato
+
+Veg
+
+Regular
+
+60
+170
+110
+0.028
+45
+
+
+ Tomato
+
+Veg
+
+ Silver
+
+75
+170
+95
+0.024
+38
+
+
+ Tomato
+
+Veg
+
+ Gold
+
+90
+170
+80
+0.020
+32
+
+
+ Tomato
+
+Veg
+
+ Iridium
+
+120
+170
+50
+0.013
+21
+
+
+ Unmilled Rice
+
+Veg
+
+Regular
+
+30
+110
+80
+0.020
+32
+
+
+ Unmilled Rice
+
+Veg
+
+ Silver
+
+37
+110
+73
+0.018
+29
+
+
+ Unmilled Rice
+
+Veg
+
+ Gold
+
+45
+110
+65
+0.016
+26
+
+
+ Unmilled Rice
+
+Veg
+
+ Iridium
+
+60
+110
+50
+0.013
+21
+
+
+ Wheat
+
+Veg
+
+Regular
+
+25
+100
+75
+0.019
+30
+
+
+ Wheat
+
+Veg
+
+ Silver
+
+31
+100
+69
+0.017
+27
+
+
+ Wheat
+
+Veg
+
+ Gold
+
+37
+100
+63
+0.016
+26
+
+
+ Wheat
+
+Veg
+
+ Iridium
+
+50
+100
+50
+0.013
+21
+
+
+ Wild Plum
+
+Fruit
+
+Regular
+
+80
+210
+130
+0.033
+53
+
+
+ Wild Plum
+
+Fruit
+
+ Silver
+
+100
+210
+110
+0.028
+45
+
+
+ Wild Plum
+
+Fruit
+
+ Gold
+
+120
+210
+90
+0.023
+37
+
+
+ Wild Plum
+
+Fruit
+
+ Iridium
+
+160
+210
+50
+0.013
+21
+
+
+ Yam
+
+Veg
+
+Regular
+
+160
+370
+210
+0.053
+85
+
+
+ Yam
+
+Veg
+
+ Silver
+
+200
+370
+170
+0.043
+69
+
+
+ Yam
+
+Veg
+
+ Gold
+
+240
+370
+130
+0.033
+53
+
+
+ Yam
+
+Veg
+
+ Iridium
+
+320
+370
+50
+0.013
+21
+
+
+ Albacore Roe
+
+Roe
+
+Regular
+
+67
+134
+67
+0.017
+27
+
+
+ Anchovy Roe
+
+Roe
+
+Regular
+
+45
+90
+45
+0.011
+18
+
+
+ Blobfish Roe
+
+Roe
+
+Regular
+
+280
+560
+280
+0.070
+112
+
+
+ Blue Discus Roe
+
+Roe
+
+Regular
+
+90
+180
+90
+0.023
+37
+
+
+ Bream Roe
+
+Roe
+
+Regular
+
+52
+104
+52
+0.013
+21
+
+
+ Bullhead Roe
+
+Roe
+
+Regular
+
+67
+134
+67
+0.017
+27
+
+
+ Carp Roe
+
+Roe
+
+Regular
+
+45
+90
+45
+0.011
+18
+
+
+ Catfish Roe
+
+Roe
+
+Regular
+
+130
+260
+130
+0.033
+53
+
+
+ Chub Roe
+
+Roe
+
+Regular
+
+55
+110
+55
+0.014
+22
+
+
+ Cockle Roe
+
+Roe
+
+Regular
+
+55
+110
+55
+0.014
+22
+
+
+ Crab Roe
+
+Roe
+
+Regular
+
+80
+160
+80
+0.020
+32
+
+
+ Crayfish Roe
+
+Roe
+
+Regular
+
+67
+134
+67
+0.017
+27
+
+
+ Dorado Roe
+
+Roe
+
+Regular
+
+80
+160
+80
+0.020
+32
+
+
+ Eel Roe
+
+Roe
+
+Regular
+
+72
+144
+72
+0.018
+29
+
+
+ Flounder Roe
+
+Roe
+
+Regular
+
+80
+160
+80
+0.020
+32
+
+
+ Ghostfish Roe
+
+Roe
+
+Regular
+
+52
+104
+52
+0.013
+21
+
+
+ Halibut Roe
+
+Roe
+
+Regular
+
+70
+140
+70
+0.018
+29
+
+
+ Herring Roe
+
+Roe
+
+Regular
+
+45
+90
+45
+0.011
+18
+
+
+ Ice Pip Roe
+
+Roe
+
+Regular
+
+280
+560
+280
+0.070
+112
+
+
+ Largemouth Bass Roe
+
+Roe
+
+Regular
+
+80
+160
+80
+0.020
+32
+
+
+ Lava Eel Roe
+
+Roe
+
+Regular
+
+380
+760
+380
+0.095
+152
+
+
+ Lingcod Roe
+
+Roe
+
+Regular
+
+90
+180
+90
+0.023
+37
+
+
+ Lionfish Roe
+
+Roe
+
+Regular
+
+80
+160
+80
+0.020
+32
+
+
+ Lobster Roe
+
+Roe
+
+Regular
+
+90
+180
+90
+0.023
+37
+
+
+ Midnight Carp Roe
+
+Roe
+
+Regular
+
+105
+210
+105
+0.026
+42
+
+
+ Mussel Roe
+
+Roe
+
+Regular
+
+45
+90
+45
+0.011
+18
+
+
+ Octopus Roe
+
+Roe
+
+Regular
+
+105
+210
+105
+0.026
+42
+
+
+ Oyster Roe
+
+Roe
+
+Regular
+
+50
+100
+50
+0.013
+21
+
+
+ Perch Roe
+
+Roe
+
+Regular
+
+57
+114
+57
+0.014
+22
+
+
+ Periwinkle Roe
+
+Roe
+
+Regular
+
+40
+80
+40
+0.010
+16
+
+
+ Pike Roe
+
+Roe
+
+Regular
+
+80
+160
+80
+0.020
+32
+
+
+ Pufferfish Roe
+
+Roe
+
+Regular
+
+130
+260
+130
+0.033
+53
+
+
+ Rainbow Trout Roe
+
+Roe
+
+Regular
+
+62
+124
+62
+0.016
+26
+
+
+ Red Mullet Roe
+
+Roe
+
+Regular
+
+67
+134
+67
+0.017
+27
+
+
+ Red Snapper Roe
+
+Roe
+
+Regular
+
+55
+110
+55
+0.014
+22
+
+
+ Salmon Roe
+
+Roe
+
+Regular
+
+67
+134
+67
+0.017
+27
+
+
+ Sandfish Roe
+
+Roe
+
+Regular
+
+67
+134
+67
+0.017
+27
+
+
+ Sardine Roe
+
+Roe
+
+Regular
+
+50
+100
+50
+0.013
+21
+
+
+ Scorpion Carp Roe
+
+Roe
+
+Regular
+
+105
+210
+105
+0.026
+42
+
+
+ Sea Cucumber Roe
+
+Roe
+
+Regular
+
+67
+134
+67
+0.017
+27
+
+
+ Sea Urchin Roe
+
+Roe
+
+Regular
+
+110
+220
+110
+0.028
+45
+
+
+ Shad Roe
+
+Roe
+
+Regular
+
+60
+120
+60
+0.015
+24
+
+
+ Shrimp Roe
+
+Roe
+
+Regular
+
+60
+120
+60
+0.015
+24
+
+
+ Slimejack Roe
+
+Roe
+
+Regular
+
+80
+160
+80
+0.020
+32
+
+
+ Smallmouth Bass Roe
+
+Roe
+
+Regular
+
+55
+110
+55
+0.014
+22
+
+
+ Snail Roe
+
+Roe
+
+Regular
+
+62
+124
+62
+0.016
+26
+
+
+ Spook Fish Roe
+
+Roe
+
+Regular
+
+140
+280
+140
+0.035
+56
+
+
+ Stingray Roe
+
+Roe
+
+Regular
+
+120
+240
+120
+0.030
+48
+
+
+ Stonefish Roe
+
+Roe
+
+Regular
+
+180
+360
+180
+0.045
+72
+
+
+ Sturgeon Roe
+
+Roe
+
+Regular
+
+130
+500
+370
+0.062
+99
+
+
+ Sunfish Roe
+
+Roe
+
+Regular
+
+45
+90
+45
+0.011
+18
+
+
+ Super Cucumber Roe
+
+Roe
+
+Regular
+
+155
+310
+155
+0.039
+62
+
+
+ Tiger Trout Roe
+
+Roe
+
+Regular
+
+105
+210
+105
+0.026
+42
+
+
+ Tilapia Roe
+
+Roe
+
+Regular
+
+67
+134
+67
+0.017
+27
+
+
+ Tuna Roe
+
+Roe
+
+Regular
+
+80
+160
+80
+0.020
+32
+
+
+ Void Salmon Roe
+
+Roe
+
+Regular
+
+105
+210
+105
+0.026
+42
+
+
+ Walleye Roe
+
+Roe
+
+Regular
+
+82
+164
+82
+0.021
+34
+
+
+ Woodskip Roe
+
+Roe
+
+Regular
+
+67
+134
+67
+0.017
+27
+
+
+Notes
+Each day has 1600 minutes of processing time. From 2am to 6am, machines process at 100 minutes per hour. For the rest of the day, machines process at 60 minutes per hour.So, (4 × 100) + (20 × 60) = 1600 minutes of processing time per day.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Preserves_Jar_Productivity&oldid=135999"
+Category: Artisan Goods
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 17 March 2022, at 14:14.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,462 @@
+
+
+
+
+
+Sea Urchin - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sea Urchin
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Sea Urchin
+
+
+
+
+
+A slow-moving, spiny creature that some consider a delicacy.
+
+
+Information
+
+
+
+
+Source
+
+Foraging
+
+
+Location
+
+The Beach
+
+
+Season
+
+ All
+
+
+
+
+Energy
+
+Inedible
+
+
+Sell Price
+
+
+
+
+160g
+
+
+
+200g
+
+
+
+240g
+
+
+
+320g
+
+
+
+
+
+
+
+Artisan Sell Prices
+
+
+Roe
+
+Aged Roe
+
+ Aged Roe (+40%)
+
+
+ 110g
+
+ 220g
+
+ 308g
+
+
+
+
+The Sea Urchin is a forageable item found year-round in the Tide Pool section of the Beach, i.e., to the east of the wooden footbridge[1].  During Summer 12-14 extra Sea Urchins appear anywhere on the beach (including possibly the western section).
+The average spawn rate for Sea Urchin in the tide pool section of the beach is 0.23/day. An additional 0.8 (on average) Sea Urchins per day will spawn during Summer 12-14.  These spawn rates are not affected by the presence of other forageable items on the beach; in particular, Sea Urchins are not part of the standard six item per map limit on forageable items. 7 Foraging XP are granted for every Sea Urchin picked up, and all Foraging bonuses apply to Sea Urchins.
+Emily may occasionally send you a Sea Urchin in the mail as a gift.  All saltwater Crab Pot fish may also produce a Sea Urchin in a Fish Pond, when the population of the pond reaches 5.
+
+Contents
+
+1 Gifting
+2 Bundles
+3 Recipes
+4 Tailoring
+5 Fish Pond
+6 Quests
+7 Secrets
+8 References
+9 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Like
+
+ Leo
+
+
+Hate
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Bundles
+Sea Urchin is used in the  Dye Bundle on the Bulletin Board.
+
+Recipes
+Sea Urchin is not used in any recipes.
+
+Tailoring
+Sea Urchin can be used in the spool of the Sewing Machine to create the dyeable Strapped Top.   It can be used in dyeing, serving as a purple dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Fish Pond
+Although Sea Urchins are not otherwise considered to be fish, they can be placed in a Fish Pond, where they will reproduce every 4 days. The initial pond capacity is 10 Sea Urchins; no quests are necessary to increase the pond capacity. The only possible output is purple Sea Urchin Roe.
+Produce
+
+
+
+Item(s) Produced
+
+Fishing XP Granted
+
+Population
+
+% of Items
+
+Overall Daily Chance
+
+
+ Roe (1)
+
+14
+
+1-4
+10%
+2.3-5%
+
+
+5-8
+28%
+15-22%
+
+
+9-10
+51%
+44-48%
+
+
+ Roe (5)
+
+14
+
+9-10
+2%
+1.7-1.9%
+
+
+Nothing
+
+
+
+1-4
+90%
+98-95%
+
+
+5-8
+72%
+85-78%
+
+
+9-10
+47%
+54-50%
+
+Quests
+One or two Sea Urchins may be requested by various saltwater fish in Fish Pond quests.
+
+Secrets
+Hats can be placed on sea urchins in a fish tank.
+References
+
+↑ See Beach::DayUpdate in the game code.  The spawn position starts at point (65,11) on the beach map.
+
+
+History
+1.4: Can now be used in Tailoring.  Can be requested in Fish Pond quests. Can be produced by Fish Ponds. Can be added to Fish Ponds.
+
+
+Foraging
+
+
+Basic
+
+Sap
+
+
+Spring
+
+Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish
+
+
+Summer
+
+Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea
+
+
+Fall
+
+Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum
+
+
+Winter
+
+Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root
+
+
+The Beach
+
+Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed
+
+
+The Mines
+
+Cave Carrot • Purple Mushroom • Red Mushroom
+
+
+The Desert
+
+Cactus Fruit • Coconut
+
+
+Skull Cavern
+
+Dinosaur Egg • Fiddlehead Fern
+
+
+Ginger Island
+
+Ginger • Magma Cap
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Sea_Urchin&oldid=142564"
+Category: Beach Forage
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 26 October 2022, at 03:30.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

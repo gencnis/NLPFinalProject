@@ -1,0 +1,3644 @@
+
+
+
+
+
+Cooking - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cooking
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Contents
+
+1 Buffs
+2 Achievements
+3 Qi Seasoning
+4 Recipes
+5 Ingredients
+
+5.1 Crops
+5.2 Foraged Goods
+5.3 Tree Fruit
+5.4 Animal Products
+5.5 Artisan Goods
+5.6 Miscellaneous
+5.7 Fishing
+5.8 Crab Pot Items
+5.9 General Store Items
+5.10 Ingredient Dishes
+
+
+6 Profitable Recipes
+7 Quests
+8 Notes
+9 Bugs
+10 References
+11 History
+
+
+
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+For an index to the completed cooking collection, see Collections#Cooking.
+Cooking is a game mechanic that becomes available after upgrading the farmhouse for the first time. The house upgrade adds a kitchen, which includes a stove and a refrigerator. The stove is the cooking interface, while the refrigerator provides 36 slots of storage space, similar to a chest. The refrigerator is unique in that it is directly linked with the cooking interface, as if it were an extension of the player's inventory. Only ingredients in the player's inventory, refrigerator or Mini-Fridge are seen as usable items for a recipe.
+Alternatively, after reaching Foraging level 9 the player can use a Cookout Kit to cook anywhere.
+The player must learn each recipe before it is unlocked for cooking. Locked recipes are displayed as a black silhouette of the recipe icon, with a tooltip description that says "???." Unlocked recipe icons will appear greyed-out if any of the ingredients are missing, but the tooltip will provide information regarding the recipe. Any missing ingredients will be highlighted in red. If all the ingredients required for a recipe are present either in the player's inventory or the refrigerator (or a combination of the two) the recipe icon will become fully highlighted.
+
+Buffs
+Only one food’s buffs can be active at a time, so eating a food with buffs will wipe out any active food buffs and replace them with the buffs from the newly eaten food. If a newly eaten food has no buffs, any existing buffs will remain in effect. Drink buffs are handled separately, so buffs from one drink (Triple Shot Espresso, Coffee, Green Tea or Ginger Ale) can be stacked with one food’s buffs.
+Buff duration varies for each food and drink (see table below)[1], but is the same for all buff effects of a given food or drink, except Squid Ink Ravioli. Using Qi Seasoning increases the duration by 50%.
+
+Achievements
+There are three Achievements associated with Cooking:
+
+Cook (Cook 10 different recipes)
+Sous Chef (Cook 25 different recipes)
+Gourmet Chef (Cook every recipe)
+Qi Seasoning
+Qi Seasoning, which can be purchased from Qi's Walnut Room for  10 for a stack of ten, makes cooked food Gold quality, increasing its health and energy values by 80% and its sell price by 50%. It will also increase the buffs given (excluding Speed buffs) by one level. For example, Seafoam Pudding would give +5 fishing rather than +4 if cooked with Qi Seasoning. It will be used automatically if it is in inventory, the refrigerator, or a Mini-Fridge when cooking. Running out of Qi Seasoning will result in a message saying: "You've used up all of your Qi Seasoning."
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Fried Egg
+
+Sunny-side up.
+
+ Egg (1)
+
+ 50 22
+
+N/A
+
+N/A
+
+Upgraded farmhouse
+
+35g
+
+
+
+
+Omelet
+
+It's super fluffy.
+
+ Egg (1) Milk (1)
+
+ 100 45
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Spring, Year 1
+
+ Stardrop Saloon for 100g
+
+125g
+
+
+
+
+Salad
+
+A healthy garden salad.
+
+ Leek (1) Dandelion (1) Vinegar (1)
+
+ 113 50
+
+N/A
+
+N/A
+
+ Emily (Mail - 3+ )
+
+110g
+
+
+
+
+Cheese Cauliflower
+
+It smells great!
+
+ Cauliflower (1) Cheese (1)
+
+ 138 62
+
+N/A
+
+N/A
+
+ Pam (Mail - 3+ )
+
+300g
+
+
+
+
+Baked Fish
+
+Baked fish on a bed of herbs.
+
+ Sunfish (1) Bream (1) Wheat Flour (1)
+
+ 75 33
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+7 Summer, Year 1
+
+
+100g
+
+
+
+
+Parsnip Soup
+
+It's fresh and hearty.
+
+ Parsnip (1) Milk (1) Vinegar (1)
+
+ 85 38
+
+N/A
+
+N/A
+
+ Caroline (Mail - 3+ )
+
+120g
+
+
+
+
+Vegetable Medley
+
+This is very nutritious.
+
+ Tomato (1) Beet (1)
+
+ 165 74
+
+N/A
+
+N/A
+
+ Caroline (Mail - 7+ )
+
+120g
+
+
+
+
+Complete Breakfast
+
+You'll feel ready to take on the world!
+
+ Fried Egg (1) Milk (1) Hashbrowns (1) Pancakes (1)
+
+ 200 90
+
+ Farming (+2) Max Energy (+50)
+
+ 7m
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Spring, Year 2
+
+
+350g
+
+
+
+
+Fried Calamari
+
+It's so chewy.
+
+ Squid (1) Wheat Flour (1) Oil (1)
+
+ 80 36
+
+N/A
+
+N/A
+
+ Jodi (Mail - 3+ )
+
+150g
+
+
+
+
+Strange Bun
+
+What's inside?
+
+ Wheat Flour (1) Periwinkle (1) Void Mayonnaise (1)
+
+ 100 45
+
+N/A
+
+N/A
+
+ Shane (Mail - 7+ )
+
+225g
+
+
+
+
+Lucky Lunch
+
+A special little meal.
+
+ Sea Cucumber (1) Tortilla (1) Blue Jazz (1)
+
+ 100 45
+
+ Luck (+3)
+
+ 11m 11s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Spring, Year 2
+
+
+250g
+
+
+
+
+Fried Mushroom
+
+Earthy and aromatic.
+
+ Common Mushroom (1) Morel (1) Oil (1)
+
+ 135 60
+
+ Attack (+2)
+
+ 7m
+
+ Demetrius (Mail - 3+ )
+
+200g
+
+
+
+
+Pizza
+
+It's popular for all the right reasons.
+
+ Wheat Flour (1) Tomato (1) Cheese (1)
+
+ 150 67
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+7 Spring, Year 2
+
+ Stardrop Saloon for 150g
+
+300g
+
+
+
+
+Bean Hotpot
+
+It sure is healthy.
+
+ Green Bean (2)
+
+ 125 56
+
+ Max Energy (+30) Magnetism (+32)
+
+ 7m
+
+ Clint (Mail - 7+ )
+
+100g
+
+
+
+
+Glazed Yams
+
+Sweet and satisfying... The sugar gives it a hint of caramel.
+
+ Yam (1) Sugar (1)
+
+ 200 90
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Fall, Year 1
+
+
+200g
+
+
+
+
+Carp Surprise
+
+It's bland and oily.
+
+ Carp (4)
+
+ 90 40
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+7 Summer, Year 2
+
+
+150g
+
+
+
+
+Hashbrowns
+
+Crispy and golden-brown!
+
+ Potato (1) Oil (1)
+
+ 90 40
+
+ Farming (+1)
+
+ 5m 35s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Spring, Year 2
+
+ Stardrop Saloon for 50g
+
+120g
+
+
+
+
+Pancakes
+
+A double stack of fluffy, soft pancakes.
+
+ Wheat Flour (1) Egg (1)
+
+ 90 40
+
+ Foraging (+2)
+
+ 11m 11s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Summer, Year 1
+
+ Stardrop Saloon for 100g
+
+80g
+
+
+
+
+Salmon Dinner
+
+The lemon spritz makes it special.
+
+ Salmon (1) Amaranth (1) Kale (1)
+
+ 125 56
+
+N/A
+
+N/A
+
+ Gus (Mail - 3+ )
+
+300g
+
+
+
+
+Fish Taco
+
+It smells delicious.
+
+ Tuna (1) Tortilla (1) Red Cabbage (1) Mayonnaise (1)
+
+ 165 74
+
+ Fishing (+2)
+
+ 7m
+
+ Linus (Mail - 7+ )
+
+500g
+
+
+
+
+Crispy Bass
+
+Wow, the breading is perfect.
+
+ Largemouth Bass (1) Wheat Flour (1) Oil (1)
+
+ 90 40
+
+ Magnetism (+64)
+
+ 7m
+
+ Kent (Mail - 3+ )
+
+150g
+
+
+
+
+Pepper Poppers
+
+Spicy breaded peppers filled with cheese.
+
+ Hot Pepper (1) Cheese (1)
+
+ 130 58
+
+ Farming (+2) Speed (+1)
+
+ 7m
+
+ Shane (Mail - 3+ )
+
+200g
+
+
+
+
+Bread
+
+A crusty baguette.
+
+ Wheat Flour (1)
+
+ 50 22
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Summer, Year 1
+
+ Stardrop Saloon for 100g
+
+60g
+
+
+
+
+Tom Kha Soup
+
+These flavors are incredible!
+
+ Coconut (1) Shrimp (1) Common Mushroom (1)
+
+ 175 78
+
+ Farming (+2) Max Energy (+30)
+
+ 7m
+
+ Sandy (Mail - 7+ )
+
+250g
+
+
+
+
+Trout Soup
+
+Pretty salty.
+
+ Rainbow Trout (1) Green Algae (1)
+
+ 100 45
+
+ Fishing (+1)
+
+ 4m 39s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Fall, Year 1
+
+
+100g
+
+
+
+
+Chocolate Cake
+
+Rich and moist with a thick fudge icing.
+
+ Wheat Flour (1) Sugar (1) Egg (1)
+
+ 150 67
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Winter, Year 1
+
+
+200g
+
+
+
+
+Pink Cake
+
+There's little heart candies on top.
+
+ Melon (1) Wheat Flour (1) Sugar (1) Egg (1)
+
+ 250 112
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 2
+
+
+480g
+
+
+
+
+Rhubarb Pie
+
+Mmm, tangy and sweet!
+
+ Rhubarb (1) Wheat Flour (1) Sugar (1)
+
+ 215 96
+
+N/A
+
+N/A
+
+ Marnie (Mail - 7+ )
+
+400g
+
+
+
+
+Cookie
+
+Very chewy.
+
+ Wheat Flour (1) Sugar (1) Egg (1)
+
+ 90 40
+
+N/A
+
+N/A
+
+ Evelyn (4-heart event)
+
+140g
+
+
+
+
+Spaghetti
+
+An old favorite.
+
+ Wheat Flour (1) Tomato (1)
+
+ 75 33
+
+N/A
+
+N/A
+
+ Lewis (Mail - 3+ )
+
+120g
+
+
+
+
+Fried Eel
+
+Greasy but flavorful.
+
+ Eel (1) Oil (1)
+
+ 75 33
+
+ Luck (+1)
+
+ 7m
+
+ George (Mail - 3+ )
+
+120g
+
+
+
+
+Spicy Eel
+
+It's really spicy! Be careful.
+
+ Eel (1) Hot Pepper (1)
+
+ 115 51
+
+ Luck (+1) Speed (+1)
+
+ 7m
+
+ George (Mail - 7+ )
+
+175g
+
+
+
+
+Sashimi
+
+Raw fish sliced into thin pieces.
+
+ Any Fish (1)
+
+ 75 33
+
+N/A
+
+N/A
+
+ Linus (Mail - 3+ )
+
+75g
+
+
+
+
+Maki Roll
+
+Fish and rice wrapped in seaweed.
+
+ Any Fish (1) Seaweed (1) Rice (1)
+
+ 100 45
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 1
+
+ Stardrop Saloon for 300g
+
+220g
+
+
+
+
+Tortilla
+
+Can be used as a vessel for food or eaten by itself.
+
+ Corn (1)
+
+ 50 22
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+7 Fall, Year 1
+
+ Stardrop Saloon for 100g
+
+50g
+
+
+
+
+Red Plate
+
+Full of antioxidants.
+
+ Red Cabbage (1) Radish (1)
+
+ 240 108
+
+ Max Energy (+50)
+
+ 3m 30s
+
+ Emily (Mail - 7+ )
+
+400g
+
+
+
+
+Eggplant Parmesan
+
+Tangy, cheesy, and wonderful.
+
+ Eggplant (1) Tomato (1)
+
+ 175 78
+
+ Mining (+1) Defense (+3)
+
+ 4m 39s
+
+ Lewis (Mail - 7+ )
+
+200g
+
+
+
+
+Rice Pudding
+
+It's creamy, sweet, and fun to eat.
+
+ Milk (1) Sugar (1) Rice (1)
+
+ 115 51
+
+N/A
+
+N/A
+
+ Evelyn (Mail - 7+ )
+
+260g
+
+
+
+
+Ice Cream
+
+It's hard to find someone who doesn't like this.
+
+ Milk (1) Sugar (1)
+
+ 100 45
+
+N/A
+
+N/A
+
+ Jodi (Mail - 7+ )
+
+120g
+
+
+
+
+Blueberry Tart
+
+It's subtle and refreshing.
+
+ Blueberry (1) Wheat Flour (1) Sugar (1) Egg (1)
+
+ 125 56
+
+N/A
+
+N/A
+
+ Pierre (Mail - 3+ )
+
+150g
+
+
+
+
+Autumn's Bounty
+
+A taste of the season.
+
+ Yam (1) Pumpkin (1)
+
+ 220 99
+
+ Foraging (+2) Defense (+2)
+
+ 7m 41s
+
+ Demetrius (Mail - 7+ )
+
+350g
+
+
+
+
+Pumpkin Soup
+
+A seasonal favorite.
+
+ Pumpkin (1) Milk (1)
+
+ 200 90
+
+ Defense (+2) Luck (+2)
+
+ 7m 41s
+
+ Robin (Mail - 7+ )
+
+300g
+
+
+
+
+Super Meal
+
+It's a really energizing meal.
+
+ Bok Choy (1) Cranberries (1) Artichoke (1)
+
+ 160 72
+
+ Max Energy (+40) Speed (+1)
+
+ 3m 30s
+
+ Kent (Mail - 7+ )
+
+220g
+
+
+
+
+Cranberry Sauce
+
+A festive treat.
+
+ Cranberries (1) Sugar (1)
+
+ 125 56
+
+ Mining (+2)
+
+ 3m 30s
+
+ Gus (Mail - 7+ )
+
+120g
+
+
+
+
+Stuffing
+
+Ahh... the smell of warm bread and sage.
+
+ Bread (1) Cranberries (1) Hazelnut (1)
+
+ 170 76
+
+ Defense (+2)
+
+ 5m 35s
+
+ Pam (Mail - 7+ )
+
+165g
+
+
+
+
+Farmer's Lunch
+
+This'll keep you going.
+
+ Omelet (1) Parsnip (1)
+
+ 200 90
+
+ Farming (+3)
+
+ 5m 35s
+
+ Farming Level 3
+
+150g
+
+
+
+
+Survival Burger
+
+A convenient snack for the explorer.
+
+ Bread (1) Cave Carrot (1) Eggplant (1)
+
+ 125 56
+
+ Foraging (+3)
+
+ 5m 35s
+
+ Foraging Level 2
+
+180g
+
+
+
+
+Dish O' The Sea
+
+This'll keep you warm in the cold sea air.
+
+ Sardine (2) Hashbrowns (1)
+
+ 125 56
+
+ Fishing (+3)
+
+ 5m 35s
+
+ Fishing Level 3
+
+220g
+
+
+
+
+Miner's Treat
+
+This should keep your energy up.
+
+ Cave Carrot (2) Sugar (1) Milk (1)
+
+ 125 56
+
+ Mining (+3) Magnetism (+32)
+
+ 5m 35s
+
+ Mining Level 3
+
+200g
+
+
+
+
+Roots Platter
+
+This'll get you digging for more.
+
+ Cave Carrot (1) Winter Root (1)
+
+ 125 56
+
+ Attack (+3)
+
+ 5m 35s
+
+ Combat Level 3
+
+100g
+
+
+
+
+Triple Shot Espresso
+
+It's more potent than regular coffee!
+
+ Coffee (3)
+
+ 8 3
+
+ Speed (+1)
+
+ 4m 12s
+
+ Stardrop Saloon for 5,000g
+
+450g
+
+
+
+
+Seafoam Pudding
+
+This briny pudding will really get you into the maritime mindset!
+
+ Flounder (1) Midnight Carp (1) Squid Ink (1)
+
+ 175 78
+
+ Fishing (+4)
+
+ 3m 30s
+
+ Fishing (Level 9)
+
+300g
+
+
+
+
+Algae Soup
+
+It's a little slimy.
+
+ Green Algae (4)
+
+ 75 33
+
+N/A
+
+N/A
+
+ Clint (Mail - 3+ )
+
+100g
+
+
+
+
+Pale Broth
+
+A delicate broth with a hint of sulfur.
+
+ White Algae (2)
+
+ 125 56
+
+N/A
+
+N/A
+
+ Marnie (Mail - 3+ )
+
+150g
+
+
+
+
+Plum Pudding
+
+A traditional holiday treat.
+
+ Wild Plum (2) Wheat Flour (1) Sugar (1)
+
+ 175 78
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+7 Winter, Year 1
+
+
+260g
+
+
+
+
+Artichoke Dip
+
+It's cool and refreshing.
+
+ Artichoke (1) Milk (1)
+
+ 100 45
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Fall, Year 1
+
+
+210g
+
+
+
+
+Stir Fry
+
+Julienned vegetables on a bed of rice.
+
+ Cave Carrot (1) Common Mushroom (1) Kale (1) Oil (1)
+
+ 200 90
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+7 Spring, Year 1
+
+
+335g
+
+
+
+
+Roasted Hazelnuts
+
+The roasting process creates a rich forest flavor.
+
+ Hazelnut (3)
+
+ 175 78
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Summer, Year 2
+
+
+270g
+
+
+
+
+Pumpkin Pie
+
+Silky pumpkin cream in a flakey crust.
+
+ Pumpkin (1) Wheat Flour (1) Milk (1) Sugar (1)
+
+ 225 101
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Winter, Year 1
+
+
+385g
+
+
+
+
+Radish Salad
+
+The radishes are so crisp!
+
+ Oil (1) Vinegar (1) Radish (1)
+
+ 200 90
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Spring, Year 1
+
+
+300g
+
+
+
+
+Fruit Salad
+
+A delicious combination of summer fruits.
+
+ Blueberry (1) Melon (1) Apricot (1)
+
+ 263 118
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+7 Fall, Year 2
+
+
+450g
+
+
+
+
+Blackberry Cobbler
+
+There's nothing quite like it.
+
+ Blackberry (2) Sugar (1) Wheat Flour (1)
+
+ 175 78
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Fall, Year 2
+
+
+260g
+
+
+
+
+Cranberry Candy
+
+It's sweet enough to mask the bitter fruit.
+
+ Cranberries (1) Apple (1) Sugar (1)
+
+ 125 56
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Winter, Year 1
+
+
+175g
+
+
+
+
+Bruschetta
+
+Roasted tomatoes on a crisp white bread.
+
+ Bread (1) Oil (1) Tomato (1)
+
+ 113 50
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Winter, Year 2
+
+
+210g
+
+
+
+
+Coleslaw
+
+It's light, fresh and very healthy.
+
+ Red Cabbage (1) Vinegar (1) Mayonnaise (1)
+
+ 213 95
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Spring, Year 1
+
+
+345g
+
+
+
+
+Fiddlehead Risotto
+
+A creamy rice dish served with sauteed fern heads. It's a little bland.
+
+ Oil (1) Fiddlehead Fern (1) Garlic (1)
+
+ 225 101
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Fall, Year 2
+
+
+350g
+
+
+
+
+Poppyseed Muffin
+
+It has a soothing effect.
+
+ Poppy (1) Wheat Flour (1) Sugar (1)
+
+ 150 67
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+7 Winter, Year 2
+
+
+250g
+
+
+
+
+Chowder
+
+A perfect way to warm yourself after a cold night at sea.
+
+ Clam (1) Milk (1)
+
+ 225 101
+
+ Fishing (+1)
+
+ 16m 47s
+
+ Willy (Mail - 3+ )
+
+135g
+
+
+
+
+Fish Stew
+
+It smells a lot like the sea. Tastes better, though.
+
+ Crayfish (1) Mussel (1) Periwinkle (1) Tomato (1)
+
+ 225 101
+
+ Fishing (+3)
+
+ 16m 47s
+
+ Willy (Mail - 7+ )
+
+175g
+
+
+
+
+Escargot
+
+Butter-soaked snails cooked to perfection.
+
+ Snail (1) Garlic (1)
+
+ 225 101
+
+ Fishing (+2)
+
+ 16m 47s
+
+ Willy (Mail - 5+ )
+
+125g
+
+
+
+
+Lobster Bisque
+
+This delicate soup is a secret family recipe of Willy's.
+
+ Lobster (1) Milk (1)
+
+ 225 101
+
+ Fishing (+3) Max Energy (+50)
+
+ 16m 47s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Winter, Year 2
+
+ Willy (Mail - 9+ )
+
+205g
+
+
+
+
+Maple Bar
+
+It's a sweet doughnut topped with a rich maple glaze.
+
+ Maple Syrup (1) Sugar (1) Wheat Flour (1)
+
+ 225 101
+
+ Farming (+1) Fishing (+1) Mining (+1)
+
+ 16m 47s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Summer, Year 2
+
+
+300g
+
+
+
+
+Crab Cakes
+
+Crab, bread crumbs, and egg formed into patties then fried to a golden brown.
+
+ Crab (1) Wheat Flour (1) Egg (1) Oil (1)
+
+ 225 101
+
+ Speed (+1) Defense (+1)
+
+ 16m 47s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Fall, Year 2
+
+
+275g
+
+
+
+
+Shrimp Cocktail
+
+A sumptuous appetizer made with freshly-caught shrimp.
+
+ Tomato (1) Shrimp (1) Wild Horseradish (1)
+
+ 225 101
+
+ Fishing (+1) Luck (+1)
+
+ 10m 2s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+28 Winter, Year 2
+
+
+160g
+
+
+
+
+Ginger Ale
+
+A zesty soda known for its soothing effect on the stomach.
+
+ Ginger (3) Sugar (1)
+
+ 63 28
+
+ Luck (+1)
+
+ 5m
+
+Dwarf Shop in Volcano Dungeon for 1,000g
+
+200g
+
+
+
+
+Banana Pudding
+
+A creamy dessert with a wonderful tropical flavor.
+
+ Banana (1) Milk (1) (Any) Sugar (1)
+
+ 125 56
+
+ Mining (+1) Luck (+1) Defense (+1)
+
+ 5m 1s
+
+ Island Trader for  Bone Fragment (30)
+
+260g
+
+
+
+
+Mango Sticky Rice
+
+Sweet mango and coconut transforms this rice into something very special.
+
+ Mango (1) Coconut (1) Rice (1)
+
+ 113 50
+
+ Defense (+3)
+
+ 5m 1s
+
+ Leo (Mail - 7+ )
+
+250g
+
+
+
+
+Poi
+
+A traditional food with a delicate, sweet flavor when eaten fresh.
+
+ Taro Root (4)
+
+ 75 33
+
+N/A
+
+N/A
+
+ Leo (Mail - 3+ )
+
+400g
+
+
+
+
+Tropical Curry
+
+An exotic, fragrant curry served in a pineapple bowl.
+
+ Coconut (1) Pineapple (1) Hot Pepper (1)
+
+ 150 67
+
+ Foraging (+4)
+
+ 5m 1s
+
+ Ginger Island Resort for 2,000g
+
+500g
+
+
+
+
+Squid Ink Ravioli
+
+Temporarily protects from debuffs.
+
+ Squid Ink (1) Wheat Flour (1) Tomato (1)
+
+ 125 56
+
+ Mining (+1) Squid Ink Ravioli Buff
+
+ 4m 39s (Mining) 2m 59s (Squid Ink Ravioli Buff)
+
+ Combat Level 9
+
+150g
+
+
+Ingredients
+A minimum of 87 different types of items are needed to cook all 80 dishes in the game, including:
+
+26 crop products
+13 foraged goods
+4 tree fruits
+2 animal products
+4 artisan goods
+2 miscellaneous items (maple syrup, squid ink)
+17 items obtained from fishing
+8 crab pot items
+5 items bought from Pierre's General Store
+6 dishes used as ingredients
+These tables assume crafted dishes will be used to make other crafted dishes.  For example, 1 Potato would be used to make Hashbrowns, then those Hashbrowns would be used to make Complete Breakfast.  1 more Potato would be needed to make Hashbrowns for Dish O' The Sea.  When finished, the Gourmet Chef achievement would be earned for cooking every dish, but there would be no Hashbrowns because they were used to make the other dishes.
+
+Crops
+
+
+Image
+
+Name
+
+Amount needed
+
+Season
+
+Growth Time
+
+Notes
+
+Required for
+
+
+
+
+Parsnip
+
+2
+
+Spring
+
+4 Days
+
+
+
+ Parsnip Soup (1) Farmer's Lunch (1)
+
+
+
+
+Kale
+
+2
+
+Spring
+
+6 Days
+
+Harvest with Scythe
+
+ Salmon Dinner (1) Stir Fry (1)
+
+
+
+
+Potato
+
+2
+
+Spring
+
+6 Days
+
+Has a 20% chance to yield extra potatoes
+
+ Hashbrowns (2x1)
+
+
+
+
+Blue Jazz
+
+1
+
+Spring
+
+7 Days
+
+
+
+ Lucky Lunch (1)
+
+
+
+
+Green Bean
+
+2
+
+Spring
+
+10 Days
+
+Grows on Trellis.  Continues to produce every 3 days.
+
+ Bean Hotpot (2)
+
+
+
+
+Cauliflower
+
+1
+
+Spring
+
+12 Days
+
+Can become a Giant Crop
+
+ Cheese Cauliflower (1)
+
+
+
+
+Rhubarb
+
+1
+
+Spring
+
+13 Days
+
+Seeds available in the Oasis
+
+ Rhubarb Pie (1)
+
+
+
+
+Garlic
+
+2
+
+Spring
+
+4 Days
+
+Available from Year 2
+
+ Fiddlehead Risotto (1) Escargot (1)
+
+
+
+
+Hot Pepper
+
+3
+
+Summer
+
+5 Days
+
+Continues to produce every 3 days.
+
+ Pepper Poppers (1) Spicy Eel (1) Tropical Curry (1)
+
+
+
+
+Radish
+
+2
+
+Summer
+
+6 Days
+
+
+
+ Red Plate (1) Radish Salad (1)
+
+
+
+
+Poppy
+
+1
+
+Summer
+
+7 Days
+
+
+
+ Poppyseed Muffin (1)
+
+
+
+
+Tomato
+
+8
+
+Summer
+
+11 Days
+
+Continues to produce every 4 days.
+
+ Vegetable Medley (1) Pizza (1) Spaghetti (1) Eggplant Parmesan (1) Bruschetta (1) Fish Stew (1) Shrimp Cocktail (1) Squid Ink Ravioli (1)
+
+
+
+
+Melon
+
+2
+
+Summer
+
+12 Days
+
+Can become a Giant Crop
+
+ Pink Cake (1) Fruit Salad (1)
+
+
+
+
+Blueberry
+
+2
+
+Summer
+
+13 Days
+
+Produces multiple blueberries each harvest.  Continues to produce every 4 days.
+
+ Blueberry Tart (1) Fruit Salad (1)
+
+
+
+
+Corn
+
+2
+
+Summer/Fall
+
+14 Days
+
+Continues to produce every 4 days.
+
+ Tortilla (2x1)
+
+
+
+
+Red Cabbage
+
+3
+
+Summer
+
+9 Days
+
+Available from Year 2
+
+ Fish Taco (1) Red Plate (1) Coleslaw (1)
+
+
+
+
+Bok Choy
+
+1
+
+Fall
+
+4 Days
+
+
+
+ Super Meal (1)
+
+
+
+
+Eggplant
+
+2
+
+Fall
+
+5 Days
+
+Continues to produce every 5 days.
+
+ Eggplant Parmesan (1) Survival Burger (1)
+
+
+
+
+Amaranth
+
+1
+
+Fall
+
+7 Days
+
+Harvested with Scythe
+
+ Salmon Dinner (1)
+
+
+
+
+Cranberries
+
+4
+
+Fall
+
+7 Days
+
+Produces 2 Cranberries at harvest.  Continues to produce every 5 days.
+
+ Super Meal (1) Cranberry Sauce (1) Stuffing (1) Cranberry Candy (1)
+
+
+
+
+Yam
+
+2
+
+Fall
+
+10 Days
+
+
+
+ Glazed Yams (1) Autumn's Bounty (1)
+
+
+
+
+Pumpkin
+
+3
+
+Fall
+
+13 Days
+
+Can become a Giant Crop
+
+ Autumn's Bounty (1) Pumpkin Soup (1) Pumpkin Pie (1)
+
+
+
+
+Beet
+
+1
+
+Fall
+
+6 Days
+
+Seeds available at the Oasis
+
+ Vegetable Medley (1)
+
+
+
+
+Artichoke
+
+2
+
+Fall
+
+8 Days
+
+Available from Year 2
+
+ Super Meal (1) Artichoke Dip (1)
+
+
+
+
+Pineapple
+
+1
+
+Summer
+
+14 Days
+
+
+
+ Tropical Curry (1)
+
+
+
+
+Taro Root
+
+4
+
+Summer
+
+10 Days
+
+
+
+ Poi (4)
+
+Foraged Goods
+
+
+Image
+
+Name
+
+Amount needed
+
+Season
+
+Location
+
+Required for
+
+
+
+
+Blackberry
+
+2
+
+Fall
+
+Throughout Stardew Valley
+
+ Blackberry Cobbler (2)
+
+
+
+
+Cave Carrot
+
+5
+
+All Seasons
+
+The Mines
+
+ Survival Burger (1) Miner's Treat (2) Roots Platter (1) Stir Fry (1)
+
+
+
+
+Common Mushroom
+
+3
+
+Spring/Fall
+
+Throughout Stardew Valley
+
+ Fried Mushroom (1) Tom Kha Soup (1) Stir Fry (1)
+
+
+
+
+Dandelion
+
+1
+
+Spring
+
+Throughout Stardew Valley
+
+ Salad (1)
+
+
+
+
+Coconut
+
+3
+
+All Seasons
+
+The Desert
+
+ Mango Sticky Rice (1) Tom Kha Soup (1) Tropical Curry (1)
+
+
+
+
+Fiddlehead Fern
+
+1
+
+Summer
+
+Secret Woods
+
+ Fiddlehead Risotto (1)
+
+
+
+
+Hazelnut
+
+4
+
+Fall
+
+Throughout Stardew Valley
+
+ Stuffing (1) Roasted Hazelnuts (3)
+
+
+
+
+Wild Horseradish
+
+1
+
+Spring
+
+Throughout Stardew Valley
+
+ Shrimp Cocktail (1)
+
+
+
+
+Leek
+
+1
+
+Spring
+
+Throughout Stardew Valley
+
+ Salad (1)
+
+
+
+
+Morel
+
+1
+
+Spring
+
+The Cave, Secret Woods
+
+ Fried Mushroom (1)
+
+
+
+
+Wild Plum
+
+2
+
+Fall
+
+Throughout Stardew Valley
+
+ Plum Pudding (2)
+
+
+
+
+Winter Root
+
+1
+
+Winter
+
+Throughout Stardew Valley, The Mines
+
+ Roots Platter (1)
+
+
+
+
+Ginger
+
+3
+
+All Seasons
+
+Throughout Ginger Island, dropped by Tiger Slimes
+
+ Ginger Ale (3)
+
+Tree Fruit
+
+
+Image
+
+Name
+
+Amount needed
+
+Source
+
+Season
+
+Required for
+
+
+
+
+Apple
+
+1
+
+Apple Tree
+
+Fall
+
+ Cranberry Candy (1)
+
+
+
+
+Apricot
+
+1
+
+Apricot Tree
+
+Spring
+
+ Fruit Salad (1)
+
+
+
+
+Banana
+
+1
+
+Banana Tree
+
+Summer
+
+ Banana Pudding (1)
+
+
+
+
+Mango
+
+1
+
+Mango Tree
+
+Summer
+
+ Mango Sticky Rice (1)
+
+Animal Products
+Note: All recipes requiring milk will accept either Milk or Large Milk.  Both Goat Milk and Large Goat Milk can also be used in any recipe needing milk.
+For egg recipes, all chicken and duck eggs are allowed, including void eggs.
+
+
+
+Image
+
+Name
+
+Amount needed
+
+Source
+
+Notes
+
+Required for
+
+
+
+
+Egg
+
+8
+
+Chickens
+
+
+
+ Fried Egg (1) Omelet (1) Pancakes (1) Chocolate Cake (1) Pink Cake (1) Cookie (1) Blueberry Tart (1) Crab Cakes (1)
+
+
+
+
+Milk
+
+12
+
+Cows
+
+Obtain with Milk Pail
+
+ Omelet (1) Parsnip Soup (1) Complete Breakfast (1) Rice Pudding (1) Ice Cream (1) Pumpkin Soup (1) Miner's Treat (1) Artichoke Dip (1) Pumpkin Pie (1) Chowder (1) Lobster Bisque (1) Banana Pudding (1)
+
+Artisan Goods
+Note that Coffee can instead be purchased from The Stardrop Saloon for 300g each instead of creating it.
+
+
+
+Image
+
+Name
+
+Amount needed
+
+Source
+
+Input Item
+
+Producing Time
+
+Required for
+
+
+
+
+Cheese
+
+3
+
+Cheese Press
+
+ Milk (1)
+
+3.3 hours
+
+ Cheese Cauliflower (1) Pizza (1) Pepper Poppers (1)
+
+
+
+
+Mayonnaise
+
+2
+
+Mayonnaise Machine
+
+ Egg (1)
+
+3 hours
+
+ Fish Taco (1) Coleslaw (1)
+
+
+
+
+Void Mayonnaise
+
+1
+
+Mayonnaise Machine
+
+ Void Egg (1)
+
+3 hours
+
+ Strange Bun (1)
+
+
+
+
+Coffee
+
+3
+
+Keg
+
+ Coffee Bean (5)
+
+2 hours
+
+ Triple Shot Espresso (3)
+
+Miscellaneous
+
+
+Image
+
+Name
+
+Amount needed
+
+Source
+
+Producing Time
+
+Required for
+
+
+
+
+Maple Syrup
+
+1
+
+Tapped Maple Tree
+
+7-8 days
+
+ Maple Bar (1)
+
+
+
+
+Squid Ink
+
+2
+
+Squid Kid drop, Fish Pond containing Squid or Midnight Squid
+
+Varies depending on Fish Pond population
+
+ Seafoam Pudding (1) Squid Ink Ravioli (1)
+
+Fishing
+Note that Seaweed can be foraged from the Tide Pools during any season.  Green Algae and White Algae may also be dropped by various monsters in Secret Woods and The Mines.
+
+
+
+Image
+
+Name
+
+Amount needed
+
+Location
+
+Time
+
+Season
+
+Weather
+
+Difficulty
+
+Required for
+
+
+
+
+Tuna
+
+1
+
+Ocean
+
+6am – 7pm
+
+Summer/Winter
+
+Any
+
+70
+
+ Fish Taco (1)
+
+
+
+
+Sardine
+
+2
+
+Ocean
+
+6am – 7pm
+
+Spring/Fall/Winter
+
+Any
+
+30
+
+ Dish O' The Sea (2)
+
+
+
+
+Bream
+
+1
+
+River
+
+6pm – 2am
+
+All Seasons
+
+Any
+
+35
+
+ Baked Fish (1)
+
+
+
+
+Largemouth Bass
+
+1
+
+Mountain Lake
+
+6am – 7pm
+
+All Seasons
+
+Any
+
+50
+
+ Crispy Bass (1)
+
+
+
+
+Rainbow Trout
+
+1
+
+River, Mountain Lake
+
+6am – 7pm
+
+Summer
+
+ Sun
+
+45
+
+ Trout Soup (1)
+
+
+
+
+Salmon
+
+1
+
+River
+
+6am – 7pm
+
+Fall
+
+Any
+
+50
+
+ Salmon Dinner (1)
+
+
+
+
+Flounder
+
+1
+
+Ocean
+
+6am-8pm
+
+Spring/Summer
+
+Any
+
+50
+
+ Seafoam Pudding (1)
+
+
+
+
+Midnight Carp
+
+1
+
+Mountain Lake, Forest Pond
+
+10pm-2am
+
+Fall/Winter
+
+Any
+
+55
+
+ Seafoam Pudding (1)
+
+
+
+
+Carp
+
+4
+
+Mountain Lake, Forest Pond, Sewers, Secret Woods, Mutant Bug Lair
+
+Anytime
+
+All Seasons
+
+Any
+
+15
+
+ Carp Surprise (4)
+
+
+
+
+Sunfish
+
+1
+
+River
+
+6am – 7pm
+
+Spring/Summer
+
+ Sun Wind
+
+30
+
+ Baked Fish (1)
+
+
+
+
+Eel
+
+2
+
+Ocean
+
+4pm – 2am
+
+Spring/Fall
+
+ Rain
+
+70
+
+ Fried Eel (1) Spicy Eel (1)
+
+
+
+
+Squid
+
+1
+
+Ocean
+
+6pm – 2am
+
+Winter
+
+Any
+
+75
+
+ Fried Calamari (1)
+
+
+
+
+Sea Cucumber
+
+1
+
+Ocean
+
+6am – 7pm
+
+Fall/Winter
+
+Any
+
+40
+
+ Lucky Lunch (1)
+
+
+
+
+Fish (Any)
+
+2
+
+Anywhere
+
+Anytime
+
+All Seasons
+
+Any
+
+N/A
+
+ Sashimi (1) Maki Roll (1)
+
+
+
+
+Seaweed
+
+1
+
+Ocean
+
+Anytime
+
+All Seasons
+
+Any
+
+0
+
+ Maki Roll (1)
+
+
+
+
+Green Algae
+
+5
+
+Anywhere except the Farm Pond
+
+Anytime
+
+All Seasons
+
+Any
+
+0
+
+ Trout Soup (1) Algae Soup (4)
+
+
+
+
+White Algae
+
+2
+
+Mines, Sewers, Mutant Bug Lair, Witch's Swamp
+
+Anytime
+
+All Seasons
+
+Any
+
+0
+
+ Pale Broth (2)
+
+Crab Pot Items
+Note that Clams and Mussels can be foraged from The Beach during any season.  Crabs may also be dropped by Rock Crabs or Lava Crabs in The Mines.
+
+
+
+Image
+
+Name
+
+Amount needed
+
+Location
+
+Required for
+
+
+
+
+Lobster
+
+1
+
+Ocean
+
+ Lobster Bisque (1)
+
+
+
+
+Clam
+
+1
+
+Ocean
+
+ Chowder (1)
+
+
+
+
+Crayfish
+
+1
+
+Freshwater
+
+ Fish Stew (1)
+
+
+
+
+Crab
+
+1
+
+Ocean
+
+ Crab Cakes (1)
+
+
+
+
+Mussel
+
+1
+
+Ocean
+
+ Fish Stew (1)
+
+
+
+
+Shrimp
+
+2
+
+Ocean
+
+ Tom Kha Soup (1) Shrimp Cocktail (1)
+
+
+
+
+Snail
+
+1
+
+Freshwater
+
+ Escargot (1)
+
+
+
+
+Periwinkle
+
+2
+
+Freshwater
+
+ Strange Bun (1) Fish Stew (1)
+
+General Store Items
+Purchased from Pierre at Pierre's General Store.
+
+
+
+Image
+
+Name
+
+Amount needed
+
+Price per unit/Total
+
+Notes
+
+Required for
+
+
+
+
+Sugar
+
+18
+
+100g/1800g
+(or if grown 20g/360g)
+
+
+Can also be produced with Beets in a Mill.
+
+ Banana Pudding (1) Blackberry Cobbler (1) Blueberry Tart (1) Chocolate Cake (1) Cookie (1) Cranberry Candy (1) Cranberry Sauce (1) Ginger Ale (1) Glazed Yams (1) Ice Cream (1) Maple Bar (1) Miner's Treat (1) Pink Cake (1) Plum Pudding (1) Poppyseed Muffin (1) Pumpkin Pie (1) Rhubarb Pie (1) Rice Pudding (1)
+
+
+
+
+Wheat Flour
+
+22
+
+100g/2200g
+(or if grown 10g/220g)
+
+
+Can also be produced with Wheat in a Mill.
+
+ Baked Fish (1) Blackberry Cobbler (1) Blueberry Tart (1) Bread (3x1) Cookie (1) Crab Cakes (1) Fried Calamari (1) Chocolate Cake (1) Crispy Bass (1) Maple Bar (1) Pancakes (1) Pink Cake (1) Pizza (1) Plum Pudding (1) Poppyseed Muffin (1) Pumpkin Pie (1) Rhubarb Pie (1) Spaghetti (1) Squid Ink Ravioli (1) Strange Bun (1)
+
+
+
+
+Rice
+
+3
+
+200g/600g
+(or if grown 40g/120g)
+
+
+Can also be produced with Unmilled Rice in a Mill.
+
+ Maki Roll (1) Rice Pudding (1) Mango Sticky Rice (1)
+
+
+
+
+Oil
+
+11
+
+200g/2200g
+
+Can be obtained with Oil Maker instead.
+
+ Bruschetta (1) Crab Cakes (1) Crispy Bass (1) Fiddlehead Risotto (1) Fried Calamari (1) Fried Eel (1) Fried Mushroom (1) Hashbrowns (2x1) Radish Salad (1) Stir Fry (1)
+
+
+
+
+Vinegar
+
+4
+
+200g/800g
+
+
+
+ Coleslaw (1) Parsnip Soup (1) Radish Salad (1) Salad (1)
+
+Ingredient Dishes
+The ingredients for these are already included in the previous lists. These are used as ingredients in other dishes.
+
+
+
+Image
+
+Name
+
+Amount needed
+
+Ingredients
+
+Required for
+
+
+
+
+Fried Egg
+
+1
+
+ Egg (1)
+
+ Complete Breakfast (1)
+
+
+
+
+Hashbrowns
+
+2
+
+ Potato (1) Oil (1)
+
+ Complete Breakfast (1) Dish O' The Sea (1)
+
+
+
+
+Pancakes
+
+1
+
+ Wheat Flour (1) Egg (1)
+
+ Complete Breakfast (1)
+
+
+
+
+Tortilla
+
+2
+
+ Corn (1)
+
+ Fish Taco (1) Lucky Lunch (1)
+
+
+
+
+Bread
+
+3
+
+ Wheat Flour (1)
+
+ Bruschetta (1) Stuffing (1) Survival Burger (1)
+
+
+
+
+Omelet
+
+1
+
+ Egg (1) Milk (1)
+
+ Farmer's Lunch (1)
+
+Profitable Recipes
+See Also: When to turn fish into sashimi
+While most recipes will sell for less than the cost or profit from their ingredients, there are a few that will always result in profit when using the lowest quality ingredients.  
+Note: It may be more profitable to save Fish for "Help Wanted" quests, which generally pay triple the fish's base value, than to turn them into Sashimi.
+The following recipes will result in profit when using the lowest-quality ingredients:
+
+
+
+
+ Algae Soup
+ Bean Hotpot
+ Blackberry Cobbler (either without Bear's Knowledge or using Wheat Flour and/or Sugar from the Mill)
+ Bread (if made with Wheat Flour from the Mill)
+ Carp Surprise (though Sashimi is more profitable)
+ Chocolate Cake (if using Wheat Flour and Sugar from the Mill)
+ Eggplant Parmesan
+ Fiddlehead Risotto (if made with homemade Oil)
+ Fruit Salad
+ Lucky Lunch
+ Maki Roll (if using Rice from the Mill and fish worth less than 100g)
+ Pale Broth
+ Pink Cake (if using Wheat Flour and Sugar from the Mill)
+ Poppyseed Muffin (if using Wheat Flour and Sugar from the Mill)
+ Red Plate
+ Rhubarb Pie (if using Wheat Flour and Sugar from the Mill)
+ Roots Platter
+ Spaghetti (if made with Wheat Flour from the Mill)
+ Spicy Eel
+ Stir Fry (if made with homemade Oil)
+ Survival Burger (if using Bread made with Wheat Flour from the Mill)
+ Tom Kha Soup
+ Tropical Curry
+ Trout Soup
+
+
+ Sashimi, when cooked with any fish worth less than 75g:
+ Anchovy
+ Bream
+ Carp
+ Chub★
+ Cockle★
+ Ghostfish
+ Herring
+ Mussel
+ Oyster
+ Perch★
+ Periwinkle
+ Rainbow Trout☆
+ Red Snapper★
+ Sardine
+ Shad☆
+ Shrimp☆
+ Smallmouth Bass★
+ Snail☆
+ Sunfish
+☆Not profitable with the Fisher or Angler professions
+★Not profitable with the Angler Profession
+
+
+However, for maximum profit, it is always better to process ingredients in a Preserves Jar, Keg, Mayonnaise Machine, or Cheese Press.
+The only noteworthy exceptions (since cooking is the only way to process algae, cave carrots, winter root, and fish) are Algae Soup (+40g), Pale Broth (+100g), Roots Platter with regular quality winter root (+5g), and Sashimi with low-tier fish. Aside from these four recipes, cooking for profit only becomes attractive if the ingredient production greatly exceeds the processing capacity.
+
+Quests
+100,000g worth of freshly cooked items are requested in the Qi's Cuisine quest. During this quest, cooking will create dishes with the word "Fresh" at the beginning of their names (i.e., Fresh Fried Egg, Fresh Omelet, etc.), which cannot stack with food items cooked before the start of the quest.
+
+Notes
+Every recipe searches for ingredients in the following locations, always in the same order from the bottom right slot to the top left slot:
+first in the player's inventory
+then in the main refrigerator
+finally in any Mini-Fridges
+When auto-sorted with the Organize button, this bottom-right-first order will automatically consume lower quality items of the same type. However, for recipes with substitutes, place ingredients accordingly as desired towards the bottom right, in order to avoid using more valuable ingredients in less valuable recipes, or in recipes that accept a wide variety of ingredients. As an example, Tuna (which is required for Fish Taco) is accepted in Sashimi which accepts any type of fish. However, by placing a Mussel in the bottom right slot, the Mussel will be picked first and save the Tuna for the more exclusive and valuable recipe.
+When searching multiple Mini-Fridges, the game picks from the last placed one in the exact chronological order in which the fridges were first placed, and then works backwards. The location of the fridge in the farmhouse does not matter.
+
+
+Bugs
+Mobile only: Eating a food that gives a buff and then pressing the ‘Swap to previous save’  button will carry the buffs to the previous save.  This can be used to eat difficult to craft/find food without losing it.
+The game has a limited display area for active buffs at the top right of the screen (about the width of 3½ buff icons). For any buff icons active outside of that range, the source and timer will not be displayed when hovered over.
+References
+
+↑ Buff duration for each food and drink appears in Content\Data\ObjectInformation.xnb at the 8th index. The given number must be then multiplied by 700 to have the duration in milliseconds. The formula in set in Buff::Buff in the game code.
+
+
+History
+Sometime between v1.11 and v1.3, a bug was removed that caused the duration of buffs to decrease as the day progressed.
+1.3.27: Artichoke Dip, Pumpkin Pie, Chowder, and Lobster Bisque now accept Large Milk in place of regular milk.
+1.4: Added Shrimp Cocktail, Seafoam Pudding, Triple Shot Espresso.  Fixed bugged Bean Hotpot buff.  Standardized cooking tab with stove interface across all languages.  Added Mini-Fridge as a storage option for ingredients.
+1.5: Added Banana Pudding, Ginger Ale, Mango Sticky Rice, Poi, Tropical Curry, Squid Ink Ravioli.  Goat Milk and Large Goat Milk can now be used in recipes.
+
+
+Recipes
+
+
+Cooking
+
+Algae Soup • Artichoke Dip • Autumn's Bounty • Baked Fish • Banana Pudding • Bean Hotpot • Blackberry Cobbler • Blueberry Tart • Bread • Bruschetta • Carp Surprise • Cheese Cauliflower • Chocolate Cake • Chowder • Coleslaw • Complete Breakfast • Cookie • Crab Cakes • Cranberry Candy • Cranberry Sauce • Crispy Bass • Dish O' The Sea • Eggplant Parmesan • Escargot • Farmer's Lunch • Fiddlehead Risotto • Fish Stew • Fish Taco • Fried Calamari • Fried Eel • Fried Egg • Fried Mushroom • Fruit Salad • Glazed Yams • Ginger Ale • Hashbrowns • Ice Cream • Lobster Bisque • Lucky Lunch • Maki Roll • Mango Sticky Rice • Maple Bar • Miner's Treat • Omelet • Pale Broth • Pancakes • Parsnip Soup • Pepper Poppers • Pink Cake • Pizza • Plum Pudding • Poi • Poppyseed Muffin • Pumpkin Pie • Pumpkin Soup • Radish Salad • Red Plate • Rhubarb Pie • Rice Pudding • Roasted Hazelnuts • Roots Platter • Salad • Salmon Dinner • Sashimi • Seafoam Pudding • Shrimp Cocktail • Spaghetti • Spicy Eel • Squid Ink Ravioli • Stir Fry • Strange Bun • Stuffing • Super Meal • Survival Burger • Tom Kha Soup • Tortilla • Triple Shot Espresso • Tropical Curry • Trout Soup • Vegetable Medley
+
+
+Crafting
+
+Bug Steak • Field Snack • Life Elixir • Oil of Garlic
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Cooking&oldid=141720"
+Categories: CookingGameplayAchievementsHidden categories: SpoilersBugs tested in an unknown version
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 15 September 2022, at 22:35.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

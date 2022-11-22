@@ -1,0 +1,728 @@
+
+
+
+
+
+Defense - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Defense
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Defense  is a statistic that affects how much damage the player takes. Defense can be increased by food and equipment, or decreased by debuffs.
+Each point of total Defense reduces damage taken by 1 point, to a minimum of 1 damage per hit. For example, a Green Slime normally deals between 4 and 6 damage. If Sneakers are equipped, providing 1 Defense, it deals between 3 and 5 damage instead. On the other hand, if Space Boots are equipped, providing 4 Defense, a Green Slime deals 1 damage 66% of the time and 2 damage 33% of the time. Negative Defense increases damage taken. For example, the Shadow Shaman Jinxed effect causes damage from each hit to be increased by 8.
+
+Contents
+
+1 Food
+2 Events
+3 Equipment
+
+3.1 Weapons
+3.2 Rings
+3.3 Footwear
+
+
+4 History
+
+
+Food
+The following foods temporarily increase Defense.
+
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Autumn's Bounty
+
+A taste of the season.
+
+ Yam (1) Pumpkin (1)
+
+ 220 99
+
+ Foraging (+2) Defense (+2)
+
+ 7m 41s
+
+ Demetrius (Mail - 7+ )
+
+350g
+
+
+
+
+Banana Pudding
+
+A creamy dessert with a wonderful tropical flavor.
+
+ Banana (1) Milk (1) (Any) Sugar (1)
+
+ 125 56
+
+ Mining (+1) Luck (+1) Defense (+1)
+
+ 5m 1s
+
+ Island Trader for  Bone Fragment (30)
+
+260g
+
+
+
+
+Crab Cakes
+
+Crab, bread crumbs, and egg formed into patties then fried to a golden brown.
+
+ Crab (1) Wheat Flour (1) Egg (1) Oil (1)
+
+ 225 101
+
+ Speed (+1) Defense (+1)
+
+ 16m 47s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Fall, Year 2
+
+
+275g
+
+
+
+
+Eggplant Parmesan
+
+Tangy, cheesy, and wonderful.
+
+ Eggplant (1) Tomato (1)
+
+ 175 78
+
+ Mining (+1) Defense (+3)
+
+ 4m 39s
+
+ Lewis (Mail - 7+ )
+
+200g
+
+
+
+
+Magic Rock Candy
+
+A rare and powerful candy infused with the essence of the prismatic shard.
+
+N/A
+
+500225
+
+ Mining (+2) Luck (+5) Speed (+1) Defense (+5) Attack (+5)
+
+ 8m 24s
+
+N/A - Must be purchased, earned, or may be dropped by Haunted Skulls
+
+5,000g
+
+
+
+
+Mango Sticky Rice
+
+Sweet mango and coconut transforms this rice into something very special.
+
+ Mango (1) Coconut (1) Rice (1)
+
+ 113 50
+
+ Defense (+3)
+
+ 5m 1s
+
+ Leo (Mail - 7+ )
+
+250g
+
+
+
+
+Pumpkin Soup
+
+A seasonal favorite.
+
+ Pumpkin (1) Milk (1)
+
+ 200 90
+
+ Defense (+2) Luck (+2)
+
+ 7m 41s
+
+ Robin (Mail - 7+ )
+
+300g
+
+
+
+
+Stuffing
+
+Ahh... the smell of warm bread and sage.
+
+ Bread (1) Cranberries (1) Hazelnut (1)
+
+ 170 76
+
+ Defense (+2)
+
+ 5m 35s
+
+ Pam (Mail - 7+ )
+
+165g
+
+
+Events
+These events give Buffs that affect Defense.
+
+
+
+Image
+
+Buff Name
+
+Effect
+
+Event
+
+Buff Duration
+
+
+
+
+Jinxed
+
+ Defense (−8)
+
+Being hit by a Shadow Shaman's fireball.
+
+ 8s
+
+
+
+
+Yoba's Blessing
+
+Invincibility
+
+Being hit by an enemy while wearing a  Ring of Yoba.
+
+ 5s
+
+
+Equipment
+The following equipment affects Defense. A weapon may only provide Defense while held.
+
+
+Weapons
+
+
+Image
+
+Name
+
+Effect
+
+
+
+
+Forest Sword
+
+ Defense (+1)
+
+
+
+
+Silver Saber
+
+ Defense (+1)
+
+
+
+
+Templar's Blade
+
+ Defense (+1)
+
+
+
+
+Iron Edge
+
+ Speed (−2) Defense (+1) Weight (+3)
+
+
+
+
+Claymore
+
+ Speed (−4) Defense (+2)
+
+
+
+
+Neptune's Glaive
+
+ Speed (−1) Defense (+2) Weight (+4)
+
+
+
+
+Tempered Broadsword
+
+ Speed (−3) Defense (+3) Weight (+3)
+
+
+
+
+Lava Katana
+
+ Defense (+3) Crit. Power (+25)
+
+
+
+
+Yeti Tooth
+
+ Defense (+4) Crit. Power (+10)
+
+
+
+
+Infinity Blade
+
+ Speed (+4) Defense (+2)
+
+
+
+
+Ossified Blade
+
+ Speed (−2) Defense (+1) Weight (+2)
+
+
+
+
+Dwarf Sword
+
+ Speed (+2) Defense (+4)
+
+
+
+
+Dwarf Dagger
+
+ Speed (+1) Defense (+6) Crit. Chance (+2) Weight (+5)
+
+
+
+
+Infinity Dagger
+
+ Speed (+1) Defense (+3) Crit. Chance (+4) Weight (+5)
+
+
+
+
+Dwarf Hammer
+
+ Defense (+2) Weight (+5)
+
+
+
+
+Infinity Gavel
+
+ Speed (+2) Defense (+1) Weight (+5)
+
+
+
+
+Rings
+
+
+Image
+
+Name
+
+Effect
+
+
+
+
+Crabshell Ring
+
+ Defense (+5)
+
+
+Footwear
+
+
+Image
+
+Name
+
+Effect
+
+
+
+
+Sneakers
+
+ Defense (+1)
+
+
+
+
+Leather Boots
+
+ Defense (+1) Immunity (+1)
+
+
+
+
+Thermal Boots
+
+ Defense (+1) Immunity (+2)
+
+
+
+
+Genie Shoes
+
+ Defense (+1) Immunity (+6)
+
+
+
+
+Work Boots
+
+ Defense (+2)
+
+
+
+
+Leprechaun Shoes
+
+ Defense (+2) Immunity (+1)
+
+
+
+
+Tundra Boots
+
+ Defense (+2) Immunity (+1)
+
+
+
+
+Cowboy Boots
+
+ Defense (+2) Immunity (+2)
+
+
+
+
+Combat Boots
+
+ Defense (+3)
+
+
+
+
+Firewalker Boots
+
+ Defense (+3) Immunity (+3)
+
+
+
+
+Dark Boots
+
+ Defense (+4) Immunity (+2)
+
+
+
+
+Emily's Magic Boots
+
+ Defense (+4) Immunity (+4)
+
+
+
+
+Space Boots
+
+ Defense (+4) Immunity (+4)
+
+
+
+
+Cinderclown Shoes
+
+ Defense (+6) Immunity (+5)
+
+
+
+
+Mermaid Boots
+
+ Defense (+5) Immunity (+8)
+
+
+
+
+Dragonscale Boots
+
+ Defense (+7)
+
+
+
+
+Crystal Shoes
+
+ Defense (+3) Immunity (+5)
+
+
+
+History
+1.5: Fixed bug where weapon defense had no effect.
+
+
+Skills & Stats
+
+
+Skills
+
+Farming • Mining • Foraging • Fishing • Combat
+
+
+Stats
+
+Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Defense&oldid=142552"
+Category: BuffsHidden category: Bugs tested in 1.4
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 25 October 2022, at 13:52.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

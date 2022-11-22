@@ -1,0 +1,451 @@
+
+
+
+
+
+Tackle - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tackle
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+Tackle can be attached to the Iridium Rod to make it easier to catch fish. Most recipes unlock as the player's fishing level increases. Most tackle can also be purchased from the Fish Shop once they are unlocked. Tackles have a durability bar, which decreases on use. Normally, they wear out and disappear after 20 fish catches. Tackle does not wear out when catching junk items, specifically when catching Green Algae, White Algae, Seaweed, or Trash.
+Only the Iridium Rod can equip tackle. To attach tackle to an Iridium Rod, left-click on the tackle, then right-click on the Iridium Rod. To remove tackle, first right-click to remove any bait, then right-click to remove the tackle.
+Tackle does not stack in inventory or chests; each tackle takes up one inventory slot.
+
+Tackle
+
+
+Image
+
+Name
+
+Description
+
+Notes
+
+Purchase
+
+Crafting
+
+
+
+
+Spinner
+
+The shape makes it spin around in the water. Slightly increases the bite-rate when fishing.
+
+Reduces maximum delay before a nibble by 3.75 seconds.
+Unlocks at Fishing level 6
+
+
+500g
+
+ Iron Bar (2)
+
+
+
+
+Dressed Spinner
+
+The metal tab and colorful streamers create an enticing spectacle for fish. Increases the bite-rate when fishing.
+
+Reduces maximum delay before a nibble by 7.5 seconds.
+Unlocks at Fishing level 8; can be found in fishing treasure chests beginning at Fishing level 6
+
+
+1,000g
+
+ Iron Bar (2) Cloth (1)
+
+
+
+
+Trap Bobber
+
+Causes fish to escape slower when you aren't reeling them in.
+
+The progress bar at the right decreases 33% slower when the fish isn't within the fishing bar.
+Unlocks at Fishing level 6
+
+
+500g
+
+ Copper Bar (1) Sap (10)
+
+
+
+
+Cork Bobber
+
+Slightly increases the size of your "fishing bar".
+
+The increase of the bar size is a constant 24 pixels.
+Unlocks at Fishing level 7
+
+
+750g
+
+ Wood (10) Hardwood (5) Slime (10)
+
+
+
+
+Lead Bobber
+
+Adds weight to your "fishing bar", preventing it from bouncing along the bottom.
+
+This is perhaps not helpful as it is easy to prevent the bar from bouncing by clicking to slow it down right before it hits the bottom.
+Unlocks at Fishing level 6
+
+
+200g
+
+N/A
+
+
+
+
+Treasure Hunter
+
+Fish don't escape while collecting treasures. Also slightly increases the chance to find treasures.
+
+Increases treasure chance by 5% (20% base chance instead of 15%). While collecting a treasure chest, the progress bar will remain steady if the fish isn't within the fishing bar. If it is, it will still go up like usual.
+Unlocks at Fishing level 7
+
+
+750g
+
+ Gold Bar (2)
+
+
+
+
+Barbed Hook
+
+Makes your catch more secure, causing the "fishing bar" to cling to your catch. Works best on slow, weak fish.
+
+Makes the player's fishing bar "cling" to the fish, automatically going up or down to try to stay on the middle of the fish. It will only try to move when the bar is actually on the fish. The player can still manually control the bar but it's rather difficult, especially with slower fish. The more the fish darts up and down, the easier it is to move the fishing bar manually and the less effective the Barbed Hook is.
+Unlocks at Fishing level 8
+
+
+1,000g
+
+ Copper Bar (1) Iron Bar (1) Gold Bar (1)
+
+
+
+
+Curiosity Lure
+
+Increases your chance to catch rare fish.
+
+Most useful when trying to catch fish that spawn rarely, such as the Ice Pip, Mutant Carp, and Legend.
+Can be obtained through breaking boxes and barrels in the Quarry Mine, Skull Cavern, or Volcano Dungeon or dropped from Mummies and special monsters in Skull Cavern
+
+
+N/A
+
+N/A
+
+
+
+
+Quality Bobber
+
+Boosts the quality of fish that you catch.
+
+Increases the quality of the fish caught by one level. This is an alternative way to catch iridium quality fish, aside from getting a perfect catch.
+Can be crafted by the recipe received from Willy after completing the Juicy Bugs Wanted! special order
+
+
+N/A
+
+ Copper Bar (1) Sap (20) Solar Essence (5)
+
+Profitability
+Unlike most items obtained by crafting of metals and wood in the game, tackle can be sold (both to Willy and via the Shipping Bin). Several of these crafting recipes are actually profitable, depending on whether or not the player has the Blacksmith profession:
+
+ Trap Bobber (+120g if the player doesn't have the Blacksmith profession, +90g with Blacksmith)
+ Barbed Hook (+70g if the player doesn't have the Blacksmith profession, results in a loss with Blacksmith)
+ Spinner (+10g if the player doesn't have the Blacksmith profession, results in a loss with Blacksmith)
+ Cork Bobber (+105g, though pressing Slime into a Slime Egg and processing hardwood in the Wood Chipper results in slightly more profit on average.)
+History
+1.4: Fixed bug where tackle durability could be restored by right-clicking the tackle in inventory. Reduced sellback price for used tackle, so it can no longer be sold to Willy for full price.
+1.5: Tackle no longer loses endurance when catching junk. Added Curiosity Lure and Quality Bobber.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Tackle&oldid=141876"
+Category: Fishing TackleHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 22 September 2022, at 19:19.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

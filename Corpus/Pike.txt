@@ -1,0 +1,694 @@
+
+
+
+
+
+Pike - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pike
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Pike
+
+
+
+
+
+A freshwater fish that's difficult to catch.
+
+
+Information
+
+
+
+
+Location
+
+River • Forest Pond
+
+
+Time
+
+Any
+
+
+Season
+
+ Summer •  Winter
+
+
+Weather
+
+Any
+
+
+Difficulty
+
+60
+
+
+Behavior
+
+Dart
+
+
+Size (inches)
+
+15-61
+
+
+
+
+Fishing XP
+
+23    26    29    35
+
+
+Energy / Health
+
+
+
+
+
+
+38
+
+
+
+
+
+17
+
+
+
+
+53
+
+
+
+
+
+
+		23
+
+
+
+
+
+68
+
+
+
+
+
+30
+
+
+
+
+98
+
+
+
+
+
+44
+
+
+
+
+
+
+
+Sell Prices
+
+
+Base
+ Fisher(+25%)
+ Angler(+50%)
+
+
+
+
+
+
+100g
+
+
+
+125g
+
+
+
+150g
+
+
+
+200g
+
+
+
+
+
+
+
+125g
+
+
+
+156g
+
+
+
+187g
+
+
+
+250g
+
+
+
+
+
+
+
+150g
+
+
+
+187g
+
+
+
+225g
+
+
+
+300g
+
+
+
+
+
+
+
+
+
+
+Artisan Sell Prices
+
+
+Roe
+
+Aged Roe
+
+ Aged Roe (+40%)
+
+
+ 80g
+
+ 160g
+
+ 224g
+
+
+
+
+The Pike is a fish that can be caught in the river (in Pelican Town or Cindersap Forest) and the pond in Cindersap Forest during Summer and Winter. The Pike can also be caught anywhere on the Riverland Farm and in the large pond on the Forest Farm.
+Pike can be caught regardless of season using Magic Bait.
+
+Contents
+
+1 Map
+2 Gifting
+3 Bundles
+4 Recipes
+5 Tailoring
+6 Fish Pond
+7 Quests
+8 History
+
+
+Map
+Pike can be found in the town river, the Riverland Farm, and in the river and the pond in the forest.
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Demetrius •  Elliott •  Leo •  Linus •  Pam •  Sebastian •  Willy
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Dwarf •  Emily •  George •  Gus •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Marnie •  Maru •  Penny •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Wizard
+
+
+Hate
+
+ Evelyn •  Haley •  Pierre
+
+Bundles
+Pike is not used in any bundles.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Recipe Source(s)
+Sell Price
+
+
+
+
+Maki Roll
+
+Fish and rice wrapped in seaweed.
+
+ Any Fish (1) Seaweed (1) Rice (1)
+
+ 100 45
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 1
+
+ Stardrop Saloon for 300g
+
+220g
+
+
+
+
+Quality Fertilizer
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Sap (2) Any Fish (1)
+
+N/A
+
+ Farming Level 9
+
+10g
+
+
+
+
+Sashimi
+
+Raw fish sliced into thin pieces.
+
+ Any Fish (1)
+
+ 75 33
+
+ Linus (Mail - 3+ )
+
+75g
+
+
+Tailoring
+Pike can be used in the spool of the Sewing Machine to create the Fishing Vest.   It can be used in dyeing, serving as a yellow dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Fish Pond
+Pike can be placed in a Fish Pond, where they will reproduce every 3 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The primary output is yellow Pike Roe (80g), but Bug Meat is also possible starting at population 9.
+Quests
+
+
+
+Pond Capacity
+
+Quest Item
+
+Fishing XP Granted
+
+
+Before Quest
+
+After Quest
+
+
+3
+5
+2 Bream, 2 Carp, or 2 Chub
+35
+
+
+5
+7
+2 Bullhead or 2 Largemouth Bass
+35
+
+
+7
+10
+2 Ghostfish, 2 Sandfish, or 2 Woodskip
+35
+
+Produce
+
+
+
+Item(s) Produced
+
+Fishing XP Granted
+
+Population
+
+% of Items
+
+Overall Daily Chance
+
+
+ Roe (1)
+
+13
+
+1-8
+100%
+23-79%
+
+
+9-10
+95%
+83-90%
+
+
+ Bug Meat (20)
+
+10
+
+9-10
+5%
+4-5%
+
+
+Nothing
+
+
+
+1-8
+0%
+77-21%
+
+
+9-10
+0%
+13-5%
+
+Quests
+Item Delivery: One pike may be randomly requested in Summer or Winter at the "Help Wanted" board outside Pierre's General Store for a reward of 300g and 150 Friendship points.
+Fishing: Demetrius or Willy may randomly request 1-4 pike during Summer or Winter at the "Help Wanted" board outside Pierre's General Store for a reward of 100g per fish.  (You get to keep the fish).
+History
+1.4: Added iridium quality.  Can now be used in Tailoring.
+
+
+Fish
+
+
+Legendary
+
+Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish
+
+
+The Beach
+
+Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna
+
+
+River
+
+Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye
+
+
+Mountain Lake
+
+Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye
+
+
+Cindersap Forest Pond
+
+Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye
+
+
+Secret Woods
+
+Carp • Catfish • Woodskip
+
+
+Mines
+
+Ghostfish • Ice Pip • Lava Eel • Stonefish
+
+
+Sewers
+
+Carp • Mutant Carp • Radioactive Carp
+
+
+Desert
+
+Sandfish • Scorpion Carp
+
+
+Mutant Bug Lair
+
+Carp • Slimejack
+
+
+Witch's Swamp
+
+Catfish • Void Salmon
+
+
+Night Market
+
+Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber
+
+
+Crab Pot
+
+Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail
+
+
+Ginger Island
+
+Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray •  Super Cucumber • Tilapia • Tuna
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Pike&oldid=142606"
+Categories: Pond fishSummer fishWinter fishRiver fish
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 26 October 2022, at 03:45.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

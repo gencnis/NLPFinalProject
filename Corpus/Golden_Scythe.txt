@@ -1,0 +1,291 @@
+
+
+
+
+
+Golden Scythe - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Golden Scythe
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Golden Scythe
+
+
+
+
+
+It's more powerful than a normal scythe.
+
+
+Information
+
+
+Level:
+
+N/A
+
+
+Source:
+
+Statue at end of Quarry Mine
+
+
+Damage:
+
+13
+
+
+Critical Strike Chance:
+
+.02
+
+
+Adventurer's Guild
+
+
+Purchase Price:
+
+N/A
+
+
+Sell Price:
+
+N/A
+
+
+The Golden Scythe is a tool obtained at the end of the single-floor Quarry Mine from the statue of the Grim Reaper.
+The Golden Scythe has the following benefits:
+
+Its radius is larger than the standard Scythe and it is more likely to cut all grass in its radius.
+75% chance per swipe to harvest hay from grass, up from 50%. [1]
+Inflicts 13 damage, up from 1-3.
+If the Golden Scythe is lost, it cannot be replaced.
+
+References
+
+↑ See TerrainFeatures.Grass::performToolAction in the game code.
+
+
+History
+1.4: Introduced.
+
+
+Tools
+
+
+Basic
+
+Axes • Golden Scythe • Hoes • Pickaxes • Scythe • Trash Cans • Watering Cans
+
+
+Fishing
+
+Training Rod • Bamboo Pole • Fiberglass Rod • Iridium Rod • Crab Pot
+
+
+Other
+
+Auto-Grabber • Auto-Petter • Copper Pan • Hay Hopper • Heater • Incubator • Milk Pail • Ostrich Incubator • Shears
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Golden_Scythe&oldid=141511"
+Category: Tools
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 6 September 2022, at 18:06.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

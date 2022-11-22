@@ -1,0 +1,1165 @@
+
+
+
+
+
+Minerals - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Minerals
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+For resources, see Category:Resources.
+For an index to the completed minerals collection, see Collections#Minerals.
+Minerals are items that can be found in the Mines and the Skull Cavern. Most minerals are acquired from geodes after having Clint process them. Some are found on the ground and some can be mined from nodes, which are also found in the Quarry. They can also sometimes be acquired as Monster Drops, as gifts from Villagers, or from the Statue of Endless Fortune. Minerals (other than geode minerals) are also possible items found in Fishing Treasure Chests.
+Minerals can be donated to the Museum for rewards and achievements.  Minerals not yet donated will have an item description of "Gunther can tell you more about this if you donate it to the museum."  After one of that mineral has been donated, the item's description will appear. There are 53 different minerals which can be donated.
+All Minerals, Gems, and Geodes can be used in the spool of the Sewing Machine located inside Emily and Haley's house to Tailor clothing, once the Sewing Machine is unlocked.  All minerals, gems, and geodes can be used to dye existing clothing using the Sewing Machine, and some can be used to dye clothing using Dye Pots.
+Minerals can be sold at shipping box and also to the Blacksmith.
+
+Contents
+
+1 Foraged Minerals
+2 Gems
+3 Geode Minerals
+4 Geodes
+5 History
+
+
+Foraged Minerals
+Foraged minerals are found on the ground in The Mines and the Skull Cavern. They can be picked up in the same way that other forageables can, and if the Gatherer profession is chosen at Foraging level 5 then the player has a chance of a double harvest. They are used in crafting recipes and in the  Geologist's Bundle in the Boiler Room.
+Note that picking up foraged minerals normally does not award Foraging XP, but a bug results in 7 Foraging XP awarded only for a duplicate mineral created by the Gatherer profession.
+
+
+
+Image
+
+Name
+
+Description
+
+Sell Price
+
+Gemologist Sell Price
+
+Location
+
+Used in
+
+
+
+
+Quartz
+
+A clear crystal commonly found in caves and mines.
+
+25g
+
+32g
+
+The Mines (Floors 1-120) Garbage Can Stone Golem (10%)
+
+ Geologist's Bundle Refined Quartz Fish Pond (Quest)
+
+
+
+
+Earth Crystal
+
+A resinous substance found near the surface.
+
+50g
+
+65g
+
+The Mines (Floors 1-39) Duggy (10%) Haunted Skull (1.3%) Fishing Treasure Chest Panning Geode Omni Geode Garbage Can
+
+ Geologist's Bundle Mayonnaise Machine Sturdy Ring Fish Pond (Quest)
+
+
+
+
+Frozen Tear
+
+A crystal fabled to be the frozen tears of a yeti.
+
+75g
+
+97g
+
+The Mines (Floors 40-79) Fishing Treasure Chest Panning Frozen Geode Omni Geode Dust Sprite (2%) Garbage Can
+
+ Geologist's Bundle Warrior Ring Sebastian (Loved Gift) Fish Pond (Quest)
+
+
+
+
+Fire Quartz
+
+A glowing red crystal commonly found near hot lava.
+
+100g
+
+130g
+
+The Mines (Floors 80-120) Fishing Treasure Chest Panning Magma Geode Omni Geode Garbage Can
+
+ Geologist's Bundle Slime Egg-Press Refined Quartz Fish Pond (Quest)
+
+Gems
+Gems are used in Crafting recipes and are generally "loved" or "liked" as gifts. All gems, except Diamond and Prismatic Shard, can be found in crates and barrels in The Mines.
+
+
+
+Image
+
+Name
+
+Description
+
+Sell Price
+
+Gemologist Sell Price
+
+Location
+
+Used in
+
+
+
+
+Emerald
+
+A precious stone with a brilliant green color.
+
+250g
+
+325g
+
+ Emerald Node Gem Node Panning Garbage Can Fishing Treasure Chest Feast of the Winter Star
+
+ Clint, Dwarf, Emily, Penny (Loved Gift) Fish Pond (Quest)Forge weapons
+
+
+
+
+Aquamarine
+
+A shimmery blue-green gem.
+
+180g
+
+234g
+
+ Aquamarine Node Gem Node Panning Garbage Can Fishing Treasure Chest
+
+ Dye Bundle Clint, Dwarf, Emily (Loved Gift) Marble Brazier Fish Pond (Quest)Forge weapons
+
+
+
+
+Ruby
+
+A precious stone that is sought after for its rich color and beautiful luster.
+
+250g
+
+325g
+
+ Ruby Node Gem Node Panning Garbage Can Fishing Treasure Chest Feast of the Winter Star
+
+ Clint, Dwarf, Emily (Loved Gift)Forge weapons
+
+
+
+
+Amethyst
+
+A purple variant of quartz.
+
+100g
+
+130g
+
+ Amethyst Node Gem Node Green Slimes Panning Garbage Can Fishing Treasure Chest
+
+ Abigail, Clint, Dwarf, Emily (Loved Gift) Fish Pond (Quest)Forge weapons
+
+
+
+
+Topaz
+
+Fairly common but still prized for its beauty.
+
+80g
+
+104g
+
+ Topaz Node Gem Node Panning Garbage Can Fishing Treasure Chest
+
+ Clint, Dwarf, Emily (Loved Gift) Fish Pond (Quest)Forge weapons
+
+
+
+
+Jade
+
+A pale green ornamental stone.
+
+200g
+
+260g
+
+ Jade Node Gem Node Blue Slimes Garbage Can Fishing Treasure Chest Feast of the Winter Star
+
+ Clint, Dwarf, Emily (Loved Gift) Fish Pond (Quest)Forge weapons
+
+
+
+
+Diamond
+
+A rare and valuable gem.
+
+750g
+
+975g
+
+ Diamond Node Gem Node Panning Garbage Can Fishing Treasure ChestAny monster after reaching the bottom of the mines (0.05%)
+
+ Ring of Yoba Geode Crusher Fairy Dust Evelyn, Gus, Jodi, Krobus, Marnie, Maru, Penny, Willy (Loved Gift) Fish Pond (Quest)Forge weapons
+
+
+
+
+Prismatic Shard
+
+A very rare and powerful substance with unknown origins.
+
+2,000g
+
+2,600g
+
+ Iridium Node (4%) Mystic Stone (25%) Omni Geode (0.4%) Shadow Brute (0.05%) Shadow Shaman (0.05%) Mummy (0.1%) Serpent (0.1%) Fishing Treasure ChestAny monster after reaching the bottom of the mines (0.05%)
+
+ Loved by all Villagers except Haley, who hates it.
+Obtain the Galaxy Sword in the Desert
+Transform children into doves at the Dark Shrine of Selfishness
+Enchant tools and weapons
+
+
+Geode Minerals
+Geode minerals are extracted from geodes. They are mainly used as donations to the Museum, or sold for a small profit. They can be used to tailor or dye clothing.  They are generally disliked as gifts. The Wizard likes all Geode Minerals.
+
+
+
+Image
+
+Name
+
+Description
+
+Sell Price
+
+Gemologist Sell Price
+
+Location
+
+Used in
+
+
+
+
+Tigerseye
+
+A stripe of shimmering gold gives this gem a warm luster.
+
+275g
+
+357g
+
+ Magma Geode Omni Geode
+
+ Sam (Loved Gift)
+
+
+
+
+Opal
+
+Its internal structure causes it to reflect a rainbow of light.
+
+150g
+
+195g
+
+ Frozen Geode Omni Geode
+
+
+
+
+
+
+Fire Opal
+
+A rare variety of opal, named for its red spots.
+
+350g
+
+455g
+
+ Magma Geode Omni Geode
+
+
+
+
+
+
+Alamite
+
+Its distinctive fluorescence makes it a favorite among rock collectors.
+
+150g
+
+195g
+
+ Geode Omni Geode
+
+
+
+
+
+
+Bixite
+
+A dark metallic Mineral sought after for its cubic structure.
+
+300g
+
+390g
+
+ Magma Geode Omni Geode Black Slime
+
+
+
+
+
+
+Baryte
+
+The best specimens resemble a desert rose.
+
+50g
+
+65g
+
+ Magma Geode Omni Geode
+
+
+
+
+
+
+Aerinite
+
+These crystals are curiously light.
+
+125g
+
+162g
+
+ Frozen Geode Omni Geode
+
+
+
+
+
+
+Calcite
+
+This yellow crystal is speckled with shimmering nodules.
+
+75g
+
+97g
+
+ Geode Omni Geode
+
+
+
+
+
+
+Dolomite
+
+It can occur in coral reefs, often near an underwater volcano.
+
+300g
+
+390g
+
+ Magma Geode Omni Geode
+
+
+
+
+
+
+Esperite
+
+The crystals glow bright green when stimulated.
+
+100g
+
+130g
+
+ Frozen Geode Omni Geode
+
+
+
+
+
+
+Fluorapatite
+
+Small amounts are found in human teeth.
+
+200g
+
+260g
+
+ Frozen Geode Omni Geode
+
+
+
+
+
+
+Geminite
+
+Occurs in brilliant clusters.
+
+150g
+
+195g
+
+ Frozen Geode Omni Geode
+
+
+
+
+
+
+Helvite
+
+It grows in a triangular column.
+
+450g
+
+585g
+
+ Magma Geode Omni Geode
+
+
+
+
+
+
+Jamborite
+
+The crystals are so tightly packed it almost looks fuzzy.
+
+150g
+
+195g
+
+ Geode Omni Geode
+
+
+
+
+
+
+Jagoite
+
+A high volume of tiny crystals makes it very glittery.
+
+115g
+
+149g
+
+ Geode Omni Geode
+
+
+
+
+
+
+Kyanite
+
+The geometric faces are as smooth as glass.
+
+250g
+
+325g
+
+ Frozen Geode Omni Geode
+
+
+
+
+
+
+Lunarite
+
+The cratered white orbs form a tight cluster.
+
+200g
+
+260g
+
+ Frozen Geode Omni Geode
+
+
+
+
+
+
+Malachite
+
+A popular ornamental stone, used in sculpture and to make green paint.
+
+100g
+
+130g
+
+ Geode Omni Geode
+
+
+
+
+
+
+Neptunite
+
+A jet-black crystal that is unusually reflective.
+
+400g
+
+520g
+
+ Magma Geode Omni Geode Black Slime
+
+
+
+
+
+
+Lemon Stone
+
+Some claim the powdered crystal is a dwarvish delicacy.
+
+200g
+
+260g
+
+ Magma Geode Omni Geode
+
+ Dwarf (Loved Gift)
+
+
+
+
+Nekoite
+
+The delicate shards form a tiny pink meadow.
+
+80g
+
+104g
+
+ Geode Omni Geode
+
+
+
+
+
+
+Orpiment
+
+Despite its high toxicity, this Mineral is widely used in manufacturing and folk medicine.
+
+80g
+
+104g
+
+ Geode Omni Geode
+
+
+
+
+
+
+Petrified Slime
+
+This little guy may be 100,000 years old.
+
+120g
+
+156g
+
+ Geode Omni Geode Slime Ball
+
+ Fish Pond (Quest)
+
+
+
+
+Thunder Egg
+
+According to legend, angry thunder spirits would throw these stones at one another.
+
+100g
+
+130g
+
+ Geode Omni Geode
+
+
+
+
+
+
+Pyrite
+
+Commonly known as "Fool's Gold".
+
+120g
+
+156g
+
+ Frozen Geode Omni Geode
+
+
+
+
+
+
+Ocean Stone
+
+An old legend claims these stones are the mosaics of ancient mermaids.
+
+220g
+
+286g
+
+ Frozen Geode Omni Geode
+
+ Fish Pond (Quest)
+
+
+
+
+Ghost Crystal
+
+There is an aura of coldness around this crystal.
+
+200g
+
+260g
+
+ Frozen Geode Omni Geode
+
+
+
+
+
+
+Jasper
+
+When polished, this stone becomes attractively luminous. Prized by ancient peoples for thousands of years.
+
+150g
+
+195g
+
+ Magma Geode Omni Geode
+
+
+
+
+
+
+Celestine
+
+Some early life forms had bones made from this.
+
+125g
+
+162g
+
+ Geode Omni Geode
+
+
+
+
+
+
+Marble
+
+A very popular material for sculptures and construction.
+
+110g
+
+143g
+
+ Frozen Geode Omni Geode
+
+ Marble Brazier
+
+
+
+
+Sandstone
+
+A common type of stone with red and brown striations.
+
+60g
+
+78g
+
+ Geode Omni Geode
+
+
+
+
+
+
+Granite
+
+A speckled Mineral that is commonly used in construction.
+
+75g
+
+97g
+
+ Geode Omni Geode
+
+ Fish Pond (Quest)
+
+
+
+
+Basalt
+
+Forms near searing hot magma.
+
+175g
+
+227g
+
+ Magma Geode Omni Geode
+
+ Fish Pond (Quest)
+
+
+
+
+Limestone
+
+A very common type of stone. It's not worth very much.
+
+15g
+
+19g
+
+ Geode Omni Geode
+
+ Fish Pond (Quest)
+
+
+
+
+Soapstone
+
+Because of its relatively soft consistency, this stone is very popular for carving.
+
+120g
+
+156g
+
+ Frozen Geode Omni Geode
+
+
+
+
+
+
+Hematite
+
+An iron-based Mineral with interesting magnetic properties.
+
+150g
+
+195g
+
+ Frozen Geode Omni Geode
+
+
+
+
+
+
+Mudstone
+
+A fine-grained rock made from ancient clay or mud.
+
+25g
+
+32g
+
+ Geode Omni Geode
+
+ Fish Pond (Quest)
+
+
+
+
+Obsidian
+
+A volcanic glass that forms when lava cools rapidly.
+
+200g
+
+260g
+
+ Magma Geode Omni Geode
+
+ Sebastian (Loved Gift)
+
+
+
+
+Slate
+
+It's extremely resistant to water, making it a good roofing material.
+
+85g
+
+110g
+
+ Geode Omni Geode
+
+
+
+
+
+
+Fairy Stone
+
+An old miner's song suggests these are made from the bones of ancient fairies.
+
+250g
+
+325g
+
+ Frozen Geode Omni Geode
+
+
+
+
+
+
+Star Shards
+
+No one knows how these form. Some scientists claim that the microscopic structure displays unnatural regularity.
+
+500g
+
+650g
+
+ Magma Geode Omni Geode
+
+
+
+Geodes
+Geodes are mineral deposits that contain other minerals.  They can be found primarily by breaking rocks in The Mines.  
+Geodes must be processed either using a Geode Crusher or at the Blacksmith to obtain the minerals inside. The Geode Crusher requires 1 Coal for each Geode processed, and Clint charges 25g each.  Certain minerals are only available from certain types of Geodes, but Omni Geodes can contain any mineral.
+Note: The Blacksmith is unavailable for processing geodes during tool upgrades.
+
+
+
+Image
+
+Name
+
+Description
+
+Location
+
+Used in
+
+
+
+
+Geode
+
+A blacksmith can break this open for you.
+
+The Mines (Floors 1-39) Duggy (25%) Tilling on The Farm Fishing Treasure Chest Feast of the Winter Star
+
+ Fish Pond (Quest)
+
+
+
+
+Frozen Geode
+
+A blacksmith can break this open for you.
+
+The Mines (Floor 41-79) Fishing Treasure Chest Tilling on The Farm (Winter) Feast of the Winter Star
+
+ Field Research Bundle Fish Pond (Quest)
+
+
+
+
+Magma Geode
+
+A blacksmith can break this open for you.
+
+The Mines (Floor 81-120)Boxes/barrels in the Skull Cavern Fishing Treasure Chest  Tilling on The Farm  Feast of the Winter Star
+
+
+
+
+
+
+Omni Geode
+
+A blacksmith can break this open for you. These geodes contain a wide variety of Minerals.
+
+The MinesSkull Cavern Carbon Ghost PanningThe Oasis (Wednesdays)Krobus (Tuesdays)Ginger Island Artifact SpotsVolcano Dungeon
+
+ Clint, Dwarf (Loved Gift) Fish Pond (Quest)
+
+History
+1.1: Removed quality stars from foraged minerals.
+1.5: Geodes can now be processed outside of the Blacksmith using Geode Crushers.
+
+
+Minerals
+
+
+Foraged Minerals
+
+Earth Crystal • Fire Quartz • Frozen Tear • Quartz
+
+
+Gems
+
+Amethyst • Aquamarine • Diamond • Emerald • Jade • Prismatic Shard • Ruby • Topaz
+
+
+Geode Minerals
+
+Aerinite • Alamite • Baryte • Basalt • Bixite • Calcite • Celestine • Dolomite • Esperite • Fairy Stone • Fire Opal • Fluorapatite • Geminite • Ghost Crystal • Granite • Helvite • Hematite • Jagoite • Jamborite • Jasper • Kyanite • Lemon Stone • Limestone • Lunarite • Malachite • Marble • Mudstone • Nekoite • Neptunite • Obsidian • Ocean Stone • Opal • Orpiment • Petrified Slime • Pyrite • Sandstone • Slate • Soapstone • Star Shards • Thunder Egg • Tigerseye
+
+
+Geodes
+
+Geode • Frozen Geode • Magma Geode • Omni Geode
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Minerals&oldid=142755"
+Category: Minerals
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 28 October 2022, at 17:52.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

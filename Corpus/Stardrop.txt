@@ -1,0 +1,327 @@
+
+
+
+
+
+Stardrop - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stardrop
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Stardrop
+
+
+
+
+
+A mysterious fruit that empowers those who eat it. The flavor is like a dream... a powerful personal experience, yet difficult to describe to others.
+
+
+Information 
+
+
+Source:
+
+Various
+
+
+Buff(s):
+
+ Max Energy (+34)
+
+
+Buff Duration:
+
+ Permanent
+
+
+Healing Effect:
+
+
+
+
+
+
+250 Energy
+
+
+
+
+112 Health
+
+
+
+Sell Price:
+
+Cannot be sold
+
+
+A Stardrop is a special item that permanently increases the player's maximum energy by 34 points. The player must immediately consume any Stardrop as soon as it is obtained; it is impossible to add a Stardrop to inventory or save it to eat later.
+A maximum of seven Stardrops are available in any game, which together result in 508 maximum energy, nearly doubling the initial value of 270. Finding all Stardrops is necessary to achieve Perfection.
+Despite the numbers listed on the tooltip, consuming a Stardrop will restore all of the player's energy as well as increase maximum energy, regardless of how low the energy was before consuming it. No health is restored when consuming a stardrop.
+
+Contents
+
+1 Locations
+2 Text
+
+2.1 Secret Text
+
+
+3 Trivia
+4 Achievements
+5 History
+
+
+Locations
+One Stardrop can be obtained from each of the following sources:
+
+Sold for 2,000 at the Stardew Valley Fair.
+Obtained from the treasure chest on floor 100 in The Mines.
+From the player's spouse or roommate when friendship level reaches 12.5 hearts. In multiplayer games where two players marry each other, a stardrop appears in a giftbox in front of each player when they enter their home after the wedding. Only one spouse/roommate stardrop can be obtained, regardless of divorce or remarriage.
+Sold by Krobus for 20,000g in The Sewers.
+Obtained from Old Master Cannoli in the Secret Woods after giving him a Sweet Gem Berry.
+Received in a letter from Willy the day after attaining the Master Angler Achievement.
+Reward for donating all 95 items to the Museum.
+Text
+When consumed, one of two possible texts is displayed, both referencing the "Favorite Thing" set when creating a new profile:
+
+"It's strange, but the taste reminds you of [Favorite Thing]."
+"Your mind is filled with thoughts of [Favorite Thing]."
+Secret Text
+If the "Favorite Thing" is set to "ConcernedApe":
+
+If the "Favorite Thing" is set to anything containing "Stardew":
+
+
+Note that the "S" in "Stardew" must be capitalized and the "C" and "A" in "ConcernedApe" must be capitalized with the other letters in lowercase.
+Trivia
+Stardrops used to be called "Cosmic Fruit" in early versions of the game. (forum post)
+Willy mentions a Stardrop in his story at the Feast of the Winter Star.  He says that some people claim the Stardrop is somehow connected to the Winter Star that is only visible from Stardew Valley.
+After achieving Perfection, a stone carving of a Stardrop will appear above Grandpa's Shrine.
+Prior to version 1.3.27 a Stardrop could be taken into inventory and then placed in a Chest, gifted (as a universally hated gift), used in the Grange Display at the Stardew Valley Fair, or sold in the shipping bin.  As of v1.3.27, a stardrop obtained using the item ID glitch can still be sold in the shipping bin in PC or mobile versions of the game.
+
+
+
+
+Sold for 7,777g
+
+
+
+
+
+
+Placed in grange display
+
+
+
+
+Achievements
+Finding seven Stardrops unlocks one Steam-specific Achievement:
+
+ Mystery Of The Stardrops (Find every stardrop)
+History
+1.3.27: Added Stardrop from spouse in multiplayer.  Fixed bugs allowing a stardrop to be taken into inventory.
+1.4: Fixed bug where extra text was appended at the end of the favorite thing dialogue text.
+1.5: Finding all Stardrops is now required to achieve Perfection.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Stardrop&oldid=143641"
+Category: Special items
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 20 November 2022, at 15:45.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

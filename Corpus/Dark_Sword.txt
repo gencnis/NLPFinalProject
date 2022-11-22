@@ -1,0 +1,308 @@
+
+
+
+
+
+Dark Sword - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dark Sword
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Dark Sword
+
+
+
+
+
+It's glowing with vampire energy.
+
+
+Information
+
+
+Type:
+
+Sword
+
+
+Level:
+
+9
+
+
+Source:
+
+Haunted Skull drop
+
+
+Damage:
+
+30-45
+
+
+Critical Strike Chance:
+
+.04
+
+
+Stats:
+
+ Speed (−5) Crit. Chance (+2) Weight (+5)Vampiric (9%)
+
+
+Adventurer's Guild
+
+
+Purchase Price:
+
+Not Sold
+
+
+Sell Price:
+
+450g
+
+
+The Dark Sword is a sword weapon that can be obtained as a Monster drop from Haunted Skulls in the Quarry Mine or dungeon levels in The Mines. It is the slowest sword in the game, at −5  Speed.
+The Dark Sword comes with the vampiric enchantment when obtained from Haunted Skulls. The enchantment can be changed at the Forge.
+
+Notes
+Damage dealt by explosions may also trigger healing as long as the Dark Sword is held. This includes the 999 damage inflicted upon downed Mummies by explosions.
+It has the slowest speed and highest weight of any sword in the game.
+History
+1.0: Existed in game code, but was most likely unimplemented (see ConcernedApe comment on reddit)
+1.4: Officially introduced in game. Description changed from "It's glowing with a mysterious energy."  Crit chance changed from .05 to .04.
+1.5: Healing effect changed from 8% to 9%+; sword comes with vampiric enchantment. Level raised from 8 to 9 and sell price raised from 400g to 450g.
+
+
+
+
+Weapons
+
+
+Swords
+
+Bone Sword • Claymore • Cutlass • Dark Sword • Dragontooth Cutlass • Dwarf Sword • Forest Sword • Galaxy Sword • Infinity Blade • Insect Head • Iron Edge • Lava Katana • Neptune's Glaive • Obsidian Edge • Ossified Blade • Pirate's Sword • Rusty Sword • Silver Saber • Steel Falchion • Steel Smallsword • Tempered Broadsword • Templar's Blade • Wooden Blade • Yeti Tooth
+
+
+Daggers
+
+Broken Trident • Burglar's Shank • Carving Knife • Crystal Dagger • Dragontooth Shiv • Dwarf Dagger • Elf Blade • Galaxy Dagger • Infinity Dagger • Iridium Needle • Iron Dirk • Shadow Dagger • Wicked Kris • Wind Spire
+
+
+Clubs
+
+Dragontooth Club • Dwarf Hammer • Femur • Galaxy Hammer • Infinity Gavel • Lead Rod • Kudgel • The Slammer • Wood Club • Wood Mallet
+
+
+Slingshots
+
+Slingshot • Master Slingshot • Explosive Ammo
+
+
+Unobtainable Weapons
+
+Abby's Planchette • Alex's Bat • Elliott's Pencil • Galaxy Slingshot • Haley's Iron • Harvey's Mallet • Holy Blade • Leah's Whittler • Maru's Wrench • Penny's Fryer • Rapier • Sam's Old Guitar • Seb's Lost Mace
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Dark_Sword&oldid=142857"
+Category: Swords
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 2 November 2022, at 19:44.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

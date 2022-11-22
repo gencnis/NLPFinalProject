@@ -1,0 +1,871 @@
+
+
+
+
+
+Wood - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wood
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Wood
+
+
+
+
+
+A sturdy, yet flexible plant material with a wide variety of uses.
+
+
+Information 
+
+
+Source:
+
+Trees • Carpenter's Shop
+
+
+Sell Price:
+
+2g
+
+
+Wood is a basic resource that can be obtained by felling Trees and branches with an axe or bought from Robin at the Carpenter's Shop. It can also be found in Fishing Treasure Chests.  Ninety-nine wood can also be received as a gift from Robin at the Feast of the Winter Star.  One to 10 Wood can be produced in a Woodskip Fish Pond, depending on the population of the pond. Wood can additionally be obtained from chipped Hardwood and from recycled or chipped Driftwood.
+Felling a normal-sized tree will give you between 13 and 17 wood, depending on daily Luck. After felling the tree, you can also destroy the stump which will give you between 5 and 7 wood. Be careful, as felling trees near water can result in the loss of some, or all of the wood. To prevent this, you can destroy the tree standing on the side where you do not want the tree to fall to, as it will always fall away from you. Contrary to popular belief, stumps will never grow back into full trees, either on The Farm or in areas outside the Farm. There is only one exception to this: mushroom tree stumps on the farm will always regrow to full mushroom trees on Spring 1, whether they became stumps in the first place by chopping or by the change of seasons.
+
+Contents
+
+1 Uses
+2 Purchase Price
+3 Recipes
+4 Buildings
+5 Gifting
+6 Tailoring
+7 History
+
+
+Uses
+Wood can be spent on a variety of different things, including:
+
+Building and upgrading buildings at the Carpenter's Shop
+Crafting various items.
+Creating 1 coal by placing 10 wood into the Charcoal Kiln
+198 Wood are used (in two stacks of 99) in the  Construction Bundle in the Crafts Room
+300 Wood are used for repairing the tide pool bridge at the Beach.
+950 Wood are used for the Community Upgrade
+Purchase Price
+The price of wood at the Carpenter's Shop increases from 10g to 50g starting in year 2.  The player will receive a letter in the mail on Spring 1 of year 2 saying "Notice: The price of raw materials at Robin's shop and Clint's shop has increased."  The gold obtained by selling wood to Robin or through the Shipping Bin is unchanged.
+
+Recipes
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Gate
+
+Allows you to pass through a fence.
+
+ Wood (10)
+
+Starter
+
+
+
+
+Wood Fence
+
+Keeps grass and animals contained!
+
+ Wood (2)
+
+Starter
+
+
+
+
+Wood Sign
+
+Use an item on this to change what's displayed. The item won't be consumed.
+
+ Wood (25)
+
+Starter
+
+
+
+
+Mayonnaise Machine
+
+Turns eggs into mayonnaise.
+
+ Wood (15) Stone (15) Earth Crystal (1) Copper Bar (1)
+
+ Farming (Level 2)
+
+
+
+
+Bee House
+
+Place outside and wait for delicious honey! (Except in Winter).
+
+ Wood (40) Coal (8) Iron Bar (1) Maple Syrup (1)
+
+ Farming (Level 3)
+
+
+
+
+Preserves Jar
+
+Turns vegetables into pickles and fruit into jam.
+
+ Wood (50) Stone (40) Coal (8)
+
+ Farming (Level 4)
+
+
+
+
+Cheese Press
+
+Turns milk into cheese.
+
+ Wood (45) Stone (45) Hardwood (10) Copper Bar (1)
+
+ Farming (Level 6)
+
+
+
+
+Loom
+
+Turns raw wool into fine cloth.
+
+ Wood (60) Fiber (30) Pine Tar (1)
+
+ Farming (Level 7)
+
+
+
+
+Keg
+
+Place a fruit or vegetable in here. Eventually it will turn into a beverage.
+
+ Wood (30) Copper Bar (1) Iron Bar (1) Oak Resin (1)
+
+ Farming (Level 8)
+
+
+
+
+Tapper
+
+Place on a maple, oak, or pine tree and wait for the reservoir to fill with product!
+
+ Wood (40) Copper Bar (2)
+
+ Foraging (Level 3)
+
+
+
+
+Cork Bobber
+
+Slightly increases the size of your "fishing bar".
+
+ Wood (10) Hardwood (5) Slime (10)
+
+ Fishing (Level 7)
+
+
+
+
+Wood Floor
+
+Place on the ground to create paths or to decorate your floors.
+
+ Wood (1)
+
+ Carpenter's Shop (100g)
+
+
+
+
+Straw Floor
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Wood (1) Fiber (1)
+
+ Carpenter's Shop (200g)
+
+
+
+
+Rustic Plank Floor
+
+Place on the ground to create paths or to decorate your floors.
+
+ Wood (1)
+
+ Carpenter's Shop (200g)
+
+
+
+
+Weathered Floor
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Wood (1)
+
+ Dwarf (500g)
+
+
+
+
+Wood Path
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Wood (1)
+
+Starter
+
+
+
+
+Flute Block
+
+Plays a flute sound when you walk past.
+
+ Wood (10) Copper Ore (2) Fiber (20)
+
+ Robin 6-heart event
+
+
+
+
+Torch
+
+Provides a modest amount of light.
+
+ Wood (1) Sap (2)
+
+Starter
+
+
+
+
+Campfire
+
+Provides a moderate amount of light.
+
+ Wood (10) Stone (10) Fiber (10)
+
+Starter
+
+
+
+
+Wooden Brazier
+
+Provides a moderate amount of light.
+
+ Wood (10) Coal (1) Fiber (5)
+
+ Carpenter's Shop (250g)
+
+
+
+
+Barrel Brazier
+
+Provides a moderate amount of light.
+
+ Wood (50) Solar Essence (1) Coal (1)
+
+ Carpenter's Shop (800g)
+
+
+
+
+Wood Lamp-post
+
+Provides a good amount of light.
+
+ Wood (50) Battery Pack (1)
+
+ Carpenter's Shop (500g)
+
+
+
+
+Crab Pot
+
+Place it in the water, load it with bait, and check the next day to see if you've caught anything. Works in streams, lakes, and the ocean.
+
+ Wood (40) Iron Bar (3)
+With Trapper profession:  Wood (25) Copper Bar (2)
+
+
+ Fishing (Level 3)
+
+
+
+
+Chest
+
+A place to store your items.
+
+ Wood (50)
+
+Starter
+
+
+
+
+Scarecrow
+
+Prevents crows from attacking your crops. Has a limited radius (about 8 "tiles").
+
+ Wood (50) Coal (1) Fiber (20)
+
+ Farming (Level 1)
+
+
+
+
+Deluxe Scarecrow
+
+Prevents crows from attacking your crops. Has a large radius (about 16 "tiles").
+
+ Wood (50) Iridium Ore (1) Fiber (40)
+
+Mail, after collecting all 8 Rarecrows
+
+
+
+
+Seed Maker
+
+Place crops inside to produce a varying amount of seeds. Doesn't work with fruit tree crops.
+
+ Wood (25) Coal (10) Gold Bar (1)
+
+ Farming (Level 9)
+
+
+
+
+Charcoal Kiln
+
+Turns 10 pieces of wood into one piece of coal.
+
+ Wood (20) Copper Bar (2)
+
+ Foraging (Level 4)
+
+
+
+
+Recycling Machine
+
+Turns fishing trash into resources.
+
+ Wood (25) Stone (25) Iron Bar (1)
+
+ Fishing (Level 4)
+
+
+
+
+Cask
+
+Use in the cellar to age products like wine and cheese.
+
+ Wood (20) Hardwood (1)
+
+Farmhouse cellar upgrade
+
+
+
+
+Tub o' Flowers
+
+Flowers planted in an oak barrel. Blooms in spring and summer.
+
+ Wood (15) Tulip Bulb (1) Jazz Seeds (1) Poppy Seeds (1) Spangle Seeds (1)
+
+ Pierre's stand at Flower Dance (1,000g)
+
+
+
+
+Tea Sapling
+
+Takes 20 days to mature. Produces tea leaves during the final week of each season, except winter. No watering necessary!
+
+ Wood (5)Wild Seeds (Any) (2) Fiber (5)
+
+Mail after  Caroline's 2+  event
+
+
+
+
+Cookout Kit
+
+Use this to create a cooking campfire, allowing you to cook on-the-go!
+
+ Wood (15) Coal (3) Fiber (10)
+
+ Foraging (Level 9)
+
+Buildings
+
+
+Image
+
+Name
+
+Description
+
+Houses
+
+Cost
+
+Size
+
+
+
+
+House Upgrade 1
+
+Increase house size and adds a Kitchen.
+
+
+
+10,000g Wood (450)
+
+
+
+
+
+
+Barn
+
+Houses 4 barn-dwelling animals.
+
+Cows
+
+6,000g Wood (350) Stone (150)
+
+7x4
+
+
+
+
+Big Barn
+
+Houses 8 barn-dwelling animals. Allows animals to give birth. Unlocks goats.
+
+Goats
+
+12,000g Wood (450) Stone (200)
+
+7x4
+
+
+
+
+Deluxe Barn
+
+Houses 12 barn-dwelling animals. Comes with an auto-feed system. Unlocks sheep and pigs.
+
+Sheep
+Pigs
+
+
+25,000g Wood (550) Stone (300)
+
+7x4
+
+
+
+
+Coop
+
+Houses 4 coop-dwelling animals.
+
+Chickens
+
+4,000g Wood (300) Stone (100)
+
+6x3
+
+
+
+
+Big Coop
+
+Houses 8 coop-dwelling animals. Comes with an incubator. Unlocks ducks.
+
+Ducks
+Dinosaurs
+
+
+10,000g Wood (400) Stone (150)
+
+6x3
+
+
+
+
+Deluxe Coop
+
+Houses 12 coop-dwelling animals. Comes with an auto-feed system. Unlocks rabbits.
+
+Rabbits
+
+20,000g Wood (500) Stone (200)
+
+6x3
+
+
+
+
+Mill
+
+Allows you to mill wheat, beets and rice.
+
+
+
+2,500g Stone (50) Wood (150) Cloth (4)
+
+4x2
+
+
+
+
+Shed
+
+An empty building. Fill it with whatever you like! The interior can be decorated.
+
+
+
+15,000g Wood (300)
+
+7x3
+
+
+
+
+Big Shed
+
+Doubles the size of the shed. The interior can be decorated.
+
+
+
+20,000g Wood (550) Stone (300)
+
+7x3
+
+
+
+
+Plank Cabin
+
+A home for a friend! Subsidized by the town agricultural fund.
+
+1 Farmhand in a Multiplayer game.
+
+100g Wood (5) Fiber (10)
+
+5x3
+
+
+
+
+Log Cabin
+
+A home for a friend! Subsidized by the town agricultural fund.
+
+1 Farmhand in a Multiplayer game.
+
+100g Wood (10)
+
+5x3
+
+
+
+
+Shipping Bin
+
+Items placed in it will be included in the nightly shipment.
+
+
+
+250g Wood (150)
+
+2x1
+
+Gifting
+
+
+Villager Reactions
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Tailoring
+Wood is used in the spool of the Sewing Machine with Cloth in the feed to create a dyeable Basic Pullover.
+
+Male version: 
+Female version: 
+It is a brown dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the orange dye pot at Emily's and Haley's house for use in dyeing.
+
+History
+1.3.27: Increased price of wood at Carpenter's Shop from 10g in year 1 to 50g in year 2+. Added Wood Sign recipe.
+1.4: The Forester Profession no longer increases the sale price of Wood. Added Deluxe Scarecrow and Tea Sapling recipes. Can now be used in Tailoring. Can be produced by Fish Ponds.
+1.5: Used as an ingredient to the Cookout Kit recipe.
+
+
+Resources
+
+
+Basic
+
+Battery Pack • Bone Fragment • Cinder Shard • Clay • Coal • Fiber • Hardwood • Stone • Wood
+
+
+Ore
+
+Copper Ore • Iron Ore • Gold Ore • Iridium Ore • Radioactive Ore
+
+
+Bars
+
+Copper Bar • Iron Bar • Gold Bar • Iridium Bar • Radioactive Bar • Refined Quartz
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Wood&oldid=142895"
+Category: ResourcesHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 14:36.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

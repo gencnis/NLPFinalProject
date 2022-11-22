@@ -1,0 +1,398 @@
+
+
+
+
+
+Green Algae - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Green Algae
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Green Algae
+
+
+
+
+
+It's really slimy.
+
+
+Information
+
+
+
+
+Source
+
+
+Fishing Pole: freshwater
+Green Slimes
+Garbage Cans
+Fish Pond
+
+
+Season
+
+ All
+
+
+
+
+XP
+
+
+Fishing Pole: 3 Fishing XP
+Fish Pond: 16 Fishing XP
+
+
+Energy / Health
+
+
+
+
+
+
+13
+
+
+
+
+
+5
+
+
+
+
+Sell Price
+
+15g
+
+
+Green Algae is an item that can be caught using a Fishing Pole during all seasons at any freshwater location, with the exception of the Farm Pond on the Standard Farm. It is never caught in Crab Pots.
+It is also dropped from Green Slimes (10% chance), and may be produced in Slimejack, Crayfish, Snail, or Periwinkle Fish Ponds.
+Green Algae is displayed in the Fish section of the collection tab, and counts towards the four fishing Achievements.[1]  However, it is otherwise not considered to be a fish, and therefore cannot be sold to Willy at the Fish Shop.
+
+Contents
+
+1 Gifting
+2 Bundles
+3 Recipes
+4 Buildings
+5 Tailoring
+6 Quests
+7 References
+8 History
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Hate
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Bundles
+Green Algae is not used in any bundles.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Algae Soup
+
+It's a little slimy.
+
+ Green Algae (4)
+
+ 75 33
+
+N/A
+
+N/A
+
+ Clint (Mail - 3+ )
+
+100g
+
+
+
+
+Trout Soup
+
+Pretty salty.
+
+ Rainbow Trout (1) Green Algae (1)
+
+ 100 45
+
+ Fishing (+1)
+
+ 4m 39s
+
+
+
+
+
+
+The Queen of Sauce
+
+
+14 Fall, Year 1
+
+
+100g
+
+
+Buildings
+
+
+Image
+
+Name
+
+Description
+
+Cost
+
+Size
+
+
+
+
+Fish Pond
+
+Raise fish and harvest their produce. Fish multiply over time.
+
+5,000g Stone (200) Seaweed (5) Green Algae (5)
+
+5x5
+
+Tailoring
+Green Algae can be used in the spool of the Sewing Machine to create the dyeable Collared Shirt.   It can be used in dyeing, serving as a green dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Quests
+Green Algae may be randomly requested during any season at the "Help Wanted" board outside Pierre's General Store for a reward of 45g and 150 Friendship points.
+2-3 Green Algae may be requested by Bullhead, Carp, Largemouth Bass, or Midnight Carp in a Fish Pond quest to increase the capacity of the pond from 3 to 5.
+References
+
+↑ In the game data (ObjectInformation.xnb) the type assigned to Green Algae is "Fish", but it is not assigned the Fish category (-4).  The label displayed in-game and most uses are controlled by the category.
+
+
+History
+1.4: Added as Fish Pond build material.  Can now be used in Tailoring. Can be requested in Fish Pond quests. Can be produced by Fish Ponds.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Green_Algae&oldid=142572"
+Category: Fishing
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 26 October 2022, at 03:38.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

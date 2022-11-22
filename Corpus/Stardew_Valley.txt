@@ -1,0 +1,405 @@
+
+
+
+
+
+Stardew Valley - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stardew Valley
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+Stardew Valley is an open-ended country-life RPG. You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? It won't be easy. Ever since Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town's most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness! 
+
+Contents
+
+1 History
+
+1.1 Development
+1.2 Publishers
+1.3 Supported platforms
+
+
+2 Current versions
+3 See also
+4 References
+
+
+History
+Development
+
+
+Period
+
+Summary
+
+
+2012–2016(1.0–1.2.33)
+
+The game was developed entirely by ConcernedApe (Eric Barone) up to Stardew Valley 1.2.33, including all art, sound effects, and music. The game is programmed in C# using the Microsoft XNA framework (on Windows) and MonoGame (on Linux and macOS). The art was drawn using Paint.NET, and the game's music and sound effects were composed in Propellerhead Software's Reason. It took four years for ConcernedApe to develop the first public release, during which he posted development updates on stardewvalley.blogspot.com (2012-2013) and the game's official website (2013-present). It was released to the public on February 26th, 2016.
+
+
+2018–2019(1.3–1.3.36)
+
+For Stardew Valley 1.3, ConcernedApe focused on the gameplay and content changes while Tom Coxon (then at Chucklefish) developed the multiplayer code.
+
+
+2019–2020(1.4–1.4.5)
+
+In early 2019, ConcernedApe formed a small development team to continue updating the game. Version 1.4 was developed by ConcernedApe, Arthur Lee (a.k.a. Mr. Podunkian), and Alex Erlandson (a.k.a. zillix).
+
+
+2020–2021(1.5–1.5.6)
+
+Version 1.5 was developed by ConcernedApe and Arthur Lee (a.k.a. Mr. Podunkian).
+
+The official updates on PC are ported to other platforms by specialized porting companies, specifically The Secret Police for mobile and Sickhead Games for console.
+
+Publishers
+Stardew Valley was initially published by London game studio Chucklefish, best known for developing the space sandbox-adventure game Starbound. Stardew Valley is now self-published by ConcernedApe on all platforms (PC, Xbox One, PlayStation 4, PS Vita as of 14 December 2018; Switch as of 01 October 2019; iOS as of 24 October 2021; Android as of 17 March 2022).
+
+Supported platforms
+Stardew Valley is available on PC (Linux, macOS, and Windows), console (PS4, PS Vita, Xbox One, and Switch), and mobile (Android and iOS). A Wii U port was planned but canceled in favor of the Nintendo Switch.
+Dates of first release:
+
+Windows: 26 February 2016;
+Linux and Mac: 29 July 2016;
+PS4 and Xbox One: 14 December 2016;
+Switch: 05 October 2017;
+PS Vita: 22 May 2018 (US), 24 May 2018 (Europe);
+iOS: 24 October 2018;
+Android: 13 March 2019.
+Current versions
+See Version History, Console Version History, and Mobile Version History for release notes.
+
+
+
+Platform
+
+Latest Update
+
+Multiplayer
+
+Mod Support
+
+Save Transfer
+
+Developer
+
+Publisher
+
+
+PC
+
+Linux/Mac/Windows
+
+release notes
+
+1.5.6
+
+Yes
+
+Yes
+
+Yes
+
+ConcernedApe
+
+ConcernedApe
+
+
+Console
+
+Nintendo Switch
+
+release notes
+
+equivalent to 1.5.4
+
+Yes
+
+No
+
+No
+
+Ported bySickhead Games
+
+
+PlayStation 4
+
+release notes
+
+equivalent to 1.5.4
+
+Yes
+
+No
+
+No
+
+
+PlayStation Vita
+
+release notes
+
+equivalent to 1.2.33*
+
+No
+
+No
+
+No
+
+
+Xbox One
+
+release notes
+
+equivalent to 1.5.4
+
+Yes
+
+No
+
+No
+
+
+Mobile
+
+Android
+
+release notes
+
+equivalent to 1.4.5**
+
+No
+
+Yes
+
+Yes***
+
+Ported byThe Secret Police
+
+
+iOS
+
+release notes
+
+equivalent to 1.4.5**
+
+No
+
+No
+
+Yes***
+
+* The PlayStation Vita is no longer receiving content updates and will remain on 1.2.33 [1]
+** The mobile versions do not currently support Simplified Chinese.
+*** Mobile save files can be transferred to PC, but PC 1.5+ saves are not supported on mobile until Android and iOS receive the 1.5 update.
+
+See also
+ConcernedApe
+Developer Blog
+External links:
+Official website
+ConcernedApe on Twitter
+References
+
+↑ https://twitter.com/ConcernedApe/status/1179184692387442688
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Stardew_Valley&oldid=142172"
+Category: Content
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 8 October 2022, at 17:39.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

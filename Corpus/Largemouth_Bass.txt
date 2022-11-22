@@ -1,0 +1,719 @@
+
+
+
+
+
+Largemouth Bass - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Largemouth Bass
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Largemouth Bass
+
+
+
+
+
+A popular fish that lives in lakes.
+
+
+Information
+
+
+
+
+Location
+
+Mountain Lake • Wilderness Farm
+
+
+Time
+
+6am – 7pm
+
+
+Season
+
+ All
+
+
+Weather
+
+Any
+
+
+Difficulty
+
+50
+
+
+Behavior
+
+Mixed
+
+
+Size (inches)
+
+11-31
+
+
+
+
+Fishing XP
+
+19    22    25    31
+
+
+Energy / Health
+
+
+
+
+
+
+38
+
+
+
+
+
+17
+
+
+
+
+53
+
+
+
+
+
+
+		23
+
+
+
+
+
+68
+
+
+
+
+
+30
+
+
+
+
+98
+
+
+
+
+
+44
+
+
+
+
+
+
+
+Sell Prices
+
+
+Base
+ Fisher(+25%)
+ Angler(+50%)
+
+
+
+
+
+
+100g
+
+
+
+125g
+
+
+
+150g
+
+
+
+200g
+
+
+
+
+
+
+
+125g
+
+
+
+156g
+
+
+
+187g
+
+
+
+250g
+
+
+
+
+
+
+
+150g
+
+
+
+187g
+
+
+
+225g
+
+
+
+300g
+
+
+
+
+
+
+
+
+
+
+Artisan Sell Prices
+
+
+Roe
+
+Aged Roe
+
+ Aged Roe (+40%)
+
+
+ 80g
+
+ 160g
+
+ 224g
+
+
+
+
+The Largemouth Bass is a fish that can be caught in the mountain lake during all seasons. It comprises approximately 19% to 20% of all catches there during Spring and Fall, but drops to around 15% during Summer and Winter. It is most likely to be caught when casting farther from shore.[1] It can also be caught on the Wilderness Farm. It may be randomly be found in Garbage Cans, or at the Traveling Cart for 300-1,000g. 
+Largemouth Bass can be caught regardless of time of day using Magic Bait.
+
+Contents
+
+1 Map
+2 Gifting
+3 Bundles
+4 Recipes
+5 Tailoring
+6 Fish Pond
+7 Quests
+8 References
+9 History
+
+
+Map
+Largemouth Bass can be found in the mountain lake.
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Demetrius •  Elliott •  Leo •  Linus •  Pam •  Sebastian •  Willy
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Dwarf •  Emily •  George •  Gus •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Marnie •  Maru •  Penny •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Wizard
+
+
+Hate
+
+ Evelyn •  Haley •  Pierre
+
+Bundles
+Largemouth Bass is used in the  Lake Fish Bundle in the Fish Tank.
+1 gold/iridium quality Largemouth Bass is used in the  Quality Fish Bundle in the Fish Tank (Remixed).
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Crispy Bass
+
+Wow, the breading is perfect.
+
+ Largemouth Bass (1) Wheat Flour (1) Oil (1)
+
+ 90 40
+
+ Magnetism (+64)
+
+ 7m
+
+ Kent (Mail - 3+ )
+
+150g
+
+
+
+
+Maki Roll
+
+Fish and rice wrapped in seaweed.
+
+ Any Fish (1) Seaweed (1) Rice (1)
+
+ 100 45
+
+N/A
+
+N/A
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 1
+
+ Stardrop Saloon for 300g
+
+220g
+
+
+
+
+Quality Fertilizer
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Sap (2) Any Fish (1)
+
+N/A
+
+N/A
+
+N/A
+
+ Farming Level 9
+
+10g
+
+
+
+
+Sashimi
+
+Raw fish sliced into thin pieces.
+
+ Any Fish (1)
+
+ 75 33
+
+N/A
+
+N/A
+
+ Linus (Mail - 3+ )
+
+75g
+
+
+Tailoring
+Largemouth Bass can be used in the spool of the Sewing Machine to create the Fishing Vest.   It can be used in dyeing, serving as a green dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Fish Pond
+Largemouth Bass can be placed in a Fish Pond, where they will reproduce every 3 days. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing three quests. The only possible output is green Largemouth Bass Roe.
+Quests
+
+
+
+Pond Capacity
+
+Quest Item
+
+Fishing XP Granted
+
+
+Before Quest
+
+After Quest
+
+
+3
+5
+10 Bug Meat, 2-3 Clay, 2-3 Green Algae, or 5 Slimes
+35
+
+
+5
+7
+2-3 Common Mushrooms, 1-2 Earth Crystals, or 1 Limestone
+35
+
+
+7
+10
+1 Mudstone, 1 Snail, or 5 Wild Bait
+35
+
+Produce
+
+
+
+Item(s) Produced
+
+Fishing XP Granted
+
+Population
+
+% of Items
+
+Overall Daily Chance
+
+
+ Roe (1)
+
+13
+
+1-10
+90%
+21-86%
+
+
+Nothing
+
+
+
+1-10
+10%
+79-14%
+
+Quests
+Jodi requests a Largemouth Bass in the "Fish Casserole" quest once you've reached 4 hearts with her.  The reward is a cutscene at Jodi's house.
+Item Delivery: One Largemouth Bass may be randomly requested during any season at the "Help Wanted" board outside Pierre's General Store for a reward of 300g and 150 Friendship points.
+Fishing: Demetrius or Willy may randomly request 1-4 Largemouth Bass during any season at the "Help Wanted" board outside Pierre's General Store for a reward of 100g per fish.  (You get to keep the fish).
+Aquatic Overpopulation: Demetrius may request 10 Largemouth Bass to be caught in Spring at the Special Orders board outside the Mayor's Manor for a reward of gold equivalent to selling the fish and the Farm Computer recipe.
+Two Largemouth Bass may be requested by Dorado, Lingcod, or Pike in a Fish Pond quest to increase the capacity of the pond from 5 to 7.
+References
+
+↑ See "Spawn rate" on the Modding fish data page.
+
+
+History
+1.0: Introduced.
+1.4: Updated sprite. Added iridium quality. Can now be used in Tailoring. Can be requested in Fish Pond quests.
+1.5: Is now used in a remixed bundle. Special Order quest added.
+
+
+Fish
+
+
+Legendary
+
+Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish
+
+
+The Beach
+
+Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna
+
+
+River
+
+Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye
+
+
+Mountain Lake
+
+Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye
+
+
+Cindersap Forest Pond
+
+Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye
+
+
+Secret Woods
+
+Carp • Catfish • Woodskip
+
+
+Mines
+
+Ghostfish • Ice Pip • Lava Eel • Stonefish
+
+
+Sewers
+
+Carp • Mutant Carp • Radioactive Carp
+
+
+Desert
+
+Sandfish • Scorpion Carp
+
+
+Mutant Bug Lair
+
+Carp • Slimejack
+
+
+Witch's Swamp
+
+Catfish • Void Salmon
+
+
+Night Market
+
+Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber
+
+
+Crab Pot
+
+Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail
+
+
+Ginger Island
+
+Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray •  Super Cucumber • Tilapia • Tuna
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Largemouth_Bass&oldid=143512"
+Categories: Spring fishSummer fishFall fishWinter fishLake fish
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 13 November 2022, at 01:39.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

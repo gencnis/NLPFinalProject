@@ -1,0 +1,797 @@
+
+
+
+
+
+Stone - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stone
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Stone
+
+
+
+
+
+A common material with many uses in crafting and building.
+
+
+Information 
+
+
+Source:
+
+Rocks • Carpenter's Shop • Fishing
+
+
+Sell Price:
+
+2g
+
+
+Stone is a basic resource obtained by mining rocks with a pickaxe.  Stone can also be purchased from Robin at the Carpenter's Shop, or found in Fishing Treasure Chests.  Stone Golems and Gray Slimes also drop Stone.  Fifty stones can also be received as a gift from Robin at the Feast of the Winter Star.  Stone may also be obtained by digging up an Artifact Spot.  A Stonefish Fish Pond may produce 30 Stone when the population reaches 9. Stone can also be acquired by fishing in the fountain left of the Community Center.
+Normal rocks yield between 1 and 3 stones. Boulders yield 10 stones. 
+Stone is used in various crafting recipes and is also required as a form of payment when purchasing certain buildings and building upgrades at the Carpenter's Shop.  The Desert Trader will sell 1 Fiber in exchange for 5 Stone on Tuesdays.
+
+Contents
+
+1 Purchase Price
+2 Recipes
+3 Buildings
+4 Gifting
+5 Bundles
+6 Tailoring
+7 Quests
+8 Tip
+9 History
+
+
+Purchase Price
+The price of stone at the Carpenter's Shop increases from 20g to 100g starting in year 2.  The player will receive a letter in the mail on Spring 1 of year 2 saying "Notice: The price of raw materials at Robin's shop and Clint's shop has increased."  The gold obtained by selling stone to Robin or through the Shipping Bin is unchanged.
+
+Recipes
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Stone Fence
+
+Lasts longer than a wood fence.
+
+ Stone (2)
+
+ Farming Level 2
+
+
+
+
+Stone Sign
+
+Use an item on this to change what's displayed. The item won't be consumed.
+
+ Stone (25)
+
+Starter
+
+
+
+
+Garden Pot
+
+Grows crops from any season when indoors. Outdoors, it can only house seasonal crops.
+
+ Stone (10) Clay (1) Refined Quartz (1)
+
+ Evelyn cutscene after completing the Greenhouse
+
+
+
+
+Mayonnaise Machine
+
+Turns eggs into mayonnaise.
+
+ Stone (15) Wood (15) Earth Crystal (1) Copper Bar (1)
+
+ Farming Level 2
+
+
+
+
+Preserves Jar
+
+Turns vegetables into pickles and fruit into jam.
+
+ Stone (40) Wood (50) Coal (8)
+
+ Farming Level 4
+
+
+
+
+Cheese Press
+
+Turns milk into cheese.
+
+ Stone (45) Wood (45) Hardwood (10) Copper Bar (1)
+
+ Farming Level 6
+
+
+
+
+Basic Retaining Soil
+
+This soil has a chance of staying watered overnight. Mix into tilled soil.
+
+ Stone (2)
+
+ Farming Level 4
+
+
+
+
+Quality Retaining Soil (2)
+
+This soil has a good chance of staying watered overnight. Mix into tilled soil.
+
+ Stone (3) Clay (1)
+
+ Farming Level 7
+
+
+
+
+Deluxe Retaining Soil
+
+This soil has a 100% chance of staying watered overnight. Mix into tilled soil.
+
+ Stone (5) Fiber (3) Clay (1)
+
+Purchase from Island Trader for  Cinder Shard (50)
+
+
+
+
+Tree Fertilizer
+
+Sprinkle on a wild tree to ensure rapid growth, even in winter. Doesn't work on fruit trees.
+
+ Stone (5) Fiber (5)
+
+ Foraging Level 7
+
+
+
+
+Stone Floor
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Stone (1)
+
+ Carpenter's Shop (100g)
+
+
+
+
+Stone Walkway Floor
+
+Place on the ground to create paths or to decorate your floors.
+
+ Stone (1)
+
+ Carpenter's Shop (200g)
+
+
+
+
+Brick Floor (5)
+
+Place on the ground to create paths or to decorate your floors.
+
+ Stone (5) Clay (2)
+
+ Carpenter's Shop (500g)
+
+
+
+
+Gravel Path
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Stone (1)
+
+Starter
+
+
+
+
+Cobblestone Path
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Stone (1)
+
+Starter
+
+
+
+
+Stepping Stone Path
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Stone (1)
+
+ Carpenter's Shop (100g)
+
+
+
+
+Wicked Statue
+
+There's something unsettling about the looks of this statue.
+
+ Stone (25) Coal (5)
+
+ Krobus (1,000g)
+
+
+
+
+Drum Block
+
+Plays a drum sound when you walk past.
+
+ Stone (10) Copper Ore (2) Fiber (20)
+
+ Robin 6-heart event
+
+
+
+
+Campfire
+
+Provides a moderate amount of light.
+
+ Stone (10) Wood (10) Fiber (10)
+
+Starter
+
+
+
+
+Stone Brazier
+
+Provides a moderate amount of light.
+
+ Stone (10) Coal (1) Fiber (5)
+
+ Carpenter's Shop (400g)
+
+
+
+
+Marble Brazier
+
+Provides a moderate amount of light.
+
+ Stone (100) Marble (1) Aquamarine (1)
+
+ Carpenter's Shop (5,000g)
+
+
+
+
+Furnace
+
+Turns ore and coal into metal bars.
+
+ Stone (25) Copper Ore (20)
+
+ Clint cutscene
+
+
+
+
+Staircase
+
+Use this to move down a level in the mines.
+
+ Stone (99)
+
+ Mining Level 2
+
+
+
+
+Crystalarium
+
+Insert a gem of your choice and it will grow copies.
+
+ Stone (99) Gold Bar (5) Iridium Bar (2) Battery Pack (1)
+
+ Mining Level 9
+
+
+
+
+Recycling Machine
+
+Turns fishing trash into resources.
+
+ Stone (25) Wood (25) Iron Bar (1)
+
+ Fishing Level 4
+
+
+
+
+Warp Totem: Mountains
+
+Warp directly to the mountains. Consumed on use.
+
+ Stone (25) Hardwood (1) Iron Bar (1)
+
+ Foraging Level 7
+
+
+
+
+Bone Mill
+
+Turns bone items into fertilizers.
+
+ Stone (20) Bone Fragment (10) Clay (3)
+
+ Gunther (Special Order)
+
+
+
+
+Geode Crusher
+
+Breaks geodes open automatically. Requires coal to operate.
+
+ Stone (50) Gold Bar (2) Diamond (1)
+
+ Clint (Special Order)
+
+
+
+
+Stone Chest
+
+A place to store your items.
+
+ Stone (50)
+
+ Robin (Special Order)
+
+
+
+
+Thorns Ring
+
+When enemies damage you, they will take damage themselves.
+
+ Stone (50) Bone Fragment (50) Gold Bar (1)
+
+ Combat Level 7
+
+Buildings
+Stone is required to purchase the Junimo Hut from the Wizard's Tower, and for several buildings purchased from the Carpenter's Shop.
+
+
+
+Image
+
+Name
+
+Description
+
+Cost
+
+Size
+
+
+
+
+Junimo Hut
+
+Junimos will harvest crops around the hut for you.
+
+20,000g Stone (200) Starfruit (9) Fiber (100)
+
+3x2
+
+
+
+
+Barn
+
+Houses 4 barn-dwelling animals.
+
+6,000g Wood (350) Stone (150)
+
+7x4
+
+
+
+
+Big Barn
+
+Houses 8 barn-dwelling animals. Allows animals to give birth. Unlocks goats.
+
+12,000g Wood (450) Stone (200)
+
+7x4
+
+
+
+
+Deluxe Barn
+
+Houses 12 barn-dwelling animals. Comes with an auto-feed system. Unlocks sheep and pigs.
+
+25,000g Wood (550) Stone (300)
+
+7x4
+
+
+
+
+Coop
+
+Houses 4 coop-dwelling animals.
+
+4,000g Wood (300) Stone (100)
+
+6x3
+
+
+
+
+Big Coop
+
+Houses 8 coop-dwelling animals. Comes with an incubator. Unlocks ducks.
+
+10,000g Wood (400) Stone (150)
+
+6x3
+
+
+
+
+Deluxe Coop
+
+Houses 12 coop-dwelling animals. Comes with an auto-feed system. Unlocks rabbits.
+
+20,000g Wood (500) Stone (200)
+
+6x3
+
+
+
+
+Mill
+
+Allows you to mill wheat, beets and rice.
+
+2,500g Stone (50) Wood (150) Cloth (4)
+
+4x2
+
+
+
+
+Silo
+
+Allows you to cut and store grass for feed.
+
+100g Stone (100) Clay (10) Copper Bar (5)
+
+3x3
+
+
+
+
+Slime Hutch
+
+Raise up to 20 slimes. Fill water troughs and slimes will create slime balls.
+
+10,000g Stone (500) Refined Quartz (10) Iridium Bar (1)
+
+11x6
+
+
+
+
+Well
+
+Provides a place for you to refill your watering can.
+
+1,000g Stone (75)
+
+3x3
+
+
+
+
+Stone Cabin
+
+A home for a friend! Subsidized by the town agricultural fund.Houses 1 farmhand in a multiplayer game.
+
+100g Stone (10)
+
+5x3
+
+
+
+
+Fish Pond
+
+Raise fish and harvest their produce. Fish multiply over time.
+
+5,000g Stone (200) Seaweed (5) Green Algae (5)
+
+5x5
+
+Gifting
+
+
+Villager Reactions
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Bundles
+99 Stone are required for the  Construction Bundle in the Crafts Room.
+
+Tailoring
+Stone is used in the spool of the Sewing Machine to create the Work Shirt. 
+
+Quests
+Robin may place a Special Order requesting that the farmer mine 1000 pieces of stone within one week, at which point the player may keep the harvested stone. If completed on time, Robin will mail the farmer the recipe to create a Stone Chest.
+Tip
+One method of gathering large quantities of stone is repeatedly entering and exiting the 1st level of The Mines and only breaking boulders.
+History
+1.3.27: Increased price of stone at Carpenter's shop from 20g to 100g in year 2+.  Added Stone Sign and Garden Pot recipes.
+1.4: Used as a building material to the Fish Pond and as an ingredient to the Tree Fertilizer and Brick Floor recipes.  Can now be used in Tailoring. Can be produced by Fish Ponds.
+1.5: Can now be used as decoration in Fish Tanks. Used as an ingredient to the Bone Mill, Deluxe Retaining Soil, Stone Walkway Floor, Geode Crusher, Stone Chest, and Thorns Ring recipes.
+
+
+Resources
+
+
+Basic
+
+Battery Pack • Bone Fragment • Cinder Shard • Clay • Coal • Fiber • Hardwood • Stone • Wood
+
+
+Ore
+
+Copper Ore • Iron Ore • Gold Ore • Iridium Ore • Radioactive Ore
+
+
+Bars
+
+Copper Bar • Iron Bar • Gold Bar • Iridium Bar • Radioactive Bar • Refined Quartz
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Stone&oldid=142901"
+Category: Resources
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 14:40.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

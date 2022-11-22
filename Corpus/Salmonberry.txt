@@ -1,0 +1,607 @@
+
+
+
+
+
+Salmonberry - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Salmonberry
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Salmonberry
+
+
+
+
+
+A spring-time berry with the flavor of the forest.
+
+
+Information 
+
+
+Source:
+
+Foraging
+
+
+Found in:
+
+Bushes throughoutStardew Valley
+
+
+Season:
+
+ 15-18 Spring
+
+
+Healing Effect
+
+
+
+
+
+
+
+25 Energy
+
+
+
+
+35 Energy
+
+
+
+
+45 Energy
+
+
+
+
+65 Energy
+
+
+
+
+
+
+
+11 Health
+
+
+
+
+15 Health
+
+
+
+
+20 Health
+
+
+
+
+29 Health
+
+
+
+Sell Prices
+
+
+Base Price:
+
+Bear's Knowledge:   (×3 Sell Price)
+
+
+
+
+
+
+
+5g
+
+
+
+
+6g
+
+
+
+
+7g
+
+
+
+
+10g
+
+
+
+
+
+
+
+15g
+
+
+
+
+18g
+
+
+
+
+21g
+
+
+
+
+30g
+
+
+
+ Tiller Profession      Sell Prices
+
+
+ (+10% Sell Price)
+
+ +          (×3.3 Sell Price)
+
+
+
+
+
+
+
+5g
+
+
+
+
+11g
+
+
+
+
+
+
+
+16g
+
+
+
+
+33g
+
+
+
+Artisan Sell Prices
+
+
+Base Price:
+
+Artisan Profession:   (+40% Sell Price)
+
+
+
+
+
+
+
+15g
+
+
+
+
+18g
+
+
+
+
+22g
+
+
+
+
+30g
+
+
+
+
+
+60g
+
+
+
+
+
+
+
+21g
+
+
+
+
+25g
+
+
+
+
+30g
+
+
+
+
+42g
+
+
+
+
+
+84g
+
+
+
+The Salmonberry is a foraged fruit found on bushes in Stardew Valley during Salmonberry Season (Spring 15-18).  Bushes can be shaken to knock berries loose by using the Check action. It won't be found in the wild outside those days.  It can be found at any time (randomly) in the Farm Cave if the fruit bat option is chosen.
+Salmonberry has the lowest sell value of any foraged item, making it one of the few fruits that is worth more as a Jelly than a Wine. With Bear's Knowledge, processing Salmonberries into Wine may even result in a loss of money. 
+
+Contents
+
+1 Details
+2 Gifting
+
+2.1 Gifting Salmonberry Wine
+2.2 Gifting Salmonberry Jelly
+
+
+3 Bundles
+4 Recipes
+5 Tailoring
+6 Quests
+7 Tips
+8 History
+
+
+Details
+The number of berries obtained from each salmonberry bush increases as the player's Foraging Skill increases.  At Level 4, two berries will be harvested from each bush instead of one.  At Level 8, three berries will be harvested from each bush.  If Foraging Skill is temporarily increased to 12 or more with a Foraging Buff (by consuming food), then 4 berries will be harvested from each bush.
+Salmonberries harvested from bushes never grant any Foraging XP.
+With the Botanist profession all Salmonberries, from all sources, will be iridium quality.  Otherwise, berries shaken from bushes will always be regular quality, regardless of Foraging skill.  Therefore, the only source of silver and gold quality salmonberries is the Farm Cave.
+Even though Salmonberries are a foraged fruit, they benefit from the +10% Tiller profession price bonus, but the bonus is too small to have an effect unless the player also has the Botanist profession (iridium quality) or Bear's Knowledge. The only exception is Salmonberries found in the Farm Cave, which do not receive the Tiller bonus unless they are combined in a stack with bush Salmonberries (see the fruit page for details.)
+
+Gifting
+
+
+Villager Reactions
+
+
+Like
+
+ Demetrius •  Jodi •  Kent •  Leah •  Linus •  Pam •  Robin •  Sandy •  Shane
+
+
+Dislike
+
+ Abigail •  Alex •  Clint •  Dwarf •  Emily •  George •  Gus •  Haley •  Jas •  Krobus •  Leo •  Lewis •  Marnie •  Maru •  Penny •  Pierre •  Sam •  Sebastian •  Vincent •  Willy •  Wizard
+
+
+Hate
+
+ Caroline •  Elliott •  Evelyn •  Harvey
+
+Gifting Salmonberry Wine
+Salmonberry Wine is the cheapest wine available for gifting.
+
+
+
+Villager Reactions
+
+
+Love
+
+ Harvey •  Leah
+
+
+Like
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Jodi •  Kent •  Krobus •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Pierre •  Robin •  Sam •  Sandy •  Shane •  Willy •  Wizard
+
+
+Hate
+
+ Jas •  Leo •  Penny •  Sebastian •  Vincent
+
+Gifting Salmonberry Jelly
+Salmonberry Jelly is the cheapest jelly available for gifting.
+
+
+
+Villager Reactions
+
+
+Like
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Willy •  Wizard
+
+
+Hate
+
+ Sebastian
+
+
+
+Bundles
+Fifty Salmonberries are an option in the remixed  Forager's Bundle on the Bulletin Board (Remixed)
+Ten Salmonberies are an option in the  Children's Bundle on the Bulletin Board (Remixed).
+Salmonberries can be put into a Keg to make Salmonberry Wine, which can be used in the  Enchanter's Bundle on the Bulletin Board, the cheapest wine option.
+Salmonberry wine can be aged in a Cask to silver quality for the  The Missing Bundle in the abandoned JojaMart.
+Recipes
+Salmonberry is not used in any recipes.
+
+Tailoring
+Salmonberry is used in the spool of the Sewing Machine to create a Shirt.  It can also be used as a red dye in the dye pots, located in Haley's and Emily's house, 2 Willow Lane.
+
+Quests
+Salmonberry is not used in any quests.
+
+Tips
+While the game suggests gathering Salmonberries to get extra cash, its low sell value also makes it a cheap source of energy and health, and an inexpensive gift to those who like it. Salmonberries can be especially valuable in year 1, when energy resources and gift options are limited. Raising Foraging to level 4 in the first two weeks of the game may yield a total harvest of over 400 salmonberries during harvest time (over 10,000 supplemental energy).
+Each bush has a 20% chance to spawn salmonberries on the overnight update. This increases to 50% on a reloaded save, meaning quitting and reloading the game will net an average of 2.5x more berries. Reloads will always generate identical spawns and will not change even if the game is reloaded again. (See this forum post.)
+History
+1.3.27: Added Bear's Knowledge.
+1.4: Can now be used in Tailoring. Fixed how Tiller bonus applies when foraged and non-foraged fruit are combined in one stack.
+
+
+Foraging
+
+
+Basic
+
+Sap
+
+
+Spring
+
+Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish
+
+
+Summer
+
+Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea
+
+
+Fall
+
+Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum
+
+
+Winter
+
+Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root
+
+
+The Beach
+
+Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed
+
+
+The Mines
+
+Cave Carrot • Purple Mushroom • Red Mushroom
+
+
+The Desert
+
+Cactus Fruit • Coconut
+
+
+Skull Cavern
+
+Dinosaur Egg • Fiddlehead Fern
+
+
+Ginger Island
+
+Ginger • Magma Cap
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Salmonberry&oldid=143561"
+Category: Spring Forage
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 15 November 2022, at 13:35.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,393 @@
+
+
+
+
+
+Golden Coconut - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Golden Coconut
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Golden Coconut
+
+
+
+
+
+This is one tough nut to crack, but a professional might be able to break it open.
+
+
+Information 
+
+
+Source:
+
+Foraging • Island Trader • Blue Discus Fish Pond
+
+
+Found in:
+
+Ginger Island
+
+
+Season:
+
+ All
+
+
+Sell Price:
+
+Cannot be sold
+
+
+The Golden Coconut is found throughout Ginger Island and can be obtained by shaking Palm Trees (10% chance when there is a coconut visible) [1], digging Artifact Spots on Ginger Island, or from a Blue Discus Fish Pond with a population of at least 9.
+It can also be purchased from the Island Trader for 10 Coconuts after previously finding and cracking at least one golden coconut.
+Golden Coconuts can be cracked by Clint in the Blacksmith shop for 25g, similar to Geodes. However, unlike Geodes, they cannot be broken by a Geode Crusher.
+
+Contents
+
+1 Contents
+2 Gifting
+3 Tailoring
+4 Tips
+5 References
+6 History
+
+
+Contents
+The first golden coconut to be cracked will always produce a Golden Walnut.
+Afterwards, Golden Coconuts have a chance to produce: 
+
+
+
+Image
+
+Name
+
+Description
+
+Sell Price
+
+Probability
+
+
+
+
+Banana Sapling
+
+Takes 28 days to produce a mature Banana tree. Bears fruit in the summer, or all year round when planted on Ginger Island.
+
+850g
+
+1/7*
+
+
+
+
+Mango Sapling
+
+Takes 28 days to produce a mature Mango tree. Bears fruit in the summer, or all year round when planted on Ginger Island.
+
+850g
+
+1/7*
+
+
+
+
+Pineapple Seeds (5)
+
+Plant these in warm weather. Takes 14 days to mature, and keeps producing fruit after that.
+
+240g
+
+1/7*
+
+
+
+
+Taro Tuber (5)
+
+Plant these in warm weather. Takes 10 days to mature. Grows faster if planted near a body of water.
+
+20g
+
+1/7*
+
+
+
+
+Mahogany Seed
+
+This can be planted to grow a mahogany tree.
+
+100g
+
+1/7*
+
+
+
+
+Fossilized Skull
+
+It's a perfect specimen!
+
+100g
+
+1/7*
+
+
+
+
+Iridium Ore (5)
+
+An exotic ore with many curious properties. Can be smelted into bars.
+
+100g
+
+1/7*
+
+
+
+
+Golden Helmet
+
+It's half of a golden coconut.
+
+N/A
+
+1/20*
+
+
+*After getting the Golden Helmet the probability is set to 0. If the player has not gotten it yet, the probability of getting the other items is actually 19/140 until it is gotten.
+
+Gifting
+
+
+Villager Reactions
+
+
+Hate
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Tailoring
+The Golden Coconut is used in the spool of the Sewing Machine to create the Island Bikini.  It can be used in dyeing, serving as a yellow dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Tips
+The player can skip having to forage by buying 10 Coconuts from the Oasis on Mondays, then trading them with the Island Trader for 1 Golden Coconut.
+References
+
+↑ See TerrainFeatures.Tree::shake in the game code.
+
+
+History
+1.5: Introduced.
+1.5.4: Fixed bug where Palm Trees in the desert would produce Golden Coconuts.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Golden_Coconut&oldid=143249"
+Category: Special itemsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 18:23.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

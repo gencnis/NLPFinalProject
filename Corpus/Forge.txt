@@ -1,0 +1,572 @@
+
+
+
+
+
+Forge - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forge
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+ The Forge Interface
+The Forge is located on Level 10 in the Volcano Dungeon. It is used to upgrade weapons, enchant weapons and tools, combine rings, and change weapon appearances.
+
+Contents
+
+1 Weapon forging
+2 Enchantments
+
+2.1 Combat enchantments
+2.2 Tool enchantments
+
+
+3 Infinity Weapons
+4 Weapon Appearance
+5 Combined Rings
+6 Unforge
+7 Fishing
+8 Secrets
+9 References
+10 History
+
+
+Weapon forging
+A melee weapon (dagger, hammer, or sword) can be forged up to three times to improve its stats. Each forge costs one gem and 10/15/20 Cinder Shards depending on how many times it was previously forged.
+Using a  Diamond as the gem fills all remaining forge levels with random upgrades, but consumes only 10 Cinder Shards.
+Note that "level" refers to the number of times a weapon was forged with the specific gem. So for instance, if a weapon was forged with a Ruby, then an Emerald, and then an Amethyst, the weapon stats will have +10% attack power, +2 speed, and +1 weight.
+
+
+
+Gem
+
+Effect
+
+
+ Amethyst
+
+More  knockback (adds 1 per level).
+
+
+ Aquamarine
+
+More  critical hit chance (adds 4.6% per level).
+
+
+ Emerald
+
+More  weapon speed (adds 2 on the first and third level, 3 on the second level).
+
+
+ Jade
+
+More  critical hit damage (adds 10% per level).
+
+
+ Ruby
+
+More  damage (adds 10% per level to both min and max damage).
+
+
+ Topaz
+
+More  Defense (adds 1 per level).
+
+Enchantments
+A random enchantment can be added to any melee weapon or tool, with the exceptions of the Copper Pan, Scythe, Golden Scythe, and Trash Can. This costs one  Prismatic Shard and 20  Cinder Shards.
+Each weapon or tool can only have one enchantment, and the applied enchantment is random. However, another Prismatic Shard can be used to re-randomize it. Tools track the previous two enchantments applied to them so they're not reselected when reapplying an enchantment.
+Upgrading a tool keeps its enchantment.
+Enchantments are randomized based on the number of times any tool has been enchanted, so reloading the day and enchanting a different tool will change the progression.
+
+Combat enchantments
+Only applies to melee weapons (can't be applied to a slingshot)
+
+
+
+Name
+
+Effect
+
+
+Artful
+
+50% cooldown on special moves. (Stacks multiplicatively with Acrobat for a total of 75% cooldown reduction.)[1]
+
+
+Bug Killer
+
+Double damage to grubs, flies, bugs, Spiders, rock crabs. Allows killing armored bugs.
+
+
+Crusader
+
+50% more damage to mummies, ghosts, skeletons, and void spirits. Prevents mummies from reviving.
+
+
+Vampiric
+
+9% Chance to regain some health on kill. Amount healed is 9% to ≈10.67% of monster's maximum health and does not scale with weapon damage.
+
+
+Haymaker
+
+More fiber is earned when collecting weeds. Also a chance to collect hay. Cutting weeds has a 50% chance of also dropping a fiber, and 33% chance of extra hay (directly into silo on farm, else into inventory).
+
+Tool enchantments
+
+
+Name
+
+Axe
+
+Rod
+
+Hoe
+
+Pick
+
+Can
+
+Effect
+
+
+Auto-Hook
+
+
+
+
+
+
+
+
+
+
+
+Automatically hooks fish/junk when they bite (which starts the fishing minigame if it hooks a fish).
+
+
+Archaeologist
+
+
+
+
+
+
+
+
+
+
+
+Double chance of finding artifacts in artifact spots.
+
+
+Bottomless
+
+
+
+
+
+
+
+
+
+
+
+Infinite water.
+
+
+Efficient
+
+
+
+
+
+
+
+
+
+
+
+No energy drain.
+
+
+Generous
+
+
+
+
+
+
+
+
+
+
+
+50% chance of double item after digging.
+
+
+Master
+
+
+
+
+
+
+
+
+
+
+
+Adds an extra fishing level to the player while held.
+
+
+Powerful
+
+
+
+
+
+
+
+
+
+
+
+Adds 1 extra power level for pickaxe, 2 for axe.
+
+
+Preserving
+
+
+
+
+
+
+
+
+
+
+
+50% chance that bait and tackle aren't consumed on use.
+
+
+Reaching
+
+
+
+
+
+
+
+
+
+
+
+Increased charge-up capacity for greater area of effect.Increases the maximum area of effect to 5x5 tiles.
+
+
+Shaving
+
+
+
+
+
+
+
+
+
+
+
+Extra 3 regular wood from Oak, Maple, Pine, Palm, and Mahogany trees.3 wood from Mushroom trees. Chance of extra hardwood from stumps.Chance of extra produce from giant crops.
+
+
+Swift
+
+
+
+
+
+
+
+
+
+
+
+Tool use is 33% faster.
+
+Infinity Weapons
+A Galaxy Soul can be forged into a galaxy weapon at the cost of 20 Cinder Shards. Doing this 3 times (at a total cost of 3 Galaxy Souls and 60 cinder shards) will turn the weapon into a more powerful "Infinity" weapon. Adding just 1 or 2 does not affect the weapon. The weapons keep their enchantments and forgings when they are made into Infinity weapons.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+
+
+
+Infinity Blade
+
+The true form of the Galaxy Sword.
+
+ Galaxy Sword (1) Galaxy Soul (3) Cinder Shard (60)
+
+
+
+
+Infinity Dagger
+
+The true form of the Galaxy Dagger.
+
+ Galaxy Dagger (1) Galaxy Soul (3) Cinder Shard (60)
+
+
+
+
+Infinity Gavel
+
+The true form of the Galaxy Hammer.
+
+ Galaxy Hammer (1) Galaxy Soul (3) Cinder Shard (60)
+
+Weapon Appearance
+Two weapons can be merged through the forge. The resulting weapon will have all the stats and info of the first weapon, but the appearance of the second weapon. Only weapons of the same type can be merged. Slingshots cannot be merged. The second weapon will be consumed.
+This costs 10 Cinder Shards.
+
+Combined Rings
+Two different rings can be combined into one with stacked effects. This costs 20 Cinder Shards.
+This has two restrictions:
+
+Two of the same ring cannot be combined into one. (However, two different rings with the same effect can be combined, like the Glow Ring and Glowstone Ring. Their effects will stack in the same way as wearing both rings separately.)
+Three or more rings cannot be combined into one. (i.e., a combined ring can't be further combined).
+Unforge
+Weapons and combined rings can be unforged to reset its properties.
+
+For a weapon, unforging removes all forge upgrades (but not enchantments) and resets its appearance.
+For a combined ring, unforge splits it back into the original rings.
+Unforging is free, but only returns some of the Cinder Shards used to forge the item.
+To begin the unforging process, place the item for unforging into the left square slot. Then click the red ⨯ symbol near the bottom right corner. The unforged item(s) will appear in inventory, along with any returned Cinder Shards.
+
+Fishing
+The Forge is the only level of the Volcano Dungeon where fishing can occur. It is one of two locations in the game where players can catch Lava Eels. Crab pots cannot be placed in the forge.
+There is a 5% chance the player can catch a present that contains the painting 'Physics 101'. This painting can only be caught once per player per game.[2]
+If this painting was not caught, the percent chance of hooking a Lava Eel is equivalent to 10 times the fishing zone of the spot fished. Otherwise, Trash will be caught. So for instance, there is a 50% chance to hook a Lava Eel and a 50% chance to hook Trash if the bobber lands in a spot with a fishing zone of 5.[2]
+
+Secrets
+After achieving Perfection, a red monkey can be interacted with to obtain a secret hat.
+The plaque above the Forge contains an enciphered message.
+References
+
+↑ See Tools.MeleeWeapon::doAnimateSpecialMove in the game code.
+
+↑ 2.0 2.1 See StardewValley.Locations.Caldera::getFish in the game code.
+
+
+History
+1.5: Introduced.
+1.5.2: Tools now track the previous two enchantments that were added to them and prevent those enchantments from being selected again.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Forge&oldid=143591"
+Category: GameplayHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 17 November 2022, at 16:29.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

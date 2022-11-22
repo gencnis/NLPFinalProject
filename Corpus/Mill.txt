@@ -1,0 +1,282 @@
+
+
+
+
+
+Mill - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mill
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Mill
+
+
+
+
+
+Allows you to mill wheat, beets and rice.
+
+
+Information
+
+
+Build cost:
+
+2,500g
+
+
+Build materials:
+
+ Stone (50) Wood (150) Cloth (4)
+
+
+Size:
+
+4x2
+
+
+The Mill is a farm building purchasable from Robin at the Carpenter's Shop. It produces flour from wheat, sugar from beets and rice from unmilled rice. It takes two days for Robin to complete its construction.
+
+Behavior
+You can place any quantity of wheat in it to make flour or of beets to make sugar. One wheat makes one flour. One beet makes 3 sugars. One unmilled rice makes 1 rice. All types of produce can be processed in any one day, if desired.
+The milled goods will be ready the morning after the produce is placed in the mill, and they can be found in the little box on the right side of the mill. It acts like a chest (with 36 storage slots), accumulating milled goods until they are retrieved. You can leave current contents there while you process more produce, and the results are added in the next day. The box also signals that it has milled goods in the first slot, like a piece of manufacturing equipment.
+You can put additional items into this box and use it as you do any chest, as long as there are at least 2 different types of items in it. When doing so, however, care must be taken that the box has room for the mill to place its milled goods. These goods are accumulated in slots that already contain milled goods, or if those don't exist, then in the first available open slot(s). If there are not enough available slots overnight, milled goods are lost. If you mill two stacks and only one slot is available, the first stack you place in the mill is saved in that slot, and the other is lost.
+
+Tips
+The box does not signal the presence of any milled goods that are not in the first slot.
+Each Sugar sells for 50g. With Beets at 110g/137g/165g for norm/silv/gold, milling all normal and silver beets will turn a profit of 40g per normal and 13g per silver.
+History
+1.1: Introduced.
+1.4: Added ability to make Rice from Unmilled Rice.  Interacting with a Mill that only has one type of item in it now automatically collects the item instead of opening a chest menu.
+
+
+Buildings
+
+
+Merchants
+
+Abandoned House • Adventurer's Guild • Blacksmith • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower
+
+
+Houses
+
+1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse
+
+
+Farm Buildings
+
+Farming
+
+Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Shed  • Silo • Slime Hutch • Stable • Well
+
+
+Special
+
+Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk
+
+
+Other Buildings
+
+Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Mill&oldid=141335"
+Category: Farm buildings
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 30 August 2022, at 19:45.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

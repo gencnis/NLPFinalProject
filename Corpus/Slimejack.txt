@@ -1,0 +1,752 @@
+
+
+
+
+
+Slimejack - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slimejack
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Slimejack
+
+
+
+
+
+He's coated in a very thick layer of slime. He keeps slipping out of your hands!
+
+
+Information
+
+
+
+
+Location
+
+Mutant Bug Lair
+
+
+Time
+
+Any
+
+
+Season
+
+ All
+
+
+Weather
+
+Any
+
+
+Difficulty
+
+55
+
+
+Behavior
+
+Dart
+
+
+Size (inches)
+
+8-26
+
+
+
+
+Fishing XP
+
+21    24    27    33
+
+
+Energy / Health
+
+
+
+
+
+
+38
+
+
+
+
+
+17
+
+
+
+
+53
+
+
+
+
+
+
+		23
+
+
+
+
+
+68
+
+
+
+
+
+30
+
+
+
+
+98
+
+
+
+
+
+44
+
+
+
+
+
+
+
+Sell Prices
+
+
+Base
+ Fisher(+25%)
+ Angler(+50%)
+
+
+
+
+
+
+100g
+
+
+
+125g
+
+
+
+150g
+
+
+
+200g
+
+
+
+
+
+
+
+125g
+
+
+
+156g
+
+
+
+187g
+
+
+
+250g
+
+
+
+
+
+
+
+150g
+
+
+
+187g
+
+
+
+225g
+
+
+
+300g
+
+
+
+
+
+
+
+
+
+
+Artisan Sell Prices
+
+
+Roe
+
+Aged Roe
+
+ Aged Roe (+40%)
+
+
+ 80g
+
+ 160g
+
+ 224g
+
+
+
+
+The Slimejack is a fish that can be caught in the Mutant Bug Lair during all seasons.
+It's challenging to fish for the Slimejack, as the Mutant Flies inside the Mutant Bug Lair will continuously spawn and attack the player while fishing. To avoid this, fish right at the entrance before any bugs are triggered.
+
+Contents
+
+1 Map
+2 Gifting
+3 Bundles
+4 Recipes
+5 Tailoring
+6 Fish Pond
+7 Quests
+8 History
+
+
+Map
+The Slimejack can be found in the Mutant Bug Lair.
+
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Demetrius •  Elliott •  Leo •  Linus •  Pam •  Sebastian •  Willy
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Dwarf •  Emily •  George •  Gus •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Marnie •  Maru •  Penny •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Wizard
+
+
+Hate
+
+ Evelyn •  Haley •  Pierre
+
+Bundles
+Slimejack is not used in any bundles.
+
+Recipes
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Recipe Source(s)
+Sell Price
+
+
+
+
+Maki Roll
+
+Fish and rice wrapped in seaweed.
+
+ Any Fish (1) Seaweed (1) Rice (1)
+
+ 100 45
+
+
+
+
+
+
+The Queen of Sauce
+
+
+21 Summer, Year 1
+
+ Stardrop Saloon for 300g
+
+220g
+
+
+
+
+Quality Fertilizer
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Sap (2) Any Fish (1)
+
+N/A
+
+ Farming Level 9
+
+10g
+
+
+
+
+Sashimi
+
+Raw fish sliced into thin pieces.
+
+ Any Fish (1)
+
+ 75 33
+
+ Linus (Mail - 3+ )
+
+75g
+
+
+Tailoring
+Slimejack can be used in the spool of the Sewing Machine to create the  Fishing Hat. It can be used in dyeing, serving as a green dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+Fish Pond
+Slimejacks can be placed in a Fish Pond, where they will reproduce every 3 days. The initial pond capacity is 1 fish, but the capacity can be increased to 10 by completing four quests. When the population of the pond reaches 3, the color of the water changes to green. The primary output is green Slimejack Roe, but Green Algae is possible starting at population 3 and several more valuable items are possible starting at population 9.
+Quests
+
+
+
+Pond Capacity
+
+Quest Item
+
+Fishing XP Granted
+
+
+Before Quest
+
+After Quest
+
+
+1
+3
+20 Slimes
+35
+
+
+3
+5
+10 Bug Meat
+35
+
+
+5
+7
+1 Algae Soup or 5 Wild Bait
+35
+
+
+7
+10
+1 Petrified Slime
+35
+
+Produce
+
+
+
+Item(s) Produced
+
+Fishing XP Granted
+
+Population
+
+% of Items
+
+Overall Daily Chance
+
+
+ Roe (1)
+
+13
+
+1-2
+80%
+18-25%
+
+
+3-8
+72%
+28-57%
+
+
+9-10
+46%
+40-44%
+
+
+ Green Algae (1)
+
+10
+
+3-8
+10%
+4-8%
+
+
+9-10
+6%
+6%
+
+
+ Slime (10)
+
+10
+
+9-10
+16%
+14-15%
+
+
+ Slime (30)
+
+10
+
+9-10
+11%
+9-10%
+
+
+ Slime (50)
+
+10
+
+9-10
+7%
+6-7%
+
+
+ Green Slime Egg (1)
+
+50
+
+9-10
+2%
+1.7-1.9%
+
+
+Nothing
+
+
+
+1-2
+20%
+82-75%
+
+
+3-8
+18%
+68-35%
+
+
+9-10
+11%
+23-16%
+
+Quests
+Slimejack is not used in any quests.
+
+History
+1.1: Introduced.
+1.4: Added iridium quality.  Can now be used in Tailoring.
+
+
+Fish
+
+
+Legendary
+
+Angler • Crimsonfish • Glacierfish • Glacierfish Jr. • Legend • Legend II • Ms. Angler • Mutant Carp • Radioactive Carp • Son of Crimsonfish
+
+
+The Beach
+
+Albacore • Anchovy • Crimsonfish • Eel • Flounder • Halibut • Herring • Octopus • Pufferfish • Red Mullet • Red Snapper • Sardine • Sea Cucumber • Son of Crimsonfish • Squid • Super Cucumber • Tilapia • Tuna
+
+
+River
+
+Angler • Bream • Catfish • Chub • Dorado • Glacierfish • Glacierfish Jr. • Lingcod • Ms. Angler • Perch • Pike • Rainbow Trout • Salmon • Shad • Smallmouth Bass • Sunfish • Tiger Trout • Walleye
+
+
+Mountain Lake
+
+Bullhead • Carp • Chub • Largemouth Bass • Legend • Legend II • Lingcod • Midnight Carp • Perch • Rainbow Trout • Sturgeon • Walleye
+
+
+Cindersap Forest Pond
+
+Midnight Carp • Perch • Pike • Smallmouth Bass • Walleye
+
+
+Secret Woods
+
+Carp • Catfish • Woodskip
+
+
+Mines
+
+Ghostfish • Ice Pip • Lava Eel • Stonefish
+
+
+Sewers
+
+Carp • Mutant Carp • Radioactive Carp
+
+
+Desert
+
+Sandfish • Scorpion Carp
+
+
+Mutant Bug Lair
+
+Carp • Slimejack
+
+
+Witch's Swamp
+
+Catfish • Void Salmon
+
+
+Night Market
+
+Blobfish • Midnight Squid • Octopus • Sea Cucumber • Spook Fish • Super Cucumber
+
+
+Crab Pot
+
+Clam • Cockle • Crab • Crayfish • Lobster • Mussel • Oyster • Periwinkle • Shrimp • Snail
+
+
+Ginger Island
+
+Blue Discus • Flounder • Lava Eel • Lionfish • Midnight Carp • Octopus • Pufferfish • Stingray •  Super Cucumber • Tilapia • Tuna
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Slimejack&oldid=142616"
+Categories: Spring fishFall fishWinter fishSummer fish
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 26 October 2022, at 03:45.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

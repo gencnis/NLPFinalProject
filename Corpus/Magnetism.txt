@@ -1,0 +1,385 @@
+
+
+
+
+
+Magnetism - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Magnetism
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+Magnetic Radius, more commonly known as Magnetism, is a statistic that indicates how far away from the player an object can be before it is automatically taken into inventory.  Higher magnetic radius means objects can be further away from the player and be automatically collected.
+
+Rings
+The following rings affect magnetism.
+
+
+
+Image
+
+Name
+
+Description
+
+Effect
+
+Where to Find
+
+Ingredients
+
+Sell Price
+
+
+
+
+Small Magnet Ring
+
+Slightly increases your radius for collecting items.
+
+Increases  Magnetism by one tile. Stacks with itself, the normal Magnet Ring, and the Iridium Band.
+
+
+Reward for completing the  Adventurer's Bundle
+ Fishing Treasure Chests
+Destroying various barrels and boxes in The Mines
+
+N/A
+
+50g
+
+
+
+
+Magnet Ring
+
+Increases your radius for collecting items.
+
+Increases  Magnetism by two tiles. Stacks with itself, the Small Magnet Ring, and the Iridium Band.
+
+
+Enemy drops in The Mines between levels 40-80
+Destroying various barrels and boxes in The Mines
+
+N/A
+
+100g
+
+
+
+
+Glowstone Ring
+
+Emits a constant light, and also increases your radius for collecting items.
+
+Combines the effect of the Glow Ring, and the Magnet Ring.
+
+
+Crafting with  Mining Level 4
+Can be purchased at the Stardew Valley Fair for 1,000
+
+ Solar Essence (5) Iron Bar (5)
+
+100g
+
+
+
+
+Iridium Band
+
+Glows, attracts items, and increases attack damage by 10%.
+
+Combines the effect of the Glow Ring, the Magnet Ring, and the Ruby Ring.
+
+
+Crafting with  Combat Level 9
+ Fishing Treasure Chests
+
+ Iridium Bar (5) Solar Essence (50) Void Essence (50)
+
+1,000g
+
+
+Cooking
+The following Cooked Dishes increase Magnetism.
+
+
+
+Image
+Name
+Description
+Ingredients
+Restores
+Buff(s)
+Buff Duration
+Recipe Source(s)
+Sell Price
+
+
+
+
+Crispy Bass
+
+Wow, the breading is perfect.
+
+ Largemouth Bass (1) Wheat Flour (1) Oil (1)
+
+ 90 40
+
+ Magnetism (+64)
+
+ 7m
+
+ Kent (Mail - 3+ )
+
+150g
+
+
+
+
+Miner's Treat
+
+This should keep your energy up.
+
+ Cave Carrot (2) Sugar (1) Milk (1)
+
+ 125 56
+
+ Mining (+3) Magnetism (+32)
+
+ 5m 35s
+
+ Mining Level 3
+
+200g
+
+
+
+
+Bean Hotpot
+
+It sure is healthy.
+
+ Green Bean (2)
+
+ 125 56
+
+ Max Energy (+30) Magnetism (+32)
+
+ 7m
+
+ Clint (Mail - 7+ )
+
+100g
+
+
+History
+1.5: Introduced Glowstone Ring.
+
+
+Skills & Stats
+
+
+Skills
+
+Farming • Mining • Foraging • Fishing • Combat
+
+
+Stats
+
+Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Magnetism&oldid=138606"
+Category: Buffs
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 11 June 2022, at 11:34.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

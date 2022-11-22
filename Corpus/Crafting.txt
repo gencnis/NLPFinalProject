@@ -1,0 +1,2379 @@
+
+
+
+
+
+Crafting - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crafting
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+ For food items prepared in the kitchen, see Cooking.
+Crafting is the activity of creating a new item as specified by a crafting recipe. Similar to but separate from Cooking, each recipe lists a set of ingredient items that are consumed in each crafting action. The player knows ten crafting recipes at the start of the game, and must learn all others by gaining skills, developing friendships with townsfolk, and purchasing the rest from shops. Unlike cooked items, most (not all) crafted items are inedible.
+The Crafting menu can be accessed by pausing the game (using E/ESC on PC,  on Switch,  on Xbox,  on PlayStation) and navigating to the tab with a hammer icon. The recipes the player knows will be saturated, while recipes with missing ingredients are faded grey. 
+By mousing over each item, a popup shows the materials that you will need. Ingredient names written in red text are not currently in the player's inventory.
+To craft an item, click on the item's icon once you have all the required ingredients. The newly crafted item will appear beneath the player's cursor, and the player can then place it inside their inventory. The crafting screen may expand to multiple pages once the player acquires a larger selection of recipes.
+Crafting recipes are gained by leveling up any skills, purchased from merchants, or received as gifts by gaining friendship points with villagers.
+
+Contents
+
+1 Crafting Recipes
+2 Bombs
+3 Fences
+4 Sprinklers
+5 Artisan Equipment
+6 Fertilizer
+7 Seeds
+8 Decor
+9 Fishing
+10 Rings
+11 Edible Items
+12 Consumables
+13 Lighting
+14 Refining Equipment
+15 Furniture
+16 Storage Equipment
+17 Signs
+18 Misc
+19 Achievements
+20 Crafted goods outside the farm
+21 History
+
+
+Crafting Recipes
+
+
+
+Wood Fence
+
+Stone Fence
+
+Iron Fence
+
+Hardwood Fence
+
+Grass Starter
+
+Gate
+
+Chest
+
+Torch
+
+Scarecrow
+
+Deluxe Scarecrow
+
+
+
+
+Bee House
+
+Keg
+
+Cask
+
+Furnace
+
+Garden Pot
+
+Wood Sign
+
+Stone Sign
+
+
+
+
+Cheese Press
+
+Mayonnaise Machine
+
+Seed Maker
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loom
+
+Oil Maker
+
+Recycling Machine
+
+Worm Bin
+
+Preserves Jar
+
+Charcoal Kiln
+
+Tapper
+
+Lightning Rod
+
+Slime Incubator
+
+Slime Egg-Press
+
+
+Crystalarium
+
+Mini-Jukebox
+
+Sprinkler
+
+Quality Sprinkler
+
+Iridium Sprinkler
+
+
+
+Flute Block
+
+Drum Block
+
+Basic Fertilizer
+
+Tree Fertilizer
+
+
+Quality Fertilizer
+
+Basic Retaining Soil
+
+Quality Retaining Soil
+
+Staircase
+
+Speed-Gro
+
+Deluxe Speed-Gro
+
+Hyper Speed-Gro
+
+Deluxe Fertilizer
+
+
+
+
+Deluxe Retaining Soil
+
+Cherry Bomb
+
+Bomb
+
+Mega Bomb
+
+Explosive Ammo
+
+Transmute (Fe)
+
+Transmute (Au)
+
+Ancient Seeds
+
+Wild Seeds (Sp)
+
+Wild Seeds (Su)
+
+
+Wild Seeds (Fa)
+
+Wild Seeds (Wi)
+
+Fiber Seeds
+
+Tea Sapling
+
+Warp Totem: Farm
+
+Warp Totem: Mountains
+
+Warp Totem: Beach
+
+Warp Totem: Desert
+
+Warp Totem: Island
+
+Rain Totem
+
+
+Cookout Kit
+
+Field Snack
+
+Jack-O-Lantern
+
+Wood Floor
+
+Straw Floor
+
+Weathered Floor
+
+Rustic Plank Floor
+
+Crystal Floor
+
+Stone Floor
+
+Stone Walkway Floor
+
+
+Brick Floor
+
+Wood Path
+
+Gravel Path
+
+Cobblestone Path
+
+Stepping Stone Path
+
+Crystal Path
+
+Wild Bait
+
+Bait (item)
+
+Spinner
+
+Magnet
+
+Note that the Wedding Ring shown below is available only in Multiplayer games.
+
+
+
+
+Trap Bobber
+
+Cork Bobber
+
+Dressed Spinner
+
+Treasure Hunter
+
+Barbed Hook
+
+Oil of Garlic
+
+Life Elixir
+
+Crab Pot
+
+Iridium Band
+
+Wedding Ring
+
+
+
+
+Ring of Yoba
+
+Sturdy Ring
+
+Warrior Ring
+
+Tub o' Flowers
+
+Wooden Brazier
+
+Wicked Statue
+
+Stone Brazier
+
+Gold Brazier
+
+Campfire
+
+Stump Brazier
+
+
+
+
+
+
+
+
+
+
+
+Carved Brazier
+
+Skull Brazier
+
+Barrel Brazier
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marble Brazier
+
+Wood Lamp-post
+
+Iron Lamp-post
+
+Fairy Dust
+
+Bug Steak
+
+Dark Sign
+
+Quality Bobber
+
+Stone Chest
+
+Monster Musk
+
+Mini-Obelisk
+
+
+
+
+Farm Computer
+
+Ostrich Incubator
+
+Geode Crusher
+
+Solar Panel
+
+
+
+
+Bone Mill
+
+Thorns Ring
+
+Glowstone Ring
+
+Heavy Tapper
+
+Hopper
+
+Magic Bait
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bombs
+Bombs are one time use items which cause an explosion, damaging certain objects within their radius. Bombs come in multiple sizes.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Radius
+
+Recipe Source
+
+Sell Price
+
+
+
+
+Cherry Bomb
+
+Generates a small explosion. Stand back!
+
+ Copper Ore (4) Coal (1)
+
+3
+
+ Mining Level 1
+
+50g
+
+
+
+
+Bomb
+
+Generates an explosion. Watch out!
+
+ Iron Ore (4) Coal (1)
+
+5
+
+ Mining Level 6
+
+50g
+
+
+
+
+Mega Bomb
+
+Generates a powerful explosion. Use with extreme caution.
+
+ Gold Ore (4) Solar Essence (1) Void Essence (1)
+
+6-8
+
+ Mining Level 8
+
+50g
+
+Fences
+Fences block players, farm animals, and the spread of grass. The different fence types differ only in appearance and durability.
+Fences will decay over time. When freshly placed, they'll drop the item when demolished. Otherwise they'll not drop an item, and will eventually become visibly damaged. Fences will disappear entirely if left in a damaged state for too long. A shortcut to replacing a damaged fence (other than hitting it with a tool and then replacing it) is to "use" the broken fence while a new fence is equipped in inventory. Your spouse may fix some broken-state fences daily before you leave the house.
+Gates can be used to pass through fences, and closed to keep livestock (and other ground-pathing entities) contained. Torches can be placed on a fence.
+Having a Gold Clock on the farm will prevent fences from decaying.
+
+
+
+Image
+
+Name
+
+Description
+
+Duration
+
+Ingredients
+
+Recipe Source
+
+
+Days
+
+Seasons
+
+
+
+
+Gate
+
+Allows you to pass through a fence.
+
+400
+
+14.3
+
+ Wood (10)
+
+Starter
+
+
+
+
+Wood Fence
+
+Keeps grass and animals contained!
+
+54-58
+
+1.9-2.1
+
+ Wood (2)
+
+Starter
+
+
+
+
+Stone Fence
+
+Lasts longer than a wood fence.
+
+118-122
+
+4.2-4.4
+
+ Stone (2)
+
+ Farming Level 2
+
+
+
+
+Iron Fence (10)
+
+Lasts longer than a stone fence.
+
+248-252
+
+8.8-9.0
+
+ Iron Bar (1)
+
+ Farming Level 4
+
+
+
+
+Hardwood Fence
+
+The most durable type of fence.
+
+558-562
+
+19.9-20.0
+
+ Hardwood (1)
+
+ Farming Level 6
+
+
+Sprinklers
+Sprinklers water crops automatically every morning at 6am.  Sprinklers can be used to automatically water troughs in the Slime Hutch but they cannot water a pet's water bowl.  Sprinklers will also not water plants in Garden Pots. They cannot be placed on sand. 
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Sprinkler
+
+Waters the 4 adjacent tiles every morning.
+
+ Copper Bar (1) Iron Bar (1)
+
+ Farming Level 2
+
+
+
+
+Quality Sprinkler
+
+Waters the 8 adjacent tiles every morning.
+
+ Iron Bar (1) Gold Bar (1) Refined Quartz (1)
+
+ Farming Level 6
+
+
+
+
+Iridium Sprinkler
+
+Waters the 24 adjacent tiles every morning.
+
+ Gold Bar (1) Iridium Bar (1) Battery Pack (1)
+
+ Farming Level 9
+
+This is the range of tiles each sprinkler can water without upgrades:
+
+In addition to crafting them, Sprinklers and Quality Sprinklers may be purchased randomly from the Traveling Cart. Iridium Sprinklers can be purchased every Friday from Krobus for 10,000g each.
+Sprinklers can be upgraded using the Pressure Nozzle or the Enricher.
+
+Artisan Equipment
+Artisan Equipment is used to make Artisan Goods. Each device makes a specific set of goods, and can craft only one item at a time.  Increased production requires multiple devices.
+As with furnaces and all other equipment, the artisan good must be collected from the device before it can be used again.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Mayonnaise Machine
+
+Turns eggs into mayonnaise.
+
+ Wood (15) Stone (15) Earth Crystal (1) Copper Bar (1)
+
+ Farming Level 2
+
+
+
+
+Bee House
+
+Place outside and wait for delicious honey! (Except in Winter).
+
+ Wood (40) Coal (8) Iron Bar (1) Maple Syrup (1)
+
+ Farming Level 3
+
+
+
+
+Preserves Jar
+
+Turns vegetables into pickles and fruit into jam.
+
+ Wood (50) Stone (40) Coal (8)
+
+ Farming Level 4
+
+
+
+
+Cheese Press
+
+Turns milk into cheese.
+
+ Wood (45) Stone (45) Hardwood (10) Copper Bar (1)
+
+ Farming Level 6
+
+
+
+
+Loom
+
+Turns raw wool into fine cloth.
+
+ Wood (60) Fiber (30) Pine Tar (1)
+
+ Farming Level 7
+
+
+
+
+Keg
+
+Place a fruit or vegetable in here. Eventually it will turn into a beverage.
+
+ Wood (30) Copper Bar (1) Iron Bar (1) Oak Resin (1)
+
+ Farming Level 8
+
+
+
+
+Oil Maker
+
+Makes gourmet truffle oil.
+
+ Slime (50) Hardwood (20) Gold Bar (1)
+
+ Farming Level 8
+
+
+
+
+Cask
+
+Use in the cellar to age products like wine and cheese.
+
+ Wood (20) Hardwood (1)
+
+Farmhouse cellar upgrade
+
+Fertilizer
+Main article: Fertilizer
+Fertilizer is used for boosting production on your farm. It may retain water, increase chance of better quality crops, or speed crop growth.  Some types of fertilizer must be used before a seed sprouts, and others may be used at any time.  Only one type of fertilizer can be used on each tilled plot at any time.
+Note:  Each craft of Speed-Gro or Deluxe Speed-Gro produces 5 fertilizer.  Each craft of Quality Retaining Soil produces 2 fertilizer.  The rest produce 1 each.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Basic Fertilizer
+
+Improves soil quality a little, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Sap (2)
+
+ Farming Level 1
+
+
+
+
+Quality Fertilizer
+
+Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Sap (2) Any Fish (1)
+
+ Farming Level 9
+
+
+
+
+Deluxe Fertilizer (5)
+
+Greatly improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Iridium Bar (1) Sap (40)
+
+Purchase from Mr Qi for  20
+
+
+
+
+Speed-Gro (5)
+
+Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil.
+
+ Pine Tar (1) Clam (1)
+
+ Farming Level 3
+
+
+
+
+Deluxe Speed-Gro (5)
+
+Stimulates leaf production. Guaranteed to increase growth rate by at least 25%. Mix into tilled soil.
+
+ Oak Resin (1) Coral (1)
+
+ Farming Level 8
+
+
+
+
+Hyper Speed-Gro
+
+Greatly stimulates leaf production. Guaranteed to increase growth rate by at least 33%. Mix into tilled soil.
+
+ Radioactive Ore (1) Bone Fragment (3) Solar Essence (1)
+
+Purchase from Mr Qi for  30
+
+
+
+
+Basic Retaining Soil
+
+This soil has a chance of staying watered overnight. Mix into tilled soil.
+
+ Stone (2)
+
+ Farming Level 4
+
+
+
+
+Quality Retaining Soil (2)
+
+This soil has a good chance of staying watered overnight. Mix into tilled soil.
+
+ Stone (3) Clay (1)
+
+ Farming Level 7
+
+
+
+
+Deluxe Retaining Soil
+
+This soil has a 100% chance of staying watered overnight. Mix into tilled soil.
+
+ Stone (5) Fiber (3) Clay (1)
+
+Purchase from Island Trader for  Cinder Shard (50)
+
+
+
+
+Tree Fertilizer
+
+Sprinkle on a wild tree to ensure rapid growth, even in winter. Doesn't work on fruit trees.
+
+ Fiber (5) Stone (5)
+
+ Foraging Level 7
+
+Seeds
+Craftable seasonal wild seeds will grow the fruits/vegetables/flowers normally found as forage during the season.  Craftable Ancient Seeds will grow Ancient Fruit.  Craftable Grass Starter acts the same as that purchased from Pierre's General Store; once planted, it will grow and spread grass on the Farm.
+Note: On Ginger Island, growing seasonal wild seeds will often destroy the tilled soil (and fertilizer), leaving untilled soil in their place after harvest.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Wild Seeds (Sp)(Spring Seeds)
+
+An assortment of wild spring seeds.
+(Note: The crafted item is called "Spring Seeds." The recipe produces 10 seeds per craft.)
+
+
+ Wild Horseradish (1) Daffodil (1) Leek (1) Dandelion (1)
+
+ Foraging Level 1
+
+
+
+
+Wild Seeds (Su)(Summer Seeds)
+
+An assortment of wild summer seeds.
+(Note: The crafted item is called "Summer Seeds." The recipe produces 10 seeds per craft.)
+
+
+ Spice Berry (1) Grape (1) Sweet Pea (1)
+
+ Foraging Level 4
+
+
+
+
+Wild Seeds (Fa)(Fall Seeds)
+
+An assortment of wild fall seeds.
+(Note: The crafted item is called "Fall Seeds." The recipe produces 10 seeds per craft.)
+
+
+ Common Mushroom (1) Wild Plum (1) Hazelnut (1) Blackberry (1)
+
+ Foraging Level 6
+
+
+
+
+Wild Seeds (Wi)(Winter Seeds)
+
+An assortment of wild winter seeds.
+(Note: The crafted item is called "Winter Seeds." The recipe produces 10 seeds per craft.)
+
+
+ Winter Root (1) Crystal Fruit (1) Snow Yam (1) Crocus (1)
+
+ Foraging Level 7
+
+
+
+
+Ancient Seeds
+
+Could these still grow?
+
+ Ancient Seed (1)
+
+Donating Ancient Seed to museum
+
+
+
+
+Grass Starter
+
+Place this on your farm to start a new patch of grass.
+
+ Fiber (10)
+
+Purchase from Pierre's for 1,000g
+
+
+
+
+Tea Sapling
+
+Takes 20 days to mature. Produces tea leaves during the final week of each season, except winter. No watering necessary!
+
+Wild Seeds (Any) (2) Fiber (5) Wood (5)
+
+Mail the day after Caroline's 2-heart event
+
+
+
+
+Fiber Seeds (4)
+
+Plant these in any season. Does not require watering. Harvest with the scythe. Takes 7 days to grow.
+
+ Mixed Seeds (1) Sap (5) Clay (1)
+
+ Linus (Special Order)
+
+Decor
+All types of flooring provide a +0.1 boost to Player Speed, but only if the flooring is located outside on The Farm. They also have the indirect benefit of preventing Grass or Trees from growing in heavily used areas, which would otherwise slow down or obstruct movement.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Wood Floor
+
+Place on the ground to create paths or to decorate your floors.
+
+ Wood (1)
+
+Carpenter's Shop for 100g
+
+
+
+
+Rustic Plank Floor
+
+Place on the ground to create paths or to decorate your floors.
+
+ Wood (1)
+
+Carpenter's Shop for 200g
+
+
+
+
+Straw Floor
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Wood (1) Fiber (1)
+
+Carpenter's Shop for 200g
+
+
+
+
+Weathered Floor
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Wood (1)
+
+ Dwarf (500g)
+
+
+
+
+Crystal Floor (5)
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Refined Quartz (1)
+
+ Krobus (500g)
+
+
+
+
+Stone Floor
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Stone (1)
+
+Carpenter's Shop for 100g
+
+
+
+
+Stone Walkway Floor
+
+Place on the ground to create paths or to decorate your floors.
+
+ Stone (1)
+
+Carpenter's Shop for 200g
+
+
+
+
+Brick Floor (5)
+
+Place on the ground to create paths or to decorate your floors.
+
+ Clay (2) Stone (5)
+
+Carpenter's Shop for 500g
+
+
+
+
+Wood Path
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Wood (1)
+
+Starter
+
+
+
+
+Gravel Path
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Stone (1)
+
+Starter
+
+
+
+
+Cobblestone Path
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Stone (1)
+
+Starter
+
+
+
+
+Stepping Stone Path
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Stone (1)
+
+Carpenter's Shop for 100g
+
+
+
+
+Crystal Path (5)
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Refined Quartz (1)
+
+Carpenter's Shop for 200g
+
+Fishing
+Main articles: Tackle, Bait
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Spinner
+
+The shape makes it spin around in the water. Slightly increases the bite-rate when fishing.
+
+ Iron Bar (2)
+
+ Fishing Level 6
+
+
+
+
+Trap Bobber
+
+Causes fish to escape slower when you aren't reeling them in.
+
+ Copper Bar (1) Sap (10)
+
+ Fishing Level 6
+
+
+
+
+Cork Bobber
+
+Slightly increases the size of your "fishing bar".
+
+ Wood (10) Hardwood (5) Slime (10)
+
+ Fishing Level 7
+
+
+
+
+Quality Bobber
+
+Boosts the quality of fish that you catch.
+
+ Copper Bar (1) Sap (20) Solar Essence (5)
+
+ Willy (Special Order)
+
+
+
+
+Treasure Hunter
+
+Fish don't escape while collecting treasures. Also slightly increases the chance to find treasures.
+
+ Gold Bar (2)
+
+ Fishing Level 7
+
+
+
+
+Dressed Spinner
+
+The metal tab and colorful streamers create an enticing spectacle for fish. Increases the bite-rate when fishing.
+
+ Iron Bar (2) Cloth (1)
+
+ Fishing Level 8
+
+
+
+
+Barbed Hook
+
+Makes your catch more secure, causing the "fishing bar" to cling to your catch. Works best on slow, weak fish.
+
+ Copper Bar (1) Iron Bar (1) Gold Bar (1)
+
+ Fishing Level 8
+
+
+
+
+Magnet (3)
+
+Increases the chance of finding treasures when fishing. However, fish aren't crazy about the taste.
+
+ Iron Bar (1)
+
+ Fishing Level 9
+
+
+
+
+Bait (5)
+
+Causes fish to bite faster. Must first be attached to a fishing rod.
+
+ Bug Meat (1)
+
+ Fishing Level 2
+
+
+
+
+Wild Bait (5)
+
+A unique recipe from Linus that gives you a chance to catch two fish at once.
+
+ Fiber (10) Bug Meat (5) Slime (5)
+
+ Linus 4-heart event
+
+
+
+
+Magic Bait (5)
+
+Allows you to catch fish from any season, time, or weather, from whichever type of water you cast into.
+
+ Radioactive Ore (1) Bug Meat (3)
+
+Purchase from Mr Qi for  20
+
+
+
+
+Crab Pot
+
+Place it in the water, load it with bait, and check the next day to see if you've caught anything. Works in streams, lakes, and the ocean.
+
+ Wood (40) Iron Bar (3)
+With Trapper profession:  Wood (25) Copper Bar (2)
+
+
+ Fishing Level 3
+
+Rings
+Main article: Rings
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Sturdy Ring
+
+Cuts the duration of negative status effects in half.
+
+ Copper Bar (2) Bug Meat (25) Slime (25)
+
+ Combat Level 1
+
+
+
+
+Warrior Ring
+
+Occasionally infuses the wearer with "warrior energy" after slaying a monster.
+
+ Iron Bar (10) Coal (25) Frozen Tear (10)
+
+ Combat Level 4
+
+
+
+
+Ring of Yoba
+
+Occasionally shields the wearer from damage.
+
+ Gold Bar (5) Iron Bar (5) Diamond (1)
+
+ Combat Level 7
+
+
+
+
+Thorns Ring
+
+When enemies damage you, they will take damage themselves.
+
+ Bone Fragment (50) Stone (50) Gold Bar (1)
+
+ Combat Level 7
+
+
+
+
+Glowstone Ring
+
+Emits a constant light, and also increases your radius for collecting items.
+
+ Solar Essence (5) Iron Bar (5)
+
+ Mining Level 4
+
+
+
+
+Iridium Band
+
+Glows, attracts items, and increases attack damage by 10%.
+
+ Iridium Bar (5) Solar Essence (50) Void Essence (50)
+
+ Combat Level 9
+
+
+
+
+Wedding Ring
+
+An old Zuzu City tradition... It's used to ask for another farmer's hand in marriage.Note: This recipe is available only in Multiplayer.
+
+ Iridium Bar (5) Prismatic Shard (1)
+
+Traveling Cart for 500g
+
+Edible Items
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Energy
+
+Health
+
+Recipe Source
+
+
+
+
+Field Snack
+
+A quick snack to fuel the hungry forager.
+
+ Acorn (1) Maple Seed (1) Pine Cone (1)
+
+45
+
+18
+
+ Foraging Level 1
+
+
+
+
+Bug Steak
+
+The last resort of the hungry cave diver.
+
+ Bug Meat (10)
+
+45
+
+30
+
+ Combat Level 1
+
+
+
+
+Life Elixir
+
+Restores health to full.
+
+ Red Mushroom (1) Purple Mushroom (1) Morel (1) Chanterelle (1)
+
+200
+
+80
+
+ Combat Level 2
+
+
+
+
+Oil of Garlic
+
+Drink this and weaker monsters will avoid you.
+
+ Garlic (10) Oil (1)
+
+200
+
+80
+
+ Combat Level 6
+
+Consumables
+These items may only be used one time, after which they are consumed. Note that none of the consumables have a confirmation dialogue, and will be used as soon as the button is pressed.
+
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Monster Musk
+
+Spray this on to draw more monsters out of hiding.
+
+ Bat Wing (30) Slime (30)
+
+ Wizard (Special Order)
+
+
+
+
+Fairy Dust
+
+Sprinkle on kegs, furnaces, and other refining equipment to instantly receive their product.
+
+ Diamond (1) Fairy Rose (1)
+
+The Pirate's Wife Quest
+
+
+
+
+Warp Totem: Beach
+
+Warp directly to the beach. Consumed on use.
+
+ Hardwood (1) Coral (2) Fiber (10)
+
+ Foraging Level 6
+
+
+
+
+Warp Totem: Mountains
+
+Warp directly to the mountains. Consumed on use.
+
+ Hardwood (1) Iron Bar (1) Stone (25)
+
+ Foraging Level 7
+
+
+
+
+Warp Totem: Farm
+
+Warp directly to your house. Consumed on use.
+
+ Hardwood (1) Honey (1) Fiber (20)
+
+ Foraging Level 8
+
+
+
+
+Warp Totem: Desert
+
+Warp directly to Calico Desert. Consumed on use.
+
+ Hardwood (2) Coconut (1) Iridium Ore (4)
+
+Desert Trader for  Iridium Bar (10)
+
+
+
+
+Warp Totem: Island
+
+Warp directly to Ginger Island. Consumed on use.
+
+ Hardwood (5) Dragon Tooth (1) Ginger (1)
+
+Volcano Dwarf shop for 10,000g
+
+
+
+
+Rain Totem
+
+Activate to greatly increase the chance for rain tomorrow. Consumed on use.
+
+ Hardwood (1) Truffle Oil (1) Pine Tar (5)
+
+ Foraging Level 9
+
+Lighting
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Torch
+
+Provides a modest amount of light.
+
+ Wood (1) Sap (2)
+
+Starter
+
+
+
+
+Campfire
+
+Provides a moderate amount of light.
+
+ Stone (10) Wood (10) Fiber (10)
+
+Starter
+
+
+
+
+Wooden Brazier
+
+Provides a moderate amount of light.
+
+ Wood (10) Coal (1) Fiber (5)
+
+Carpenter's Shop for 250g
+
+
+
+
+Stone Brazier
+
+Provides a moderate amount of light.
+
+ Stone (10) Coal (1) Fiber (5)
+
+Carpenter's Shop for 400g
+
+
+
+
+Gold Brazier
+
+Provides a moderate amount of light.
+
+ Gold Bar (1) Coal (1) Fiber (5)
+
+Carpenter's Shop for 1,000g
+
+
+
+
+Carved Brazier
+
+Provides a moderate amount of light.
+
+ Hardwood (10) Coal (1)
+
+Carpenter's Shop for 2,000g
+
+
+
+
+Stump Brazier
+
+Provides a moderate amount of light.
+
+ Hardwood (5) Coal (1)
+
+Carpenter's Shop for 800g
+
+
+
+
+Barrel Brazier
+
+Provides a moderate amount of light.
+
+ Wood (50) Solar Essence (1) Coal (1)
+
+Carpenter's Shop for 800g
+
+
+
+
+Skull Brazier
+
+Provides a moderate amount of light.
+
+Before 1.5
+ Hardwood (10) Solar Essence (1) Coal (1)
+After 1.5
+ Bone Fragment (10)
+
+
+Carpenter's Shop for 3,000g
+
+
+
+
+Marble Brazier
+
+Provides a moderate amount of light.
+
+ Marble (1) Aquamarine (1) Stone (100)
+
+Carpenter's Shop for 5,000g
+
+
+
+
+Wood Lamp-post
+
+Provides a good amount of light.
+
+ Wood (50) Battery Pack (1)
+
+Carpenter's Shop for 500g
+
+
+
+
+Iron Lamp-post
+
+Provides a good amount of light.
+
+ Iron Bar (1) Battery Pack (1)
+
+Carpenter's Shop for 1,000g
+
+
+
+
+Jack-O-Lantern
+
+A whimsical fall decoration.
+
+ Pumpkin (1) Torch (1)
+
+ Pierre's stand at Spirit's Eve festival (2,000g)
+
+Refining Equipment
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Charcoal Kiln
+
+Turns 10 pieces of wood into one piece of coal.
+
+ Wood (20) Copper Bar (2)
+
+ Foraging Level 4
+
+
+
+
+Crystalarium
+
+Insert a gem of your choice and it will grow copies.
+
+ Stone (99) Gold Bar (5) Iridium Bar (2) Battery Pack (1)
+
+ Mining Level 9
+
+
+
+
+Furnace
+
+Turns ore and coal into metal bars.
+
+ Copper Ore (20) Stone (25)
+
+ Clint (Morning after collecting 1+ Copper Ore)
+
+
+
+
+Lightning Rod
+
+Collects energy from lightning storms and turns it into battery packs.
+
+ Iron Bar (1) Refined Quartz (1) Bat Wing (5)
+
+ Foraging Level 6
+
+
+
+
+Solar Panel
+
+Slowly generates batteries when left in the sun.
+
+ Refined Quartz (10) Iron Bar (5) Gold Bar (5)
+
+ Caroline (Special Order)
+
+
+
+
+Recycling Machine
+
+Turns fishing trash into resources.
+
+ Wood (25) Stone (25) Iron Bar (1)
+
+ Fishing Level 4
+
+
+
+
+Seed Maker
+
+Place crops inside to produce a varying amount of seeds. Doesn't work with fruit tree crops.
+
+ Wood (25) Coal (10) Gold Bar (1)
+
+ Farming Level 9
+
+
+
+
+Slime Incubator
+
+Hatches slimes eggs into slimes. Allows you to raise slimes outdoors.
+
+ Iridium Bar (2) Slime (100)
+
+ Combat Level 8
+
+
+
+
+Ostrich Incubator
+
+Hatches ostrich eggs into baby ostriches. Place in a barn.
+
+ Bone Fragment (50) Hardwood (50) Cinder Shard (20)
+
+ Complete the Island Field Office Collection
+
+
+
+
+Slime Egg-Press
+
+Compresses 100 pieces of slime into a slime egg. It's a miracle of science!
+
+ Coal (25) Fire Quartz (1) Battery Pack (1)
+
+ Combat Level 6
+
+
+
+
+Tapper
+
+Place on a maple, oak, or pine tree and wait for the reservoir to fill with product!
+
+ Wood (40) Copper Bar (2)
+
+ Foraging Level 3
+
+
+
+
+Heavy Tapper
+
+Place on a maple, oak, or pine tree and wait for the reservoir to fill with product! Works twice as fast as a normal tapper.
+
+ Hardwood (30) Radioactive Bar (1)
+
+Purchase from Mr Qi for  20
+
+
+
+
+Worm Bin
+
+Produces bait on a regular basis. The worms are self-sufficient.
+
+ Hardwood (25) Gold Bar (1) Iron Bar (1) Fiber (50)
+
+ Fishing Level 8
+
+
+
+
+Bone Mill
+
+Turns bone items into fertilizers.
+
+ Bone Fragment (10) Clay (3) Stone (20)
+
+ Gunther (Special Order)
+
+
+
+
+Geode Crusher
+
+Breaks geodes open automatically. Requires coal to operate.
+
+ Gold Bar (2) Stone (50) Diamond (1)
+
+ Clint (Special Order)
+
+
+Furniture
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Tub o' Flowers
+
+Flowers planted in an oak barrel. Blooms in spring and summer.
+
+ Wood (15) Tulip Bulb (1) Jazz Seeds (1) Poppy Seeds (1) Spangle Seeds (1)
+
+ Pierre's stand at Flower Dance (2,000g)
+
+
+
+
+Wicked Statue
+
+There's something unsettling about the looks of this statue.
+
+ Stone (25) Coal (5)
+
+ Krobus' Shop (1,000g)
+
+
+
+
+Flute Block
+
+Plays a flute sound when you walk past.
+
+ Wood (10) Copper Ore (2) Fiber (20)
+
+ Robin 6-heart event
+
+
+
+
+Drum Block
+
+Plays a drum sound when you walk past.
+
+ Stone (10) Copper Ore (2) Fiber (20)
+
+ Robin 6-heart event
+
+Storage Equipment
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Chest
+
+A place to store your items.
+
+ Wood (50)
+
+Starter
+
+
+
+
+Stone Chest
+
+A place to store your items.
+
+ Stone (50)
+
+ Robin special order
+
+
+Signs
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Wood Sign
+
+Use an item on this to change what's displayed. The item won't be consumed.
+
+ Wood (25)
+
+Starter
+
+
+
+
+Stone Sign
+
+Use an item on this to change what's displayed. The item won't be consumed.
+
+ Stone (25)
+
+Starter
+
+
+
+
+Dark Sign
+
+Use an item on this to change what's displayed. The item won't be consumed.
+
+ Bat Wing (5) Bone Fragment (5)
+
+ Krobus (Mail - 3+ )
+
+
+Misc
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Garden Pot
+
+Grows crops from any season when indoors. Outdoors, it can only house seasonal crops.
+
+ Clay (1) Stone (10) Refined Quartz (1)
+
+Evelyn cutscene after completing the Greenhouse
+
+
+
+
+Scarecrow
+
+Prevents crows from attacking your crops. Has a limited radius (about 8 "tiles").
+
+ Wood (50) Coal (1) Fiber (20)
+
+ Farming Level 1
+
+
+
+
+Deluxe Scarecrow
+
+Prevents crows from attacking your crops. Has a large radius (about 16 "tiles").
+
+ Wood (50) Fiber (40) Iridium Ore (1)
+
+Mail the day after collecting all rarecrows
+
+
+
+
+Staircase
+
+Use this to move down a level in the mines.
+
+ Stone (99)
+
+ Mining Level 2
+
+
+
+
+Explosive Ammo (5)
+
+Fire this with the slingshot.
+
+ Iron Bar (1) Coal (2)
+
+ Combat Level 8
+
+
+
+
+Transmute (Fe)
+
+A bar of pure iron.
+
+ Copper Bar (3)
+
+ Mining Level 4
+
+
+
+
+Transmute (Au)
+
+A bar of pure gold.
+
+ Iron Bar (2)
+
+ Mining Level 7
+
+
+
+
+Mini-Jukebox
+
+Allows you to play your favorite tunes.
+
+ Iron Bar (2) Battery Pack (1)
+
+ Gus 5-Heart Event
+
+
+
+
+Mini-Obelisk
+
+Place two on the farm to warp between them.
+
+ Hardwood (30) Solar Essence (20) Gold Bar (3)
+
+ Wizard special order
+
+
+
+
+Farm Computer
+
+Scans the farm and displays useful information.
+
+ Dwarf Gadget (1) Battery Pack (1) Refined Quartz (10)
+
+ Demetrius special order
+
+
+
+
+Hopper
+
+Items placed inside will automatically be loaded into the machine in front of it.
+
+ Hardwood (10) Iridium Bar (1) Radioactive Bar (1)
+
+Purchase from Mr Qi for  50
+
+
+
+
+Cookout Kit
+
+Use this to create a cooking campfire, allowing you to cook on-the-go!
+
+ Wood (15) Fiber (10) Coal (3)
+
+ Foraging Level 9
+
+Achievements
+There are 3 Achievements associated with Crafting.
+
+D.I.Y. (Craft 15 different items)
+Artisan (Craft 30 different items)
+Craft Master (Craft every item)
+In the Options menu, checking the box next to "Show Advanced Crafting Information" will show how many items the player has crafted.  Alternatively, users with access to their saved game files may find the "Stardew Checkup" utility helpful for tracking their Crafting achievement progress.  The utility is located at:  https://mouseypounds.github.io/stardew-checkup/
+
+Crafted goods outside the farm
+It is possible to place chests and other crafted items outside the farm.  Chests are useful for storing gifts close to the homes of Villagers who prefer them or to allow additional storage when Mining, Fishing, or Foraging.  Worm Bins can be placed near fishing spots, Furnaces can be placed at the entrance to The Mines, and entire sections of the Valley may be utilized for Keg or Preserves Jar processing. Common Trees can be planted in tillable soil and tapped.
+If a villager walks through the square where a crafted item was placed, the item will be destroyed. Below are player-created maps to indicate which tiles on the map are safe from villager-pathing. The tiles with the Rotten Plant should be safe.
+Safe-pathing images of the interiors of homes and buildings can be found in the complete image gallery located at https://imgur.com/a/JlRXGlc
+Note that items placed on the docks at the beach may be destroyed by villagers during the Dance of the Moonlight Jellies, or by Emily if married to her.  The image below is accurate for players who do not attend the festival and don't marry Emily.
+Note for v1.5 only: Leo has additional pathing requirements 
+
+
+  Pelican Town as of v1.4 
+  Cindersap Forest 
+  The Bus Stop 
+  The Railroad 
+  Calico Desert 
+  The Beach 
+  The Mountain as of v1.4 
+
+History
+1.1: Added Cask recipe.
+1.3.27: Added Garden Pot, Stone Sign, Wedding Ring, and Wood Sign recipes.
+1.4: Added Brick Floor, Deluxe Scarecrow, Grass Starter, Mini-Jukebox, Tea Sapling, Tree Fertilizer, and Warp Totem: Desert recipes.  Changed Sturdy Ring and Charcoal Kiln recipes.  Decor recipes purchased at the Carpenter's Shop prices reduced.
+1.5: Added Stone Chest, Heavy Tapper, Farm Computer, Hopper, Ostrich Incubator, Bone Mill, Geode Crusher, Solar Panel, Mini-Obelisk, Cookout Kit, Fiber Seeds, Deluxe Retaining Soil, Deluxe Fertilizer, Hyper Speed-Gro, Rustic Plank Floor, Stone Walkway Floor, Warp Totem: Island, Quality Bobber, Bug Steak, Thorns Ring, Glowstone Ring, Monster Musk, Fairy Dust, Dark Sign, and Magic Bait recipes. Changed Skull Brazier recipe.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Crafting&oldid=142022"
+Categories: GameplayCraftingAchievementsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 30 September 2022, at 16:01.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,554 @@
+
+
+
+
+
+Iridium Bar - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iridium Bar
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+
+Iridium Bar
+
+
+
+
+
+A bar of pure iridium.
+
+
+Information 
+
+
+Source:
+
+Furnace Shadow Shaman (0.2%) Shadow Brute (0.2%) Iridium Bat (0.8%) Purple Slime (0.9%)
+
+
+Sell Price:
+
+1,000g
+
+
+Blacksmith Profession:   (+50% Sell Price)
+
+1,500g
+
+
+Crafting
+
+
+Equipment:
+
+ Furnace
+
+
+Time to Craft:
+
+ 8h
+
+
+Ingredients:
+
+ Iridium Ore (5) Coal (1)
+
+
+An Iridium Bar is crafted by smelting 5  Iridium Ore and 1  Coal in a Furnace. Purple Slimes in the Skull Cavern or Slime Hutch have a chance to drop Iridium Bars and Ore when slain.  Shadow Shaman and Shadow Brutes can also drop an Iridium Bar when slain (0.2% chance). Iridium Bats may drop one as well (0.8% chance).  The Traveling Cart may sell an Iridium Bar for 3,000-5,000g.  One Iridium Bar can also be received as a gift from Clint at the Feast of the Winter Star.  Two to three Iridium Bars may occasionally be found in treasure rooms in the Skull Cavern.
+An Iridium Bar can be shipped or sold to Clint at the Blacksmith Shop for 1,000g, or 1,500g with the Blacksmith Profession.
+The Desert Trader in the Calico Desert will trade one Warp Totem: Desert Recipe for 10 Iridium Bars.
+
+Contents
+
+1 Tool Upgrades
+2 Crafting
+3 Buildings
+4 Gifting
+5 Bundles
+6 Tailoring
+7 Quests
+8 Trivia
+9 History
+
+
+Tool Upgrades
+Iridium Bars are required for the final upgrade of tools.
+
+
+
+Image
+
+Name
+
+Cost
+
+Ingredients
+
+
+
+
+Iridium Hoe
+
+25,000g
+
+ Iridium Bar (5)
+
+
+
+
+Iridium Pickaxe
+
+25,000g
+
+ Iridium Bar (5)
+
+
+
+
+Iridium Axe
+
+25,000g
+
+ Iridium Bar (5)
+
+
+
+
+Iridium Watering Can
+
+25,000g
+
+ Iridium Bar (5)
+
+
+
+
+Iridium Trash Can
+
+12,500g
+
+ Iridium Bar (5)
+
+Crafting
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Iridium Sprinkler
+
+Waters the 24 adjacent tiles every morning.
+
+ Iridium Bar (1) Gold Bar (1) Battery Pack (1)
+
+ Farming Level 9
+
+
+
+
+Iridium Band
+
+Glows, attracts items, and increases attack damage by 10%.
+
+ Iridium Bar (5) Solar Essence (50) Void Essence (50)
+
+ Combat Level 9
+
+
+
+
+Crystalarium
+
+Insert a gem of your choice and it will grow copies.
+
+ Iridium Bar (2) Stone (99) Gold Bar (5) Battery Pack (1)
+
+ Mining Level 9
+
+
+
+
+Slime Incubator
+
+Hatches slimes eggs into slimes. Allows you to raise slimes outdoors.
+
+ Iridium Bar (2) Slime (100)
+
+ Combat Level 8
+
+
+
+
+Wedding Ring
+
+An old Zuzu City tradition... It's used to ask for another farmer's hand in marriage.Note: Multiplayer only
+
+ Iridium Bar (5) Prismatic Shard (1)
+
+ Traveling Cart (500g)
+
+
+
+
+Deluxe Fertilizer (5)
+
+Greatly improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.
+
+ Iridium Bar (1) Sap (40)
+
+ Mr. Qi ( 20)
+
+
+
+
+Hopper
+
+Items placed inside will automatically be loaded into the machine in front of it.
+
+ Iridium Bar (1) Hardwood (10) Radioactive Bar (1)
+
+ Mr. Qi ( 50)
+
+Buildings
+Iridium bars are used in these buildings purchased from the Carpenter's Shop and the Wizard's Tower.
+
+
+
+Image
+
+Name
+
+Description
+
+Cost
+
+Size
+
+
+
+
+Slime Hutch
+
+Raise up to 20 slimes. Fill water troughs and slimes will create slime balls.
+
+10,000g Stone (500) Refined Quartz (10) Iridium Bar (1)
+
+11x6
+
+
+
+
+Earth Obelisk
+
+Warps you to the mountains.
+
+500,000g Iridium Bar (10) Earth Crystal (10)
+
+3x2
+
+
+
+
+Water Obelisk
+
+Warps you to the beach.
+
+500,000g Iridium Bar (5) Clam (10) Coral (10)
+
+3x2
+
+
+
+
+Desert Obelisk
+
+Warps you to the desert.
+
+1,000,000g Iridium Bar (20) Coconut (10) Cactus Fruit (10)
+
+3x2
+
+
+
+
+Island Obelisk
+
+Warps you to Ginger Island.
+
+1,000,000g Iridium Bar (10) Dragon Tooth (10) Banana (10)
+
+3x2
+
+Gifting
+
+
+Villager Reactions
+
+
+Love
+
+ Clint •  Krobus •  Maru •  Willy
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Pam •  Penny •  Pierre •  Robin •  Sandy •  Sebastian •  Shane •  Vincent •  Wizard
+
+
+Hate
+
+ Sam
+
+Bundles
+Iridium Bar may be an option in the  remixed Dye Bundle on the Bulletin Board.
+
+Tailoring
+An Iridium Bar is used in the spool of the Sewing Machine with Cloth in the feed to create an  Iridium Breastplate. It is an iridium dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the purple dye pot at Emily's and Haley's house for use in dyeing.
+
+Quests
+The Wizard requests an Iridium Bar by mail on the 5th of Winter (year 2) in the "Staff of Power" Quest.  The reward is 5,000g and 1 Friendship heart.
+1 Iridium Bar is requested by Lava Eel in a Fish Pond quest to increase the capacity of the pond from 7 to 10.
+Willy's Boat needs 5 Iridium Bars to repair the anchor.
+Trivia
+In real life, iridium is a rare silver, brittle metal that can be hazardous in a fine dust and has toxic radioactive isotopes. It is often used to produce hard, durable surfaces for high-precision tools and machine parts. It is the second densest element on the periodic table, being almost twice as dense as lead.
+History
+1.0: Introduced.
+1.1: Used as a building material to the Water Obelisk and Earth Obelisk.
+1.3.27: Used as an ingredient to the Wedding Ring recipe.
+1.4: Used as a building material to the Desert Obelisk. Added Iridium Trash can upgrade. Can now be used in Tailoring. Can be requested in Lava Eel Fish Pond quest.
+1.5: Used as a building material to the Island Obelisk and as an ingredient to the Deluxe Fertilizer and Hopper recipes.
+
+
+Resources
+
+
+Basic
+
+Battery Pack • Bone Fragment • Cinder Shard • Clay • Coal • Fiber • Hardwood • Stone • Wood
+
+
+Ore
+
+Copper Ore • Iron Ore • Gold Ore • Iridium Ore • Radioactive Ore
+
+
+Bars
+
+Copper Bar • Iron Bar • Gold Bar • Iridium Bar • Radioactive Bar • Refined Quartz
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Iridium_Bar&oldid=142995"
+Category: ResourcesHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 15:49.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

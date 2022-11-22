@@ -1,0 +1,435 @@
+
+
+
+
+
+Rice Shoot - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rice Shoot
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Rice Shoot
+
+
+
+
+
+Plant these in the spring. Takes 8 days to mature. Grows faster if planted near a body of water. Harvest with the scythe.
+
+
+Information
+
+
+Crop:
+
+ Unmilled Rice
+
+
+Growth Time:
+
+8 days (6 when irrigated)
+
+
+Season:
+
+
+ Spring
+
+
+
+Sell Price:
+
+20g
+
+
+Purchase Prices
+
+
+ General Store:
+
+40g
+
+
+ JojaMart:
+
+Not sold
+
+
+ Traveling Cart:
+
+100-1,000g
+
+Rice Shoots are a type of seed. Mature plants yield Unmilled Rice. Unmilled Rice is harvested using a Scythe.
+Rice Shoots can be purchased  at Pierre's General Store starting in year 2 and occasionally from the Traveling Cart. They can also be obtained in Fishing Treasure Chests, Artifact Spots (in Spring),  by using the Seed Maker, or as a drop from Grubs (10% chance) in the Mines or Mutant Grubs in the Skull Cavern (Prehistoric Floors) or Mutant Bug Lair. In Winter they can also drop from Haunted Skulls (21.43% chance); in Spring from Wilderness Golems (6.25% chance).
+Rice Shoots planted in most farm tiles take 8 days to mature with watering each day, as with other crops. However, Rice Shoots planted within 3 tiles of a Farm Pond or natural water source (excluding Wells and Fish Ponds) in any direction are considered to be irrigated, as in a rice paddy. Paddies need not be continuous with each other or adjacent to a pond in order to count as irrigated. Irrigated Rice Shoots take only 6 days to mature and do not require watering.
+
+Contents
+
+1 Stages
+2 Notes
+3 Gifting
+4 Maps
+5 References
+6 History
+
+
+Stages
+When harvested, each Rice Shoot gives one Unmilled Rice, with a 10% chance of one or more extra rice (0.11 more rice on average).[1]
+
+
+
+Rice Type
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Harvest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Non-Irrigated
+
+1 Day
+
+2 Days
+
+2 Days
+
+3 Days
+
+Total: 8 Days
+
+
+Irrigated
+
+1 Day
+
+1 Day
+
+1 Day
+
+3 Days
+
+Total: 6 Days
+
+Notes
+Rice Shoots are not sold at Pierre's until year 2, but they can be found in Fishing Treasure Chests, Artifact Spots, and as drops from monsters starting in year 1.
+Gifting
+
+
+Villager Reactions
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Maps
+Shown below are the areas where Rice Shoots are automatically irrigated for each farm type.
+
+
+
+
+
+Standard Farm
+
+
+
+
+
+
+Riverland Farm
+
+
+
+
+
+
+Forest Farm
+
+
+
+
+
+
+Hill-top Farm
+
+
+
+
+
+
+Wilderness Farm
+
+
+
+
+
+
+Four Corners Farm
+
+
+
+
+
+
+Beach Farm
+
+
+
+
+References
+
+↑ The game generates a random number between 0 and 1, and if it is less than 0.1, then another Unmilled Rice will spawn. This repeats until the random number is greater than or equal to 0.1, at which point the chance for an extra Unmilled Rice ends. This, on average, will give 0.11 extra Unmilled Rice. Keep in mind that Luck can also double the amount of extra Unmilled Rice spawned by the above formula.
+
+
+History
+1.4: Introduced.
+
+
+Seeds, Starters, and Saplings
+
+
+Spring
+
+Apricot Sapling • Bean Starter • Cauliflower Seeds • Cherry Sapling • Coffee Beans • Garlic Seeds • Jazz Seeds • Kale Seeds • Parsnip Seeds • Potato Seeds • Rice Shoot • Rhubarb Seeds • Spring Seeds • Strawberry Seeds • Tulip Bulb
+
+
+Summer
+
+Blueberry Seeds • Coffee Beans • Corn Seeds • Hops Starter • Melon Seeds • Orange Sapling • Peach Sapling • Pepper Seeds • Poppy Seeds • Radish Seeds • Red Cabbage Seeds • Spangle Seeds • Summer Seeds • Sunflower Seeds • Starfruit Seeds • Tomato Seeds • Wheat Seeds
+
+
+Fall
+
+Amaranth Seeds • Apple Sapling • Artichoke Seeds • Beet Seeds • Bok Choy Seeds • Corn Seeds • Cranberry Seeds • Eggplant Seeds • Fairy Seeds • Fall Seeds • Grape Starter • Pomegranate Sapling • Pumpkin Seeds • Rare Seed • Sunflower Seeds • Wheat Seeds • Yam Seeds
+
+
+Winter
+
+Winter Seeds
+
+
+Other
+
+Acorn • Ancient Seeds • Banana Sapling • Cactus Seeds • Fiber Seeds • Grass Starter • Mahogany Seed • Mango Sapling • Maple Seed • Mixed Seeds • Mushroom Tree Seed • Pineapple Seeds • Qi Bean • Tea Sapling • Pine Cone • Taro Tuber
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Rice_Shoot&oldid=137951"
+Category: Spring seeds
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 15 May 2022, at 01:03.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

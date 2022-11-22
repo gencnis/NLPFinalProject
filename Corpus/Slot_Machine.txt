@@ -1,0 +1,303 @@
+
+
+
+
+
+Slot Machine - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slot Machine
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+Slot Machines are a mini-game found in the Casino.
+
+
+The player can bet either 10 or 100 Qi coins when using a slot machine. If the results match one of the winning lines, the player receives a multiple of their bet. If there is no match the player loses their bet. 
+Daily Luck and the Luck buff from various food items can increase the chance of winning and the expected return when gambling. Otherwise, rolls are randomly determined.
+
+Winning lines
+There are 10 possible winning lines, each one giving different multipliers.
+
+
+
+Line
+
+Chance[1]
+
+Multiplier
+
+
+
+
+20%
+
+2
+
+
+
+
+10%
+
+3
+
+
+
+
+8%
+
+5
+
+
+
+
+1%
+
+30
+
+
+
+
+0.3%
+
+80
+
+
+
+
+0.2%
+
+120
+
+
+
+
+0.25%
+
+200
+
+
+
+
+0.09%
+
+500
+
+
+
+
+0.06%
+
+1000
+
+
+
+
+0.1%
+
+2500
+
+This is adjusted multiplicatively by daily Luck, increasing by 20% at best or decreasing by 20% at worst with the Special Charm adding 5%. Food buffs add 8% for every point of Luck (e.g., if daily Luck is max and luck from food is 3 then the chance to get 1 cherry is 20% * (1 + 0.2 + 0.24) = 28.8%).
+
+References
+
+↑ See Slots::setSlotResults in the game code.
+
+
+History
+1.4: Recalculated the way random number generation is done, removing repeating pattern exploits.  All Casino games now slightly favor the player rather than the house.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Slot_Machine&oldid=141087"
+Category: Mini-games
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 25 August 2022, at 17:57.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

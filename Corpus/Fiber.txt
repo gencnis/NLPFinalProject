@@ -1,0 +1,1218 @@
+
+
+
+
+
+Fiber - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fiber
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Fiber
+
+
+
+
+
+Raw material sourced from plants.
+
+
+Information 
+
+
+Source:
+
+
+Weeds
+Desert Trader
+Wilderness Golem
+
+
+Seed:
+
+ Fiber Seeds
+
+
+Sell Price:
+
+1g
+
+
+Fiber is a resource obtained by destroying Weeds or harvesting fully-grown Fiber Seeds. Each weed has a 50% chance to drop 1 Fiber when cut with a Scythe, Axe, Pickaxe, Hoe, or Sword, or blown up by a bomb. The Desert Trader will also exchange five stone for one fiber on Tuesdays.
+Weeds that drop Fiber can frequently be found in high quantities on Floors 25-29 and 81-109 of the Mines. The late-game Mutant Bug Lair is also a good source, generating 40-70 fiber from its weeds, which regenerate every few days.
+Wilderness Golems on the Wilderness Farm map have a 90% chance of dropping Fiber, and a 50% chance of dropping a second Fiber, when slain.
+Fiber is always normal quality.
+
+Contents
+
+1 Stages
+2 Crop Growth Calendar
+3 Recipes
+4 Buildings
+5 Gifting
+6 Tailoring
+7 Quests
+8 History
+
+
+Stages
+Shown below are the stages of growth when Fiber is grown from  Fiber Seeds.
+
+
+
+Season
+
+Stage 1
+
+Stage 2
+
+Stage 3
+
+Stage 4
+
+Harvest
+
+
+SpringSummer
+
+
+
+
+
+
+
+
+
+
+
+
+Fall
+
+
+
+
+
+
+
+
+
+
+
+
+Winter
+
+
+
+
+
+
+
+
+
+
+
+
+Days:
+
+1 Day
+
+2 Days
+
+2 Days
+
+2 Days
+
+Total: 7 Days
+
+
+Crop Growth Calendar
+
+
+Base
+
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agriculturist and Speed-Gro Comparison
+
+
+
+
+ Speed-Gro
+
+ Deluxe Speed-Gro
+
+ Hyper Speed-Gro
+
+
+Regular
+
+
+
+
+10%*
+
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25%
+
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33%
+
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Note that the 10% table also applies to the Agriculturist Profession without any fertilizer.
+
+
+ Agriculturist
+
+
+
+
+20%
+
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+35%
+
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43%
+
+
+Mon
+
+Tue
+
+Wed
+
+Thu
+
+Fri
+
+Sat
+
+Sun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recipes
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Grass Starter
+
+Place this on your farm to start a new patch of grass.
+
+ Fiber (10)
+
+ Pierre's General Store (1,000g)
+
+
+
+
+Scarecrow
+
+Prevents crows from attacking your crops. Has a limited radius (about 8 "tiles").
+
+ Fiber (20) Wood (50) Coal (1)
+
+ Farming Level 1
+
+
+
+
+Deluxe Scarecrow
+
+Prevents crows from attacking your crops. Has a large radius (about 16 "tiles").
+
+ Fiber (40) Wood (50) Iridium Ore (1)
+
+Mail, after collecting all 8 Rarecrows
+
+
+
+
+Loom
+
+Turns raw wool into fine cloth.
+
+ Fiber (30) Wood (60) Pine Tar (1)
+
+ Farming Level 7
+
+
+
+
+Worm Bin
+
+Produces bait on a regular basis. The worms are self-sufficient.
+
+ Fiber (50) Hardwood (25) Gold Bar (1) Iron Bar (1)
+
+ Fishing Level 8
+
+
+
+
+Flute Block
+
+Plays a flute sound when you walk past.
+
+ Fiber (20) Wood (10) Copper Ore (2)
+
+ Robin 6-heart event
+
+
+
+
+Drum Block
+
+Plays a drum sound when you walk past.
+
+ Fiber (20) Stone (10) Copper Ore (2)
+
+ Robin 6-heart event
+
+
+
+
+Tree Fertilizer
+
+Sprinkle on a wild tree to ensure rapid growth, even in winter. Doesn't work on fruit trees.
+
+ Fiber (5) Stone (5)
+
+ Foraging Level 7
+
+
+
+
+Tea Sapling
+
+Takes 20 days to mature. Produces tea leaves during the final week of each season, except winter. No watering necessary!
+
+ Fiber (5)Wild Seeds (Any) (2) Wood (5)
+
+Mail after  Caroline's 2+  event
+
+
+
+
+Warp Totem: Farm
+
+Warp directly to your house. Consumed on use.
+
+ Fiber (20) Hardwood (1) Honey (1)
+
+ Foraging Level 8
+
+
+
+
+Warp Totem: Beach
+
+Warp directly to the beach. Consumed on use.
+
+ Fiber (10) Hardwood (1) Coral (2)
+
+ Foraging Level 6
+
+
+
+
+Straw Floor
+
+Place on the ground to create paths or to spruce up your floors.
+
+ Fiber (1) Wood (1)
+
+ Carpenter's Shop (200g)
+
+
+
+
+Wild Bait (5)
+
+A unique recipe from Linus that gives you a chance to catch two fish at once.
+
+ Fiber (10) Slime (5) Bug Meat (5)
+
+ Linus 4-heart event
+
+
+
+
+Wooden Brazier
+
+Provides a moderate amount of light.
+
+ Fiber (5) Wood (10) Coal (1)
+
+ Carpenter's Shop (250g)
+
+
+
+
+Stone Brazier
+
+Provides a moderate amount of light.
+
+ Fiber (5) Stone (10) Coal (1)
+
+ Carpenter's Shop (400g)
+
+
+
+
+Gold Brazier
+
+Provides a moderate amount of light.
+
+ Fiber (5) Gold Bar (10) Coal (1)
+
+ Carpenter's Shop (1,000g)
+
+
+
+
+Campfire
+
+Provides a moderate amount of light.
+
+ Fiber (10) Stone (10) Wood (10)
+
+Starter
+
+
+
+
+Deluxe Retaining Soil
+
+This soil has a 100% chance of staying watered overnight. Mix into tilled soil.
+
+ Fiber (3) Stone (5) Clay (1)
+
+Purchase from Island Trader for  Cinder Shard (50)
+
+
+
+
+Cookout Kit
+
+Use this to create a cooking campfire, allowing you to cook on-the-go!
+
+ Fiber (10) Coal (3) Wood (15)
+
+ Foraging Level 9
+
+Buildings
+Fiber is required to build Junimo Huts, purchased from the Wizard's Tower, as well as Plank Cabins for Multiplayer farms.
+
+
+
+Image
+
+Name
+
+Description
+
+Cost
+
+Size
+
+
+
+
+Junimo Hut
+
+Junimos will harvest crops around the hut for you.
+
+20,000g Stone (200) Starfruit (9) Fiber (100)
+
+3x2
+
+
+
+
+Plank Cabin
+
+A home for a friend! Subsidized by the town agricultural fund.(Houses 1 farmhand in a multiplayer game.)
+
+100g Wood (5) Fiber (10)
+
+5x3
+
+Gifting
+
+
+Villager Reactions
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Tailoring
+Fiber is used in the spool of the Sewing Machine with Cloth in the feed to create a dyeable Basic Pullover.
+
+Male version: 
+Female version: 
+It is a green dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the green dye pot at Emily's and Haley's house for use in dyeing.
+
+Quests
+15 Fiber may be requested by Crayfish, Periwinkle, or Snail in a Fish Pond quest to increase the capacity of the pond from 3 to 5..
+
+History
+1.3.27: Added Plank Cabin.
+1.4: Added Grass Starter, Deluxe Scarecrow, Tree Fertilizer, and Tea Sapling recipes.  Can now be used in Tailoring.  Can be requested in Fish Pond quests.
+1.5: Can now be grown from Fiber Seeds. Used as an ingredient to the Deluxe Retaining Soil and Cookout Kit recipes.
+
+
+Resources
+
+
+Basic
+
+Battery Pack • Bone Fragment • Cinder Shard • Clay • Coal • Fiber • Hardwood • Stone • Wood
+
+
+Ore
+
+Copper Ore • Iron Ore • Gold Ore • Iridium Ore • Radioactive Ore
+
+
+Bars
+
+Copper Bar • Iron Bar • Gold Bar • Iridium Bar • Radioactive Bar • Refined Quartz
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Fiber&oldid=143095"
+Categories: ResourcesMulti-Seasonal crops
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 16:23.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,344 @@
+
+
+
+
+
+Junimo Hut - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Junimo Hut
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Junimo Hut
+
+
+
+
+
+Junimos will harvest crops around the hut for you.
+
+
+Information
+
+
+Build cost:
+
+20,000g
+
+
+Build materials:
+
+ Stone (200) Starfruit (9) Fiber (100)
+
+
+Size:
+
+3x2
+
+
+The Junimo Hut is a type of building purchasable from the Wizard at the Wizard's Tower after finishing the Goblin Problem Quest, and returning the bottle of ink from the witches hut to the wizard.
+The hut houses Junimos, who live on the player's farm and harvest fully-grown crops that are within the hut's vicinity.
+
+Contents
+
+1 Services
+2 Service Limits
+3 Harvesting
+4 Collection
+5 Notes
+6 Gallery
+7 Bugs
+8 History
+
+
+Services
+The Junimos offer their services for harvesting mature crops. Crops include most plants grown on the farm, including flowers and tea leaves, plants that require a scythe to harvest, including fiber, and crops that grow on trellises. Unlike the player, Junimos are able to pass through tiles that contain a trellis or bush, so Junimo harvesting enables trellis plants to be densely planted where a player would be blocked.
+The player does not gain any Farming experience points for a crop harvested by a Junimo. The quality of crops, however, is affected by the player's farming skill level, regardless who does the harvesting.
+Junimo services can be turned off or on by clicking on the Hut and then clicking on the toggle button depicting a green Junimo harvesting a blueberry. 
+
+This feature may be useful when planting, as players are not be able to plant a seed on a tile while a Junimo is standing on it, and are unable to cause the Junimo to move.
+
+Service Limits
+Junimos do not collect crops during winter or when it rains.
+Junimos do not collect "forage" crops grown from Wild Seeds, neither do they collect anything grown in a Garden Pot. They also do not harvest any trees, for fruit, mushroom, seed, or wood.
+Junimos are unable to harvest giant crops, whether Cauliflower, Melon, or Pumpkin, which require an axe. They can only harvest the normal-sized crops.
+
+Harvesting
+The vicinity of a hut is a 17x17 square of tiles centered on its doorway, 8 tiles in each direction plus the doorway itself. The building's footprint also covers one space to each side and above the doorway, six spaces in all. Thus, each Junimo Hut covers a maximum total region of 289 tiles: 283 plus the hut’s footprint.
+Three Junimos emerge from each Junimo Hut first thing in the morning, each harvesting mature crops within range of the hut by picking them one at a time. They stop gathering at 7:10pm (as dark approaches), which is normally enough time to cover the entire area of the hut in a single day. However, Junimos are inefficient harvesters, and obstacles can lower their efficiency enough to prevent complete harvesting in one day. If the entrance to the hut is obstructed, the Junimos may be unable to gather crops at all. Junimos also cease activity if the player ends the game day earlier, or when the player attends a festival.
+
+Collection
+Players can retrieve crops from a hut whenever they'd like. A bag tied with a purple ribbon outside the southeast wall of the hut indicates that there are crops available for collection by the player. This bag holds up to 36 items, and behaves as though it were a Chest, in that players may take out or put things into it. If all 36 spaces in the bag are filled, the crops that the Junimos have harvested are dropped on the ground. The bag disappears after the player collects all goods.
+
+Notes
+It's not necessary to have 9 Starfruit of the same quality to build a Junimo Hut.  The game counts the total number of Starfruit in inventory.
+Secret Note #24 hints at a secret ability of Junimos in Junimo Huts. Placing gems inside the Junimo Hut's storage slots changes the color of the Junimos.
+The appearance of the Junimo Hut changes based on the season.
+Gallery
+
+
+
+
+An example of distance.
+
+
+
+
+
+
+A Junimo harvesting a Pumpkin.
+
+
+
+
+
+
+Using a Junimo Hut for Trellis Crops.
+
+
+
+
+
+
+Junimo Hut in Spring, Summer, Fall, and Winter
+
+
+
+
+Bugs
+If the player harvests a crop at the same time as a Junimo, it will softlock the game.
+History
+1.1: Introduced.
+1.4: Added functionality hinted at in Secret Note #24.
+1.5.2: Fixed Junimos not harvesting crops if the player spent the night on the island or when they're not physically present.
+
+
+Buildings
+
+
+Merchants
+
+Abandoned House • Adventurer's Guild • Blacksmith • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower
+
+
+Houses
+
+1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse
+
+
+Farm Buildings
+
+Farming
+
+Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Shed  • Silo • Slime Hutch • Stable • Well
+
+
+Special
+
+Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk
+
+
+Other Buildings
+
+Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Junimo_Hut&oldid=141269"
+Category: Wizard BuildingsHidden category: Bugs tested in an unknown version
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 29 August 2022, at 21:10.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

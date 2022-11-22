@@ -1,0 +1,985 @@
+
+
+
+
+
+Night Market - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Night Market
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+The Night Market is a festival that occurs between the 15th and 17th of Winter. Various boats and merchants will appear at the docks on The Beach, and offer to sell goods or take the player for a boat ride. The Night Market is open between 5pm and 2am, but the Submarine Ride closes at 11pm, and the Mermaid Boat closes at 12:30am.
+Unlike other festivals, shops and homes throughout Stardew Valley (including those at the beach) are not closed on the days of the Night Market, and time continues to pass during the festival.  Animals also need to be fed during the Night Market event; the game will not automatically consider them to be fed as with other Festivals.
+
+Contents
+
+1 Attractions
+
+1.1 Desert Trader
+1.2 Decoration Boat
+1.3 Famous Painter Lupini
+1.4 Fishing Submarine
+1.5 Magic Shop Boat
+1.6 Mermaid Boat
+1.7 Shrouded Figure
+1.8 Traveling Cart
+
+
+2 Villager Attendees
+3 Mail
+4 Notes
+5 Trivia
+6 History
+
+
+Attractions
+Desert Trader
+Available from 5pm to 2am. The Desert Trader will give the player a free cup of coffee each night.
+
+Decoration Boat
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+Available from 5pm to 2am. The blue boat between the docks sells a variety of purely aesthetic decorations, some of which change with the seasons.  Players can purchase an unlimited number of each decoration.  Decorations can be placed indoors or outdoors.
+The Decoration Boat is the only place where the candy cane decorations can be purchased.  Seasonal Decor and the Seasonal Plants can be purchased at other festivals/shops.
+
+
+
+Permanent Stock 
+
+
+Image
+
+Name
+
+Purchase Price
+
+
+
+
+Big Green Cane
+
+200g
+
+
+
+
+Green Canes
+
+200g
+
+
+
+
+Mixed Cane
+
+200g
+
+
+
+
+Red Canes
+
+200g
+
+
+
+
+Big Red Cane
+
+200g
+
+
+
+
+Plain Torch
+
+800g
+
+
+
+
+Stump Torch
+
+800g
+
+
+
+
+Clouds Banner
+
+1,000g
+
+
+
+
+Seasonal Decor
+
+500g
+
+
+
+
+Seasonal Plant
+
+500g
+
+
+
+
+Seasonal Plant
+
+500g
+
+
+
+
+Seasonal Plant
+
+500g
+
+
+
+
+Seasonal Plant
+
+500g
+
+
+
+
+Seasonal Plant
+
+500g
+
+
+
+
+Seasonal Plant
+
+500g
+
+Famous Painter Lupini
+Available from 5pm to 2am. Famous Painter Lupini sells a different painting each day of the Night Market for 1,200g. The paintings rotate over a 3-year schedule, for a total of 9 paintings.
+
+
+
+Rotating Stock 
+
+
+
+
+
+Image
+
+Name
+
+Sold on Day
+
+Sold in Years
+
+
+
+
+'1000 Years From Now'
+
+Winter 16
+
+2, 5, 8, 11, etc.
+
+
+
+
+'Clouds'
+
+Winter 15
+
+2, 5, 8, 11, etc.
+
+
+
+
+'Land Of Clay'
+
+Winter 17
+
+3, 6, 9, 12, etc.
+
+
+
+
+'Portrait Of A Mermaid'
+
+Winter 16
+
+1, 4, 7, 10, etc.
+
+
+
+
+'Red Eagle'
+
+Winter 15
+
+1, 4, 7, 10, etc.
+
+
+
+
+'Solar Kingdom'
+
+Winter 17
+
+1, 4, 7, 10, etc.
+
+
+
+
+'The Serpent'
+
+Winter 15
+
+3, 6, 9, 12, etc.
+
+
+
+
+'Three Trees'
+
+Winter 17
+
+2, 5, 8, 11, etc.
+
+
+
+
+'Tropical Fish #173'
+
+Winter 16
+
+3, 6, 9, 12, etc.
+
+
+
+Fishing Submarine
+Available to enter from 5pm to 11pm. The Submarine houses a Captain who offers to take the player on a deep-sea fishing tour for 1,000g. Upon accepting, the submarine descends for approximately 30 minutes in-game time, and then a trapdoor opens to allow the player to fish. Simply talking to the Captain again brings the submarine back up, also in about 30 minutes. Fishing can continue until 2am, when the player collapses exhausted. A Warp Totem or Return Scepter can be used to leave, maximizing fishing time without collapse.
+Three fish, Midnight Squid, Spook Fish, and Blobfish, can only be caught in the Submarine, unless the player uses Magic Bait. Additionally, Seaweed, Sea Cucumber, Octopus, and Super Cucumber can be caught here, and there is a rare chance to catch a Pearl.
+The table below shows the chance of catching each item normally while fishing in the submarine.
+
+
+
+Image
+
+Name
+
+% Chance
+
+
+
+
+Blobfish
+
+10%
+
+
+
+
+Spook Fish
+
+16%
+
+
+
+
+Midnight Squid
+
+21%
+
+
+
+
+Sea Cucumber
+
+5%
+
+
+
+
+Super Cucumber
+
+4%
+
+
+
+
+Octopus
+
+2.2%
+
+
+
+
+Pearl
+
+0.4%
+
+
+
+
+Seaweed
+
+41%
+
+
+However, when fishing with an Iridium Rod with a Curiosity Lure, chances of catching some of the items increase. Specifically, the chances of catching a Blobfish, Spook Fish, Super Cucumber, or Pearl is increased with the lure. Consequently, the chances of catching the other items decrease. 
+The table below shows the chance of catching each item while fishing in the submarine with a Curiosity Lure.
+
+
+
+Image
+
+Name
+
+% Chance
+
+
+
+
+Blobfish
+
+20%
+
+
+
+
+Spook Fish
+
+18%
+
+
+
+
+Midnight Squid
+
+17%
+
+
+
+
+Sea Cucumber
+
+4%
+
+
+
+
+Super Cucumber
+
+7%
+
+
+
+
+Octopus
+
+1.6%
+
+
+
+
+Pearl
+
+0.9%
+
+
+
+
+Seaweed
+
+30%
+
+
+Magic Shop Boat
+Available from 5pm to 2am. The magic shop boat is located to the right of Famous Painter Lupini. It sells decorative items, seeds, a unique hat, and a unique fireplace, with different stock each night.  Each item may be purchased in unlimited quantities. Seed sell prices are the same as at Pierre's General Store.
+Note that Garlic Seeds, Red Cabbage Seeds, and Artichoke Seeds are not available until game year 2. Note also that the price of the Cone Hat changes over the 3 days of the Night Market, with the lowest price occurring on Day 2. The Grave Stone sold on Day 1 costs 150g less at the Night Market than it does at the Spirit's Eve Festival. The Log Section sold on Day 3 costs 150g less at the Night Market than it does at the Carpenter's Shop.
+Rarecrows #7 and #8 can be purchased only after earning the first ones by donating items to the Museum.
+
+
+
+Permanent Stock 
+
+
+
+
+
+Winter 15
+
+
+Image
+
+Name
+
+Price
+
+
+
+Grave Stone
+200g
+
+
+
+Stone Frog
+500g
+
+
+
+Cone Hat
+5,000g
+
+
+
+Parsnip Seeds
+20g
+
+
+
+Bean Starter
+60g
+
+
+
+Cauliflower Seeds
+80g
+
+
+
+Potato Seeds
+50g
+
+
+
+Tulip Bulb
+20g
+
+
+
+Kale Seeds
+70g
+
+
+
+Jazz Seeds
+30g
+
+
+
+Garlic Seeds
+40g
+
+
+
+Iridium Fireplace
+15,000g
+
+
+
+Rarecrow #7
+5,000g
+
+
+
+Rarecrow #8
+5,000g
+
+
+
+
+Winter 16
+
+
+Image
+
+Name
+
+Price
+
+
+
+Suit Of Armor
+200g
+
+
+
+Stone Parrot
+500g
+
+
+
+Cone Hat
+2,500g
+
+
+
+Melon Seeds
+80g
+
+
+
+Tomato Seeds
+50g
+
+
+
+Blueberry Seeds
+80g
+
+
+
+Pepper Seeds
+40g
+
+
+
+Wheat Seeds
+10g
+
+
+
+Radish Seeds
+40g
+
+
+
+Poppy Seeds
+100g
+
+
+
+Spangle Seeds
+50g
+
+
+
+Hops Starter
+60g
+
+
+
+Corn Seeds
+150g
+
+
+
+Sunflower Seeds
+200g
+
+
+
+Red Cabbage Seeds
+100g
+
+
+
+Iridium Fireplace
+15,000g
+
+
+
+Rarecrow #7
+5,000g
+
+
+
+Rarecrow #8
+5,000g
+
+
+
+
+Winter 17
+
+
+Image
+
+Name
+
+Price
+
+
+
+Log Section
+200g
+
+
+
+Stone Owl
+500g
+
+
+
+Cone Hat
+10,000g
+
+
+
+Corn Seeds
+150g
+
+
+
+Eggplant Seeds
+20g
+
+
+
+Pumpkin Seeds
+100g
+
+
+
+Bok Choy Seeds
+50g
+
+
+
+Yam Seeds
+60g
+
+
+
+Cranberry Seeds
+240g
+
+
+
+Wheat Seeds
+10g
+
+
+
+Fairy Seeds
+200g
+
+
+
+Amaranth Seeds
+70g
+
+
+
+Grape Starter
+60g
+
+
+
+Sunflower Seeds
+200g
+
+
+
+Artichoke Seeds
+30g
+
+
+
+Iridium Fireplace
+15,000g
+
+
+
+Rarecrow #7
+5,000g
+
+
+
+Rarecrow #8
+5,000g
+
+
+
+Mermaid Boat
+Available from 5pm to 12:30am. Upon entering, a mermaid will appear and begin singing to the player, accompanied by a cutscene. The performance lasts 1 hour and 40 minutes. The player may leave the boat anytime, but leaving will restart the show.
+After the show, clam shells inside the boat can be clicked to play musical notes. Playing the correct notes in the correct sequence will award the player a special item.
+The correct sequence of musical notes can be found in Secret Note #15, although finding the secret note is not required to complete the sequence. The tune played during the mermaid show also indicates the solution. Click below to see the solution and information about the special item awarded.
+
+
+
+Solution 
+
+
+When played in the order 1-5-4-2-3 (left to right), the player will be awarded with a Pearl. Only one Pearl can be obtained in the Mermaid Boat by each player per each saved game, but the Mermaid Show can be viewed repeatedly by exiting and re-entering the boat at any time. There are also other ways of obtaining Pearls which are unaffected by obtaining this Pearl.
+
+Shrouded Figure
+Available from 5pm to 2am. The Shrouded Figure offers to teleport the player back to their farm for 250g. It functions the same as the Warp Totem: Farm.
+
+Traveling Cart
+Available from 5pm to 2am. The Traveling Cart makes an appearance at the docks with the cart on a raft and the pig in a life-preserver.  A selection of the usual items is sold (with a new re-randomized stock for each of the 3 days), including the Wedding Ring recipe in a Multiplayer game.
+
+Villager Attendees
+Unlike other Festivals, villagers can be seen deviating from their normal schedules to walk to the beach to attend the Night Market.  These villagers cannot be found outside the Night Market during the festival.  The lists below show which villagers attend on which days each year.
+Note that it's possible to complete Gathering, Slaying Monsters, and Fishing Quests during the Night Market.  Talking to the villager will complete the quest, before scripted festival dialogue occurs.
+Villagers who are married to the player do not attend the Night Market, but instead follow their normal Monday/Tuesday/Wednesday marriage schedules.
+If Robin is working on constructing a building on the Farm, she will not attend the Night Market.
+
+
+Winter 15
+
+ Abigail Clint Emily Harvey Jas Leah Leo Linus Penny Shane
+
+
+Winter 16
+
+ Caroline Demetrius Haley Lewis Marnie Maru Robin Sebastian Vincent
+
+
+Winter 17
+
+ Alex Elliott Evelyn George Jodi Sam
+
+
+Mail
+
+
+
+“
+
+“Starting tomorrow, a traveling merchant fleet will dock at Pelican Town for the yearly night market.The market starts at 5pm, and will be in port for the next three days.Please visit the beach after 5pm to join the festivities.  There's free coffee!”
+
+
+Notes
+Since the game uses a unique beach map during festival days, items a player has placed on the beach (Crab Pots, Chests, etc.) may disappear during the Night Market. These items should return on Winter 18.
+Additionally, Artifact Spots and forage items usually found on the beach will be unavailable due to the festival, but will continue to spawn nightly. Tilling sand will still yield the usual Clay, Snow Yams, and Winter Roots.
+Shimmering lights may appear in the water, and the Copper Pan can be used on them to obtain ores, gems, etc.
+Trivia
+ Mermaid
+The 'Red Eagle' painting from Famous Painter Lupini is in the art style of the Native American tribe Hopi.
+Occasionally, a mermaid may be seen swimming up past the window behind the submarine captain.
+History
+1.3.27: Introduced.
+1.4: Coffee merchant now sells only one cup per night. Removed exploit where time was paused during submarine ride ascent/descent by opening the player menu in singleplayer games. Removed time pause during mermaid show when opening menu. Fixed bug preventing Shane from attending Night Market. Can no longer place items at the Beach during the Night Market.
+1.4.1: Can now purchase museum rarecrows from the magic shop boat once earned by donating items. Coffee Merchant is now the Desert Trader.
+1.5: Fish can now be caught when fishing outside of the submarine ride, not just trash. Fixed bug where museum-related rarecrows were not sold at the magic shop boat after being unlocked. Fixed bug in multiplayer where multiple people getting the free coffee gift at the same time could prevent anyone from getting it.
+
+
+Festivals
+
+
+Spring
+
+Egg Festival • Flower Dance
+
+
+Summer
+
+Luau • Dance of the Moonlight Jellies
+
+
+Fall
+
+Stardew Valley Fair • Spirit's Eve
+
+
+Winter
+
+Festival of Ice • Night Market • Feast of the Winter Star
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Night_Market&oldid=141496"
+Category: Winter festivalsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 6 September 2022, at 03:12.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

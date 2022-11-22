@@ -1,0 +1,368 @@
+
+
+
+
+
+Bait - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bait
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+This article is about the item category. For the item, see Bait (item).
+Bait can be attached to a Fiberglass Rod or an Iridium Rod, or inserted into a Crab Pot. Fishing rods do not require bait, but fish will bite faster with bait; specialized baits provide additional benefits. Crab Pots require bait to catch fish (unless the player has the Luremaster profession), but there is no difference when using specialized types of bait. Bait is always a single-use item.
+
+Use
+To attach bait to a fishing rod, open the inventory, click on the bait ( left-click or  right-click, depending on how many bait will be used), and then  on the rod.  To remove bait,  on the rod.  
+Each cast uses one piece of bait or one magnet.  When all bait is used up, the game pops up a notification saying "You've used your last piece of bait."
+On an Xbox controller, press  on the bait to select the whole stack (or  to pick up a single one), then  to attach to the rod.
+On a PS4 controller, press  on the bait to select the whole stack (or  to pick up a single one), then  to attach to the rod.
+On a Nintendo Switch Controller, Press  on the bait to select the whole stack (Or  to pick up a single one), then  to attach to the rod.
+Bait can be detached by pressing  on either Controller. ( on Nintendo Switch)
+For the mobile version, bait can be added to the fishing rod by opening the inventory, then dragging the bait and dropping it on top of the rod.
+
+
+Bait Items
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+
+
+Image
+
+Name
+
+Description
+
+Notes
+
+Purchase
+
+Crafting
+
+
+
+
+Bait
+
+Causes fish to bite faster. Must first be attached to a fishing rod.
+
+Default bait, decreases the time taken for fish to bite (reduces the delay before a nibble by 50%) and lowers chance of getting trash items.  The recipe is earned at Fishing Level 2.
+
+5g
+
+ Bug Meat (1)
+
+
+
+
+Magnet
+
+Increases the chance of finding treasures when fishing. However, fish aren't crazy about the taste.
+
+Increases the treasure chance by 15% (30% base chance instead of 15%).  Despite the description, the bite rate is the same as for standard bait.  The recipe is earned at Fishing level 9.
+
+1,000g
+
+ Iron Bar (1)
+
+
+
+
+Wild Bait
+
+A unique recipe from Linus that gives you a chance to catch two fish at once.
+
+Decreases the time taken for fish to bite slightly more than standard bait, reducing the delay before a nibble by 62.5%. Does not provide a chance to catch two of a type of Legendary Fish. The recipe is obtained from Linus' 4-heart event.
+
+N/A
+
+ Fiber (10) Slime (5) Bug Meat (5)
+
+
+
+
+Magic Bait
+
+Allows you to catch fish from any season, time, or weather, from whichever type of water you cast into.
+
+20 Magic Bait will be received when purchased. The recipe can also be purchased from Qi's Walnut Room for  20. The bite rate is the same as for standard bait.
+
+ 5
+
+ Radioactive Ore (1) Bug Meat (3)
+
+History
+1.5: Added Magic Bait.
+
+
+
+
+Equipment
+
+
+Artisan
+
+Bee House • Cask • Cheese Press • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar
+
+
+Refining
+
+Bone Mill • Charcoal Kiln • Crystalarium • Furnace • Geode Crusher • Heavy Tapper • Lightning Rod • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin
+
+
+Farming
+
+Fertilizer
+
+Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil •  Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer
+
+
+Sprinklers
+
+Iridium Sprinkler • Quality Sprinkler • Sprinkler
+
+
+Other
+
+Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow
+
+
+Fishing
+
+Bait
+
+Bait • Magic Bait • Magnet • Wild Bait
+
+
+Tackle
+
+Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Spinner • Trap Bobber • Treasure Hunter
+
+
+Other
+
+Crab Pot
+
+
+Bombs
+
+Bomb • Cherry Bomb • Mega Bomb
+
+
+Fences
+
+Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence
+
+
+Storage
+
+Chest • Junimo Chest • Mini-Fridge • Stone Chest
+
+
+Signs
+
+Dark Sign • Stone Sign • Wood Sign
+
+
+Misc
+
+Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Jukebox • Sewing Machine • Staircase • Telephone • Tools • Workbench
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Bait&oldid=139552"
+Category: BaitHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 3 July 2022, at 02:49.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

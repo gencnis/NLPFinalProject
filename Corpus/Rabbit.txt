@@ -1,0 +1,364 @@
+
+
+
+
+
+Rabbit - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rabbit
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Rabbit
+
+
+
+
+
+These are wooly rabbits! They shed precious wool every few days.  Lives in the coop.
+
+
+Information
+
+
+Building
+
+ Deluxe Coop
+
+
+Purchase Price
+
+8,000g
+
+
+Produce
+
+ Rabbit's Foot Wool
+
+
+The Rabbit is a farm animal that lives in a Deluxe Coop. Rabbits can be purchased at Marnie's Ranch for 8,000g. A rabbit cannot reproduce. A rabbit makes a soft sniffing sound when it is pet.
+
+Contents
+
+1 Produce
+2 Selling
+3 Trivia
+4 References
+
+
+Produce
+Main article: Animals#Produce
+Rabbits who eat every day mature after 6 nights have passed. A mature and fed rabbit produces Wool every 4 days, which sells for 340g. They will drop it on their own so they do not need to be sheared. Once sufficient friendship and happiness is reached, a rabbit may produce a Rabbit's Foot instead of wool, which sells for 565g.
+Wool can be placed in a Loom to produce Cloth, which sells for 470g.
+
+
+
+Image
+
+Name
+
+Description
+
+Sell Price
+
+
+
+
+Wool
+
+Soft, fluffy wool.
+
+
+
+
+
+
+340g
+
+
+
+
+425g
+
+
+
+
+510g
+
+
+
+
+680g
+
+
+
+
+
+Rabbit's Foot
+
+Some say it's lucky.
+
+
+
+
+
+
+565g
+
+
+
+
+706g
+
+
+
+
+847g
+
+
+
+
+1,130g
+
+
+Selling
+Rabbits can be sold. The selling price is dependent on how many hearts the animal has (10,400g max).
+To sell a coop or barn animal, right-click the animal after petting. The friendship/mood interface appears. Move the cursor over the gold coin button at the right to see how much the animal can be sold for. Click that button and the confirmation that follows to complete the sale.
+
+Trivia
+Rabbits are the only raisable animal that can't reproduce. Ironically, they're also one of the only animals in the game for which both male and female animals are possible (Pigs being the only others), and therefore biologically should be able to reproduce.[1]
+References
+
+↑ The gender of animals is set by FarmAnimal::isMale in the game code. The only effect in-game is the pronoun used in some dialogs (e.g., when Marnie says she'll "send little [Name] to his/her new home"); see PurchaseAnimalsMenu::marnieAnimalPurchaseMessage, FarmAnimal::getMoodMessage.
+
+
+
+
+Animals and Produce
+
+
+Coop
+
+Chicken (Egg • Large Egg • Brown Egg • Large Brown Egg) • Dinosaur (Dinosaur Egg) • Duck (Duck Egg • Duck Feather) • Golden Chicken (Golden Egg) • Rabbit (Wool • Rabbit's Foot) • Void Chicken (Void Egg)
+
+
+Barn
+
+Cow (Milk • Large Milk) • Goat (Goat Milk • Large Goat Milk) • Sheep (Wool) • Ostrich (Ostrich Egg) • Pig (Truffle)
+
+
+Fish Pond
+
+Fish (Roe)
+
+
+Slime Hutch
+
+Slimes (Slime • Slime Ball • Slime Egg)
+
+
+Other
+
+Cat • Dog • Horse
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Rabbit&oldid=140884"
+Category: Coop animals
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 12 August 2022, at 15:52.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5515 @@
+
+
+
+
+
+Stardew Valley Fair - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stardew Valley Fair
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+The Stardew Valley Fair is a festival that takes place on Tuesday, the 16th of Fall every year.  The player attends the fair by entering Pelican Town between 9am and 3pm.  When the player leaves the festival, they will be returned to The Farm at 10pm.
+On the day of the Festival, the player cannot enter Pelican Town until 9am.  Every home and shop outside the town square is "locked" and cannot be entered before or during the festival.
+There are several games where the player can earn Star Tokens, a currency that can be exchanged for prizes at the Shop near the entrance to the Bus Stop. The maximum number of tokens that can be held is 9,999.
+The purchase limit on each of the available fixed stock items is 1 (until next year when they replenish). Therefore, the maximum number of Star Tokens that may be used for the fixed stock is 3,900 (1,900 if they have already purchased the Stardrop). The Shop will be fully stocked again the following year, with the exception of the Stardrop which may only be purchased once. Star tokens do not carry over from the previous year, but the grange event can be repeated to earn more star points.
+The Fair also has a Grange Display contest where products of the farm can be shown to gain Star Tokens.  Talk to Mayor Lewis when ready to have the products judged.
+All of the Grange Display items can be picked up after judging, but they will NOT be automatically returned to the inventory. If the player leaves the items behind in the Grange Display, as of version 1.5, they can retrieve them later in the Lost and Found.
+North of the fair by the fountains, Gus can be found cooking Survival Burgers, which the player can eat to refill their energy bar, but this won't be noticeable until exiting the festival.
+The festival ends when the player leaves Pelican Town.
+
+Contents
+
+1 Attractions
+2 Grange Display
+
+2.1 Scoring
+
+2.1.1 Base Points
+2.1.2 Number of Items
+2.1.3 Categories
+2.1.4 Sell Price & Quality
+
+
+
+
+3 Shop
+
+3.1 Fixed Stock
+3.2 Random Stock
+
+
+4 Mail
+5 Trivia
+6 Bugs
+7 External Links
+8 References
+9 History
+
+
+Attractions
+
+
+Booth
+
+Name
+
+Cost
+
+Description
+
+
+
+
+Fishing Minigame
+
+50g
+
+Play the Fishing Minigame to catch fish. Each caught fish gives between 12 and 25 points. Any non-fish item caught gives 1 point. Bonus points are earned for perfect catches. It is possible to make over 400 Star Tokens per 50g spent. Can be played as many times as the player has money for.
+
+
+
+
+Slingshot Minigame
+
+50g
+
+Shoot the targets with the Slingshot. Each target gives different points — red targets give 1 point, blue targets give 2 points, and purple targets give 5 points. At the end, the player gets a point multiplier based on their accuracy. An accuracy of 100% provides a 4x multiplier. It is possible to win 500 Star Tokens per 50g spent. Can be played as many times as the player has money for.
+
+
+
+
+Smashing Stone
+
+Free
+
+At the Smashing Stone the player can test their strength by clicking the stone at the right moment when the bar hits the top or bottom. One Star Token is earned for hitting the top or bottom.
+
+
+
+
+Token Seller
+
+50g per Token
+
+At the Star Token Seller, Star Tokens can be bought for 50g each. This is the least cost effective way to earn tokens, but time-wise, it is the quickest way.
+
+
+
+
+Fortune Teller Booth
+
+100g
+
+At the Fortune Teller Booth, the Fortune Teller will tell the player events from the future for 100g once. This information is based on the Social Status the player has with the villagers. She will tell the player something about whichever two villagers are at the top of their Social menu. If the player has already been to the booth, she will tell the player to go away.
+
+
+
+
+Spinning Wheel
+
+Varies
+
+At the Spinning Wheel, the player can bet Star Tokens on whether the spinner will land on green or orange.
+Players can quickly earn the star tokens required to purchase all items in the shop by betting green, since the mathematical probability the wheel will land on green is 75%, versus 25% for orange.  The probability is not a guarantee for any single roll, however. For efficient profit while protecting against losses, always bet half of the current stars. This can be calculated using the Kelly criterion for bet sizing: 
+Proportion to bet = Chance of Winning - (Chance of Losing / Profit Margin on Win).
+Simplified for the case of doubling a bet we get 
+Proportion to Bet = (2 * Probability of Winning) - 1
+Proportion to Bet = (2 * .75) - 1 = .5 = 50%
+
+
+
+Grange Display
+To participate in the showcase, bring up to 9 items to put in the grange display which best showcase the players abilities. The display will be judged on the quality and diversity of the items, and is rewarded with star tokens based on the place achieved. Items can be retrieved after the judging is completed.
+In a multiplayer game, there is a single display for the farm that is shared by all players. Only one player may interact with the display at a time - if a player is putting or removing items from the display, no other players may interact with the display. Once the host is satisfied with the display, they can initiate the judging by talking to Lewis. Lewis will score the display, and all players will receive the same placement. Once the judging is complete, each player must separately talk to Lewis to receive the Star Tokens.
+Games can still be played at the fair after the grange display is judged.
+
+
+
+Place
+
+Prize
+
+Points required
+
+
+First Place
+
+1,000
+
+90
+
+
+Disqualified
+
+750
+
+0 (include Mayor Lewis's shorts)
+
+
+Second Place
+
+500
+
+75
+
+
+Third Place
+
+200
+
+60
+
+
+Fourth Place
+
+50
+
+<60
+
+Scoring
+The points are calculated as follows:
+
+Base Points
+14 points are awarded automatically.
+
+Number of Items
+Points based on how many items are submitted, according to the formula: 2x-9 (Where x is the number of items on display).
+
+
+
+Number of items
+
+Points awarded
+
+
+9
+9
+
+
+8
+7
+
+
+7
+5
+
+
+6
+3
+
+
+5
+1
+
+
+4
+-1
+
+
+3
+-3
+
+
+2
+-5
+
+
+1
+-7
+
+
+0
+-9
+
+It is always better to try and fill all nine spots, even if the items submitted are uncategorized (trash), since leaving any spot empty will lessen the overall score.
+
+Categories
+There are eight categories of items recognized by the Fair: Animal Products, Artisan Goods, Cooking, Fish, Foraging (including Flowers and Tree Saps), Fruits, Minerals, and Vegetables. Each category represented in the display earns 5 points, up to a maximum of 30 points. This means only six of these categories need to be filled to maximize the score.
+Below are the items that the Fair will recognize in each category. Any items which do not fall into any of these categories will not earn the additional 5 points, but will earn points based on the sell price and quality, explained in the next section.
+
+
+
+Animal Products 
+
+
+Note that Roe and Dinosaur Egg are not considered animal products for scoring purposes. They are considered uncategorized (trash) items.
+
+
+Item
+
+Price
+
+Base
+
+Silver
+
+Gold
+
+Iridium
+
+
+ Duck Egg
+
+95g
+
+ 3
+ 4
+ 5
+ 7
+
+
+ Duck Feather
+
+250g
+
+ 4
+ 6
+ 6
+ 8
+
+
+ Egg
+
+50g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Brown Egg
+
+50g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Goat Milk
+
+225g
+
+ 4
+ 5
+ 6
+ 8
+
+
+ Golden Egg
+
+500g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Large Egg
+
+95g
+
+ 3
+ 4
+ 5
+ 7
+
+
+ Large Brown Egg
+
+95g
+
+ 3
+ 4
+ 5
+ 7
+
+
+ Large Goat Milk
+
+345g
+
+ 5
+ 6
+ 6
+ 8
+
+
+ Large Milk
+
+190g
+
+ 3
+ 5
+ 6
+ 8
+
+
+ Milk
+
+125g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Ostrich Egg
+
+600g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Rabbit's Foot
+
+565g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Void Egg
+
+65g
+
+ 2
+ 3
+ 5
+ 7
+
+
+ Wool
+
+340g
+
+ 5
+ 6
+ 6
+ 8
+
+
+
+
+Artisan Goods 
+
+
+
+
+
+Item
+
+Price
+
+Base
+
+Silver
+
+Gold
+
+Iridium
+
+
+ Aged Roe (Albacore)
+
+134g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Anchovy)
+
+90g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Blobfish)
+
+560g
+
+ 6
+—
+—
+—
+
+
+ Aged Roe (Blue Discus)
+
+180g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Bream)
+
+104g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Bullhead)
+
+134g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Carp)
+
+90g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Catfish)
+
+260g
+
+ 4
+—
+—
+—
+
+
+ Aged Roe (Chub)
+
+110g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Cockle)
+
+110g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Crab)
+
+160g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Crayfish)
+
+134g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Dorado)
+
+160g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Eel)
+
+144g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Flounder)
+
+160g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Ghostfish)
+
+104g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Halibut)
+
+140g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Herring)
+
+90g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Ice Pip)
+
+560g
+
+ 6
+—
+—
+—
+
+
+ Aged Roe (Largemouth Bass)
+
+160g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Lava Eel)
+
+760g
+
+ 6
+—
+—
+—
+
+
+ Aged Roe (Lingcod)
+
+180g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Lionfish)
+
+160g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Lobster)
+
+180g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Midnight Carp)
+
+210g
+
+ 4
+—
+—
+—
+
+
+ Aged Roe (Mussel)
+
+90g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Octopus)
+
+210g
+
+ 4
+—
+—
+—
+
+
+ Aged Roe (Oyster)
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Perch)
+
+114g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Periwinkle)
+
+80g
+
+ 2
+—
+—
+—
+
+
+ Aged Roe (Pike)
+
+160g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Pufferfish)
+
+260g
+
+ 4
+—
+—
+—
+
+
+ Aged Roe (Rainbow Trout)
+
+124g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Red Mullet)
+
+134g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Red Snapper)
+
+110g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Salmon)
+
+134g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Sandfish)
+
+134g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Sardine)
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Scorpion Carp)
+
+210g
+
+ 4
+—
+—
+—
+
+
+ Aged Roe (Sea Cucumber)
+
+134g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Sea Urchin)
+
+220g
+
+ 4
+—
+—
+—
+
+
+ Aged Roe (Shad)
+
+120g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Shrimp)
+
+120g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Slimejack)
+
+160g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Smallmouth Bass)
+
+110g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Snail)
+
+124g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Spook Fish)
+
+280g
+
+ 4
+—
+—
+—
+
+
+ Aged Roe (Stingray)
+
+240g
+
+ 4
+—
+—
+—
+
+
+ Aged Roe (Stonefish)
+
+360g
+
+ 5
+—
+—
+—
+
+
+ Aged Roe (Sturgeon)
+
+500g
+
+ 6
+—
+—
+—
+
+
+ Aged Roe (Sunfish)
+
+90g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Super Cucumber)
+
+310g
+
+ 5
+—
+—
+—
+
+
+ Aged Roe (Tiger Trout)
+
+210g
+
+ 4
+—
+—
+—
+
+
+ Aged Roe (Tilapia)
+
+134g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Tuna)
+
+160g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Void Salmon)
+
+210g
+
+ 4
+—
+—
+—
+
+
+ Aged Roe (Walleye)
+
+164g
+
+ 3
+—
+—
+—
+
+
+ Aged Roe (Woodskip)
+
+134g
+
+ 3
+—
+—
+—
+
+
+ Beer
+
+200g
+
+ 4
+ 5
+ 6
+ 8
+
+
+ Caviar
+
+500g
+
+ 6
+—
+—
+—
+
+
+ Cheese
+
+230g
+
+ 4
+ 5
+ 6
+ 8
+
+
+ Cloth
+
+470g
+
+ 6
+—
+—
+—
+
+
+ Duck Mayonnaise
+
+375g
+
+ 5
+—
+—
+—
+
+
+ Goat Cheese
+
+400g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Green Tea
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Honey (Blue Jazz)
+
+200g
+
+ 4
+—
+—
+—
+
+
+ Honey (Fairy Rose)
+
+680g
+
+ 6
+—
+—
+—
+
+
+ Honey (Poppy)
+
+380g
+
+ 5
+—
+—
+—
+
+
+ Honey (Summer Spangle)
+
+280g
+
+ 4
+—
+—
+—
+
+
+ Honey (Sunflower)
+
+260g
+
+ 4
+—
+—
+—
+
+
+ Honey (Tulip)
+
+160g
+
+ 3
+—
+—
+—
+
+
+ Honey (Wild)*
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Jelly (Ancient Fruit)
+
+1,150g
+
+ 6
+—
+—
+—
+
+
+ Jelly (Apple)
+
+250g
+
+ 4
+—
+—
+—
+
+
+ Jelly (Apricot)
+
+150g
+
+ 3
+—
+—
+—
+
+
+ Jelly (Banana)
+
+350g
+
+ 5
+—
+—
+—
+
+
+ Jelly (Blackberry)
+
+90g
+
+ 3
+—
+—
+—
+
+
+ Jelly (Blueberry)
+
+150g
+
+ 3
+—
+—
+—
+
+
+ Jelly (Cactus Fruit)
+
+200g
+
+ 4
+—
+—
+—
+
+
+ Jelly (Cherry)
+
+210g
+
+ 4
+—
+—
+—
+
+
+ Jelly (Coconut)
+
+250g
+
+ 4
+—
+—
+—
+
+
+ Jelly (Cranberries)
+
+200g
+
+ 4
+—
+—
+—
+
+
+ Jelly (Crystal Fruit)
+
+350g
+
+ 5
+—
+—
+—
+
+
+ Jelly (Grape)
+
+210g
+
+ 4
+—
+—
+—
+
+
+ Jelly (Hot Pepper)
+
+130g
+
+ 3
+—
+—
+—
+
+
+ Jelly (Mango)
+
+310g
+
+ 5
+—
+—
+—
+
+
+ Jelly (Melon)
+
+550g
+
+ 6
+—
+—
+—
+
+
+ Jelly (Orange)
+
+250g
+
+ 4
+—
+—
+—
+
+
+ Jelly (Peach)
+
+330g
+
+ 5
+—
+—
+—
+
+
+ Jelly (Pineapple)
+
+650g
+
+ 6
+—
+—
+—
+
+
+ Jelly (Pomegranate)
+
+330g
+
+ 5
+—
+—
+—
+
+
+ Jelly (Rhubarb)
+
+490g
+
+ 6
+—
+—
+—
+
+
+ Jelly (Salmonberry)
+
+60g
+
+ 2
+—
+—
+—
+
+
+ Jelly (Spice Berry)
+
+210g
+
+ 4
+—
+—
+—
+
+
+ Jelly (Starfruit)
+
+1,550g
+
+ 6
+—
+—
+—
+
+
+ Jelly (Strawberry)
+
+290g
+
+ 4
+—
+—
+—
+
+
+ Jelly (Traveling Cart)
+
+160g
+
+ 3
+—
+—
+—
+
+
+ Jelly (Wild Plum)
+
+210g
+
+ 4
+—
+—
+—
+
+
+ Juice (Amaranth)
+
+337g
+
+ 5
+—
+—
+—
+
+
+ Juice (Artichoke)
+
+360g
+
+ 5
+—
+—
+—
+
+
+ Juice (Beet)
+
+225g
+
+ 4
+—
+—
+—
+
+
+ Juice (Bok Choy)
+
+180g
+
+ 3
+—
+—
+—
+
+
+ Juice (Cauliflower)
+
+393g
+
+ 5
+—
+—
+—
+
+
+ Juice (Corn)
+
+112g
+
+ 3
+—
+—
+—
+
+
+ Juice (Eggplant)
+
+135g
+
+ 3
+—
+—
+—
+
+
+ Juice (Fiddlehead Fern)
+
+202g
+
+ 4
+—
+—
+—
+
+
+ Juice (Garlic)
+
+135g
+
+ 3
+—
+—
+—
+
+
+ Juice (Green Bean)
+
+90g
+
+ 3
+—
+—
+—
+
+
+ Juice (Hops)
+
+56g
+
+ 2
+—
+—
+—
+
+
+ Juice (Kale)
+
+247g
+
+ 4
+—
+—
+—
+
+
+ Juice (Parsnip)
+
+78g
+
+ 2
+—
+—
+—
+
+
+ Juice (Potato)
+
+180g
+
+ 3
+—
+—
+—
+
+
+ Juice (Pumpkin)
+
+720g
+
+ 6
+—
+—
+—
+
+
+ Juice (Radish)
+
+202g
+
+ 4
+—
+—
+—
+
+
+ Juice (Red Cabbage)
+
+585g
+
+ 6
+—
+—
+—
+
+
+ Juice (Taro Root)
+
+225g
+
+ 4
+—
+—
+—
+
+
+ Juice (Tomato)
+
+135g
+
+ 3
+—
+—
+—
+
+
+ Juice (Traveling Cart)
+
+150g
+
+ 3
+—
+—
+—
+
+
+ Juice (Unmilled Rice)
+
+67g
+
+ 2
+—
+—
+—
+
+
+ Juice (Wheat)
+
+56g
+
+ 2
+—
+—
+—
+
+
+ Juice (Yam)
+
+360g
+
+ 5
+—
+—
+—
+
+
+ Mayonnaise
+
+190g
+
+ 3
+ 5
+ 6
+ 8
+
+
+ Pale Ale
+
+300g
+
+ 5
+ 6
+ 6
+ 8
+
+
+ Pickles (Amaranth)
+
+350g
+
+ 5
+—
+—
+—
+
+
+ Pickles (Artichoke)
+
+370g
+
+ 5
+—
+—
+—
+
+
+ Pickles (Beet)
+
+250g
+
+ 4
+—
+—
+—
+
+
+ Pickles (Bok Choy)
+
+210g
+
+ 4
+—
+—
+—
+
+
+ Pickles (Cauliflower)
+
+400g
+
+ 6
+—
+—
+—
+
+
+ Pickles (Corn)
+
+150g
+
+ 3
+—
+—
+—
+
+
+ Pickles (Eggplant)
+
+170g
+
+ 3
+—
+—
+—
+
+
+ Pickles (Fiddlehead Fern)
+
+230g
+
+ 4
+—
+—
+—
+
+
+ Pickles (Garlic)
+
+170g
+
+ 3
+—
+—
+—
+
+
+ Pickles (Ginger)
+
+170g
+
+ 3
+—
+—
+—
+
+
+ Pickles (Green Bean)
+
+130g
+
+ 3
+—
+—
+—
+
+
+ Pickles (Hops)
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Pickles (Kale)
+
+270g
+
+ 4
+—
+—
+—
+
+
+ Pickles (Parsnip)
+
+120g
+
+ 3
+—
+—
+—
+
+
+ Pickles (Potato)
+
+210g
+
+ 4
+—
+—
+—
+
+
+ Pickles (Pumpkin)
+
+690g
+
+ 6
+—
+—
+—
+
+
+ Pickles (Radish)
+
+230g
+
+ 4
+—
+—
+—
+
+
+ Pickles (Red Cabbage)
+
+570g
+
+ 6
+—
+—
+—
+
+
+ Pickles (Taro Root)
+
+250g
+
+ 4
+—
+—
+—
+
+
+ Pickles (Tea Leaves)
+
+150g
+
+ 3
+—
+—
+—
+
+
+ Pickles (Tomato)
+
+170g
+
+ 3
+—
+—
+—
+
+
+ Pickles (Traveling Cart)
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Pickles (Unmilled Rice)
+
+110g
+
+ 3
+—
+—
+—
+
+
+ Pickles (Wheat)
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Pickles (Yam)
+
+370g
+
+ 5
+—
+—
+—
+
+
+ Truffle Oil
+
+1,065g
+
+ 6
+—
+—
+—
+
+
+ Void Mayonnaise
+
+275g
+
+ 4
+—
+—
+—
+
+
+ Wine (Ancient Fruit)
+
+1,650g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Wine (Apple)
+
+300g
+
+ 5
+ 6
+ 6
+ 8
+
+
+ Wine (Apricot)
+
+150g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Wine (Banana)
+
+450g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Wine (Blackberry)
+
+60g
+
+ 2
+ 3
+ 5
+ 7
+
+
+ Wine (Blueberry)
+
+150g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Wine (Cactus Fruit)
+
+225g
+
+ 4
+ 5
+ 6
+ 8
+
+
+ Wine (Cherry)
+
+240g
+
+ 4
+ 6
+ 6
+ 8
+
+
+ Wine (Coconut)
+
+300g
+
+ 5
+ 6
+ 6
+ 8
+
+
+ Wine (Cranberries)
+
+225g
+
+ 4
+ 5
+ 6
+ 8
+
+
+ Wine (Crystal Fruit)
+
+450g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Wine (Grape)
+
+240g
+
+ 4
+ 6
+ 6
+ 8
+
+
+ Wine (Hot Pepper)
+
+120g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Wine (Mango)
+
+390g
+
+ 5
+ 6
+ 6
+ 8
+
+
+ Wine (Melon)
+
+750g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Wine (Orange)
+
+300g
+
+ 5
+ 6
+ 6
+ 8
+
+
+ Wine (Peach)
+
+420g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Wine (Pineapple)
+
+900g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Wine (Pomegranate)
+
+420g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Wine (Rhubarb)
+
+660g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Wine (Salmonberry)
+
+15g
+
+ 1
+ 2
+ 4
+ 6
+
+
+ Wine (Spice Berry)
+
+240g
+
+ 4
+ 6
+ 6
+ 8
+
+
+ Wine (Starfruit)
+
+2,250g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Wine (Strawberry)
+
+360g
+
+ 5
+ 6
+ 6
+ 8
+
+
+ Wine (Traveling Cart)
+
+400g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Wine (Wild Plum)
+
+240g
+
+ 4
+ 6
+ 6
+ 8
+
+* Note that honey bought from the Traveling Cart or Oasis, or produced by a deconstructor, also counts as Wild Honey.
+
+
+
+
+Cooking 
+
+
+
+
+
+Item
+
+Price
+
+Base
+
+Silver
+
+Gold
+
+Iridium
+
+
+ Algae Soup
+
+100g
+
+ 3
+—
+ 5
+—
+
+
+ Artichoke Dip
+
+210g
+
+ 4
+—
+ 6
+—
+
+
+ Autumn's Bounty
+
+350g
+
+ 5
+—
+ 6
+—
+
+
+ Baked Fish
+
+100g
+
+ 3
+—
+ 5
+—
+
+
+ Banana Pudding
+
+260g
+
+ 4
+—
+ 6
+—
+
+
+ Bean Hotpot
+
+100g
+
+ 3
+—
+ 5
+—
+
+
+ Blackberry Cobbler
+
+260g
+
+ 4
+—
+ 6
+—
+
+
+ Blueberry Tart
+
+150g
+
+ 3
+—
+ 6
+—
+
+
+ Bread
+
+60g
+
+ 2
+—
+ 5
+—
+
+
+ Bruschetta
+
+210g
+
+ 4
+—
+ 6
+—
+
+
+ Carp Surprise
+
+150g
+
+ 3
+—
+ 6
+—
+
+
+ Cheese Cauliflower
+
+300g
+
+ 5
+—
+ 6
+—
+
+
+ Chocolate Cake
+
+200g
+
+ 4
+—
+ 6
+—
+
+
+ Chowder
+
+150g
+
+ 3
+—
+ 6
+—
+
+
+ Coleslaw
+
+345g
+
+ 5
+—
+ 6
+—
+
+
+ Complete Breakfast
+
+350g
+
+ 5
+—
+ 6
+—
+
+
+ Cookie
+
+140g
+
+ 3
+—
+ 6
+—
+
+
+ Crab Cakes
+
+275g
+
+ 4
+—
+ 6
+—
+
+
+ Cranberry Candy
+
+175g
+
+ 3
+—
+ 6
+—
+
+
+ Cranberry Sauce
+
+120g
+
+ 3
+—
+ 5
+—
+
+
+ Crispy Bass
+
+150g
+
+ 3
+—
+ 6
+—
+
+
+ Dish O' The Sea
+
+220g
+
+ 4
+—
+ 6
+—
+
+
+ Eggplant Parmesan
+
+200g
+
+ 4
+—
+ 6
+—
+
+
+ Escargot
+
+125g
+
+ 3
+—
+ 5
+—
+
+
+ Farmer's Lunch
+
+150g
+
+ 3
+—
+ 6
+—
+
+
+ Fiddlehead Risotto
+
+350g
+
+ 5
+—
+ 6
+—
+
+
+ Fish Stew
+
+175g
+
+ 3
+—
+ 6
+—
+
+
+ Fish Taco
+
+500g
+
+ 6
+—
+ 6
+—
+
+
+ Fried Calamari
+
+150g
+
+ 3
+—
+ 6
+—
+
+
+ Fried Eel
+
+120g
+
+ 3
+—
+ 5
+—
+
+
+ Fried Egg
+
+35g
+
+ 2
+—
+ 4
+—
+
+
+ Fried Mushroom
+
+200g
+
+ 4
+—
+ 6
+—
+
+
+ Fruit Salad
+
+450g
+
+ 6
+—
+ 6
+—
+
+
+ Ginger Ale
+
+200g
+
+ 4
+—
+ 6
+—
+
+
+ Glazed Yams
+
+200g
+
+ 4
+—
+ 6
+—
+
+
+ Hashbrowns
+
+120g
+
+ 3
+—
+ 5
+—
+
+
+ Ice Cream
+
+120g
+
+ 3
+—
+ 5
+—
+
+
+ Life Elixir
+
+500g
+
+ 6
+—
+ 6
+—
+
+
+ Lobster Bisque
+
+205g
+
+ 4
+—
+ 6
+—
+
+
+ Lucky Lunch
+
+250g
+
+ 4
+—
+ 6
+—
+
+
+ Maki Roll
+
+220g
+
+ 4
+—
+ 6
+—
+
+
+ Mango Sticky Rice
+
+250g
+
+ 4
+—
+ 6
+—
+
+
+ Maple Bar
+
+300g
+
+ 5
+—
+ 6
+—
+
+
+ Miner's Treat
+
+200g
+
+ 4
+—
+ 6
+—
+
+
+ Oil of Garlic
+
+1,000g
+
+ 6
+—
+ 6
+—
+
+
+ Omelet
+
+125g
+
+ 3
+—
+ 5
+—
+
+
+ Pale Broth
+
+150g
+
+ 3
+—
+ 6
+—
+
+
+ Pancakes
+
+80g
+
+ 2
+—
+ 5
+—
+
+
+ Parsnip Soup
+
+120g
+
+ 3
+—
+ 5
+—
+
+
+ Pepper Poppers
+
+200g
+
+ 4
+—
+ 6
+—
+
+
+ Pink Cake
+
+480g
+
+ 6
+—
+ 6
+—
+
+
+ Pizza
+
+300g
+
+ 5
+—
+ 6
+—
+
+
+ Plum Pudding
+
+260g
+
+ 4
+—
+ 6
+—
+
+
+ Poi
+
+400g
+
+ 6
+—
+ 6
+—
+
+
+ Poppyseed Muffin
+
+250g
+
+ 4
+—
+ 6
+—
+
+
+ Pumpkin Pie
+
+385g
+
+ 5
+—
+ 6
+—
+
+
+ Pumpkin Soup
+
+300g
+
+ 5
+—
+ 6
+—
+
+
+ Radish Salad
+
+300g
+
+ 5
+—
+ 6
+—
+
+
+ Red Plate
+
+400g
+
+ 6
+—
+ 6
+—
+
+
+ Rhubarb Pie
+
+400g
+
+ 6
+—
+ 6
+—
+
+
+ Rice Pudding
+
+260g
+
+ 4
+—
+ 6
+—
+
+
+ Roasted Hazelnuts
+
+270g
+
+ 4
+—
+ 6
+—
+
+
+ Roots Platter
+
+100g
+
+ 3
+—
+ 5
+—
+
+
+ Salad
+
+110g
+
+ 3
+—
+ 5
+—
+
+
+ Salmon Dinner
+
+300g
+
+ 5
+—
+ 6
+—
+
+
+ Sashimi
+
+75g
+
+ 2
+—
+ 5
+—
+
+
+ Seafoam Pudding
+
+300g
+
+ 5
+—
+ 6
+—
+
+
+ Shrimp Cocktail
+
+160g
+
+ 3
+—
+ 6
+—
+
+
+ Spaghetti
+
+120g
+
+ 3
+—
+ 5
+—
+
+
+ Spicy Eel
+
+175g
+
+ 3
+—
+ 6
+—
+
+
+ Squid Ink Ravioli
+
+150g
+
+ 3
+—
+ 6
+—
+
+
+ Stir Fry
+
+335g
+
+ 5
+—
+ 6
+—
+
+
+ Strange Bun
+
+225g
+
+ 4
+—
+ 6
+—
+
+
+ Stuffing
+
+165g
+
+ 3
+—
+ 6
+—
+
+
+ Super Meal
+
+220g
+
+ 4
+—
+ 6
+—
+
+
+ Survival Burger
+
+180g
+
+ 3
+—
+ 6
+—
+
+
+ Tom Kha Soup
+
+250g
+
+ 4
+—
+ 6
+—
+
+
+ Tortilla
+
+50g
+
+ 2
+—
+ 4
+—
+
+
+ Triple Shot Espresso
+
+450g
+
+ 6
+—
+ 6
+—
+
+
+ Tropical Curry
+
+500g
+
+ 6
+—
+ 6
+—
+
+
+ Trout Soup
+
+100g
+
+ 3
+—
+ 5
+—
+
+
+ Vegetable Medley
+
+120g
+
+ 3
+—
+ 5
+—
+
+
+
+
+Fish 
+
+
+Note that Clam is not considered "fish", it is considered uncategorized (trash) when calculating score
+
+
+Item
+
+Price
+
+Base
+
+Silver
+
+Gold
+
+Iridium
+
+
+ Albacore
+
+75g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Anchovy
+
+30g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Angler
+
+900g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Blobfish
+
+500g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Blue Discus
+
+120g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Bream
+
+45g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Bullhead
+
+75g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Carp
+
+30g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Catfish
+
+200g
+
+ 4
+ 5
+ 6
+ 8
+
+
+ Chub
+
+50g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Cockle
+
+50g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Crab
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Crayfish
+
+75g
+
+ 2
+—
+—
+—
+
+
+ Crimsonfish
+
+1,500g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Dorado
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Eel
+
+85g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Flounder
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Ghostfish
+
+45g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Glacierfish
+
+1,000g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Halibut
+
+80g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Herring
+
+30g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Ice Pip
+
+500g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Largemouth Bass
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Lava Eel
+
+700g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Legend
+
+5,000g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Lingcod
+
+120g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Lionfish
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Lobster
+
+120g
+
+ 3
+—
+—
+—
+
+
+ Midnight Carp
+
+150g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Midnight Squid
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Mussel
+
+30g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Mutant Carp
+
+1,000g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Octopus
+
+150g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Oyster
+
+40g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Perch
+
+55g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Periwinkle
+
+20g
+
+ 2
+—
+—
+—
+
+
+ Pike
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Pufferfish
+
+200g
+
+ 4
+ 5
+ 6
+ 8
+
+
+ Rainbow Trout
+
+65g
+
+ 2
+ 3
+ 5
+ 7
+
+
+ Red Mullet
+
+75g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Red Snapper
+
+50g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Salmon
+
+75g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Sandfish
+
+75g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Sardine
+
+40g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Scorpion Carp
+
+150g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Sea Cucumber
+
+75g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Shad
+
+60g
+
+ 2
+ 3
+ 5
+ 7
+
+
+ Shrimp
+
+60g
+
+ 2
+—
+—
+—
+
+
+ Slimejack
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Smallmouth Bass
+
+50g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Snail
+
+65g
+
+ 2
+—
+—
+—
+
+
+ Spook Fish
+
+220g
+
+ 4
+ 5
+ 6
+ 8
+
+
+ Squid
+
+80g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Stingray
+
+180g
+
+ 3
+ 5
+ 6
+ 8
+
+
+ Stonefish
+
+300g
+
+ 5
+ 6
+ 6
+ 8
+
+
+ Sturgeon
+
+200g
+
+ 4
+ 5
+ 6
+ 8
+
+
+ Sunfish
+
+30g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Super Cucumber
+
+250g
+
+ 4
+ 6
+ 6
+ 8
+
+
+ Tiger Trout
+
+150g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Tilapia
+
+75g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Tuna
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Void Salmon
+
+150g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Walleye
+
+105g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Woodskip
+
+75g
+
+ 2
+ 4
+ 5
+ 7
+
+
+
+
+Foraging, Flowers, and Tree Saps 
+
+
+
+
+
+Item
+
+Price
+
+Base
+
+Silver
+
+Gold
+
+Iridium
+
+
+ Blue Jazz
+
+50g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Cave Carrot
+
+25g
+
+ 2
+—
+—
+—
+
+
+ Chanterelle
+
+160g
+
+ 3
+ 5
+ 6
+ 8
+
+
+ Common Mushroom
+
+40g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Crocus
+
+60g
+
+ 2
+ 3
+ 5
+ 7
+
+
+ Daffodil
+
+30g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Dandelion
+
+40g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Fairy Rose
+
+290g
+
+ 4
+ 6
+ 6
+ 8
+
+
+ Ginger
+
+60g
+
+ 2
+—
+—
+—
+
+
+ Hazelnut
+
+90g
+
+ 3
+ 4
+ 5
+ 7
+
+
+ Holly
+
+80g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Leek
+
+50g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Magma Cap
+
+400g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Maple Syrup
+
+200g
+
+ 4
+—
+—
+—
+
+
+ Morel
+
+150g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Oak Resin
+
+150g
+
+ 3
+—
+—
+—
+
+
+ Pine Tar
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Poppy
+
+140g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Purple Mushroom
+
+250g
+
+ 4
+ 6
+ 6
+ 8
+
+
+ Red Mushroom
+
+75g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Sap
+
+2g
+
+ 1
+—
+—
+—
+
+
+ Snow Yam
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Spring Onion
+
+8g
+
+ 1
+ 2
+ 3
+ 5
+
+
+ Summer Spangle
+
+90g
+
+ 3
+ 4
+ 5
+ 7
+
+
+ Sunflower
+
+80g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Sweet Pea
+
+55g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Tulip
+
+30g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Wild Horseradish
+
+50g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Winter Root
+
+70g
+
+ 2
+ 3
+ 5
+ 7
+
+
+
+
+Fruits 
+
+
+
+
+
+Item
+
+Price
+
+Base
+
+Silver
+
+Gold
+
+Iridium
+
+
+ Ancient Fruit
+
+550g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Apple
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Apricot
+
+50g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Banana
+
+150g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Blackberry
+
+20g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Blueberry
+
+50g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Cactus Fruit
+
+75g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Cherry
+
+80g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Coconut
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Cranberries
+
+75g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Crystal Fruit
+
+150g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Grape
+
+80g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Hot Pepper
+
+40g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Mango
+
+130g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Melon
+
+250g
+
+ 4
+ 6
+ 6
+ 8
+
+
+ Orange
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Peach
+
+140g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Pineapple
+
+300g
+
+ 5
+ 6
+ 6
+ 8
+
+
+ Pomegranate
+
+140g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Rhubarb
+
+220g
+
+ 4
+ 5
+ 6
+ 8
+
+
+ Salmonberry
+
+5g
+
+ 1
+ 2
+ 3
+ 5
+
+
+ Spice Berry
+
+80g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Starfruit
+
+750g
+
+ 6
+ 6
+ 6
+ 8
+
+
+ Strawberry
+
+120g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Wild Plum
+
+80g
+
+ 2
+ 4
+ 5
+ 7
+
+
+
+
+Minerals 
+
+
+
+
+
+Item
+
+Price
+
+Base
+
+Silver
+
+Gold
+
+Iridium
+
+
+ Aerinite
+
+125g
+
+ 3
+—
+—
+—
+
+
+ Alamite
+
+150g
+
+ 3
+—
+—
+—
+
+
+ Amethyst
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Aquamarine
+
+180g
+
+ 3
+—
+—
+—
+
+
+ Baryte
+
+50g
+
+ 2
+—
+—
+—
+
+
+ Basalt
+
+175g
+
+ 3
+—
+—
+—
+
+
+ Bixite
+
+300g
+
+ 5
+—
+—
+—
+
+
+ Calcite
+
+75g
+
+ 2
+—
+—
+—
+
+
+ Celestine
+
+125g
+
+ 3
+—
+—
+—
+
+
+ Diamond
+
+750g
+
+ 6
+—
+—
+—
+
+
+ Dolomite
+
+300g
+
+ 5
+—
+—
+—
+
+
+ Earth Crystal
+
+50g
+
+ 2
+—
+—
+—
+
+
+ Emerald
+
+250g
+
+ 4
+—
+—
+—
+
+
+ Esperite
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Fairy Stone
+
+250g
+
+ 4
+—
+—
+—
+
+
+ Fire Opal
+
+350g
+
+ 5
+—
+—
+—
+
+
+ Fire Quartz
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Fluorapatite
+
+200g
+
+ 4
+—
+—
+—
+
+
+ Frozen Tear
+
+75g
+
+ 2
+—
+—
+—
+
+
+ Geminite
+
+150g
+
+ 3
+—
+—
+—
+
+
+ Ghost Crystal
+
+200g
+
+ 4
+—
+—
+—
+
+
+ Granite
+
+75g
+
+ 2
+—
+—
+—
+
+
+ Helvite
+
+450g
+
+ 6
+—
+—
+—
+
+
+ Hematite
+
+150g
+
+ 3
+—
+—
+—
+
+
+ Jade
+
+200g
+
+ 4
+—
+—
+—
+
+
+ Jagoite
+
+115g
+
+ 3
+—
+—
+—
+
+
+ Jamborite
+
+150g
+
+ 3
+—
+—
+—
+
+
+ Jasper
+
+150g
+
+ 3
+—
+—
+—
+
+
+ Kyanite
+
+250g
+
+ 4
+—
+—
+—
+
+
+ Lemon Stone
+
+200g
+
+ 4
+—
+—
+—
+
+
+ Limestone
+
+15g
+
+ 1
+—
+—
+—
+
+
+ Lunarite
+
+200g
+
+ 4
+—
+—
+—
+
+
+ Malachite
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Marble
+
+110g
+
+ 3
+—
+—
+—
+
+
+ Mudstone
+
+25g
+
+ 2
+—
+—
+—
+
+
+ Nekoite
+
+80g
+
+ 2
+—
+—
+—
+
+
+ Neptunite
+
+400g
+
+ 6
+—
+—
+—
+
+
+ Obsidian
+
+200g
+
+ 4
+—
+—
+—
+
+
+ Ocean Stone
+
+220g
+
+ 4
+—
+—
+—
+
+
+ Opal
+
+150g
+
+ 3
+—
+—
+—
+
+
+ Orpiment
+
+80g
+
+ 2
+—
+—
+—
+
+
+ Petrified Slime
+
+120g
+
+ 3
+—
+—
+—
+
+
+ Prismatic Shard
+
+2,000g
+
+ 6
+—
+—
+—
+
+
+ Pyrite
+
+120g
+
+ 3
+—
+—
+—
+
+
+ Quartz
+
+25g
+
+ 2
+—
+—
+—
+
+
+ Ruby
+
+250g
+
+ 4
+—
+—
+—
+
+
+ Sandstone
+
+60g
+
+ 2
+—
+—
+—
+
+
+ Slate
+
+85g
+
+ 2
+—
+—
+—
+
+
+ Soapstone
+
+120g
+
+ 3
+—
+—
+—
+
+
+ Star Shards
+
+500g
+
+ 6
+—
+—
+—
+
+
+ Thunder Egg
+
+100g
+
+ 3
+—
+—
+—
+
+
+ Tigerseye
+
+275g
+
+ 4
+—
+—
+—
+
+
+ Topaz
+
+80g
+
+ 2
+—
+—
+—
+
+
+
+
+Vegetables 
+
+
+
+
+
+Item
+
+Price
+
+Base
+
+Silver
+
+Gold
+
+Iridium
+
+
+ Amaranth
+
+150g
+
+ 3
+ 4
+ 6
+ 8
+
+
+ Artichoke
+
+160g
+
+ 3
+ 5
+ 6
+ 8
+
+
+ Beet
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Bok Choy
+
+80g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Cauliflower
+
+175g
+
+ 3
+ 5
+ 6
+ 8
+
+
+ Corn
+
+50g
+
+ 2
+ 3
+ 4
+ 7
+
+
+ Eggplant
+
+60g
+
+ 2
+ 3
+ 5
+ 7
+
+
+ Fiddlehead Fern
+
+90g
+
+ 3
+ 4
+ 5
+ 7
+
+
+ Garlic
+
+60g
+
+ 2
+ 3
+ 5
+ 7
+
+
+ Green Bean
+
+40g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Hops
+
+25g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Kale
+
+110g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Parsnip
+
+35g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Potato
+
+80g
+
+ 2
+ 4
+ 5
+ 7
+
+
+ Pumpkin
+
+320g
+
+ 5
+ 6
+ 6
+ 8
+
+
+ Radish
+
+90g
+
+ 3
+ 4
+ 5
+ 7
+
+
+ Red Cabbage
+
+260g
+
+ 4
+ 6
+ 6
+ 8
+
+
+ Taro Root
+
+100g
+
+ 3
+ 4
+ 5
+ 8
+
+
+ Tea Leaves
+
+50g
+
+ 2
+—
+—
+—
+
+
+ Tomato
+
+60g
+
+ 2
+ 3
+ 5
+ 7
+
+
+ Unmilled Rice
+
+30g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Wheat
+
+25g
+
+ 2
+ 3
+ 4
+ 6
+
+
+ Yam
+
+160g
+
+ 3
+ 5
+ 6
+ 8
+
+
+Sell Price & Quality
+A number of points for each item are awarded based on its sell price and quality, with a maximum of 8 points per item. The sell price used in-game is the actual sell price, not the base sell price.  For example, a gold-quality item with a base sell price of 200g would earn points for having an actual sell price of 300g AND for being gold quality.
+Note: Profession bonuses, Bear's Knowledge, and Spring Onion Mastery are not included on this page, but they do affect the score.
+
+
+
+Sell Price
+
+Normal Quality
+
+Silver Quality
+
+Gold Quality
+
+Iridium Quality
+
+
+0+
+1
+2
+3
+5
+
+
+20+
+2
+3
+4
+6
+
+
+90+
+3
+4
+5
+7
+
+
+200+
+4
+5
+6
+8
+
+
+300+
+5
+6
+6
+8
+
+
+400+
+6
+6
+6
+8
+
+ One possible 124 point display
+Assuming that nine items, each worth 8 points, are submitted and that the items represent at least six unique categories, the highest score obtainable is 125 (14 + 72 + 9 + 30). Getting the maximum score of 125 is only possible if one has access to Deluxe Fertilizer.  Out of the eight categories that exist, six contain 8-point items:  Animal Products, Artisan Goods, Fish, Foraging, Fruits, and Vegetables. 8 point Vegetable items are only obtainable with Deluxe Fertilizer.  Without deluxe fertilizer to grow iridium quality crops, the next best vegetable item is the iridium-quality fiddlehead fern, at 7 points.  Because of this, the highest score obtainable without access to Deluxe Fertilizer is 124.   
+
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+Once the judging is complete, make sure to retrieve the items from the table, as they are not automatically returned. However, the items can be retrieved at the Lost and Found in the Mayor's Manor should the player forget to retrieve them before leaving the fair.
+
+Shop
+Fixed Stock
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+
+
+
+Dried Sunflowers
+
+Can be placed inside your house.
+
+100
+
+
+
+
+Fedora
+
+A city-slicker's standard.
+
+500
+
+
+
+
+Rarecrow #1
+
+Collect them all! (1 of 8)
+
+800
+
+
+
+
+Stardrop
+
+A mysterious fruit that empowers those who eat it. The flavor is like a dream... a powerful personal experience, yet difficult to describe to others.
+
+2,000
+
+
+
+
+Light Green Rug
+
+Can be placed inside your house.
+
+500
+
+Random Stock
+
+
+
+Warning: Spoilers
+This page or section contains unmarked spoilers from update 1.5 of Stardew Valley.  Mobile players may want to avoid or be cautious toward reading this article.
+
+Unlike most of the stores in the game, the entire lot is purchased at once (e.g., if buying "Mixed Seeds", the entire lot of 24 is given in a single purchase for the list price of 1000.)
+
+
+
+Image
+
+Name
+
+Description
+
+Price
+
+
+
+
+Triple Shot Espresso
+
+It's more potent than regular coffee!
+
+400
+
+
+
+
+Pepper Poppers
+
+Spicy breaded peppers filled with cheese.
+
+250
+
+
+
+
+Glowstone Ring
+
+Emits a constant light, and also increases your radius for collecting items.
+
+1,000
+
+
+
+
+Hay (100)
+
+Dried grass used as animal food.
+
+500
+
+
+
+
+Mixed Seeds (24)
+
+There's a little bit of everything here. Plant them and see what grows!
+
+1,000
+
+
+Mail
+
+
+
+“
+
+“Dear <player>,One week from today, we are holding the Stardew Valley Fair in the town square!It's the biggest event of the year, drawing people from all across the country to our humble town.If you'd like, you can set up a grange display for the event. Just bring up to 9 items that best showcase your talents. You'll be judged on the quality and diversity of your display.The fair starts at 9 AM... don't miss it!-Mayor Lewis”
+
+
+Trivia
+Placing Mayor Lewis' Purple Shorts in the grange display results in him becoming upset and giving the player 750 star tokens to keep his secret. Marnie also comments on the "purple lettuce" in the display.
+When going to the barbecue where Gus is preparing food, Evelyn comments that she wishes that he would provide vegetarian options. However, the Survival Burgers that are being served are made out of vegetarian options (bread, cave carrot, and eggplant).
+If the player speaks to Caroline, she says that Pierre has "been setting aside the best-looking produce for weeks in preparation" for the fair. However, his grange display contains produce that would spoil after sitting for weeks in real life.
+The close-up window shown when playing the Spinning Wheel game shows the wheel in front of two tents, but outside the close-up window it's in the middle of Pelican Town square with no tents behind it.
+In the Spinning Wheel game, when the arrow is about to land on the wrong color, it may randomly gain a small boost, playing a "dwop" sound, and eventually land on the right color, allowing the player to win the bet. This chance is affected by the player's Luck level, and the trigger area is only 7/16 of a circle for each color.[1]
+Bugs
+The Fortune Teller refers to the Dwarf as "she" even though the Dwarf's gender in the game data is "undefined" (Content\Data\NPCDispositions.xnb). That's due to the way the gender check in the code is written, with all non-males defaulting to "she" and no checks for "undefined" genders.
+When playing the fishing mini-game, pressing the button assigned to "use tool" the moment the fish is collected will result in the game glitching and it causes the player to be able to catch another fish. The pole is invisible, however, and the next fish caught is also invisible. There is also extra delay time after collecting the invisible fish. However, the game still gives points.
+External Links
+Grange Display De-mystified
+Grange Display Calculator
+Stardew Fair Helper
+References
+
+↑ See WheelSpinGame::update in the game code.
+
+
+History
+1.03: Fixed issues regarding the fishing minigame.
+1.4: Fixed bug where NPCs would follow non-festival schedules after the festival. Fixed openings allowing players outside the festival area. Fixed various issues involving scoring and the slingshot minigame.
+1.4.3: Fixed bug where the player could get their grange score immediately after asking Lewis to judge their grange.
+1.5: Added Lost and Found to Mayor Lewis' house for items left in the Grange Display. Doubled star token rewards for the slingshot and fishing minigames. Added random items to Pierre's shop. Fixed bug where walking behind Harvey's Clinic would display the same message as the Smashing Stone game. Fixed player sprite display issues in Fishing mini-game.
+1.5.1: Fixed bug where redeeming a stack of items only gave one item instead of the whole stack.
+1.5.4: Shop no longer sells multiples of the randomly chosen items. Shop now sells Triple Shot Espresso instead of Tea Sapling.
+
+
+Festivals
+
+
+Spring
+
+Egg Festival • Flower Dance
+
+
+Summer
+
+Luau • Dance of the Moonlight Jellies
+
+
+Fall
+
+Stardew Valley Fair • Spirit's Eve
+
+
+Winter
+
+Festival of Ice • Night Market • Feast of the Winter Star
+
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Stardew_Valley_Fair&oldid=141034"
+Category: Fall festivalsHidden category: Spoilers
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 21 August 2022, at 18:12.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

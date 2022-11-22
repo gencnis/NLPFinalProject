@@ -1,0 +1,516 @@
+
+
+
+
+
+Coal - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coal
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Coal
+
+
+
+
+
+A combustible rock that is useful for crafting and smelting.
+
+
+Information 
+
+
+Source:
+
+Mines • Blacksmith • Charcoal Kiln • Recycling Machine • Geodes • Fishing Treasure Chest • Artifact Spot • Panning • Traveling Cart • Trains
+
+
+Sell Price:
+
+15g
+
+
+Coal is a basic resource. It can be obtained in many different ways, primarily from rocks or Dust Sprites in The Mines, purchased from Clint at the Blacksmith shop, or using a Charcoal Kiln.  It may also be produced by recycling trash or found in Fishing Treasure Chests.  A random amount of coal may be found in addition to metal ores by Panning. 
+Coal is used in some crafting recipes and is necessary for smelting in a furnace.
+
+Contents
+
+1 Locations
+2 Recipes
+3 Gifting
+4 Bundles
+5 Tailoring
+6 Quests
+7 History
+
+
+Locations
+Coal can sometimes be found by mining rocks — both in the mines and anywhere on the map. Both daily Luck and the Prospector Profession increase the chances of finding coal.
+Coal can be found in mine carts in certain Floors of the mines - follow the mine railways then simply click on the coal-filled cart (Note: this works only once per cart).
+Coal can be found in brown miner's bags lying in certain Floors of the mines. Every bag contains around 6 pieces.  (Again, this works only once per bag.)
+A Charcoal Kiln can be used to convert 10 wood into 1 coal
+You can farm coal by killing Dust Sprites between Floors 41-79 of the Mines (50% chance of dropping coal).  You can use the elevator to quickly and repeatedly travel between floors ending in 0 or 5.  (This is an easy way to farm Iron Ore as well.)
+When farming Dust Sprites for Coal, it is best to wear a Burglar's Ring (earned by killing Dust Sprites).
+Red, Purple, and Black Slimes may drop coal (10% chance). They can be raised in Slime Hutches
+Stone Golems, Wilderness Golems, Metal Heads, Shadow Brutes, and Shadow Shamans may drop coal (10% chance).
+Can be found by digging up an Artifact Spot (at Backwoods, the Mountains, or the Farm)
+Coal may occasionally be found by Panning
+Coal may occasionally be sold by the Traveling Cart for 100-1,000g.
+Coal can be found inside all 4 types of geodes.
+If a Fruit tree is struck by lightning, it will produce coal instead of fruit for a few days before returning to normal.
+Trains may randomly drop coal.
+Coal purchased at the Blacksmith costs 150g during year 1, so it is cheaper in year 1 to buy 10 wood for 100g from Robin at the Carpenter's Shop and convert that wood into coal in the Charcoal Kiln. After year 1, wood pricing increases to 50g per piece but coal increases to only 250g, so it is cheaper to purchase coal directly.
+
+Recipes
+
+
+Image
+
+Name
+
+Description
+
+Ingredients
+
+Recipe Source
+
+
+
+
+Bee House
+
+Place outside and wait for delicious honey! (Except in Winter).
+
+ Coal (8) Wood (40) Iron Bar (1) Maple Syrup (1)
+
+ Farming Level 3
+
+
+
+
+Preserves Jar
+
+Turns vegetables into pickles and fruit into jam.
+
+ Coal (8) Wood (50) Stone (40)
+
+ Farming Level 4
+
+
+
+
+Warrior Ring
+
+Occasionally infuses the wearer with "warrior energy" after slaying a monster.
+
+ Coal (25) Iron Bar (10) Frozen Tear (10)
+
+ Combat Level 4
+
+
+
+
+Cherry Bomb
+
+Generates a small explosion. Stand back!
+
+ Coal (1) Copper Ore (4)
+
+ Mining Level 1
+
+
+
+
+Bomb
+
+Generates an explosion. Watch out!
+
+ Coal (1) Iron Ore (4)
+
+ Mining Level 6
+
+
+
+
+Explosive Ammo
+
+Fire this with the slingshot.
+
+ Coal (2) Iron Bar (1)
+
+ Combat Level 8
+
+
+
+
+Wicked Statue
+
+There's something unsettling about the looks of this statue.
+
+ Coal (5) Stone (25)
+
+ Krobus (1,000g)
+
+
+
+
+Wooden Brazier
+
+Provides a moderate amount of light.
+
+ Coal (1) Wood (10) Fiber (5)
+
+ Carpenter's Shop (250g)
+
+
+
+
+Stone Brazier
+
+Provides a moderate amount of light.
+
+ Coal (1) Stone (10) Fiber (5)
+
+ Carpenter's Shop (400g)
+
+
+
+
+Barrel Brazier
+
+Provides a moderate amount of light.
+
+ Coal (1) Wood (50) Solar Essence (1)
+
+ Carpenter's Shop (800g)
+
+
+
+
+Stump Brazier
+
+Provides a moderate amount of light.
+
+ Coal (1) Hardwood (5)
+
+ Carpenter's Shop (800g)
+
+
+
+
+Gold Brazier
+
+Provides a moderate amount of light.
+
+ Coal (1) Gold Bar (10) Fiber (5)
+
+ Carpenter's Shop (1,000g)
+
+
+
+
+Carved Brazier
+
+Provides a moderate amount of light.
+
+ Coal (1) Hardwood (10)
+
+ Carpenter's Shop (2,000g)
+
+
+
+
+Scarecrow
+
+Prevents crows from attacking your crops. Has a limited radius (about 8 "tiles").
+
+ Coal (1) Wood (50) Fiber (20)
+
+ Farming Level 1
+
+
+
+
+Seed Maker
+
+Place crops inside to produce a varying amount of seeds. Doesn't work with fruit tree crops.
+
+ Coal (10) Wood (25) Gold Bar (1)
+
+ Farming Level 9
+
+
+
+
+Slime Egg-Press
+
+Compresses 100 pieces of slime into a slime egg. It's a miracle of science!
+
+ Coal (25) Fire Quartz (1) Battery Pack (1)
+
+ Combat Level 6
+
+
+
+
+Cookout Kit
+
+Use this to create a cooking campfire, allowing you to cook on-the-go!
+
+ Coal (3) Wood (15) Fiber (10)
+
+ Foraging Level 9
+
+Gifting
+
+
+Villager Reactions
+
+
+Neutral
+
+ Clint
+
+
+Dislike
+
+ Abigail •  Alex •  Caroline •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+
+Hate
+
+ Sam
+
+Bundles
+Coal is not used in any bundles.
+
+Tailoring
+Coal is used in the spool of the Sewing Machine with Cloth in the feed to create a  Shirt. It is a black dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed.
+
+Quests
+Ten Coal may be requested by Ice Pip or Stonefish in a Fish Pond quest to increase the capacity of the pond from 5 to 7.
+
+History
+1.3.27: Increased price from 150g in year 1 to 250g in year 2+.
+1.4: Can now be used in Tailoring and to create a Wilted Bouquet.  Can be requested in Fish Pond quests.
+1.5: Used to operate the Geode Crusher. Used as an ingredient to the Cookout Kit recipe. No longer used as an ingredient to the Skull Brazier recipe.
+
+
+Resources
+
+
+Basic
+
+Battery Pack • Bone Fragment • Cinder Shard • Clay • Coal • Fiber • Hardwood • Stone • Wood
+
+
+Ore
+
+Copper Ore • Iron Ore • Gold Ore • Iridium Ore • Radioactive Ore
+
+
+Bars
+
+Copper Bar • Iron Bar • Gold Bar • Iridium Bar • Radioactive Bar • Refined Quartz
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Coal&oldid=142903"
+Category: Resources
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 4 November 2022, at 14:40.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+
