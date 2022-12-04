@@ -35,6 +35,21 @@ def preprocess(document: str) -> list:
     return tokenList
 
 
+def tokenizeSentence(sentence):
+    sentence = sentence.casefold()
+
+    words = []
+
+    # Remove punctuation
+    punc = '''!()-[]{};:'"’“”\,<>./?@#$%^&*_~'''
+    for character in punc:
+        sentence.replace(character, "")
+        words = word_tokenize(sentence)
+
+    return words
+
+
+
 def main():
     
     rootDir = os.path.dirname(__file__)
