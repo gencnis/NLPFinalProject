@@ -4,9 +4,9 @@ Implementation of the TextRank algorithm
 import numpy as np
 import Preprocessing as pp
 import random
-import scipy.spatial as spatial
+import os
 
-def sentenceSimilarity(sentence1, sentence2, embeddings_dict) -> float:
+def sentenceSimilarity(sentence1, sentence2, embeddings_dict):
     '''
     Calculates the similarity between two sentences.
 
@@ -19,8 +19,8 @@ def sentenceSimilarity(sentence1, sentence2, embeddings_dict) -> float:
 
     # Get the average word embedding of each sentence
         # Turn each word into a vector with GloVe, then average all of them
-    wordsSentence1 = pp.tokenizeSentence(sentence1)
-    wordsSentence2 = pp.tokenizeSentence(sentence2)
+    wordsSentence1 = pp.tokenize_sentence(sentence1)
+    wordsSentence2 = pp.tokenize_sentence(sentence2)
 
     # Get average for sentence 1
     avgSentence1 = calcAverageEmbedding(wordsSentence1, embeddings_dict)
@@ -28,8 +28,11 @@ def sentenceSimilarity(sentence1, sentence2, embeddings_dict) -> float:
     # Get average for sentence 2
     avgSentence2 = calcAverageEmbedding(wordsSentence2, embeddings_dict)
   
-    # Find the cosine similarity between averages
-    return np.dot(avgSentence1, avgSentence2) / (np.linalg.norm(avgSentence1) * np.linalg.norm(avgSentence2))
+    if len(avgSentence1) == 0 or len(avgSentence2) == 0:
+        return 0
+    else:
+        # Find the cosine similarity between averages
+        return np.dot(avgSentence1, avgSentence2) / (np.linalg.norm(avgSentence1) * np.linalg.norm(avgSentence2))
 
 
 def calcAverageEmbedding(sentence: list, embeddings_dict):
@@ -66,8 +69,12 @@ def calcAverageEmbedding(sentence: list, embeddings_dict):
         else:
             unknownWords.append(word)
 
-    # Return average
-    return combinedEmbedding * (1.0 / embeddingsCount)
+    # HANDLE WITH THIS LATER
+    if embeddingsCount == 0:
+        return []
+    else:
+        # Return average
+        return combinedEmbedding * (1.0 / embeddingsCount)
 
 def updateSentenceGraph():
     '''
@@ -144,8 +151,7 @@ def buildSimilarityMatrix(sentences):
 
 def main():
 
-
-    sentences = {
+    example_sentences = {
         0: ["Apples are in Stardew valley and sell for gold.", 0.1],
         1: ["Stardew valley is a game.", 0.1],
         2: ["Cats!", 0.1],
@@ -154,16 +160,23 @@ def main():
         5: ["Stardew valley is a farming and life simulator with town NPCs and lots of interactions.", 0.1]
     }
 
-    similarityMatrix = buildSimilarityMatrix(sentences)
+    similarityMatrix = buildSimilarityMatrix(example_sentences)
 
     # Open text file
-    
-    # Get list of sentences
+    rootDir = "Corpus"
+    file_list=[]
 
-    # Add each sentence to dictionary with ID and starting score
+    # add the file path in a list so you can reach all the file paths
+    for file in os.listdir(rootDir):
+        file_list.append( os.path.join(rootDir, file))
 
+    # go through the file list and find the similarity matrix for all of them
+    for i in file_list:
+        with open(i, mode = "r", encoding="utf-8") as file:
+            sentences = pp.preprocess(file.read())
+            similarityMatrix = buildSimilarityMatrix(sentences)
+            print("lol")
 
-    return
 
 
 if __name__ == "__main__":
