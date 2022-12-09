@@ -79,12 +79,16 @@ def calcAverageEmbedding(sentence: list, embeddings_dict):
 def updateSentenceGraph():
     '''
     Performs one iteration of the TextRank algorithm to update every sentence's relevancy score.
+    Returns a boolean that says if it changed too much or not.
     '''
 
-def textRank():
+def textRank(similarityMatrix, sentences):
     '''
     Repeatedly updates sentence relevancy scores until they converge and do not change by much.
+    Returns a summary (top 3 sentences put together).
     '''
+
+
     return
 
 
