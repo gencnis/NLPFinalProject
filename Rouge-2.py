@@ -7,23 +7,26 @@ def getSummary():
     return NotImplemented
 
 def rouge_2(summary, output):
-
+    
     summary_bigram = nltk.bigrams( nltk.word_tokenize(summary))
     output_bigram = nltk.bigrams( nltk.word_tokenize(output))
-
 
     summary_count = Counter(summary_bigram)
     output_count = Counter(output_bigram)
 
-    rouge_sum = 0
-
+    matching_bigrams = 0
+    total_summary_bigrams = 0
+    # Count bigram overlap
     for bigram, count in output_count.items():
-        rouge_sum += count / summary_count[bigram]
+        if bigram in summary_count:
+            matching_bigrams += min(output_count[bigram], summary_count[bigram])
 
-    rouge_2 = rouge_sum / 2
+    # Add up reference bigrams
+    for bigram, count in summary_count.items():
+        total_summary_bigrams += count
 
-    return rouge_2
-
+    return matching_bigrams / total_summary_bigrams
+    
 
 def main():
 
