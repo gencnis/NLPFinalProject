@@ -122,7 +122,7 @@ def textRank(similarityMatrix, sentences):
 
     sorted_sentences = sorted(sentences.items(), key=lambda x: x[1][1], reverse=True)
 
-    print("These are the top three sentences:")
+    print("\nThese are the top three sentences:")
     for sentence_id, (sentence, score) in sorted_sentences[:3]:
         print(f"{sentence}: {score:.3f}")
 
@@ -210,16 +210,22 @@ def main():
 
     # add the file path in a list so you can reach all the file paths
     for file in os.listdir(rootDir):
-        file_list.append( os.path.join(rootDir, file))
+        if(file[-4:] == ".txt"):
+            file_list.append( os.path.join(rootDir, file))
 
     # go through the file list and find the similarity matrix for all of them
     for i in file_list:
         with open(i, mode = "r", encoding="utf-8") as file:
-            sentences = pp.preprocess(file.read())
+            sentences = build_dictionary(pp.preprocess(file.read()))
             similarityMatrix = buildSimilarityMatrix(sentences)
-            print("lol")
+            textRank(similarityMatrix, sentences)
 
+def build_dictionary(sentences):
+    dictionary = {}
+    for i in range(len(sentences)):
+        dictionary[i] = [sentences[i], (1 / len(sentences))]
 
+    return dictionary
 
 if __name__ == "__main__":
     main()
