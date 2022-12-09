@@ -76,11 +76,39 @@ def calcAverageEmbedding(sentence: list, embeddings_dict):
         # Return average
         return combinedEmbedding * (1.0 / embeddingsCount)
 
-def updateSentenceGraph():
+def updateSentenceGraph(similarityMatrix, sentences):
     '''
     Performs one iteration of the TextRank algorithm to update every sentence's relevancy score.
     Returns a boolean that says if it changed too much or not.
     '''
+
+    has_changed = False
+    D = 0.85
+    sentence_score = {}
+
+    for sentence_id in sentences.keys():
+        total = 0
+        # Loop through every neighbor (every sentence except for self)
+        for neighbor_id in sentences.keys():
+            if sentence_id  == neighbor_id:
+                continue
+
+            denominator = sum(similarityMatrix[neighbor_id])
+            numerator = similarityMatrix[sentence_id][neighbor_id]
+            total += numerator / denominator * sentences[neighbor_id][1]
+
+        total *= D
+        total += (1-D)
+
+        if abs(sentences[sentence_id][1] - total) >= 0.001:
+            has_changed = True
+
+        sentence_score[sentence_id] = total
+
+    for sentence_id in sentences.keys():
+        sentences[sentence_id][1] = sentence_score[sentence_id]
+
+    return has_changed
 
 def textRank(similarityMatrix, sentences):
     '''
@@ -88,8 +116,15 @@ def textRank(similarityMatrix, sentences):
     Returns a summary (top 3 sentences put together).
     '''
 
+    changing = True
+    while(changing):
+        changing = updateSentenceGraph(similarityMatrix, sentences)
 
-    return
+    sorted_sentences = sorted(sentences.items(), key=lambda x: x[1][1], reverse=True)
+
+    print("These are the top three sentences:")
+    for sentence_id, (sentence, score) in sorted_sentences[:3]:
+        print(f"{sentence}: {score:.3f}")
 
 
 def buildSimilarityMatrix(sentences):
@@ -164,7 +199,10 @@ def main():
         5: ["Stardew valley is a farming and life simulator with town NPCs and lots of interactions.", 0.1]
     }
 
-    similarityMatrix = buildSimilarityMatrix(example_sentences)
+    # TO TEST IT WITH THE EXAMPLE SENTENCES UNCOMMENT IT
+    exampleSimilarityMatrix = buildSimilarityMatrix(example_sentences)
+    #  textRank(exampleSimilarityMatrix, example_sentences)
+
 
     # Open text file
     rootDir = "Corpus"
