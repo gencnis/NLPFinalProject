@@ -8,8 +8,8 @@ def getSummary():
 
 def rouge_2(summary, output):
 
-    summary_bigram = nltk.bigram( nltk.word_tokenize(summary))
-    output_bigram = nltk.bigram( nltk.word_tokenize(output))
+    summary_bigram = nltk.bigrams( nltk.word_tokenize(summary))
+    output_bigram = nltk.bigrams( nltk.word_tokenize(output))
 
 
     summary_count = Counter(summary_bigram)
@@ -23,3 +23,18 @@ def rouge_2(summary, output):
     rouge_2 = rouge_sum / 2
 
     return rouge_2
+
+
+def main():
+
+    testSummary = "Stardew valley is a cool game. Stardew valley is a farming game. Apples are cool."
+    testOutputPerfect = testSummary
+    testOutputMedium = "Stardew Valley is a cool game. Apples have red skin. Apples can be sold for gold."
+    testOutputBad = "According to all known laws of aviation, there is no way a bee should be able to fly."
+
+    print("Perfect Summary: ", rouge_2(testSummary, testOutputPerfect))
+    print("Medium Summary: ", rouge_2(testSummary, testOutputMedium))
+    print("Bad Summary: ", rouge_2(testSummary, testOutputBad))
+
+if __name__ == "__main__":
+    main()
