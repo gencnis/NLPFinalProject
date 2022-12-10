@@ -11,6 +11,8 @@ import numpy as np
 import Preprocessing as pp
 import random
 import os
+import Rouge2 as rouge
+import csv
 
 def sentenceSimilarity(sentence1, sentence2, embeddings_dict):
     '''
@@ -143,9 +145,14 @@ def textRank(similarityMatrix, sentences):
     sorted_sentences = sorted(sentences.items(), key=lambda x: x[1][1], reverse=True)
 
     # gets the top 3 sentences 
-    print("\nThese are the top three sentences:")
+    # print("\nThese are the top three sentences:")
+    summary = ""
     for sentence_id, (sentence, score) in sorted_sentences[:3]:
-        print(f"{sentence}: {score:.3f}")
+        # print(f"{sentence}: {score:.3f}")
+        # print(summary)
+        summary += sentence + " "
+
+    return summary
 
 
 def buildSimilarityMatrix(sentences):
@@ -221,13 +228,26 @@ def main():
     }
 
     # TO TEST IT WITH THE EXAMPLE SENTENCES UNCOMMENT IT
-    exampleSimilarityMatrix = buildSimilarityMatrix(example_sentences)
-    #  textRank(exampleSimilarityMatrix, example_sentences)
+    # exampleSimilarityMatrix = buildSimilarityMatrix(example_sentences)
+    # example_output = textRank(exampleSimilarityMatrix, example_sentences)
+    # example_baseline = rouge.get_baseline(example_sentences)
+
+    # print("Example Baseline:")
+    # print(example_baseline)
+    # print("Example Output: ")
+    # print(example_output)
+    # print("Example Rouge-2 Score")
+    # print(rouge.rouge_2(example_baseline, example_output))
 
 
     # Open text file
     rootDir = "Corpus"
     file_list=[]
+
+    # Open output file
+    csv_out = open("TextRankOutput.csv", mode = 'w', newline = '')
+    csv_writer = csv.writer(csv_out)
+    csv_writer.writerow(['Document Name', 'Baseline Summary', 'TextRank Summary', 'Rouge-2 Score'])
 
     # add the file path in a list so you can reach all the file paths
     for file in os.listdir(rootDir):
@@ -235,11 +255,18 @@ def main():
             file_list.append( os.path.join(rootDir, file))
 
     # go through the file list and find the similarity matrix for all of them
-    for i in file_list:
+    for i in file_list[0:4]:
         with open(i, mode = "r", encoding="utf-8") as file:
             sentences = build_dictionary(pp.preprocess(file.read()))
             similarityMatrix = buildSimilarityMatrix(sentences)
-            textRank(similarityMatrix, sentences)
+            output_summary = textRank(similarityMatrix, sentences)
+            baseline_summary = rouge.get_baseline(sentences)
+            rouge2 = rouge.rouge_2(baseline_summary, output_summary)
+
+            csv_writer.writerow([i, baseline_summary, output_summary, rouge2])
+
+
+    csv_out.close()
 
 def build_dictionary(sentences):
     dictionary = {}

@@ -21,7 +21,8 @@ def preprocess(document):
     if len(firstSentence) > 0:
         sentences[0] = firstSentence[-1][1:]    # True first sentence is the last line that ends with a "."
     
-    return sentences
+    # Cut off last 2 sentences, which aren't part of the article
+    return sentences[:-2]
 
 
 
