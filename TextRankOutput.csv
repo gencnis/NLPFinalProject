@@ -1,13 +1,2 @@
 Document Name,Baseline Summary,TextRank Summary,Rouge-2 Score
-Corpus\1_River_Road.txt,"1 river road is the home of george, evelyn, and alex.it's just southeast of pierre's general store and just behind the saloon.","1 river road is the home of george, evelyn, and alex. it's just southeast of pierre's general store and just behind the saloon. ",0.9230769230769231
-Corpus\1_Willow_Lane.txt,"1 willow lane is the address of jodi, kent, sam and vincent.it's the house just next to pelican town's southwest passage.the house just next door belongs to haley and emily.","jodi and kent share a bedroom in the back of the house, past the kitchen. the house just next door belongs to haley and emily. interior layout
-just inside the house to the right is vincent's bedroom. ",0.29411764705882354
-Corpus\2_Willow_Lane.txt,"2 willow lane is the home of sisters emily and haley.it's located along the southern road in pelican town, just next to 1 willow lane where jodi, kent and their sons live.the home is owned by haley and emily's parents, who have been traveling the world for the past two years with an unknown date of return.","interior
-
-
-sewing machine
-
-after the player acquires cloth, exiting the farmhouse between 6am and 11am on a day when it's not raining will trigger a cutscene in which emily tells them about her sewing machine. the home is owned by haley and emily's parents, who have been traveling the world for the past two years with an unknown date of return. after completing the ""rock rejuvenation"" story board quest, the player will receive their own sewing machine that functions identically to emily's sewing machine. ",0.45161290322580644
-Corpus\Abandoned_House.txt,"the abandoned house (also called the ""ruined house"" on the in-game map) is a house located in the south of cindersap forest.a mouse takes over the building and opens a shop there selling hats to the player as soon as the first achievement is earned.all hats cost 1,000g.","a mouse takes over the building and opens a shop there selling hats to the player as soon as the first achievement is earned. a new hat will appear in the shop whenever an achievement is earned. cool cap
-
-it looks really faded, but it used to be a vibrant blue. ",0.4230769230769231
+Corpus\Ore.txt,,,0.0

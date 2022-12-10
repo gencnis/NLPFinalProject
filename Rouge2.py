@@ -56,6 +56,9 @@ def rouge_2(baseline, candidate):
     for bigram, count in baseline_count.items():
         total_baseline_bigrams += count
 
+    if(total_baseline_bigrams == 0):
+        total_baseline_bigrams = 1
+
     return matching_bigrams / total_baseline_bigrams
 
 

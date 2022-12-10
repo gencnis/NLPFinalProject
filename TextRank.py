@@ -245,7 +245,7 @@ def main():
     file_list=[]
 
     # Open output file
-    csv_out = open("TextRankOutput.csv", mode = 'w', newline = '')
+    csv_out = open("TextRankOutput.csv", mode = 'w', newline = '', encoding='utf-8')
     csv_writer = csv.writer(csv_out)
     csv_writer.writerow(['Document Name', 'Baseline Summary', 'TextRank Summary', 'Rouge-2 Score'])
 
@@ -254,8 +254,18 @@ def main():
         if(file[-4:] == ".txt"):
             file_list.append( os.path.join(rootDir, file))
 
+    file_count = 0
+    chunk_size = int(len(file_list) / 50) 
+
+
     # go through the file list and find the similarity matrix for all of them
     for i in file_list:
+
+        if(file_count % chunk_size == 0):
+            print("Progress:", int(100 * file_count / len(file_list)), "%")
+        file_count += 1
+        
+
         with open(i, mode = "r", encoding="utf-8") as file:
             sentences = build_dictionary(pp.preprocess(file.read()))
             similarityMatrix = buildSimilarityMatrix(sentences)
