@@ -255,7 +255,7 @@ def main():
             file_list.append( os.path.join(rootDir, file))
 
     # go through the file list and find the similarity matrix for all of them
-    for i in file_list[0:4]:
+    for i in file_list:
         with open(i, mode = "r", encoding="utf-8") as file:
             sentences = build_dictionary(pp.preprocess(file.read()))
             similarityMatrix = buildSimilarityMatrix(sentences)
