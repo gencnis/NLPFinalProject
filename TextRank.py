@@ -80,6 +80,12 @@ def updateSentenceGraph(similarityMatrix, sentences):
     '''
     Performs one iteration of the TextRank algorithm to update every sentence's relevancy score.
     Returns a boolean that says if it changed too much or not.
+
+    @param similatiryMatrix - a similarity matrix for all of the sentences. To get the similarity/edge between two sentences,
+    index into this matrix with the indices of the sentences
+    @param sentences - a dictionary of sentences. Each sentence is a list whose first element is a string containing the sentence
+
+    @return - a boolean value to determine if the scores have changed or not by 0.001
     '''
 
     has_changed = False
@@ -93,18 +99,24 @@ def updateSentenceGraph(similarityMatrix, sentences):
             if sentence_id  == neighbor_id:
                 continue
 
+            # creates denominator by getting the sum of the neighbor's edges' scores 
             denominator = sum(similarityMatrix[neighbor_id])
+            # creates the numerator by getting the candidate sentence's one edge
             numerator = similarityMatrix[sentence_id][neighbor_id]
+            # adds to the total
             total += numerator / denominator * sentences[neighbor_id][1]
 
         total *= D
         total += (1-D)
 
+        # checks if it changed or not
         if abs(sentences[sentence_id][1] - total) >= 0.001:
             has_changed = True
 
+        # records the scores to the new dictionary
         sentence_score[sentence_id] = total
 
+    # sets the new scores to the new values
     for sentence_id in sentences.keys():
         sentences[sentence_id][1] = sentence_score[sentence_id]
 
@@ -118,10 +130,13 @@ def textRank(similarityMatrix, sentences):
 
     changing = True
     while(changing):
+        # updates sentences and checks if it changed
         changing = updateSentenceGraph(similarityMatrix, sentences)
 
+    # sorts the sentences by the score to get the top 3 sentences with the highest scores
     sorted_sentences = sorted(sentences.items(), key=lambda x: x[1][1], reverse=True)
 
+    # gets the top 3 sentences 
     print("\nThese are the top three sentences:")
     for sentence_id, (sentence, score) in sorted_sentences[:3]:
         print(f"{sentence}: {score:.3f}")
