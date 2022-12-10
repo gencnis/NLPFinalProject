@@ -1,3 +1,11 @@
+'''
+This document 'Rouge2.py' creates a baseline summary to compare it with candidate sentences from the document using rouge-n
+scores which uses bigrams and computes the rouge-2 score per document.
+
+@author: Nisanur Genc
+@author: Alex Wills
+'''
+
 import TextRank
 import nltk
 from collections import Counter

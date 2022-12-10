@@ -1,6 +1,12 @@
 '''
-Implementation of the TextRank algorithm
+This document 'TextRank.py' is the implementation of the TextRank algorithm by generating a similarity matrix, 
+calculating avarage embedding of a sentence and updating the sentence graph by checking the changes of the 
+scores for each sentence per document. 
+
+@author: Nisanur Genc
+@author: Alex Wills
 '''
+
 import numpy as np
 import Preprocessing as pp
 import random

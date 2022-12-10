@@ -1,3 +1,10 @@
+'''
+This document 'Preprocessing.py' preprocess the document given by casefolding, tokenization, removing the punctuations.
+
+@author: Nisanur Genc
+@author: Alex Wills
+'''
+
 from nltk import word_tokenize, sent_tokenize
 import os
 import re
@@ -37,6 +44,7 @@ def main():
     # open file for testing purposes
     rootDir = os.path.dirname(__file__)
 
+    # with testing purposes, we opened a random file here
     with open(os.path.join(os.path.dirname(__file__), "Corpus/Abigail.txt"), mode = "r", encoding="utf-8") as file:
         document = preprocess(file.read())
         print("hi")
