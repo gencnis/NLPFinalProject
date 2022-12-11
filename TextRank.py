@@ -13,6 +13,7 @@ import random
 import os
 import Rouge2 as rouge
 import csv
+import time
 
 def sentenceSimilarity(sentence1, sentence2, embeddings_dict):
     '''
@@ -218,6 +219,8 @@ def buildSimilarityMatrix(sentences):
 
 def main():
 
+
+    time_start = time.time()
     example_sentences = {
         0: ["Apples are in Stardew valley and sell for gold.", 0.1],
         1: ["Stardew valley is a game.", 0.1],
@@ -263,6 +266,7 @@ def main():
 
         if(file_count % chunk_size == 0):
             print("Progress:", int(100 * file_count / len(file_list)), "%")
+            print("\tTime Elapsed: " + str(time.time() - time_start) + " seconds")
         file_count += 1
         
 
@@ -277,6 +281,10 @@ def main():
 
 
     csv_out.close()
+
+    total_time = time.time() - time_start
+
+    print("Total time: " + str(total_time))
 
 def build_dictionary(sentences):
     dictionary = {}
