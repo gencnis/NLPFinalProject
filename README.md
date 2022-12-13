@@ -71,7 +71,7 @@ python3 TextRank.py Corpus
 
 ## Authors
 
-Contributors names and contact info
+Contributors' names and contact info:
 
 * [Nisanur Genc](https://github.com/gencnis) 
 * [Alex Wills](https://github.com/AlexWills37)
