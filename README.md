@@ -19,9 +19,9 @@ Topic specific, extractive unsupervised document summarization of a video game (
 
 * You can download the project [here](https://github.com/gencnis/NLPFinalProject)
 * You will need to do these modifications:
-  ** Download the GloVe data [here](https://www.kaggle.com/datasets/watts2/glove6b50dtxt)
+  * Download the GloVe data [here](https://www.kaggle.com/datasets/watts2/glove6b50dtxt)
   * Add GloVe data to the data folder.
-* * Run CreateCorpus file to populate the Corpus folder. This will extract data from Stardew Valley Wiki and create your dataset. Here is how to run CreateCorpus in your terminal:
+  * Run CreateCorpus file to populate the Corpus folder. This will extract data from Stardew Valley Wiki and create your dataset. Here is how to run CreateCorpus in your terminal:
 ```
 python3 CreateCorpus.py
 ```
