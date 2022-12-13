@@ -1,0 +1,784 @@
+
+
+
+
+
+Controls - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Controls
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+GettingStarted
+
+ThePlayer
+
+Options
+
+Controls
+
+MobileControls
+
+Health
+
+Energy
+
+Skills
+
+DayCycle
+
+All hotkeys can be reassigned by opening the menu and choosing the Options tab 
+
+Contents
+
+1 Keyboard & Mouse
+
+1.1 Emotes
+1.2 Tips
+
+
+2 Xbox One / Xbox 360 Controller
+
+2.1 In Overworld
+2.2 In Menu
+2.3 Controller Map
+
+
+3 PS4 Controller
+
+3.1 In Overworld
+3.2 In Menu
+3.3 Controller Map
+3.4 Advanced Controls
+
+
+4 Switch Controller
+
+4.1 In Overworld
+4.2 In Menu
+4.3 Controller Map
+4.4 Object Placement Tips
+4.5 Toolbar Tips
+4.6 Inventory Tips
+4.7 Weapons
+
+
+5 History
+
+
+Keyboard & Mouse
+
+
+Key
+
+Description
+
+
+WA S D
+
+W Move UpA Move LeftS Move DownD Move Right
+
+
+, C
+
+Use tool or place item
+
+
+, X
+
+Check/Do Action
+
+
+Escape, E
+
+Open Menu
+
+
+F
+
+Open Journal
+
+
+M
+
+Open Map window
+
+
+Y
+
+Open Emote Menu
+
+
+
+
+Switch Item
+
+
+Tab
+
+Shift Toolbar
+
+
+Left Shift
+
+Run
+
+
+?, T
+
+Open Chat Box
+
+
+1 - 0,  - ,  = 
+
+Inventory hotkeys
+
+
+F4
+
+Screenshot mode
+
+Emotes
+See also: Multiplayer/Emotes
+The following emotes are available by pressing Y:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tips
+Shift +  an inventory item/stack to move it to the top row.
+Shift +  to continuously purchase items inside a shop/merchant's inventory window.
+Shift +  to craft 5 items at a time inside the crafting menu.
+Hold Control + Shift to craft stacks of 25 items at a time.
+ to purchase 5 items.  Hold Shift +  to keep purchasing items 5 at a time.
+Hold Control + Shift to purchase stacks of 25 items at a time.
+ a stack of inventory/chest items to single out one of them.
+Shift +  to select half a stack of inventory/chest items.
+Hold  or  while moving the mouse over a group of equipment (e.g., Kegs,  Preserves Jars, Casks, Bee Houses) to collect items quickly.
+Have another item selected in inventory to refill equipment automatically.
+If the item is edible, you must use , or the game will ask if you want to consume the item.
+Delete to permanently delete a selected item in the inventory window.  (Use E/Escape to open inventory, then Left-click on an item/stack to select it, then press the delete key.)
+Pressing the Esc key while on the opening splash screen takes you directly to the main menu select screen.
+When viewing the "Do you want to eat <item>?" dialogue box, pressing E/Escape will close the dialogue box without eating the item, and pressing the "Y" key will eat the item.
+Shift + left-click on an item in the Catalogue or Furniture Catalogue to add it directly to inventory, instead of attaching it to the mouse cursor.  This also works when removing items from the Grange Display at the Stardew Valley Fair.
+Rebind the chat box key to avoid opening it accidentally, or temporarily enter screenshot mode with F4 to place objects at the bottom left of the screen.
+Xbox One / Xbox 360 Controller
+Controller buttons can not be reassigned.
+
+In Overworld
+
+
+Button
+
+Description
+
+
+Left Joystick
+
+Walk; Run
+
+
+POV
+
+Walk
+
+
+Right Joystick
+
+Move Cursor; Open In-game Chat (Click in)
+
+
+Start(X360)Menu(XONE)
+
+Open Menu
+
+
+Back(X360)View(XONE)
+
+Open Journal
+
+
+A
+
+Check / Do Action / Use Cursor
+
+
+X
+
+Use Tool
+
+
+B
+
+Open Menu
+
+
+Y
+
+Open Crafting Menu
+
+
+LT RT
+
+Switch Item
+
+
+LB RB
+
+Shift Toolbar
+
+In Menu
+
+
+Button
+
+Description
+
+
+Left Joystick
+
+Move Cursor
+
+
+Right Joystick
+
+Scroll
+
+
+A
+
+Select
+
+
+B Y Start Menu
+
+Exit Menu
+
+
+LT RT
+
+Switch Menu Tab
+
+
+X
+
+Move One Item / Use Item (bait, etc.)
+
+Controller Map
+
+
+PS4 Controller
+Controller buttons can be reassigned systemwide in Settings > Accessibility > Button Assignments.
+
+In Overworld
+
+
+Button
+
+Description
+
+
+Left Joystick
+
+Walk; Run
+
+
+POV
+
+Walk
+
+
+Right Joystick
+
+Move Cursor; Open In-game Chat (Click in)
+
+
+Options
+
+Open Menu
+
+
+Touchpad
+
+Open Journal
+
+
+Cross
+
+Check / Do Action / Use Cursor
+
+
+Square
+
+Use Tool
+
+
+Circle
+
+Open Menu
+
+
+Triangle
+
+Open Crafting Menu
+
+
+L2 R2
+
+Switch Item
+
+
+L1 R1
+
+Shift Toolbar
+
+In Menu
+
+
+Button
+
+Description
+
+
+Left Joystick
+
+Move Cursor
+
+
+Right Joystick
+
+Scroll
+
+
+Cross
+
+Select
+
+
+CircleTriangleOptions
+
+Exit Menu
+
+
+L2 R2
+
+Switch Menu Tab
+
+
+Square
+
+Move One Item / Use Item (bait, etc.)
+
+Controller Map
+
+
+Advanced Controls
+When purchasing items in bulk, hold  and  to speed up the buying process
+With the inventory menu open, press the  Touchpad button to automatically sort the items.
+Pressing  after selecting an item(s) from your inventory will move it to the trash icon.
+Switch Controller
+Controller buttons can be reassigned systemwide in System Settings > Controllers and Sensors > Change Button Mapping.
+
+In Overworld
+
+
+Button
+
+Description
+
+
+Left Joystick
+
+Walk; Run
+
+
+POV
+
+Walk
+
+
+Right Joystick
+
+Move Cursor; Open In-game Chat (Click in)
+
+
++ Button
+
+Open Menu
+
+
+- Button
+
+Open Journal
+
+
+A
+
+Check / Do Action / Use Cursor
+
+
+Y
+
+Use Tool
+
+
+B
+
+Open Menu
+
+
+X
+
+Open Crafting Menu
+
+
+ZL ZR
+
+Switch Item
+
+
+L R
+
+Shift Toolbar
+
+In Menu
+
+
+Button
+
+Description
+
+
+Left Joystick
+
+Move Cursor
+
+
+Right Joystick
+
+Scroll
+
+
+A
+
+Select
+
+
+B X+ Button
+
+Exit Menu
+
+
+ZL ZR
+
+Switch Menu Tab
+
+
+Y
+
+Move One Item / Use Item (bait, etc.)
+
+Controller Map
+
+
+Object Placement Tips
+One of the most useful controls is the  Right Stick.  It can be used to exactly place furniture, rugs, windows, etc. where you want them. It's pretty sensitive but absolutely required especially for placing windows.
+While moving a rug into place using the  Right Stick, use  to Rotate the rug.
+Toolbar Tips
+To "power-up" tools such as the Watering Can (i.e., act on multiple tiles at once), press and hold .
+Interacting with villagers with any item other than tools will gift that item to the villager.
+Inventory Tips
+When moving inventory, the  button will move one item at a time or hold to move multiple.
+Pressing  after selecting an item(s) from your inventory will move it to the trash icon.
+Pressing  while in your inventory will quickly organize items.
+Pressing both  and  while purchasing items from any shop will allow the player to purchase items twice as fast.
+Weapons
+Pressing  performs basic attack while pressing  performs block or alternate attack.
+History
+1.4: Removed "new" input from button press until the button is released.  This makes harvesting large numbers of kegs/preserves jars/crystalariums, etc. easier by holding the button without releasing it.  Added option to shift toolbar (active inventory bar) to PC.  Added emotes menu.
+1.5.5: Holding Control + Shift now lets you purchase or craft stacks of 25 items at a time.
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Controls&oldid=141260"
+Category: Gameplay
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 29 August 2022, at 20:53.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

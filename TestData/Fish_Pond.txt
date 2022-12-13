@@ -1,0 +1,2379 @@
+
+
+
+
+
+Fish Pond - Stardew Valley Wiki
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fish Pond
+
+From Stardew Valley Wiki
+
+
+
+Jump to navigation
+Jump to search
+
+
+
+Fish Pond
+
+
+
+
+
+Raise fish and harvest their produce. Fish multiply over time.
+
+
+Information
+
+
+Build cost:
+
+5,000g
+
+
+Build materials:
+
+ Stone (200) Seaweed (5) Green Algae (5)
+
+
+Size:
+
+5x5
+
+
+The Fish Pond is a type of farm building purchasable from Robin at the Carpenter's Shop. It takes two days to build and occupies a 5x5 tile space.
+The following can be placed in a Fish Pond:
+
+All fish caught with Fishing Rod or Crab Pot, except Legendary fish and Qi's Extended Family
+Coral and Sea Urchin (for simplicity, these are included when referencing fish in a Fish Pond, even though they are otherwise considered forage and not fish)
+The following cannot be placed in a Fish Pond:
+
+Legendary fish (Legend, Mutant Carp, Crimsonfish, Glacierfish, and Angler)
+Qi's Extended Family (Ms. Angler, Glacierfish Jr., Son of Crimsonfish, Radioactive Carp and Legend II)
+Clam, which can be caught in a Crab Pot and is an option for the  Crab Pot Bundle in the Fish Tank but is not considered a fish
+Green Algae, Seaweed, and White Algae, which count towards the fishing achievements but are not fish
+Fish in a Fish Pond have a chance to produce Roe or certain other items. The chance of producing an item and the item produced is determined randomly based on the contents and population of the Fish Pond. Also, fish reproduce up to the limit of their Fish Pond, except Tiger Trout, which do not reproduce. The time it takes for a new fish to spawn varies from 1 to 5 days, depending on the fish.
+Fish can be harvested one at a time by casting the fishing pole into the pond. Harvested fish are always of regular quality (even if higher quality fish were thrown into the pond). Although energy is consumed when casting the rod into the pond, a simplified mechanism is used for catching the fish: fish are caught automatically (without the minigame), no bait is consumed, and the durability of tackle is not depleted. The fish do not count towards the Fish Collection, and no fishing experience is gained by harvesting fish from a pond. However, fishing experience is gained when completing fish pond quests or collecting items produced by a pond.
+Each pond holds only one type of fish at a time. Ponds are populated by holding the desired fish (with the inventory menu closed) and right-clicking on the pond to "throw" the fish in. Attempting to throw in a legendary fish yields a prompt saying "The [fish] wouldn't be happy in there."  Attempting to throw a fish into a pond that already contains a different type of fish yields a prompt saying that type of fish doesn't want to live in a pond of another type.
+The standard initial capacity of a pond is three fish.  Several rare fish have an initial capacity of just one fish, namely Blobfish, Ghostfish, Ice Pips, Lava Eels, Slimejacks, Stonefish, Sturgeons, Void Salmons, and Woodskips. Conversely, Tiger Trout, Sea Urchins, and Coral have an initial capacity of ten.
+
+Contents
+
+1 Empty Pond
+2 Quests
+3 Produce
+4 Responses
+5 Notes
+6 References
+7 History
+
+
+Empty Pond
+A fish pond can be emptied either by using a fishing rod to catch and remove each fish, or by selecting the “empty pond” option in the fish pond menu.
+Catching and removing all the fish simply reduces the pond population but does not reset the pond. Only the same species of fish can be added to the pond; all quest-related capacity increases are retained.
+Selecting the “empty pond” option in the fish pond fully resets the pond, returning it to the same state as a newly built pond. However, all fish in the pond are lost. To avoid this, catch and remove all of the fish before resetting the pond.
+
+Quests
+Fish in a pond reproduce at a fixed rate until they reach the pond's current capacity. Fish quests allow the player to increase the capacity of the pond, up to a maximum capacity of 10 fish.
+The fish spawn frequency is species dependent, and ranges from 1 to 5 days for most fish (the one exception is Tiger Trout, which does not reproduce). More expensive fish spawn more slowly. Fish will reproduce even if only one fish is present in the pond. Instead of waiting for fish spawning, more fish can be thrown into the pond up to its current capacity.
+A new fish quest is initiated when population growth is prevented by the pond capacity. This is indicated by an exclamation point appearing in the center of the pond. A quest is not triggered if the player throws fish into a pond to reach capacity. Instead, the player must wait 1-5 days for the fish quest to start. (Adding fish to the pond does not reset the fish spawning clock, so the next quest will start Spawn_Frequency days after the last spawning event or completed quest). Also, removing fish from a pond with an active quest disables the quest and removes the quest exclamation point, but it does not reset the quest -- as soon as the pond returns to capacity, the quest resumes with the same item requested again.
+The fish quests require the player to fetch a specified number of one item and throw it into the pond. If multiples of an item are requested, they are added one at a time, meaning different qualities can be combined. When a quest is completed, the fish will jump out of the pond and thank the player (using one of 19 responses). Also, the player is granted 25-45 Fishing XP (dependent upon the fish spawning frequency, XP = 20 + 5 × Spawn_Frequency).
+The possible items depend upon the fish species and the pond capacity. When multiple items are possible for a given quest (or when the number of requested items is variable), the details of the request are randomly selected when the quest initiates. The random selection is seeded based on the fish pond location and day when the quest initiated; reloading a game save will not alter the selection.
+The fish population does not immediately increase when a quest is complete. Instead, the fish spawning clock resets to zero days, and the next population increase happens Spawn_Frequency days later. This means that even if a fish quest is completed immediately, the fish population takes more than twice as long to increase each time there is a quest.  For example, instead of taking 45 days for an Ice Pip pip pond to reach a population of 10, it takes at least 69 days (assuming only one initial fish is thrown into the pond).
+
+
+
+Fish
+
+Population Quest Occurs at
+
+Item(s) Required
+
+Normal Spawn Frequency
+
+
+Lionfish
+
+3
+
+3 Ginger or 1 Pineapple
+
+3 days
+
+
+5
+
+1 Mango
+
+
+Blue Discus
+
+3
+
+3 Taro Root
+
+3 days
+
+
+5
+
+10 Taro Root
+
+
+Stingray
+
+3
+
+7 Cinder Shard
+
+4 days
+
+
+5
+
+1 Dragon Tooth
+
+
+Squid
+
+3
+
+3 Coral or 1 Sea Urchin
+
+3 days
+
+
+5
+
+2 Sardine
+
+
+Midnight Squid
+
+3
+
+3 Coral or 2 Sea Urchin
+
+3 days
+
+
+5
+
+2 Sardine
+
+
+8
+
+1 Ocean Stone
+
+
+Carp
+
+3
+
+2 Green Algae
+
+1 day
+
+
+5
+
+2 Cave Carrot
+
+
+Herring
+
+3
+
+3 Driftwood
+
+1 day
+
+
+5
+
+1 Coral
+
+
+Sunfish
+
+3
+
+2 Acorn or 2 Geode
+
+1 day
+
+
+5
+
+1 Amethyst or 3 Mixed Seeds
+
+
+Blobfish
+
+1
+
+3 Coral, 2 Frozen Tear, or 2 Sea Urchin
+
+4 days
+
+
+3
+
+5 Coffee Bean, 1 Mayonnaise, or 1 Pizza
+
+
+5
+
+1 Cookie, 1 Green Tea, or 1 Wine
+
+
+7
+
+1 Rainbow Shell or 1 Rice Pudding
+
+
+Lava Eel
+
+1
+
+3 Fire Quartz
+
+5 days
+
+
+3
+
+1 Basalt, 2 Diamond, or 1 Dwarf Scroll III
+
+
+5
+
+2 Mega Bomb
+
+
+7
+
+1 Iridium Bar
+
+
+Woodskip
+
+1
+
+10 Hardwood
+
+2 days
+
+
+3
+
+2-3 Common Mushroom or 2-3 Red Mushroom
+
+
+5
+
+1 Oak Resin or 1 Pine Tar
+
+
+7
+
+2 Jade or 1 Tea Leaves
+
+
+SandfishScorpion Carp
+
+3
+
+3 Cactus Fruit or 3 Coconut
+
+4 days
+
+
+5
+
+1 Golden Relic
+
+
+Void Salmon
+
+1
+
+5 Void Essence
+
+4 days
+
+
+3
+
+10 Bat Wing
+
+
+5
+
+1 Diamond or 1 Void Egg
+
+
+7
+
+1 Iridium Ore
+
+
+Slimejack
+
+1
+
+20 Slime
+
+3 days
+
+
+3
+
+10 Bug Meat
+
+
+5
+
+1 Algae Soup or 5 Wild Bait
+
+
+7
+
+1 Petrified Slime
+
+
+Stonefish
+
+1
+
+10 Copper Ore
+
+5 days
+
+
+3
+
+5 Earth Crystal
+
+
+5
+
+10 Coal or 5 Geode
+
+
+7
+
+4 Copper Bar or 5 Refined Quartz
+
+
+Ice Pip
+
+1
+
+10 Iron Ore
+
+5 days
+
+
+3
+
+5 Frozen Tear
+
+
+5
+
+10 Coal, 1 Crystal Fruit, or 5 Frozen Geode
+
+
+7
+
+4 Iron Bar or 10 Refined Quartz
+
+
+Ghostfish
+
+1
+
+5 Quartz
+
+2 days
+
+
+3
+
+5 Cave Carrot
+
+
+5
+
+5 White Algae
+
+
+7
+
+1 Dwarf Scroll I, 1 Dwarf Scroll II, or 2 Refined Quartz
+
+
+Sturgeon
+
+1
+
+1 Diamond
+
+4 days
+
+
+3
+
+1 Jelly, 2 Maple Syrup, or 1 Pickles
+
+
+5
+
+3 Omni Geode
+
+
+7
+
+1 Nautilus Shell
+
+
+Super Cucumber
+
+3
+
+3 Coral, 1 Honey, 1 Oyster, 3 Driftwood, or 3 Refined Quartz
+
+4 days
+
+
+5
+
+1 Dried Starfish, 2 Emerald, 2-3 Omni Geode, or 2-3 Purple Mushroom
+
+
+7
+
+1 Diamond, 3 Gold Bar, 1 Iridium Ore, 1 Jelly, 1 Pickles, or 2 Sea Urchin
+
+
+Octopus
+
+3
+
+3 Coral, 1 Honey, 1 Oyster, or 3 Refined Quartz
+
+4 days
+
+
+5
+
+1 Dried Starfish, 2 Emerald, 2-3 Omni Geode, or 2-3 Purple Mushroom
+
+
+7
+
+1 Green Tea
+
+
+Rainbow Trout
+
+3
+
+3 Coral, 1 Honey, 1 Oyster, or 3 Refined Quartz
+
+2 days
+
+
+5
+
+1 Dried Starfish, 2 Emerald, 2-3 Omni Geode, or 2-3 Purple Mushroom
+
+
+7
+
+1 Diamond, 3 Gold Bar, 1 Iridium Ore, 1 Jelly, or 1 Pickles
+
+
+Spook Fish
+
+3
+
+3 Amethyst, 3 Coral, 3 Iron Bar, 1 Oyster, 3 Red Mushroom, or 3 Refined Quartz
+
+4 days
+
+
+5
+
+1 Dried Starfish, 2 Emerald, 1 Granite, 2-3 Omni Geode, or 2-3 Purple Mushroom
+
+
+7
+
+1 Diamond, 3 Gold Bar, 1 Iridium Ore, 1 Mayonnaise, or 1 Pickles
+
+
+Catfish
+
+3
+
+2 Amethyst, 3 Copper Bar, 3 Red Mushroom, or 2 Topaz
+
+4 days
+
+
+5
+
+10 Bat Wing, 2 Earth Crystal, 5 Mixed Seeds, or 2-3 Purple Mushroom
+
+
+7
+
+1 Diamond, 3 Iron Bar, 1 Mayonnaise, or 1 Pickles
+
+
+DoradoLingcodPike
+
+3
+
+2 Bream, 2 Carp, or 2 Chub
+
+3 days
+
+
+5
+
+2 Bullhead or 2 Largemouth Bass
+
+
+7
+
+2 Ghostfish, 2 Sandfish, or 2 Woodskip
+
+
+Coral
+
+N/A
+
+N/A
+
+2 days
+
+
+Sea Urchin
+
+N/A
+
+N/A
+
+4 days
+
+
+CrayfishSnail
+
+3
+
+5 Clay or 15 Fiber
+
+2 days
+
+
+5
+
+10 Bug Meat, 1 Cave Carrot, or 5 Hardwood
+
+
+7
+
+1 Field Snack, 5 Solar Essence, or 1 Wild Bait
+
+
+Periwinkle
+
+3
+
+5 Clay or 15 Fiber
+
+1 day
+
+
+5
+
+10 Bug Meat, 1 Cave Carrot, or 5 Hardwood
+
+
+7
+
+1 Field Snack, 5 Solar Essence, or 1 Wild Bait
+
+
+Mussel
+
+3
+
+5 Clay
+
+1 day
+
+
+5
+
+10 Bug Meat or 5 Quartz
+
+
+7
+
+1 Sea Urchin, 5 Solar Essence, or 1 Wild Bait
+
+
+CockleOysterShrimp
+
+3
+
+5 Clay
+
+2 days
+
+
+5
+
+10 Bug Meat or 5 Quartz
+
+
+7
+
+1 Sea Urchin, 5 Solar Essence, or 1 Wild Bait
+
+
+CrabLobster
+
+3
+
+5 Clay
+
+3 days
+
+
+5
+
+10 Bug Meat or 5 Quartz
+
+
+7
+
+1 Sea Urchin, 5 Solar Essence, or 1 Wild Bait
+
+
+Anchovy
+
+3
+
+3 Driftwood, 1 Frozen Geode, or 1-2 Seaweed
+
+1 day
+
+
+5
+
+2 Clam or 2 Coral
+
+
+7
+
+2 Aquamarine, 1 Mussel, or 2 Sea Urchin
+
+
+AlbacoreHalibutRed MulletRed SnapperSardineSea CucumberTilapia
+
+3
+
+3 Driftwood, 1 Frozen Geode, or 1-2 Seaweed
+
+2 days
+
+
+5
+
+2 Clam or 2 Coral
+
+
+7
+
+2 Aquamarine, 1 Mussel, or 2 Sea Urchin
+
+
+EelFlounderTuna
+
+3
+
+3 Driftwood, 1 Frozen Geode, or 1-2 Seaweed
+
+3 days
+
+
+5
+
+2 Clam or 2 Coral
+
+
+7
+
+2 Aquamarine, 1 Mussel, or 2 Sea Urchin
+
+
+Pufferfish
+
+3
+
+3 Driftwood, 1 Frozen Geode, or 1-2 Seaweed
+
+4 days
+
+
+5
+
+2 Clam or 2 Coral
+
+
+7
+
+2 Aquamarine, 1 Mussel, or 2 Sea Urchin
+
+
+BreamChubPerchSalmonShadSmallmouth Bass
+
+3
+
+3 Acorn, 10 Bug Meat, 3 Maple Seed, or 3 Pine Cone
+
+2 days
+
+
+5
+
+3 Gold Ore, 1 Maple Syrup, or 5 Mixed Seeds
+
+
+7
+
+1 Crayfish, 1 Honey, 2 Jade, or 1 Periwinkle
+
+
+Walleye
+
+3
+
+3 Acorn, 10 Bug Meat, 3 Maple Seed, or 3 Pine Cone
+
+3 days
+
+
+5
+
+3 Gold Ore, 1 Maple Syrup, or 5 Mixed Seeds
+
+
+7
+
+1 Crayfish, 1 Honey, 2 Jade, or 1 Periwinkle
+
+
+Bullhead
+
+3
+
+10 Bug Meat, 2-3 Clay, 2-3 Green Algae, or 5 Slime
+
+2 days
+
+
+5
+
+2-3 Common Mushroom, 1-2 Earth Crystal, or 1 Limestone
+
+
+7
+
+1 Mudstone, 1 Snail, or 5 Wild Bait
+
+
+Largemouth Bass
+
+3
+
+10 Bug Meat, 2-3 Clay, 2-3 Green Algae, or 5 Slime
+
+3 days
+
+
+5
+
+2-3 Common Mushroom, 1-2 Earth Crystal, or 1 Limestone
+
+
+7
+
+1 Mudstone, 1 Snail, or 5 Wild Bait
+
+
+Midnight Carp
+
+3
+
+10 Bug Meat, 2-3 Clay, 2-3 Green Algae, or 5 Slime
+
+4 days
+
+
+5
+
+2-3 Common Mushroom, 1-2 Earth Crystal, or 1 Limestone
+
+
+7
+
+1 Mudstone, 1 Snail, or 5 Wild Bait
+
+
+Produce
+Fish ponds may produce items in the chum bucket daily, with items being more likely at higher fish populations.  The most common item is Roe, but at high populations, some fish can produce rare or valuable items. 
+Any produced items are collected by clicking on the fish pond. Uncollected items only persist to the next day if new items are not produced; otherwise the new items replace the uncollected items. Collecting an item grants Fishing XP according to XP = 10  + (0.04 × the sell price of the item)
+The base chance that an item is possible ranges from 23% to 95% (base_chance = (population of pond × 0.08) + 0.15)[1]. Empty ponds never produce items. The game then selects which item will appear, based on the fish species and population. The item-selection can produce no item (especially at low populations), meaning that the overall daily item chance may be much lower than the base 23-95% value.
+The table below shows all possible fish pond products, along with the required fish pond population for the item to be possible. The column "% of Items" provides each item's chance as a fraction of all items produced by the pond[2]. The column "Overall Daily Chance" is the chance of the item appearing on a given day, obtained by multiplying the base chance (23-95%) by the "% of Items".  Both chances may vary depending upon the fish pond population, as may the possible counts of a given item.  More details on all item chances are provided on each individual fish page.
+
+
+
+Fish
+
+Item(s) Produced
+
+Required Population
+
+% of Items
+
+Overall Daily Chance
+
+
+Lionfish
+
+1 Roe
+
+1
+
+71-100%
+
+23-67%
+
+
+2-5 Taro Tuber
+
+4
+
+10-28%
+
+20-26%
+
+
+1 Tiger Slime Egg
+
+9
+
+2%
+
+1.7-1.9%
+
+
+Blue Discus
+
+1 Roe
+
+1
+
+80-100%
+
+23-76%
+
+
+1 Banana
+
+4
+
+7-16%
+
+5-15%
+
+
+1 Golden Coconut
+
+9
+
+5%
+
+4%
+
+
+Stingray
+
+1 Roe
+
+1
+
+80-100%
+
+18-77%
+
+
+1 Magma Cap
+
+4
+
+5%
+
+2%
+
+
+2-5 Cinder Shard
+
+7
+
+8-10%
+
+7-9%
+
+
+1 Dragon Tooth
+
+9
+
+5%
+
+5%
+
+
+1 Battery Pack
+
+9
+
+10%
+
+9-10%
+
+
+Squid
+
+1 Squid Ink
+
+1
+
+25-100%
+
+6-95%
+
+
+Midnight Squid
+
+1-2 Squid Ink
+
+1
+
+20-97%
+
+5-92%
+
+
+CarpCatfishHerring
+
+1 Roe
+
+1
+
+100%
+
+23-95%
+
+
+Sunfish
+
+1 Roe
+
+1
+
+83-90%
+
+21-79%
+
+
+1 Solar Essence
+
+10
+
+8%
+
+8%
+
+
+Blobfish
+
+1-2 Roe
+
+1
+
+90-100%
+
+21-91%
+
+
+1 Pearl
+
+9
+
+2%
+
+1.7-1.9%
+
+
+5 Warp Totem: Farm
+
+9
+
+2%
+
+1.7-1.9%
+
+
+Lava Eel
+
+1-3 Roe
+
+1
+
+72-90%
+
+18-79%
+
+
+5 Gold Ore
+
+3
+
+7-10%
+
+4-8%
+
+
+5 Spicy Eel
+
+9
+
+4%
+
+3-4%
+
+
+5-10 Magma Geode
+
+9
+
+2-5%
+
+1.7-5%
+
+
+Woodskip
+
+1 Roe
+
+1
+
+47-66%
+
+15-45%
+
+
+1-10 Wood
+
+1
+
+20-27%
+
+5-22%
+
+
+5 Hardwood
+
+6
+
+8-10%
+
+6-7%
+
+
+1-5 Acorn
+
+9
+
+5%
+
+4-5%
+
+
+1-5 Maple Seed
+
+9
+
+5%
+
+4-5%
+
+
+1-5 Pine Cone
+
+9
+
+5%
+
+4%
+
+
+Tiger Trout
+
+1-2 Roe
+
+1
+
+100%
+
+23-95%
+
+
+SandfishScorpion Carp
+
+1-3 Roe
+
+1
+
+75-88%
+
+17-82%
+
+
+2-5 Cactus Seeds
+
+10
+
+5%
+
+5%
+
+
+Void Salmon
+
+1-3 Roe
+
+1
+
+87-100%
+
+23-83%
+
+
+5-10 Void Essence
+
+8
+
+8%
+
+6-7%
+
+
+1 Void Egg
+
+9
+
+5%
+
+4-5%
+
+
+Slimejack
+
+1 Roe
+
+1
+
+46-80%
+
+18-57%
+
+
+1 Green Algae
+
+3
+
+6-10%
+
+4-8%
+
+
+10-50 Slime
+
+9
+
+34%
+
+30-32%
+
+
+1 Green Slime Egg
+
+9
+
+2%
+
+1.7-1.9%
+
+
+Stonefish
+
+1 Roe
+
+1
+
+23-43%
+
+6-41%
+
+
+5 Copper Ore
+
+3
+
+8-10%
+
+4-8%
+
+
+1-5 Geode
+
+9
+
+16%
+
+14-15%
+
+
+30 Stone
+
+9
+
+7%
+
+6-7%
+
+
+1 Diamond
+
+9
+
+0.8%
+
+0.7%
+
+
+Ice Pip
+
+1 Roe
+
+1
+
+23-43%
+
+6-41%
+
+
+5 Iron Ore
+
+3
+
+8-10%
+
+4-8%
+
+
+1-5 Frozen Geode
+
+9
+
+16%
+
+14-15%
+
+
+5 Frozen Tear
+
+9
+
+7%
+
+6-7%
+
+
+1 Diamond
+
+9
+
+0.8%
+
+0.7%
+
+
+Ghostfish
+
+1 Roe
+
+1
+
+72-100%
+
+23-73%
+
+
+1-3 Quartz
+
+3
+
+8-17%
+
+3-17%
+
+
+5 White Algae
+
+9
+
+5%
+
+4-5%
+
+
+1 Refined Quartz
+
+9
+
+4%
+
+4%
+
+
+3 Pale Broth
+
+9
+
+1.9%
+
+1.7-1.8%
+
+
+Sturgeon
+
+1-2 Roe
+
+1
+
+20-100%
+
+5-95%
+
+
+Super Cucumber
+
+1 Roe
+
+1
+
+90-100%
+
+23-86%
+
+
+1-3 Iridium Ore
+
+9
+
+5%
+
+4-5%
+
+
+1-3 Amethyst
+
+9
+
+5%
+
+4-5%
+
+
+Octopus
+
+1 Roe
+
+1
+
+83-100%
+
+23-79%
+
+
+1-10 Omni Geode
+
+9
+
+17%
+
+15-16%
+
+
+Rainbow Trout
+
+1 Roe
+
+1
+
+98-100%
+
+23-93%
+
+
+1 Rainbow Shell
+
+9
+
+2%
+
+1.7-1.9%
+
+
+1 Prismatic Shard
+
+9
+
+0.1%
+
+0.09%
+
+
+Spook Fish
+
+1 Roe
+
+1
+
+100%
+
+23-95%
+
+
+1 Treasure Chest
+
+9
+
+0.3%
+
+0.3%
+
+
+DoradoLingcodPike
+
+1 Roe
+
+1
+
+95-100%
+
+23-90%
+
+
+20 Bug Meat
+
+9
+
+5%
+
+4-5%
+
+
+Coral
+
+1 Dolomite
+
+9
+
+6%
+
+5-6%
+
+
+1 Limestone
+
+9
+
+6%
+
+5%
+
+
+Sea Urchin
+
+1-5 Roe
+
+1
+
+10-53%
+
+2.3-50%
+
+
+CrayfishPeriwinkleSnail
+
+1 Roe
+
+1
+
+12-14%
+
+3-12%
+
+
+1 Trash
+
+1
+
+7-8%
+
+1.9-7%
+
+
+1-3 Green Algae
+
+1
+
+5%
+
+1.1-4%
+
+
+1 Driftwood
+
+1
+
+4-5%
+
+1-4%
+
+
+1 Broken Glasses
+
+1
+
+4%
+
+1-4%
+
+
+1 Broken CD
+
+1
+
+4%
+
+0.9-3%
+
+
+1 Soggy Newspaper
+
+1
+
+3-4%
+
+0.9-3%
+
+
+2-3 Mixed Seeds
+
+5
+
+4-5%
+
+3-4%
+
+
+1 Warp Totem: Mountains
+
+9
+
+8%
+
+7%
+
+
+CockleCrabLobsterMusselOysterShrimp
+
+1 Roe
+
+1
+
+11-13%
+
+3-10%
+
+
+1-3 Seaweed
+
+1
+
+8-9%
+
+2-8%
+
+
+1 Trash
+
+1
+
+6-8%
+
+1.9-6%
+
+
+1 Driftwood
+
+1
+
+3-4%
+
+1-3%
+
+
+1 Broken Glasses
+
+1
+
+3-4%
+
+0.9-3%
+
+
+1 Broken CD
+
+1
+
+3-4%
+
+0.9-3%
+
+
+1 Soggy Newspaper
+
+1
+
+3-4%
+
+0.9-3%
+
+
+1 Coral
+
+5
+
+6%
+
+4-6%
+
+
+1 Sea Urchin
+
+5
+
+4-5%
+
+3-4%
+
+
+1 Warp Totem: Beach
+
+9
+
+7%
+
+6-7%
+
+
+1 Nautilus Shell
+
+9
+
+2%
+
+1.7-1.9%
+
+
+AlbacoreAnchovyEelFlounderHalibutPufferfishRed MulletRed SnapperSardineSea CucumberTilapiaTuna
+
+1 Roe
+
+1
+
+70-100%
+
+16-95%
+
+
+BreamBullheadChubLargemouth BassMidnight CarpPerchSalmonShadSmallmouth BassWalleye
+
+1 Roe
+
+1
+
+90%
+
+21-86%
+
+Responses
+When clicking on a fish pond, various messages will be shown to the player indicating the fish pond's status, specifically specifying specific quest items when necessary. Note that "[item]" refers to the exact item the fish requested and "[quantity]" refers to the quantity of the item the fish requested.
+General
+
+
+
+
+“
+
+“We're doing fine!”
+
+
+
+
+
+“
+
+“Nothing to complain about!”
+
+
+
+
+
+“
+
+“Everything is okay!”
+
+
+
+
+
+“
+
+“We're feeling pretty good!”
+
+
+
+
+
+“
+
+“We're feeling healthy!”
+
+
+
+
+
+“
+
+“The fish look happy.”
+
+
+
+
+
+“
+
+“The fish seem to be thriving.”
+
+
+
+
+
+“
+
+“The [fish name] are doing well.”
+
+
+When Quest Is Pending
+
+
+
+
+“
+
+“You know, [quantity] [item] would liven things up around here!”
+
+
+
+
+
+“
+
+“If it's not too much to ask... could you bring us [quantity] [item]?”
+
+
+
+
+
+“
+
+“We'd be more comfortable if we had [quantity] [item] in here.”
+
+
+
+
+
+“
+
+“Please... could you bring us [quantity] [item]?”
+
+
+
+
+
+“
+
+“We're doing okay, but we'd be happier with [quantity] [item]...”
+
+
+
+
+
+“
+
+“Excuse me... we'd like [quantity] [item], please.”
+
+
+
+
+
+“
+
+“We'd feel more at home with [quantity] [item]...”
+
+
+
+
+
+“
+
+“We require [quantity] [item]...”
+
+
+
+
+
+“
+
+“[quantity] [item] would allow us to multiply further.”
+
+
+
+
+
+“
+
+“We've decided that we need [quantity] [item].”
+
+
+
+
+
+“
+
+“We need [quantity] [item]! We need [quantity] [item]!”
+
+
+Carnivorous fish
+
+
+
+
+“
+
+“We're hungry... could you bring us [quantity] [item]?”
+
+
+
+
+
+“
+
+“Could you bring us [quantity] [item] for our dinner?”
+
+
+
+
+
+“
+
+“We need protein... [quantity] [item] should do the trick!”
+
+
+If player is male
+
+
+
+
+“
+
+“Hey, landlubber, you think you could bring us [quantity] [item]?”
+
+
+
+
+
+“
+
+“Oi... leg boy! How about bringing us [quantity] [item], huh?”
+
+
+
+
+
+“
+
+“Psst... Hey, buddy... think you could send [quantity] [item] our way?”
+
+
+If player is female
+
+
+
+
+“
+
+“Hey, land dweller, you think you could bring us [quantity] [item]?”
+
+
+
+
+
+“
+
+“Hey, lady... You got [quantity] [item] you can send our way?”
+
+
+
+
+
+“
+
+“Psst... think you could nab us [quantity] [item] on the sly?”
+
+
+After Completing A Quest
+
+
+
+
+“
+
+“Cha cha cha! We're in business.”
+
+
+
+
+
+“
+
+“Ah... it's the good stuff. Thanks, kid.”
+
+
+
+
+
+“
+
+“Thanks, boss!”
+
+
+
+
+
+“
+
+“Ah... the [item] we requested.”
+
+
+
+
+
+“
+
+“This [item] is satisfactory for our needs.”
+
+
+
+
+
+“
+
+“The fish look satisfied with the [item].”
+
+
+
+
+
+“
+
+“Thank you! Thank you!”
+
+
+
+
+
+“
+
+“[item]! [item]! [item]! We're happy!”
+
+
+
+
+
+“
+
+“The fish are swimming in circles.”
+
+
+
+
+
+“
+
+“Wow, thanks for the [item]!”
+
+
+
+
+
+“
+
+“Hey, look, it's [item]. Just what we needed!”
+
+
+
+
+
+“
+
+“Hey! This [item] looks pretty nice!”
+
+
+
+
+
+“
+
+“Thank you! This [item] will keep us healthy.”
+
+
+
+
+
+“
+
+“Ah, [item]... this really makes us feel at home.”
+
+
+
+
+
+“
+
+“Everyone, look... fresh [item]!”
+
+
+
+
+
+“
+
+“The fish seem happy.”
+
+
+Carnivorous fish
+
+
+
+
+“
+
+“Looks like [item] is on the menu tonight!”
+
+
+
+
+
+“
+
+“Fresh [item]! Yum...”
+
+
+
+
+
+“
+
+“This [item] looks delicious. Thank you!”
+
+
+Notes
+ (Clockwise from upper left) Wood Sign, Stone Sign, Dark Sign, and Sign Of The Vessel installed on fish ponds
+The decorations around the Fish Pond can be changed only after the pond is populated by at least one fish. Right-clicking on the pond opens a menu where the decorations can be changed. The initial decoration style is chosen randomly when purchasing the pond.
+Lava Eels, Super Cucumbers, Slimejacks, and Void Salmons change the color of the pond water. For Lava Eels, the color change happens after the first quest is completed.  For the other fish, the color changes when the population reaches 3 (if the third fish is thrown into the pond, the color change happens overnight).
+Placing a sign (stone, wood or dark) or a Sign Of The Vessel on the pond will turn it into a counter of how many fish are inside, with a sprite of the fish visible on the sign, and a number in the lower right corner.
+The pond can be used to refill Watering Cans.
+After raising a pond full of 10 Crabs, the next time the player talks to Willy, he will have special dialogue and give the player a Pearl.
+References
+
+↑ See StardewValley::Buildings::FishPond.dayUpdate; Calls StardewValley::Utility.Lerp resulting in the formula 0.15 + (population / 10) * (0.95 - 0.15).
+
+↑ The raw item production chances are provided by FishPondData.xnb, which contains multiple population-dependent entries that are processed in order from top to bottom. The first entry that is valid for the current population and passes its random chance check is the produced item.  If no entries pass, no item is produced. The raw entries have been processed and summed to determine the chance for each item to be generated; the results are provided in the "% of Items" column.
+
+
+History
+1.4: Introduced.
+1.4.4: Fixed bug where Catfish, Octopus, Super Cucumber, and Rainbow Trout fish ponds issued the wrong quests and yielded production and spawns at incorrect rates.
+1.5: Added Lionfish, Blue Discus, and Stingray fish ponds.
+
+
+Buildings
+
+
+Merchants
+
+Abandoned House • Adventurer's Guild • Blacksmith • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower
+
+
+Houses
+
+1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse
+
+
+Farm Buildings
+
+Farming
+
+Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Shed  • Silo • Slime Hutch • Stable • Well
+
+
+Special
+
+Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk
+
+
+Other Buildings
+
+Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut
+
+
+
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Fish_Pond&oldid=142141"
+Category: Farm buildings
+
+
+
+Navigation menu
+
+
+
+
+Personal tools
+
+
+
+
+Create accountLog in
+
+
+
+
+
+
+Namespaces
+
+
+
+
+PageDiscussion
+
+
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+
+
+
+Views
+
+
+
+
+ReadView sourceView history
+
+
+
+
+
+
+More
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation
+
+
+
+
+Main pageRecent changesAdmin noticeboardHelp EditingRandom page
+
+
+
+
+
+Official Links
+
+
+
+
+Official SiteOfficial ForumsOfficial MerchandiseDiscordReddit
+
+
+
+
+
+Tools
+
+
+
+
+What links hereRelated changesUpload fileSpecial pagesPrintable versionPermanent linkPage informationPage values
+
+
+
+
+
+In other languages
+
+
+
+
+DeutschEspañolFrançaisItaliano日本語한국어MagyarPortuguêsРусскийTürkçe中文
+
+
+
+
+
+
+ This page was last edited on 6 October 2022, at 17:01.
+Content is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.
+
+
+Privacy policy
+About Stardew Valley Wiki
+Disclaimers
+Mobile view
+
+
+
+
+
+
+
+
+

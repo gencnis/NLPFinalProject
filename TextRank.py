@@ -14,6 +14,7 @@ import os
 import Rouge2 as rouge
 import csv
 import time
+import sys
 
 def sentenceSimilarity(sentence1, sentence2, embeddings_dict):
     '''
@@ -242,9 +243,14 @@ def main():
     # print("Example Rouge-2 Score")
     # print(rouge.rouge_2(example_baseline, example_output))
 
+    if len(sys.argv) > 1:
+        # gets the commandline as file path
+        rootDir = sys.argv[1]
+    else:
+        # if a commanline argument is not entered, the original corpus will be the default
+        rootDir = "Corpus"
 
     # Open text file
-    rootDir = "Corpus"
     file_list=[]
 
     # Open output file
