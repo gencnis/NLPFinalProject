@@ -66,8 +66,8 @@ python3 TextRank.py Corpus
 * Please do not worry if it takes so long for program to run, this algorithm takes a long time, and it will print to the terminal every time it goes through 2% of the files. You will be updated about the progress.
 * If the folders are empty, your program will not execute, please make sure you follow the instructions to avoid that.
 * If you face any problems at any step, you can reach out for support in these e-mail addresses:
-  * [Nisanur Genc](nisanur.genc@ncf.edu)
-  * [Alex Wills](alexander.wills23@ncf.edu)
+  * [Nisanur Genc](mailto:nisanur.genc@ncf.edu)
+  * [Alex Wills](mailto:alexander.wills23@ncf.edu)
 
 ## Authors
 
