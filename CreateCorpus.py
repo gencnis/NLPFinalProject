@@ -6,6 +6,15 @@ import ssl
 
 import re
 
+'''
+This document 'CreateCorpus.py' generates a corpus in the "Corpus" folder of the same directory as this program. To create a corpus,
+this script starts from a root website, then searches the html for other pages on the same site. It will perform a breadth first search for every site
+that is linked in the html, saving the text contents of every site as txt files.
+
+@author Nisanur Genc
+@author Alex Wills
+'''
+
 def extractText(url):
     '''
     Extracts a page from a wiki-styled web page.
@@ -32,13 +41,13 @@ def main():
     # Create the SSL environment to bypass security certificates
     ssl._create_default_https_context = ssl._create_unverified_context
 
-    corpusFolder = os.path.join(os.path.dirname(__file__), "Corpus2")
+    corpusFolder = os.path.join(os.path.dirname(__file__), "Corpus")
 
 
     # Create a list of visited and unvisited webpage extensions
     extensionsVisited = []
-    extensionsToVisit = ["/Stardew_Valley_Wiki"]
-    rootSite = "https://stardewvalleywiki.com"
+    extensionsToVisit = ["/Stardew_Valley_Wiki"]    # This script works recursively, so put the first extension to visit in this list to start the search.
+    rootSite = "https://stardewvalleywiki.com"      # This is the root domain of the site to search through. This algorithm will only explore pages with this root.
 
     while len(extensionsToVisit) > 0:
         extension = extensionsToVisit[0]

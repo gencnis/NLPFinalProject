@@ -264,7 +264,7 @@ def main():
             file_list.append( os.path.join(rootDir, file))
 
     file_count = 0
-    chunk_size = int(len(file_list) / 50) 
+    chunk_size = max(int(len(file_list) / 50), 1)
 
 
     # go through the file list and find the similarity matrix for all of them

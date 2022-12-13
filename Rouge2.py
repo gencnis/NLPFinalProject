@@ -64,6 +64,7 @@ def rouge_2(baseline, candidate):
 
 def main():
 
+    # Main function for testing the ROUGE measure
     testBaseline = "Stardew valley is a cool game. Stardew valley is a farming game. Apples are cool."
     testCandidatePerfect = testBaseline
     testCandidateMedium = "Stardew Valley is a cool game. Apples have red skin. Apples can be sold for gold."
