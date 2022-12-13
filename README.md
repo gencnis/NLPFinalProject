@@ -36,14 +36,26 @@ Here is what you need to do know about the files in the project before you start
 * **Rouge2.py** will be used in TextRank to evaluate the sentence scores.
 * **DatasetAnalysis.py** is to analyze your dataset after you create it. It is optional to use.
 * **DistrubuteData.py** is designed to distrubute the dataset for neural network into Training Set and Test Set folders. It is not recommended to use at this step of the project, it will be compatible with future versions.
+* **Corpus folder** is where your dataset will be created after you run the CreateCorpus, it extracts 1400 .txt files from the Stardew Valley Wiki.
+* **data folder** is where GloVe data will be stored.
+* **TestData folder** is where a test dataset is stored. It takes approximately 17 hours for program to finish calculation with Corpus dataset, so we have added a sample TestData folder for you to be able to test the code in around 12 seconds.
 
-To execute your code, you can use this snippet in your terminal:
+**To execute your code, you can use this snippet in your terminal:**
 ```
 python3 TextRank.py [dataset info]
 ```
 
-**dataset info** : We have created [EDITING THIS PART RN]
+**dataset info** : 
+* You can chose to run the program with TestData, in this case your command should look like this:
+```
+python3 TextRank.py TestData
+```
+* Or you can chose to run the program with Corpus, in this case your command should look like this:
+```
+python3 TextRank.py TestData
+```
 
+**WARNING:** If you do not enter any arguments, the program will run with the Corpus folder by default.
 
 ## Help
 
