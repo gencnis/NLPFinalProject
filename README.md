@@ -4,7 +4,7 @@ Unsupervised Document Summarization of a Video Game Wiki System
 
 ## Description
 
-Topic specific, extractive unsupervised document summarization of a video game (Stardew Valley) wiki website, using TextRank Algorithm and Rouge-2 Score evaluation. (More detail)
+Topic specific, extractive unsupervised document summarization of a video game (Stardew Valley) wiki website, using TextRank Algorithm and Rouge-2 Score evaluation.
 
 ## Getting Started
 
