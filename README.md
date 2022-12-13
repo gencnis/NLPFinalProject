@@ -35,6 +35,10 @@ Here is what you need to do know about the files in the project before you start
 * **Preprocessing.py** will be used in TextRank to preprocess the data.
 * **Rouge2.py** will be used in TextRank to evaluate the sentence scores.
 * **DatasetAnalysis.py** is to analyze your dataset after you create it. It is optional to use.
+If you want to analyze your dataset, you can use this code snippet in your terminal:
+```
+python3 DatasetAnalysis.py
+```
 * **DistrubuteData.py** is designed to distrubute the dataset for neural network into Training Set and Test Set folders. It is not recommended to use at this step of the project, it will be compatible with future versions.
 * **Corpus folder** is where your dataset will be created after you run the CreateCorpus, it extracts 1400 .txt files from the Stardew Valley Wiki.
 * **data folder** is where GloVe data will be stored.
