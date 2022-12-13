@@ -56,7 +56,7 @@ python3 TextRank.py TestData
 ```
 * Or you can chose to run the program with Corpus, in this case your command should look like this:
 ```
-python3 TextRank.py TestData
+python3 TextRank.py Corpus
 ```
 
 **WARNING:** If you do not enter any arguments, the program will run with the Corpus folder by default.
