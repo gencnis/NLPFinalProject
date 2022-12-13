@@ -11,7 +11,7 @@ Topic specific, extractive unsupervised document summarization of a video game (
 ### Dependencies
 
 * NLTK: The Natural Language Toolkit, or more commonly NLTK, is a suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English written in the Python programming language. You will need NLTK downloaded in your computer to be able to run TextRank algorithm. [This might help for downloading it.](https://www.nltk.org/install.html)
-* WHAT ELSE?
+* matplotlib.pyplot: matplotlib.pyplot is a collection of functions that make matplotlib work like MATLAB.  You will need matplotlib.pyplot downloaded in your computer to be able to run the analysis code. [This might help for downloading it.](https://matplotlib.org/stable/users/installing/index.html)
 
 ### Installing
 
