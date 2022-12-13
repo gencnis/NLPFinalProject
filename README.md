@@ -38,8 +38,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. [Nisanur Genc](https://github.com/gencnis) 
-ex. [Alex Wills](https://github.com/AlexWills37)
+* [Nisanur Genc](https://github.com/gencnis) 
+* [Alex Wills](https://github.com/AlexWills37)
 
 ## License
 
